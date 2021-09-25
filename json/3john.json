@@ -81,14 +81,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "I wrote to the assembly, but Diotrephes, who loves to be first among them, doesn’t accept what we say.  "
+		"value": "I wrote to the assembly, but Diotrephes, who loves to be first amongst them, doesn’t accept what we say.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Therefore if I come, I will call attention to his deeds which he does, unjustly accusing us with wicked words. Not content with this, neither does he himself receive the brothers, and those who would, he forbids and throws out of the assembly.  "
+		"value": "Therefore, if I come, I will call attention to his deeds which he does, unjustly accusing us with wicked words. Not content with this, he doesn’t receive the brothers himself, and those who would, he forbids and throws out of the assembly. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -122,7 +128,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "but I hope to see you soon. Then we will speak face to face. Peace be to you. The friends greet you. Greet the friends by name. "
+		"value": "but I hope to see you soon. Then we will speak face to face. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 14,
+		"sectionNumber": 2,
+		"value": "Peace be to you. The friends greet you. Greet the friends by name. "
 	},
 	{
 		"type": "paragraph end"

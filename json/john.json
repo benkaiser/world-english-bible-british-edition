@@ -35,14 +35,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "The light shines in the darkness, and the darkness hasn’t overcome  it.  "
+		"value": "The light shines in the darkness, and the darkness hasn’t overcome it. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "There came a man, sent from God, whose name was John.  "
+		"value": "There came a man sent from God, whose name was John.  "
 	},
 	{
 		"type": "paragraph text",
@@ -76,7 +82,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "He was in the world, and the world was made through him, and the world didn’t recognize him.  "
+		"value": "He was in the world, and the world was made through him, and the world didn’t recognise him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -97,14 +103,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "who were born not of blood, nor of the will of the flesh, nor of the will of man, but of God.  "
+		"value": "who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "The Word became flesh, and lived among us. We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth.  "
+		"value": "The Word became flesh and lived amongst us. We saw his glory, such glory as of the only born Son of the Father, full of grace and truth.  "
 	},
 	{
 		"type": "paragraph text",
@@ -125,14 +137,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "For the law was given through Moses. Grace and truth were realized through Jesus Christ.  "
+		"value": "For the law was given through Moses. Grace and truth were realised through Jesus Christ.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "No one has seen God at any time. The one and only Son, who is in the bosom of the Father, has declared him. "
+		"value": "No one has seen God at any time. The only born Son, who is in the bosom of the Father, has declared him. "
 	},
 	{
 		"type": "paragraph end"
@@ -256,7 +268,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "They asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the prophet?” "
+		"value": "They asked him, “Why then do you baptise if you are not the Christ, nor Elijah, nor the prophet?” "
 	},
 	{
 		"type": "paragraph end"
@@ -269,7 +281,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "John answered them, “I baptize in water, but among you stands one whom you don’t know.  "
+		"value": "John answered them, “I baptise in water, but amongst you stands one whom you don’t know.  "
 	},
 	{
 		"type": "paragraph text",
@@ -283,7 +295,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "These things were done in Bethany beyond the Jordan, where John was baptizing. "
+		"value": "These things were done in Bethany beyond the Jordan, where John was baptising. "
 	},
 	{
 		"type": "paragraph end"
@@ -310,7 +322,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "I didn’t know him, but for this reason I came baptizing in water: that he would be revealed to Israel.”  "
+		"value": "I didn’t know him, but for this reason I came baptising in water, that he would be revealed to Israel.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -324,14 +336,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "I didn’t recognize him, but he who sent me to baptize in water said to me, ‘On whomever you will see the Spirit descending and remaining on him is he who baptizes in the Holy Spirit.’  "
+		"value": "I didn’t recognise him, but he who sent me to baptise in water said to me, ‘On whomever you will see the Spirit descending and remaining on him is he who baptises in the Holy Spirit.’  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "I have seen, and have testified that this is the Son of God.” "
+		"value": "I have seen and have testified that this is the Son of God.” "
 	},
 	{
 		"type": "paragraph end"
@@ -391,7 +403,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "He said to them, “Come, and see.” "
+		"value": "He said to them, “Come and see.” "
 	},
 	{
 		"type": "paragraph end"
@@ -425,7 +437,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "He brought him to Jesus. Jesus looked at him, and said, “You are Simon the son of Jonah. You shall be called Cephas” (which is by interpretation, Peter).  "
+		"value": "He brought him to Jesus. Jesus looked at him and said, “You are Simon the son of Jonah. You shall be called Cephas” (which is by interpretation, Peter). "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -439,14 +457,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": "Now Philip was from Bethsaida, of the city of Andrew and Peter.  "
+		"value": "Now Philip was from Bethsaida, the city of Andrew and Peter.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 45,
 		"sectionNumber": 1,
-		"value": "Philip found Nathanael, and said to him, “We have found him, of whom Moses in the law, and the prophets, wrote: Jesus of Nazareth, the son of Joseph.” "
+		"value": "Philip found Nathanael, and said to him, “We have found him of whom Moses in the law and also the prophets, wrote: Jesus of Nazareth, the son of Joseph.” "
 	},
 	{
 		"type": "paragraph end"
@@ -597,7 +615,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "His mother said to the servants, “Whatever he says to you, do it.”  "
+		"value": "His mother said to the servants, “Whatever he says to you, do it.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -652,7 +676,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "After this, he went down to Capernaum, he, and his mother, his brothers, and his disciples; and they stayed there a few days.  "
+		"value": "After this, he went down to Capernaum, he, and his mother, his brothers, and his disciples; and they stayed there a few days. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -673,7 +703,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "He made a whip of cords, and threw all out of the temple, both the sheep and the oxen; and he poured out the changers’ money and overthrew their tables.  "
+		"value": "He made a whip of cords and drove all out of the temple, both the sheep and the oxen; and he poured out the changers’ money and overthrew their tables.  "
 	},
 	{
 		"type": "paragraph text",
@@ -740,7 +770,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture, and the word which Jesus had said. "
+		"value": "When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture and the word which Jesus had said. "
 	},
 	{
 		"type": "paragraph end"
@@ -787,7 +817,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.” "
+		"value": "He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -800,7 +830,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Jesus answered him, “Most certainly, I tell you, unless one is born anew,  he can’t see God’s Kingdom.” "
+		"value": "Jesus answered him, “Most certainly I tell you, unless one is born anew,  he can’t see God’s Kingdom.” "
 	},
 	{
 		"type": "paragraph end"
@@ -813,7 +843,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?” "
+		"value": "Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb and be born?” "
 	},
 	{
 		"type": "paragraph end"
@@ -826,7 +856,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Jesus answered, “Most certainly I tell you, unless one is born of water and spirit, he can’t enter into God’s Kingdom.  "
+		"value": "Jesus answered, “Most certainly I tell you, unless one is born of water and Spirit, he can’t enter into God’s Kingdom.  "
 	},
 	{
 		"type": "paragraph text",
@@ -880,7 +910,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": " Most certainly I tell you, we speak that which we know, and testify of that which we have seen, and you don’t receive our witness.   "
+		"value": " Most certainly I tell you, we speak that which we know and testify of that which we have seen, and you don’t receive our witness.   "
 	},
 	{
 		"type": "paragraph text",
@@ -915,7 +945,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.   "
+		"value": " For God so loved the world, that he gave his only born Son, that whoever believes in him should not perish, but have eternal life.   "
 	},
 	{
 		"type": "paragraph text",
@@ -929,21 +959,21 @@
 		"chapterNumber": 3,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": " He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.   "
+		"value": " He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": " This is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.   "
+		"value": " This is the judgement, that the light has come into the world, and men loved the darkness rather than the light, for their works were evil.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": " For everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.   "
+		"value": " For everyone who does evil hates the light and doesn’t come to the light, lest his works would be exposed.   "
 	},
 	{
 		"type": "paragraph text",
@@ -963,14 +993,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them and baptized.  "
+		"value": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them and baptised.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized;  "
+		"value": "John also was baptising in Enon near Salim, because there was much water there. They came and were baptised;  "
 	},
 	{
 		"type": "paragraph text",
@@ -991,7 +1021,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "They came to John and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, he baptizes, and everyone is coming to him.” "
+		"value": "They came to John and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, he baptises, and everyone is coming to him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1018,21 +1048,27 @@
 		"chapterNumber": 3,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.  "
+		"value": "He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. Therefore my joy is made full.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "He must increase, but I must decrease.  "
+		"value": "He must increase, but I must decrease. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "He who comes from above is above all. He who is from the earth belongs to the earth and speaks of the earth. He who comes from heaven is above all.  "
+		"value": "“He who comes from above is above all. He who is from the earth belongs to the earth and speaks of the earth. He who comes from heaven is above all.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1067,7 +1103,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "One who believes in the Son has eternal life, but one who disobeys  the Son won’t see life, but the wrath of God remains on him.” "
+		"value": "One who believes in the Son has eternal life, but one who disobeys the Son won’t see life, but the wrath of God remains on him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1080,14 +1116,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John  "
+		"value": "Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptising more disciples than John  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "(although Jesus himself didn’t baptize, but his disciples),  "
+		"value": "(although Jesus himself didn’t baptise, but his disciples),  "
 	},
 	{
 		"type": "paragraph text",
@@ -1108,14 +1144,20 @@
 		"chapterNumber": 4,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "So he came to a city of Samaria, called Sychar, near the parcel of ground that Jacob gave to his son, Joseph.  "
+		"value": "So he came to a city of Samaria called Sychar, near the parcel of ground that Jacob gave to his son Joseph.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Jacob’s well was there. Jesus therefore, being tired from his journey, sat down by the well. It was about the sixth hour.  "
+		"value": "Jacob’s well was there. Jesus therefore, being tired from his journey, sat down by the well. It was about the sixth hour. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1175,7 +1217,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Are you greater than our father, Jacob, who gave us the well and drank from it himself, as did his children and his livestock?” "
+		"value": "Are you greater than our father Jacob, who gave us the well and drank from it himself, as did his children and his livestock?” "
 	},
 	{
 		"type": "paragraph end"
@@ -1274,7 +1316,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Our fathers worshiped in this mountain, and you Jews say that in Jerusalem is the place where people ought to worship.” "
+		"value": "Our fathers worshipped in this mountain, and you Jews say that in Jerusalem is the place where people ought to worship.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1287,7 +1329,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Jesus said to her, “Woman, believe me, the hour comes, when neither in this mountain, nor in Jerusalem, will you worship the Father.   "
+		"value": "Jesus said to her, “Woman, believe me, the hour is coming when neither in this mountain nor in Jerusalem will you worship the Father.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1301,7 +1343,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": " But the hour comes, and now is, when the true worshipers will worship the Father in spirit and truth, for the Father seeks such to be his worshipers.   "
+		"value": " But the hour comes, and now is, when the true worshippers will worship the Father in spirit and truth, for the Father seeks such to be his worshippers.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1321,7 +1363,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "The woman said to him, “I know that Messiah comes, he who is called Christ. When he has come, he will declare to us all things.” "
+		"value": "The woman said to him, “I know that Messiah is coming, he who is called Christ. When he has come, he will declare to us all things.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1334,14 +1376,20 @@
 		"chapterNumber": 4,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "Jesus said to her, “I am he, the one who speaks to you.”  "
+		"value": "Jesus said to her, “I am he, the one who speaks to you.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "At this, his disciples came. They marveled that he was speaking with a woman; yet no one said, “What are you looking for?” or, “Why do you speak with her?”  "
+		"value": "Just then, his disciples came. They marvelled that he was speaking with a woman; yet no one said, “What are you looking for?” or, “Why do you speak with her?”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1355,20 +1403,20 @@
 		"chapterNumber": 4,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "“Come, see a man who told me everything that I did. Can this be the Christ?” "
-	},
-	{
-		"type": "paragraph end"
-	},
-	{
-		"type": "paragraph start"
+		"value": "“Come, see a man who told me everything that I have done. Can this be the Christ?”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "They went out of the city, and were coming to him.  "
+		"value": "They went out of the city, and were coming to him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1428,7 +1476,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": " He who reaps receives wages and gathers fruit to eternal life; that both he who sows and he who reaps may rejoice together.   "
+		"value": " He who reaps receives wages and gathers fruit to eternal life, that both he who sows and he who reaps may rejoice together.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1442,7 +1490,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": " I sent you to reap that for which you haven’t labored. Others have labored, and you have entered into their labor.” "
+		"value": " I sent you to reap that for which you haven’t laboured. Others have laboured, and you have entered into their labour.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1455,7 +1503,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "From that city many of the Samaritans believed in him because of the word of the woman, who testified, “He told me everything that I did.”  "
+		"value": "From that city many of the Samaritans believed in him because of the word of the woman, who testified, “He told me everything that I have done.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1476,7 +1524,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "They said to the woman, “Now we believe, not because of your speaking; for we have heard for ourselves, and know that this is indeed the Christ, the Savior of the world.” "
+		"value": "They said to the woman, “Now we believe, not because of your speaking; for we have heard for ourselves, and know that this is indeed the Christ, the Saviour of the world.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1496,7 +1544,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": "For Jesus himself testified that a prophet has no honor in his own country.  "
+		"value": "For Jesus himself testified that a prophet has no honour in his own country.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1517,7 +1565,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": "When he heard that Jesus had come out of Judea into Galilee, he went to him, and begged him that he would come down and heal his son, for he was at the point of death.  "
+		"value": "When he heard that Jesus had come out of Judea into Galilee, he went to him and begged him that he would come down and heal his son, for he was at the point of death.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1537,7 +1585,13 @@
 		"chapterNumber": 4,
 		"verseNumber": 49,
 		"sectionNumber": 1,
-		"value": "The nobleman said to him, “Sir, come down before my child dies.”  "
+		"value": "The nobleman said to him, “Sir, come down before my child dies.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1551,14 +1605,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 51,
 		"sectionNumber": 1,
-		"value": "As he was now going down, his servants met him and reported, saying “Your child lives!”  "
+		"value": "As he was going down, his servants met him and reported, saying “Your child lives!”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 52,
 		"sectionNumber": 1,
-		"value": "So he inquired of them the hour when he began to get better. They said therefore to him, “Yesterday at the seventh hour, the fever left him.”  "
+		"value": "So he enquired of them the hour when he began to get better. They said therefore to him, “Yesterday at the seventh hour, the fever left him.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1599,7 +1653,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "In these lay a great multitude of those who were sick, blind, lame, or paralyzed, waiting for the moving of the water;  "
+		"value": "In these lay a great multitude of those who were sick, blind, lame, or paralysed, waiting for the moving of the water;  "
 	},
 	{
 		"type": "paragraph text",
@@ -1672,7 +1726,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "Now it was the Sabbath on that day.  "
+		"value": "Now that day was a Sabbath.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1731,7 +1785,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Afterward Jesus found him in the temple, and said to him, “Behold, you are made well. Sin no more, so that nothing worse happens to you.”  "
+		"value": "Afterward Jesus found him in the temple and said to him, “Behold, you are made well. Sin no more, so that nothing worse happens to you.”  "
 	},
 	{
 		"type": "paragraph end"
@@ -1751,14 +1805,20 @@
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "For this cause the Jews persecuted Jesus, and sought to kill him, because he did these things on the Sabbath.  "
+		"value": "For this cause the Jews persecuted Jesus and sought to kill him, because he did these things on the Sabbath.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "But Jesus answered them, “My Father is still working, so I am working, too.”  "
+		"value": "But Jesus answered them, “My Father is still working, so I am working, too.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1793,14 +1853,14 @@
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": " For the Father judges no one, but he has given all judgment to the Son,   "
+		"value": " For the Father judges no one, but he has given all judgement to the Son,   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": " that all may honor the Son, even as they honor the Father. He who doesn’t honor the Son doesn’t honor the Father who sent him. "
+		"value": " that all may honour the Son, even as they honour the Father. He who doesn’t honour the Son doesn’t honour the Father who sent him. "
 	},
 	{
 		"type": "paragraph end"
@@ -1813,7 +1873,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": " “Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life.   "
+		"value": " “Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgement, but has passed out of death into life.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1834,28 +1894,28 @@
 		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": " He also gave him authority to execute judgment, because he is a son of man.   "
+		"value": " He also gave him authority to execute judgement, because he is a son of man.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": " Don’t marvel at this, for the hour comes in which all who are in the tombs will hear his voice,   "
+		"value": " Don’t marvel at this, for the hour comes in which all who are in the tombs will hear his voice   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": " and will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment.   "
+		"value": " and will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgement.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": " I can of myself do nothing. As I hear, I judge, and my judgment is righteous; because I don’t seek my own will, but the will of my Father who sent me. "
+		"value": " I can of myself do nothing. As I hear, I judge; and my judgement is righteous, because I don’t seek my own will, but the will of my Father who sent me. "
 	},
 	{
 		"type": "paragraph end"
@@ -1903,7 +1963,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": " But the testimony which I have is greater than that of John, for the works which the Father gave me to accomplish, the very works that I do, testify about me, that the Father has sent me.   "
+		"value": " But the testimony which I have is greater than that of John; for the works which the Father gave me to accomplish, the very works that I do, testify about me, that the Father has sent me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -2033,7 +2093,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Jesus therefore lifting up his eyes, and seeing that a great multitude was coming to him, said to Philip, “Where are we to buy bread, that these may eat?”  "
+		"value": "Jesus therefore, lifting up his eyes and seeing that a great multitude was coming to him, said to Philip, “Where are we to buy bread, that these may eat?”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2073,7 +2133,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "“There is a boy here who has five barley loaves and two fish, but what are these among so many?” "
+		"value": "“There is a boy here who has five barley loaves and two fish, but what are these amongst so many?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2093,7 +2153,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Jesus took the loaves; and having given thanks, he distributed to the disciples, and the disciples to those who were sitting down; likewise also of the fish as much as they desired.  "
+		"value": "Jesus took the loaves, and having given thanks, he distributed to the disciples, and the disciples to those who were sitting down, likewise also of the fish as much as they desired.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2155,7 +2215,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "When therefore they had rowed about twenty-five or thirty stadia,  they saw Jesus walking on the sea, and drawing near to the boat; and they were afraid.  "
+		"value": "When therefore they had rowed about twenty-five or thirty stadia, they saw Jesus walking on the sea and drawing near to the boat; and they were afraid.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2189,14 +2249,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "However boats from Tiberias came near to the place where they ate the bread after the Lord had given thanks.  "
+		"value": "However, boats from Tiberias came near to the place where they ate the bread after the Lord had given thanks.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "When the multitude therefore saw that Jesus wasn’t there, nor his disciples, they themselves got into the boats, and came to Capernaum, seeking Jesus.  "
+		"value": "When the multitude therefore saw that Jesus wasn’t there, nor his disciples, they themselves got into the boats and came to Capernaum, seeking Jesus.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2216,7 +2276,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "Jesus answered them, “Most certainly I tell you, you seek me, not because you saw signs, but because you ate of the loaves, and were filled.   "
+		"value": "Jesus answered them, “Most certainly I tell you, you seek me, not because you saw signs, but because you ate of the loaves and were filled.   "
 	},
 	{
 		"type": "paragraph text",
@@ -2289,7 +2349,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": " For the bread of God is that which comes down out of heaven, and gives life to the world.” "
+		"value": " For the bread of God is that which comes down out of heaven and gives life to the world.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2350,7 +2410,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": " This is the will of the one who sent me, that everyone who sees the Son, and believes in him, should have eternal life; and I will raise him up at the last day.” "
+		"value": " This is the will of the one who sent me, that everyone who sees the Son and believes in him should have eternal life; and I will raise him up at the last day.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2383,21 +2443,21 @@
 		"chapterNumber": 6,
 		"verseNumber": 43,
 		"sectionNumber": 1,
-		"value": "Therefore Jesus answered them, “Don’t murmur among yourselves.   "
+		"value": "Therefore Jesus answered them, “Don’t murmur amongst yourselves.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": " No one can come to me unless the Father who sent me draws him, and I will raise him up in the last day.   "
+		"value": " No one can come to me unless the Father who sent me draws him; and I will raise him up in the last day.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 45,
 		"sectionNumber": 1,
-		"value": " It is written in the prophets, ‘They will all be taught by God.’   Therefore everyone who hears from the Father and has learned, comes to me.   "
+		"value": " It is written in the prophets, ‘They will all be taught by God.’   Therefore everyone who hears from the Father and has learnt, comes to me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -2493,14 +2553,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 57,
 		"sectionNumber": 1,
-		"value": " As the living Father sent me, and I live because of the Father; so he who feeds on me, he will also live because of me.   "
+		"value": " As the living Father sent me, and I live because of the Father, so he who feeds on me will also live because of me.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 58,
 		"sectionNumber": 1,
-		"value": " This is the bread which came down out of heaven—not as our fathers ate the manna, and died. He who eats this bread will live forever.”  "
+		"value": " This is the bread which came down out of heaven—not as our fathers ate the manna and died. He who eats this bread will live forever.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2574,7 +2634,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 66,
 		"sectionNumber": 1,
-		"value": "At this, many of his disciples went back, and walked no more with him.  "
+		"value": "At this, many of his disciples went back and walked no more with him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2723,7 +2783,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "There was much murmuring among the multitudes concerning him. Some said, “He is a good man.” Others said, “Not so, but he leads the multitude astray.”  "
+		"value": "There was much murmuring amongst the multitudes concerning him. Some said, “He is a good man.” Others said, “Not so, but he leads the multitude astray.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2744,7 +2804,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "The Jews therefore marveled, saying, “How does this man know letters, having never been educated?” "
+		"value": "The Jews therefore marvelled, saying, “How does this man know letters, having never been educated?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2764,7 +2824,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": " If anyone desires to do his will, he will know about the teaching, whether it is from God, or if I am speaking from myself.   "
+		"value": " If anyone desires to do his will, he will know about the teaching, whether it is from God or if I am speaking from myself.   "
 	},
 	{
 		"type": "paragraph text",
@@ -2818,14 +2878,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": " If a boy receives circumcision on the Sabbath, that the law of Moses may not be broken, are you angry with me, because I made a man completely healthy on the Sabbath?   "
+		"value": " If a boy receives circumcision on the Sabbath, that the law of Moses may not be broken, are you angry with me because I made a man completely healthy on the Sabbath?   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": " Don’t judge according to appearance, but judge righteous judgment.”  "
+		"value": " Don’t judge according to appearance, but judge righteous judgement.”  "
 	},
 	{
 		"type": "paragraph end"
@@ -2852,7 +2912,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "However we know where this man comes from, but when the Christ comes, no one will know where he comes from.” "
+		"value": "However, we know where this man comes from, but when the Christ comes, no one will know where he comes from.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2919,7 +2979,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": " You will seek me, and won’t find me. You can’t come where I am.” "
+		"value": " You will seek me and won’t find me. You can’t come where I am.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2932,7 +2992,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "The Jews therefore said among themselves, “Where will this man go that we won’t find him? Will he go to the Dispersion among the Greeks, and teach the Greeks?  "
+		"value": "The Jews therefore said amongst themselves, “Where will this man go that we won’t find him? Will he go to the Dispersion amongst the Greeks and teach the Greeks?  "
 	},
 	{
 		"type": "paragraph text",
@@ -3014,7 +3074,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 45,
 		"sectionNumber": 1,
-		"value": "The officers therefore came to the chief priests and Pharisees, and they said to them, “Why didn’t you bring him?” "
+		"value": "The officers therefore came to the chief priests and Pharisees; and they said to them, “Why didn’t you bring him?” "
 	},
 	{
 		"type": "paragraph end"
@@ -3047,7 +3107,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 48,
 		"sectionNumber": 1,
-		"value": "Have any of the rulers believed in him, or of the Pharisees?  "
+		"value": "Have any of the rulers or any of the Pharisees believed in him?  "
 	},
 	{
 		"type": "paragraph text",
@@ -3074,7 +3134,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 51,
 		"sectionNumber": 1,
-		"value": "“Does our law judge a man, unless it first hears from him personally and knows what he does?” "
+		"value": "“Does our law judge a man unless it first hears from him personally and knows what he does?” "
 	},
 	{
 		"type": "paragraph end"
@@ -3087,7 +3147,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 52,
 		"sectionNumber": 1,
-		"value": "They answered him, “Are you also from Galilee? Search, and see that no prophet has arisen out of Galilee.” "
+		"value": "They answered him, “Are you also from Galilee? Search and see that no prophet has arisen out of Galilee.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3107,7 +3167,13 @@
 		"chapterNumber": 8,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "but Jesus went to the Mount of Olives.  "
+		"value": "but Jesus went to the Mount of Olives. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3162,7 +3228,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But when they continued asking him, he looked up and said to them, “He who is without sin among you, let him throw the first stone at her.”   "
+		"value": "But when they continued asking him, he looked up and said to them, “He who is without sin amongst you, let him throw the first stone at her.”   "
 	},
 	{
 		"type": "paragraph text",
@@ -3268,7 +3334,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " Even if I do judge, my judgment is true, for I am not alone, but I am with the Father who sent me.   "
+		"value": " Even if I do judge, my judgement is true, for I am not alone, but I am with the Father who sent me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3388,7 +3454,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": " I have many things to speak and to judge concerning you. However he who sent me is true; and the things which I heard from him, these I say to the world.” "
+		"value": " I have many things to speak and to judge concerning you. However, he who sent me is true; and the things which I heard from him, these I say to the world.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3576,7 +3642,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": " You are of your father, the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies.   "
+		"value": " You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3623,7 +3689,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 49,
 		"sectionNumber": 1,
-		"value": "Jesus answered, “I don’t have a demon, but I honor my Father and you dishonor me.   "
+		"value": "Jesus answered, “I don’t have a demon, but I honour my Father and you dishonour me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3657,7 +3723,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 53,
 		"sectionNumber": 1,
-		"value": "Are you greater than our father, Abraham, who died? The prophets died. Who do you make yourself out to be?” "
+		"value": "Are you greater than our father Abraham, who died? The prophets died. Who do you make yourself out to be?” "
 	},
 	{
 		"type": "paragraph end"
@@ -3684,7 +3750,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 56,
 		"sectionNumber": 1,
-		"value": " Your father Abraham rejoiced to see my day. He saw it, and was glad.” "
+		"value": " Your father Abraham rejoiced to see my day. He saw it and was glad.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3723,7 +3789,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 59,
 		"sectionNumber": 1,
-		"value": "Therefore they took up stones to throw at him, but Jesus was hidden, and went out of the temple, having gone through the middle of them, and so passed by. "
+		"value": "Therefore they took up stones to throw at him, but Jesus hid himself and went out of the temple, having gone through the middle of them, and so passed by. "
 	},
 	{
 		"type": "paragraph end"
@@ -3756,7 +3822,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Jesus answered, “This man didn’t sin, nor did his parents; but, that the works of God might be revealed in him.   "
+		"value": "Jesus answered, “This man didn’t sin, nor did his parents, but that the works of God might be revealed in him.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3784,14 +3850,20 @@
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "and said to him, “Go, wash in the pool of Siloam” (which means “Sent”). So he went away, washed, and came back seeing.  "
+		"value": "and said to him, “Go, wash in the pool of Siloam” (which means “Sent”). So he went away, washed, and came back seeing. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "The neighbors therefore, and those who saw that he was blind before, said, “Isn’t this he who sat and begged?”  "
+		"value": "Therefore the neighbours and those who saw that he was blind before said, “Isn’t this he who sat and begged?”  "
 	},
 	{
 		"type": "paragraph text",
@@ -3811,7 +3883,13 @@
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "He said, “I am he.”  "
+		"value": "He said, “I am he.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3897,7 +3975,26 @@
 		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Some therefore of the Pharisees said, “This man is not from God, because he doesn’t keep the Sabbath.” Others said, “How can a man who is a sinner do such signs?” There was division among them.  "
+		"value": "Some therefore of the Pharisees said, “This man is not from God, because he doesn’t keep the Sabbath.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"value": "Others said, “How can a man who is a sinner do such signs?” So there was division amongst them. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3930,7 +4027,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "The Jews therefore didn’t believe concerning him, that he had been blind, and had received his sight, until they called the parents of him who had received his sight,  "
+		"value": "The Jews therefore didn’t believe concerning him, that he had been blind and had received his sight, until they called the parents of him who had received his sight,  "
 	},
 	{
 		"type": "paragraph text",
@@ -4063,7 +4160,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "We know that God doesn’t listen to sinners, but if anyone is a worshiper of God, and does his will, he listens to him.  "
+		"value": "We know that God doesn’t listen to sinners, but if anyone is a worshipper of God and does his will, he listens to him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4142,7 +4239,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "He said, “Lord, I believe!” and he worshiped him. "
+		"value": "He said, “Lord, I believe!” and he worshipped him. "
 	},
 	{
 		"type": "paragraph end"
@@ -4155,7 +4252,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "Jesus said, “I came into this world for judgment, that those who don’t see may see; and that those who see may become blind.” "
+		"value": "Jesus said, “I came into this world for judgement, that those who don’t see may see; and that those who see may become blind.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4208,14 +4305,14 @@
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": " The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name, and leads them out.   "
+		"value": " The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": " Whenever he brings out his own sheep, he goes before them, and the sheep follow him, for they know his voice.   "
+		"value": " Whenever he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice.   "
 	},
 	{
 		"type": "paragraph text",
@@ -4256,35 +4353,41 @@
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": " I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture.   "
+		"value": " I am the door. If anyone enters in by me, he will be saved, and will go in and go out and will find pasture.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": " The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly.   "
+		"value": " The thief only comes to steal, kill, and destroy. I came that they may have life, and may have it abundantly.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": " I am the good shepherd. The good shepherd lays down his life for the sheep.   "
+		"value": " “I am the good shepherd. The good shepherd lays down his life for the sheep.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": " He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep, and scatters them.   "
+		"value": " He who is a hired hand, and not a shepherd, who doesn’t own the sheep, sees the wolf coming, leaves the sheep, and flees. The wolf snatches the sheep and scatters them.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": " The hired hand flees because he is a hired hand, and doesn’t care for the sheep.   "
+		"value": " The hired hand flees because he is a hired hand and doesn’t care for the sheep.   "
 	},
 	{
 		"type": "paragraph text",
@@ -4305,7 +4408,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " I have other sheep, which are not of this fold. I must bring them also, and they will hear my voice. They will become one flock with one shepherd.   "
+		"value": " I have other sheep which are not of this fold. I must bring them also, and they will hear my voice. They will become one flock with one shepherd.   "
 	},
 	{
 		"type": "paragraph text",
@@ -4332,14 +4435,14 @@
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Therefore a division arose again among the Jews because of these words.  "
+		"value": "Therefore a division arose again amongst the Jews because of these words.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Many of them said, “He has a demon, and is insane! Why do you listen to him?”  "
+		"value": "Many of them said, “He has a demon and is insane! Why do you listen to him?”  "
 	},
 	{
 		"type": "paragraph text",
@@ -4434,7 +4537,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Therefore Jews took up stones again to stone him.  "
+		"value": "Therefore the Jews took up stones again to stone him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4454,7 +4557,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "The Jews answered him, “We don’t stone you for a good work, but for blasphemy: because you, being a man, make yourself God.” "
+		"value": "The Jews answered him, “We don’t stone you for a good work, but for blasphemy, because you, being a man, make yourself God.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4515,7 +4618,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "He went away again beyond the Jordan into the place where John was baptizing at first, and he stayed there.  "
+		"value": "He went away again beyond the Jordan into the place where John was baptising at first, and he stayed there.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4549,14 +4652,20 @@
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother, Lazarus, was sick.  "
+		"value": "It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”  "
+		"value": "The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -4624,7 +4733,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "He said these things, and after that, he said to them, “Our friend, Lazarus, has fallen asleep, but I am going so that I may awake him out of sleep.” "
+		"value": "He said these things, and after that, he said to them, “Our friend Lazarus has fallen asleep, but I am going so that I may awake him out of sleep.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4677,7 +4786,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Thomas therefore, who is called Didymus, said to his fellow disciples, “Let’s go also, that we may die with him.” "
+		"value": "Thomas therefore, who is called Didymus, said to his fellow disciples, “Let’s also go, that we may die with him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4725,7 +4834,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Even now I know that whatever you ask of God, God will give you.”  "
+		"value": "Even now I know that whatever you ask of God, God will give you.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -4818,7 +4933,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Then the Jews who were with her in the house and were consoling her, when they saw Mary, that she rose up quickly and went out, followed her, saying, “She is going to the tomb to weep there.”  "
+		"value": "Then the Jews who were with her in the house and were consoling her, when they saw Mary, that she rose up quickly and went out, followed her, saying, “She is going to the tomb to weep there.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -4838,7 +4959,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit, and was troubled,  "
+		"value": "When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit and was troubled,  "
 	},
 	{
 		"type": "paragraph text",
@@ -4950,7 +5071,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "So they took away the stone from the place where the dead man was lying. Jesus lifted up his eyes, and said, “Father, I thank you that you listened to me.   "
+		"value": "So they took away the stone from the place where the dead man was lying. Jesus lifted up his eyes and said, “Father, I thank you that you listened to me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -5072,7 +5193,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 54,
 		"sectionNumber": 1,
-		"value": "Jesus therefore walked no more openly among the Jews, but departed from there into the country near the wilderness, to a city called Ephraim. He stayed there with his disciples. "
+		"value": "Jesus therefore walked no more openly amongst the Jews, but departed from there into the country near the wilderness, to a city called Ephraim. He stayed there with his disciples. "
 	},
 	{
 		"type": "paragraph end"
@@ -5112,7 +5233,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Then six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead.  "
+		"value": "Then, six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5126,7 +5247,13 @@
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Therefore Mary took a pound of ointment of pure nard, very precious, and anointed Jesus’s feet and wiped his feet with her hair. The house was filled with the fragrance of the ointment.  "
+		"value": "Therefore Mary took a pound of ointment of pure nard, very precious, and anointed Jesus’s feet and wiped his feet with her hair. The house was filled with the fragrance of the ointment. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5140,14 +5267,20 @@
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "“Why wasn’t this ointment sold for three hundred denarii, and given to the poor?”  "
+		"value": "“Why wasn’t this ointment sold for three hundred denarii and given to the poor?”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Now he said this, not because he cared for the poor, but because he was a thief, and having the money box, used to steal what was put into it.  "
+		"value": "Now he said this, not because he cared for the poor, but because he was a thief, and having the money box, used to steal what was put into it. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5174,7 +5307,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "A large crowd therefore of the Jews learned that he was there, and they came, not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead.  "
+		"value": "A large crowd therefore of the Jews learnt that he was there; and they came, not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5256,7 +5389,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "The Pharisees therefore said among themselves, “See how you accomplish nothing. Behold, the world has gone after him.” "
+		"value": "The Pharisees therefore said amongst themselves, “See how you accomplish nothing. Behold, the world has gone after him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5269,21 +5402,27 @@
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Now there were certain Greeks among those that went up to worship at the feast.  "
+		"value": "Now there were certain Greeks amongst those who went up to worship at the feast.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "These, therefore, came to Philip, who was from Bethsaida of Galilee, and asked him, saying, “Sir, we want to see Jesus.”  "
+		"value": "Therefore, these came to Philip, who was from Bethsaida of Galilee, and asked him, saying, “Sir, we want to see Jesus.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Philip came and told Andrew, and in turn, Andrew came with Philip, and they told Jesus.  "
+		"value": "Philip came and told Andrew, and in turn, Andrew came with Philip, and they told Jesus. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5311,7 +5450,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": " If anyone serves me, let him follow me. Where I am, there my servant will also be. If anyone serves me, the Father will honor him. "
+		"value": " If anyone serves me, let him follow me. Where I am, there my servant will also be. If anyone serves me, the Father will honour him. "
 	},
 	{
 		"type": "paragraph end"
@@ -5344,7 +5483,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 28,
 		"sectionNumber": 2,
-		"value": "Then a voice came out of the sky, saying, “I have both glorified it, and will glorify it again.” "
+		"value": "Then a voice came out of the sky, saying, “I have both glorified it and will glorify it again.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5377,7 +5516,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": " Now is the judgment of this world. Now the prince of this world will be cast out.   "
+		"value": " Now is the judgement of this world. Now the prince of this world will be cast out.   "
 	},
 	{
 		"type": "paragraph text",
@@ -5391,7 +5530,13 @@
 		"chapterNumber": 12,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "But he said this, signifying by what kind of death he should die.  "
+		"value": "But he said this, signifying by what kind of death he should die. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5432,7 +5577,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "that the word of Isaiah the prophet might be fulfilled, which he spoke, "
+		"value": "that the word of Isaiah the prophet might be fulfilled, which he spoke: "
 	},
 	{
 		"type": "paragraph end"
@@ -5471,7 +5616,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "For this cause they couldn’t believe, for Isaiah said again, "
+		"value": "For this cause they couldn’t believe, for Isaiah said again: "
 	},
 	{
 		"type": "paragraph end"
@@ -5554,7 +5699,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "Nevertheless even many of the rulers believed in him, but because of the Pharisees they didn’t confess it, so that they wouldn’t be put out of the synagogue,  "
+		"value": "Nevertheless, even many of the rulers believed in him, but because of the Pharisees they didn’t confess it, so that they wouldn’t be put out of the synagogue,  "
 	},
 	{
 		"type": "paragraph text",
@@ -5595,7 +5740,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": " If anyone listens to my sayings, and doesn’t believe, I don’t judge him. For I came not to judge the world, but to save the world.   "
+		"value": " If anyone listens to my sayings and doesn’t believe, I don’t judge him. For I came not to judge the world, but to save the world.   "
 	},
 	{
 		"type": "paragraph text",
@@ -5609,7 +5754,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 49,
 		"sectionNumber": 1,
-		"value": " For I spoke not from myself, but the Father who sent me, he gave me a commandment, what I should say, and what I should speak.   "
+		"value": " For I spoke not from myself, but the Father who sent me gave me a commandment, what I should say and what I should speak.   "
 	},
 	{
 		"type": "paragraph text",
@@ -5643,7 +5788,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Jesus, knowing that the Father had given all things into his hands, and that he came from God, and was going to God,  "
+		"value": "Jesus, knowing that the Father had given all things into his hands, and that he came from God and was going to God,  "
 	},
 	{
 		"type": "paragraph text",
@@ -5736,7 +5881,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "For he knew him who would betray him, therefore he said, “You are not all clean.”  "
+		"value": "For he knew him who would betray him; therefore he said, “You are not all clean.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -5785,7 +5930,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": " I don’t speak concerning all of you. I know whom I have chosen. But that the Scripture may be fulfilled, ‘He who eats bread with me has lifted up his heel against me.’  "
+		"value": " I don’t speak concerning all of you. I know whom I have chosen; but that the Scripture may be fulfilled, ‘He who eats bread with me has lifted up his heel against me.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -6032,7 +6177,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": " If I go and prepare a place for you, I will come again, and will receive you to myself; that where I am, you may be there also.   "
+		"value": " If I go and prepare a place for you, I will come again and will receive you to myself; that where I am, you may be there also.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6072,7 +6217,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": " If you had known me, you would have known my Father also. From now on, you know him, and have seen him.” "
+		"value": " If you had known me, you would have known my Father also. From now on, you know him and have seen him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6147,14 +6292,14 @@
 		"chapterNumber": 14,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " I will pray to the Father, and he will give you another Counselor,  that he may be with you forever:  "
+		"value": " I will pray to the Father, and he will give you another Counsellor,  that he may be with you forever:  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": " the Spirit of truth, whom the world can’t receive; for it doesn’t see him and doesn’t know him. You know him, for he lives with you, and will be in you.   "
+		"value": " the Spirit of truth, whom the world can’t receive, for it doesn’t see him and doesn’t know him. You know him, for he lives with you and will be in you.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6208,28 +6353,34 @@
 		"chapterNumber": 14,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Jesus answered him, “If a man loves me, he will keep my word. My Father will love him, and we will come to him, and make our home with him.   "
+		"value": "Jesus answered him, “If a man loves me, he will keep my word. My Father will love him, and we will come to him and make our home with him.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": " He who doesn’t love me doesn’t keep my words. The word which you hear isn’t mine, but the Father’s who sent me.   "
+		"value": " He who doesn’t love me doesn’t keep my words. The word which you hear isn’t mine, but the Father’s who sent me.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": " I have said these things to you while still living with you.   "
+		"value": " “I have said these things to you while still living with you.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": " But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things, and will remind you of all that I said to you.   "
+		"value": " But the Counsellor, the Holy Spirit, whom the Father will send in my name, will teach you all things, and will remind you of all that I said to you.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6243,7 +6394,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": " You heard how I told you, ‘I go away, and I come to you.’ If you loved me, you would have rejoiced, because I said ‘I am going to my Father;’ for the Father is greater than I.   "
+		"value": " You heard how I told you, ‘I am going away, and I will come back to you.’ If you loved me, you would have rejoiced because I said ‘I am going to my Father;’ for the Father is greater than I.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6312,7 +6463,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": " If a man doesn’t remain in me, he is thrown out as a branch and is withered; and they gather them, throw them into the fire, and they are burned.   "
+		"value": " If a man doesn’t remain in me, he is thrown out as a branch and is withered; and they gather them, throw them into the fire, and they are burnt.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6346,7 +6497,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": " If you keep my commandments, you will remain in my love; even as I have kept my Father’s commandments, and remain in his love.   "
+		"value": " If you keep my commandments, you will remain in my love, even as I have kept my Father’s commandments and remain in his love.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6380,7 +6531,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": " You are my friends, if you do whatever I command you.   "
+		"value": " You are my friends if you do whatever I command you.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6456,7 +6607,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": " If I hadn’t done among them the works which no one else did, they wouldn’t have had sin. But now they have seen and also hated both me and my Father.   "
+		"value": " If I hadn’t done amongst them the works which no one else did, they wouldn’t have had sin. But now they have seen and also hated both me and my Father.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6476,7 +6627,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": " “When the Counselor has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me.   "
+		"value": " “When the Counsellor has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6503,21 +6654,21 @@
 		"chapterNumber": 16,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": " They will put you out of the synagogues. Yes, the time comes that whoever kills you will think that he offers service to God.   "
+		"value": " They will put you out of the synagogues. Yes, the time is coming that whoever kills you will think that he offers service to God.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": " They will do these things because they have not known the Father, nor me.   "
+		"value": " They will do these things because they have not known the Father nor me.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": " But I have told you these things, so that when the time comes, you may remember that I told you about them. I didn’t tell you these things from the beginning, because I was with you.   "
+		"value": " But I have told you these things so that when the time comes, you may remember that I told you about them. I didn’t tell you these things from the beginning, because I was with you.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6538,14 +6689,14 @@
 		"chapterNumber": 16,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": " Nevertheless I tell you the truth: It is to your advantage that I go away, for if I don’t go away, the Counselor won’t come to you. But if I go, I will send him to you.   "
+		"value": " Nevertheless I tell you the truth: It is to your advantage that I go away; for if I don’t go away, the Counsellor won’t come to you. But if I go, I will send him to you.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": " When he has come, he will convict the world about sin, about righteousness, and about judgment;   "
+		"value": " When he has come, he will convict the world about sin, about righteousness, and about judgement;   "
 	},
 	{
 		"type": "paragraph text",
@@ -6566,7 +6717,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": " about judgment, because the prince of this world has been judged.  "
+		"value": " about judgement, because the prince of this world has been judged.  "
 	},
 	{
 		"type": "paragraph end"
@@ -6586,28 +6737,34 @@
 		"chapterNumber": 16,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": " However when he, the Spirit of truth, has come, he will guide you into all truth, for he will not speak from himself; but whatever he hears, he will speak. He will declare to you things that are coming.   "
+		"value": " However, when he, the Spirit of truth, has come, he will guide you into all truth, for he will not speak from himself; but whatever he hears, he will speak. He will declare to you things that are coming.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": " He will glorify me, for he will take from what is mine, and will declare it to you.   "
+		"value": " He will glorify me, for he will take from what is mine and will declare it to you.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": " All things that the Father has are mine; therefore I said that he takes of mine and will declare it to you.   "
+		"value": " All things that the Father has are mine; therefore I said that he takes of mine and will declare it to you.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " A little while, and you will not see me. Again a little while, and you will see me.” "
+		"value": " “A little while, and you will not see me. Again a little while, and you will see me.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6640,7 +6797,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Therefore Jesus perceived that they wanted to ask him, and he said to them, “Do you inquire among yourselves concerning this, that I said, ‘A little while, and you won’t see me, and again a little while, and you will see me?’   "
+		"value": "Therefore Jesus perceived that they wanted to ask him, and he said to them, “Do you enquire amongst yourselves concerning this, that I said, ‘A little while, and you won’t see me, and again a little while, and you will see me?’   "
 	},
 	{
 		"type": "paragraph text",
@@ -6681,14 +6838,20 @@
 		"chapterNumber": 16,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": " Until now, you have asked nothing in my name. Ask, and you will receive, that your joy may be made full.   "
+		"value": " Until now, you have asked nothing in my name. Ask, and you will receive, that your joy may be made full.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": " I have spoken these things to you in figures of speech. But the time is coming when I will no more speak to you in figures of speech, but will tell you plainly about the Father.   "
+		"value": " “I have spoken these things to you in figures of speech. But the time is coming when I will no more speak to you in figures of speech, but will tell you plainly about the Father.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6709,7 +6872,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": " I came from the Father, and have come into the world. Again, I leave the world, and go to the Father.” "
+		"value": " I came from the Father and have come into the world. Again, I leave the world and go to the Father.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6797,14 +6960,20 @@
 		"chapterNumber": 17,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": " Now, Father, glorify me with your own self with the glory which I had with you before the world existed.   "
+		"value": " Now, Father, glorify me with your own self with the glory which I had with you before the world existed.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": " I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word.   "
+		"value": " “I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6818,7 +6987,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": " for the words which you have given me I have given to them, and they received them, and knew for sure that I came from you. They have believed that you sent me.   "
+		"value": " for the words which you have given me I have given to them; and they received them, and knew for sure that I came from you. They have believed that you sent me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6860,7 +7029,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": " I have given them your word. The world hated them, because they are not of the world, even as I am not of the world.   "
+		"value": " I have given them your word. The world hated them because they are not of the world, even as I am not of the world.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6874,7 +7043,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " They are not of the world even as I am not of the world.   "
+		"value": " They are not of the world, even as I am not of the world.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6895,14 +7064,20 @@
 		"chapterNumber": 17,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": " For their sakes I sanctify myself, that they themselves also may be sanctified in truth.   "
+		"value": " For their sakes I sanctify myself, that they themselves also may be sanctified in truth.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": " Not for these only do I pray, but for those also who will believe in me through their word,   "
+		"value": " “Not for these only do I pray, but for those also who will believe in me through their word,   "
 	},
 	{
 		"type": "paragraph text",
@@ -6916,21 +7091,21 @@
 		"chapterNumber": 17,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": " The glory which you have given me, I have given to them; that they may be one, even as we are one;   "
+		"value": " The glory which you have given me, I have given to them, that they may be one, even as we are one,   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": " I in them, and you in me, that they may be perfected into one; that the world may know that you sent me and loved them, even as you loved me.   "
+		"value": " I in them, and you in me, that they may be perfected into one, that the world may know that you sent me and loved them, even as you loved me.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": " Father, I desire that they also whom you have given me be with me where I am, that they may see my glory, which you have given me, for you loved me before the foundation of the world.   "
+		"value": " Father, I desire that they also whom you have given me be with me where I am, that they may see my glory which you have given me, for you loved me before the foundation of the world.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6978,7 +7153,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Jesus therefore, knowing all the things that were happening to him, went out, and said to them, “Who are you looking for?” "
+		"value": "Jesus therefore, knowing all the things that were happening to him, went out and said to them, “Who are you looking for?” "
 	},
 	{
 		"type": "paragraph end"
@@ -7024,7 +7199,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "When therefore he said to them, “I am he,” they went backward, and fell to the ground. "
+		"value": "When therefore he said to them, “I am he,” they went backward and fell to the ground. "
 	},
 	{
 		"type": "paragraph end"
@@ -7117,7 +7292,13 @@
 		"chapterNumber": 18,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Now it was Caiaphas who advised the Jews that it was expedient that one man should perish for the people.  "
+		"value": "Now it was Caiaphas who advised the Jews that it was expedient that one man should perish for the people. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -7164,21 +7345,33 @@
 		"chapterNumber": 18,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Now the servants and the officers were standing there, having made a fire of coals, for it was cold. They were warming themselves. Peter was with them, standing and warming himself.  "
+		"value": "Now the servants and the officers were standing there, having made a fire of coals, for it was cold. They were warming themselves. Peter was with them, standing and warming himself. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "The high priest therefore asked Jesus about his disciples and about his teaching.  "
+		"value": "The high priest therefore asked Jesus about his disciples and about his teaching. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Jesus answered him, “I spoke openly to the world. I always taught in synagogues, and in the temple, where the Jews always meet. I said nothing in secret.   "
+		"value": "Jesus answered him, “I spoke openly to the world. I always taught in synagogues and in the temple, where the Jews always meet. I said nothing in secret.   "
 	},
 	{
 		"type": "paragraph text",
@@ -7224,7 +7417,13 @@
 		"chapterNumber": 18,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Annas sent him bound to Caiaphas, the high priest.  "
+		"value": "Annas sent him bound to Caiaphas, the high priest. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -7290,7 +7489,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Pilate therefore went out to them, and said, “What accusation do you bring against this man?” "
+		"value": "Pilate therefore went out to them and said, “What accusation do you bring against this man?” "
 	},
 	{
 		"type": "paragraph end"
@@ -7447,7 +7646,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "But you have a custom, that I should release someone to you at the Passover. Therefore, do you want me to release to you the King of the Jews?” "
+		"value": "But you have a custom that I should release someone to you at the Passover. Therefore, do you want me to release to you the King of the Jews?” "
 	},
 	{
 		"type": "paragraph end"
@@ -7473,14 +7672,14 @@
 		"chapterNumber": 19,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "So Pilate then took Jesus, and flogged him.  "
+		"value": "So Pilate then took Jesus and flogged him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The soldiers twisted thorns into a crown, and put it on his head, and dressed him in a purple garment.  "
+		"value": "The soldiers twisted thorns into a crown and put it on his head, and dressed him in a purple garment.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7539,7 +7738,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 6,
 		"sectionNumber": 2,
-		"value": "Pilate said to them, “Take him yourselves, and crucify him, for I find no basis for a charge against him.” "
+		"value": "Pilate said to them, “Take him yourselves and crucify him, for I find no basis for a charge against him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7618,7 +7817,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "When Pilate therefore heard these words, he brought Jesus out and sat down on the judgment seat at a place called “The Pavement”, but in Hebrew, “Gabbatha.”  "
+		"value": "When Pilate therefore heard these words, he brought Jesus out and sat down on the judgement seat at a place called “The Pavement”, but in Hebrew, “Gabbatha.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -7738,7 +7937,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Then the soldiers, when they had crucified Jesus, took his garments and made four parts, to every soldier a part; and also the coat. Now the coat was without seam, woven from the top throughout.  "
+		"value": "Then the soldiers, when they had crucified Jesus, took his garments and made four parts, to every soldier a part; and also the tunic. Now the tunic was without seam, woven from the top throughout.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7758,7 +7957,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 24,
 		"sectionNumber": 2,
-		"value": "“They parted my garments among them. "
+		"value": "“They parted my garments amongst them. "
 	},
 	{
 		"type": "line break"
@@ -7768,7 +7967,17 @@
 		"chapterNumber": 19,
 		"verseNumber": 24,
 		"sectionNumber": 3,
-		"value": "For my cloak they cast lots.” "
+		"value": "They cast lots for my clothing.” "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 19,
+		"verseNumber": 24,
+		"sectionNumber": 4,
+		"value": "Therefore the soldiers did these things. "
 	},
 	{
 		"type": "line break"
@@ -7778,13 +7987,6 @@
 	},
 	{
 		"type": "paragraph start"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 19,
-		"verseNumber": 24,
-		"sectionNumber": 4,
-		"value": "Therefore the soldiers did these things.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7818,7 +8020,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "After this, Jesus, seeing that all things were now finished, that the Scripture might be fulfilled, said, “I am thirsty.”  "
+		"value": "After this, Jesus, seeing that all things were now finished, that the Scripture might be fulfilled, said, “I am thirsty!”  "
 	},
 	{
 		"type": "paragraph text",
@@ -7832,7 +8034,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "When Jesus therefore had received the vinegar, he said, “It is finished.” He bowed his head, and gave up his spirit. "
+		"value": "When Jesus therefore had received the vinegar, he said, “It is finished!” Then he bowed his head and gave up his spirit. "
 	},
 	{
 		"type": "paragraph end"
@@ -7845,28 +8047,28 @@
 		"chapterNumber": 19,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Therefore the Jews, because it was the Preparation Day, so that the bodies wouldn’t remain on the cross on the Sabbath (for that Sabbath was a special one), asked of Pilate that their legs might be broken, and that they might be taken away.  "
+		"value": "Therefore the Jews, because it was the Preparation Day, so that the bodies wouldn’t remain on the cross on the Sabbath (for that Sabbath was a special one), asked of Pilate that their legs might be broken and that they might be taken away.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Therefore the soldiers came, and broke the legs of the first, and of the other who was crucified with him;  "
+		"value": "Therefore the soldiers came and broke the legs of the first and of the other who was crucified with him;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "but when they came to Jesus, and saw that he was already dead, they didn’t break his legs.  "
+		"value": "but when they came to Jesus and saw that he was already dead, they didn’t break his legs.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "However one of the soldiers pierced his side with a spear, and immediately blood and water came out.  "
+		"value": "However, one of the soldiers pierced his side with a spear, and immediately blood and water came out.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7928,7 +8130,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "Then because of the Jews’ Preparation Day (for the tomb was near at hand) they laid Jesus there. "
+		"value": "Then, because of the Jews’ Preparation Day (for the tomb was near at hand), they laid Jesus there. "
 	},
 	{
 		"type": "paragraph end"
@@ -7941,7 +8143,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw the stone taken away from the tomb.  "
+		"value": "Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7961,21 +8163,21 @@
 		"chapterNumber": 20,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Therefore Peter and the other disciple went out, and they went toward the tomb.  "
+		"value": "Therefore Peter and the other disciple went out, and they went towards the tomb.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "They both ran together. The other disciple outran Peter, and came to the tomb first.  "
+		"value": "They both ran together. The other disciple outran Peter and came to the tomb first.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Stooping and looking in, he saw the linen cloths lying, yet he didn’t enter in.  "
+		"value": "Stooping and looking in, he saw the linen cloths lying there; yet he didn’t enter in.  "
 	},
 	{
 		"type": "paragraph text",
@@ -8030,7 +8232,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "and she saw two angels in white sitting, one at the head, and one at the feet, where the body of Jesus had lain.  "
+		"value": "and she saw two angels in white sitting, one at the head and one at the feet, where the body of Jesus had lain.  "
 	},
 	{
 		"type": "paragraph text",
@@ -8142,7 +8344,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle, and said to them, “Peace be to you.” "
+		"value": "When therefore it was evening on that day, the first day of the week, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle and said to them, “Peace be to you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -8222,7 +8424,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "After eight days again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, “Peace be to you.”  "
+		"value": "After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, “Peace be to you.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -8255,7 +8457,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and have believed.” "
+		"value": "Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen and have believed.” "
 	},
 	{
 		"type": "paragraph end"
@@ -8275,7 +8477,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "but these are written, that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name. "
+		"value": "but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name. "
 	},
 	{
 		"type": "paragraph end"
@@ -8315,14 +8517,14 @@
 		"chapterNumber": 21,
 		"verseNumber": 3,
 		"sectionNumber": 2,
-		"value": "They told him, “We are also coming with you.” They immediately went out, and entered into the boat. That night, they caught nothing.  "
+		"value": "They told him, “We are also coming with you.” They immediately went out and entered into the boat. That night, they caught nothing.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "But when day had already come, Jesus stood on the beach, yet the disciples didn’t know that it was Jesus.  "
+		"value": "But when day had already come, Jesus stood on the beach; yet the disciples didn’t know that it was Jesus.  "
 	},
 	{
 		"type": "paragraph text",
@@ -8422,7 +8624,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Simon Peter went up, and drew the net to land, full of one hundred fifty-three great fish. Even though there were so many, the net wasn’t torn. "
+		"value": "Simon Peter went up, and drew the net to land, full of one hundred and fifty-three great fish. Even though there were so many, the net wasn’t torn. "
 	},
 	{
 		"type": "paragraph end"
@@ -8448,7 +8650,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 12,
 		"sectionNumber": 2,
-		"value": "None of the disciples dared inquire of him, “Who are you?” knowing that it was the Lord. "
+		"value": "None of the disciples dared enquire of him, “Who are you?” knowing that it was the Lord. "
 	},
 	{
 		"type": "paragraph end"
@@ -8607,7 +8809,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Peter seeing him, said to Jesus, “Lord, what about this man?” "
+		"value": "Peter, seeing him, said to Jesus, “Lord, what about this man?” "
 	},
 	{
 		"type": "paragraph end"
@@ -8627,7 +8829,13 @@
 		"chapterNumber": 21,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "This saying therefore went out among the brothers, that this disciple wouldn’t die. Yet Jesus didn’t say to him that he wouldn’t die, but, “If I desire that he stay until I come, what is that to you?”  "
+		"value": "This saying therefore went out amongst the brothers that this disciple wouldn’t die. Yet Jesus didn’t say to him that he wouldn’t die, but, “If I desire that he stay until I come, what is that to you?” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",

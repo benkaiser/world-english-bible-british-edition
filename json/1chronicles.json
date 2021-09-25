@@ -28,7 +28,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Noah, Shem, Ham, and Japheth.  "
+		"value": "Noah, Shem, Ham, and Japheth. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -49,7 +55,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.  "
+		"value": "The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -98,7 +110,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "the Jebusite, and the Amorite, the Girgashite,  "
+		"value": "the Jebusite, the Amorite, the Girgashite,  "
 	},
 	{
 		"type": "paragraph text",
@@ -112,7 +124,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "the Arvadite, the Zemarite, and the Hamathite.  "
+		"value": "the Arvadite, the Zemarite, and the Hamathite. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -189,7 +207,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Abram (also called Abraham).  "
+		"value": "Abram (also called Abraham). "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -217,7 +241,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.  "
+		"value": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -231,7 +261,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah.  "
+		"value": "The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -259,7 +295,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.  "
+		"value": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -356,7 +398,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 50,
 		"sectionNumber": 1,
-		"value": "Baal Hanan died, and Hadad reigned in his place; and the name of his city was Pai: and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.  "
+		"value": "Baal Hanan died, and Hadad reigned in his place; and the name of his city was Pai. His wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.  "
 	},
 	{
 		"type": "paragraph text",
@@ -404,21 +446,33 @@
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.  "
+		"value": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "The sons of Judah: Er, Onan, and Shelah; which three were born to him of Shua’s daughter the Canaanitess. Er, Judah’s firstborn, was wicked in Yahweh’s sight; and he killed him.  "
+		"value": "The sons of Judah: Er, Onan, and Shelah, which three were born to him of Shua’s daughter the Canaanitess. Er, Judah’s firstborn, was wicked in the LORD’s sight; and he killed him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Tamar his daughter-in-law bore him Perez and Zerah. All the sons of Judah were five.  "
+		"value": "Tamar his daughter-in-law bore him Perez and Zerah. All the sons of Judah were five. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -432,7 +486,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara; five of them in all.  "
+		"value": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara—five of them in all.  "
 	},
 	{
 		"type": "paragraph text",
@@ -446,7 +500,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "The son of Ethan: Azariah.  "
+		"value": "The son of Ethan: Azariah. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -481,7 +541,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "and Jesse became the father of his firstborn Eliab, and Abinadab the second, and Shimea the third,  "
+		"value": "and Jesse became the father of his firstborn Eliab, Abinadab the second, Shimea the third,  "
 	},
 	{
 		"type": "paragraph text",
@@ -495,7 +555,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Ozem the sixth, David the seventh;  "
+		"value": "Ozem the sixth, and David the seventh;  "
 	},
 	{
 		"type": "paragraph text",
@@ -522,7 +582,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Caleb the son of Hezron became the father of children of Azubah his wife, and of Jerioth; and these were her sons: Jesher, Shobab, and Ardon.  "
+		"value": "Caleb the son of Hezron became the father of children by Azubah his wife, and by Jerioth; and these were her sons: Jesher, Shobab, and Ardon.  "
 	},
 	{
 		"type": "paragraph text",
@@ -570,7 +630,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "After Hezron died in Caleb Ephrathah, Abijah Hezron’s wife bore him Ashhur the father of Tekoa.  "
+		"value": "After Hezron died in Caleb Ephrathah, Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -640,7 +706,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "Now Sheshan had no sons, but daughters. Sheshan had a servant, an Egyptian, whose name was Jarha.  "
+		"value": "Now Sheshan had no sons, but only daughters. Sheshan had a servant, an Egyptian, whose name was Jarha.  "
 	},
 	{
 		"type": "paragraph text",
@@ -689,14 +755,20 @@
 		"chapterNumber": 2,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "and Shallum became the father of Jekamiah, and Jekamiah became the father of Elishama.  "
+		"value": "and Shallum became the father of Jekamiah, and Jekamiah became the father of Elishama. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "The sons of Caleb the brother of Jerahmeel were Mesha his firstborn, who was the father of Ziph; and the sons of Mareshah the father of Hebron.  "
+		"value": "The sons of Caleb the brother of Jerahmeel were Mesha his firstborn, who was the father of Ziph, and the sons of Mareshah the father of Hebron.  "
 	},
 	{
 		"type": "paragraph text",
@@ -745,7 +817,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 49,
 		"sectionNumber": 1,
-		"value": "She bore also Shaaph the father of Madmannah, Sheva the father of Machbena, and the father of Gibea; and the daughter of Caleb was Achsah.  "
+		"value": "She bore also Shaaph the father of Madmannah, Sheva the father of Machbena and the father of Gibea; and the daughter of Caleb was Achsah. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -828,7 +906,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "and these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four, of Bathshua the daughter of Ammiel;  "
+		"value": "and these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon, four, by Bathshua the daughter of Ammiel;  "
 	},
 	{
 		"type": "paragraph text",
@@ -1042,7 +1120,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Jabez was more honorable than his brothers. His mother named him Jabez, saying, “Because I bore him with sorrow.” "
+		"value": "Jabez was more honourable than his brothers. His mother named him Jabez, saying, “Because I bore him with sorrow.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1068,7 +1146,13 @@
 		"chapterNumber": 4,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "God granted him that which he requested.  "
+		"value": "God granted him that which he requested. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1096,7 +1180,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Meonothai became the father of Ophrah: and Seraiah became the father of Joab the father of Ge Harashim; for they were craftsmen.  "
+		"value": "Meonothai became the father of Ophrah: and Seraiah became the father of Joab the father of Ge Harashim, for they were craftsmen.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1117,7 +1201,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "The sons of Ezrah: Jether, Mered, Epher, and Jalon; and she bore Miriam, Shammai, and Ishbah the father of Eshtemoa.  "
+		"value": "The sons of Ezrah: Jether, Mered, Epher, and Jalon; and Mered’s wife bore Miriam, Shammai, and Ishbah the father of Eshtemoa.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1131,7 +1215,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "The sons of the wife of Hodiah, the sister of Naham, were the father of Keilah the Garmite, and Eshtemoa the Maacathite.  "
+		"value": "The sons of the wife of Hodiah, the sister of Naham, were the fathers of Keilah the Garmite and Eshtemoa the Maacathite.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1159,7 +1243,13 @@
 		"chapterNumber": 4,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "These were the potters, and the inhabitants of Netaim and Gederah: they lived there with the king for his work.  "
+		"value": "These were the potters, and the inhabitants of Netaim and Gederah; they lived there with the king for his work. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1229,7 +1319,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "and all their villages that were around the same cities, to Baal. These were their settlements, and they have their genealogy.  "
+		"value": "and all their villages that were around the same cities, as far as Baal. These were their settlements, and they kept their genealogy.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1284,14 +1374,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "They found fat pasture and good, and the land was wide, and quiet, and peaceful; for those who lived there before were descended from Ham.  "
+		"value": "They found rich, good pasture, and the land was wide, and quiet, and peaceful, for those who lived there before were descended from Ham.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "These written by name came in the days of Hezekiah king of Judah, and struck their tents. The Meunim who were found there, and they destroyed them utterly to this day, and lived in their place; because there was pasture there for their flocks.  "
+		"value": "These written by name came in the days of Hezekiah king of Judah, and struck their tents and the Meunim who were found there; and they destroyed them utterly to this day, and lived in their place, because there was pasture there for their flocks.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1318,7 +1408,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "The sons of Reuben the firstborn of Israel (for he was the firstborn; but, because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright.  "
+		"value": "The sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1387,14 +1477,20 @@
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "In the days of Saul, they made war with the Hagrites, who fell by their hand; and they lived in their tents throughout all the land east of Gilead.  "
+		"value": "In the days of Saul, they made war with the Hagrites, who fell by their hand; and they lived in their tents throughout all the land east of Gilead. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "The sons of Gad lived beside them, in the land of Bashan to Salecah:  "
+		"value": "The sons of Gad lived beside them in the land of Bashan to Salecah:  "
 	},
 	{
 		"type": "paragraph text",
@@ -1429,7 +1525,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "They lived in Gilead in Bashan, and in its towns, and in all the pasture lands of Sharon, as far as their borders.  "
+		"value": "They lived in Gilead in Bashan and in its towns, and in all the pasture lands of Sharon as far as their borders.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1449,7 +1545,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "The sons of Reuben, the Gadites, and the half-tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skillful in war, were forty-four thousand seven hundred sixty, that were able to go out to war.  "
+		"value": "The sons of Reuben, the Gadites, and the half-tribe of Manasseh, of valiant men, men able to bear buckler and sword, able to shoot with bow, and skilful in war, were forty-four thousand and seven hundred and sixty that were able to go out to war.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1463,49 +1559,55 @@
 		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "They were helped against them, and the Hagrites were delivered into their hand, and all who were with them; for they cried to God in the battle, and he answered them, because they put their trust in him.  "
+		"value": "They were helped against them, and the Hagrites were delivered into their hand, and all who were with them; for they cried to God in the battle, and he answered them because they put their trust in him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "They took away their livestock; of their camels fifty thousand, and of sheep two hundred fifty thousand, and of donkeys two thousand, and of men one hundred thousand.  "
+		"value": "They took away their livestock: of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of donkeys two thousand, and of men one hundred thousand.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "For many fell slain, because the war was of God. They lived in their place until the captivity.  "
+		"value": "For many fell slain, because the war was of God. They lived in their place until the captivity. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "The children of the half-tribe of Manasseh lived in the land: they increased from Bashan to Baal Hermon, Senir, and Mount Hermon.  "
+		"value": "The children of the half-tribe of Manasseh lived in the land. They increased from Bashan to Baal Hermon, Senir, and Mount Hermon.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "These were the heads of their fathers’ houses: even Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel, mighty men of valor, famous men, heads of their fathers’ houses.  "
+		"value": "These were the heads of their fathers’ houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel—mighty men of valour, famous men, heads of their fathers’ houses.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "They trespassed against the God of their fathers, and played the prostitute after the gods of the peoples of the land, whom God destroyed before them.  "
+		"value": "They trespassed against the God of their fathers, and played the prostitute after the gods of the peoples of the land whom God destroyed before them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "So the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath Pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and to the river of Gozan, to this day. "
+		"value": "So the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath Pilneser king of Assyria, and he carried away the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and to the river of Gozan, to this day. "
 	},
 	{
 		"type": "paragraph end"
@@ -1525,7 +1627,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The sons of Kohath: Amram, Izhar, and Hebron, and Uzziel.  "
+		"value": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1616,7 +1718,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Jehozadak went into captivity, when Yahweh carried Judah and Jerusalem away by the hand of Nebuchadnezzar. "
+		"value": "Jehozadak went into captivity when the LORD carried Judah and Jerusalem away by the hand of Nebuchadnezzar. "
 	},
 	{
 		"type": "paragraph end"
@@ -1678,7 +1780,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Elkanah his son, and Ebiasaph his son, Assir his son,  "
+		"value": "Elkanah his son, Ebiasaph his son, Assir his son,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1727,21 +1829,27 @@
 		"chapterNumber": 6,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "Shimea his son, Haggiah his son, Asaiah his son.  "
+		"value": "Shimea his son, Haggiah his son, Asaiah his son. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "These are they whom David set over the service of song in Yahweh’s house, after the ark came to rest there.  "
+		"value": "These are they whom David set over the service of song in the LORD’s house after the ark came to rest there.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "They ministered with song before the tabernacle of the Tent of Meeting, until Solomon had built Yahweh’s house in Jerusalem. They performed the duties of their office according to their order.  "
+		"value": "They ministered with song before the tabernacle of the Tent of Meeting until Solomon had built the LORD’s house in Jerusalem. They performed the duties of their office according to their order.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1915,14 +2023,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 56,
 		"sectionNumber": 1,
-		"value": "but the fields of the city, and its villages, they gave to Caleb the son of Jephunneh.  "
+		"value": "but the fields of the city and its villages, they gave to Caleb the son of Jephunneh.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 57,
 		"sectionNumber": 1,
-		"value": "To the sons of Aaron they gave the cities of refuge, Hebron; Libnah also with its pasture lands, Jattir, Eshtemoa with its pasture lands,  "
+		"value": "To the sons of Aaron they gave the cities of refuge, Hebron, Libnah also with its pasture lands, Jattir, Eshtemoa with its pasture lands,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1984,7 +2092,13 @@
 		"chapterNumber": 6,
 		"verseNumber": 65,
 		"sectionNumber": 1,
-		"value": "They gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities which are mentioned by name.  "
+		"value": "They gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities which are mentioned by name. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1998,7 +2112,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 67,
 		"sectionNumber": 1,
-		"value": "They gave to them the cities of refuge, Shechem in the hill country of Ephraim with its pasture lands, and Gezer with its pasture lands,  "
+		"value": "They gave to them the cities of refuge, Shechem in the hill country of Ephraim with its pasture lands and Gezer with its pasture lands,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2080,14 +2194,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 77,
 		"sectionNumber": 1,
-		"value": "To the rest of the Levites, the sons of Merari, were given, out of the tribe of Zebulun, Rimmono with its pasture lands, Tabor with its pasture lands;  "
+		"value": "To the rest of the Levites, the sons of Merari, were given, out of the tribe of Zebulun, Rimmono with its pasture lands, and Tabor with its pasture lands;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 78,
 		"sectionNumber": 1,
-		"value": "and beyond the Jordan at Jericho, on the east side of the Jordan, were given them, out of the tribe of Reuben, Bezer in the wilderness with its pasture lands, and Jahzah with its pasture lands,  "
+		"value": "and beyond the Jordan at Jericho, on the east side of the Jordan, were given them out of the tribe of Reuben: Bezer in the wilderness with its pasture lands, Jahzah with its pasture lands,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2121,14 +2235,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Of the sons of Issachar: Tola, and Puah, Jashub, and Shimron, four.  "
+		"value": "Of the sons of Issachar: Tola, Puah, Jashub, and Shimron, four.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers’ houses, of Tola; mighty men of valor in their generations. Their number in the days of David was twenty-two thousand six hundred.  "
+		"value": "The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers’ houses, of Tola; mighty men of valour in their generations. Their number in the days of David was twenty-two thousand and six hundred.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2149,7 +2263,13 @@
 		"chapterNumber": 7,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Their brothers among all the families of Issachar, mighty men of valor, listed in all by genealogy, were eighty-seven thousand.  "
+		"value": "Their brothers amongst all the families of Issachar, mighty men of valour, listed in all by genealogy, were eighty-seven thousand. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2163,7 +2283,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five; heads of fathers’ houses, mighty men of valor; and they were listed by genealogy twenty-two thousand thirty-four.  "
+		"value": "The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five; heads of fathers’ houses, mighty men of valour; and they were listed by genealogy twenty-two thousand and thirty-four.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2177,7 +2297,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "They were listed by genealogy, after their generations, heads of their fathers’ houses, mighty men of valor, twenty thousand two hundred.  "
+		"value": "They were listed by genealogy, after their generations, heads of their fathers’ houses, mighty men of valour, twenty thousand and two hundred.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2191,7 +2311,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "All these were sons of Jediael, according to the heads of their fathers’ households, mighty men of valor, seventeen thousand two hundred, who were able to go out in the army for war.  "
+		"value": "All these were sons of Jediael, according to the heads of their fathers’ households, mighty men of valour, seventeen thousand and two hundred, who were able to go out in the army for war.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2211,7 +2331,13 @@
 		"chapterNumber": 7,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "The sons of Naphtali: Jahziel, Guni, Jezer, Shallum, and the sons of Bilhah.  "
+		"value": "The sons of Naphtali: Jahziel, Guni, Jezer, Shallum, and the sons of Bilhah. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2253,7 +2379,13 @@
 		"chapterNumber": 7,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.  "
+		"value": "The sons of Shemida were Ahian, Shechem, Likhi, and Aniam. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2281,7 +2413,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "He went in to his wife, and she conceived, and bore a son, and he named him Beriah, because there was trouble with his house.  "
+		"value": "He went in to his wife, and she conceived and bore a son, and he named him Beriah, because there was trouble with his house.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2295,7 +2427,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Rephah was his son, and Resheph, and Telah his son, Tahan his son,  "
+		"value": "Rephah was his son, Resheph his son, Telah his son, Tahan his son,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2316,14 +2448,20 @@
 		"chapterNumber": 7,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Their possessions and settlements were Bethel and its towns, and eastward Naaran, and westward Gezer, with its towns; Shechem also and its towns, to Azzah and its towns;  "
+		"value": "Their possessions and settlements were Bethel and its towns, and eastward Naaran, and westward Gezer with its towns; Shechem also and its towns, to Azzah and its towns;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "and by the borders of the children of Manasseh, Beth Shean and its towns, Taanach and its towns, Megiddo and its towns, and Dor and its towns. The children of Joseph the son of Israel lived in these.  "
+		"value": "and by the borders of the children of Manasseh, Beth Shean and its towns, Taanach and its towns, Megiddo and its towns, and Dor and its towns. The children of Joseph the son of Israel lived in these. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2400,7 +2538,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "All these were the children of Asher, heads of the fathers’ houses, choice and mighty men of valor, chief of the princes. The number of them listed by genealogy for service in war was twenty-six thousand men. "
+		"value": "All these were the children of Asher, heads of the fathers’ houses, choice and mighty men of valour, chief of the princes. The number of them listed by genealogy for service in war was twenty-six thousand men. "
 	},
 	{
 		"type": "paragraph end"
@@ -2503,7 +2641,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "and Beriah, and Shema, who were heads of fathers’ households of the inhabitants of Aijalon, who put to flight the inhabitants of Gath;  "
+		"value": "and Beriah and Shema, who were heads of fathers’ households of the inhabitants of Aijalon, who put to flight the inhabitants of Gath;  "
 	},
 	{
 		"type": "paragraph text",
@@ -2608,14 +2746,20 @@
 		"chapterNumber": 8,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "These were heads of fathers’ households throughout their generations, chief men. These lived in Jerusalem.  "
+		"value": "These were heads of fathers’ households throughout their generations, chief men. These lived in Jerusalem. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "The father of Gibeon, whose wife’s name was Maacah, lived in Gibeon,  "
+		"value": "The father of Gibeon, whose wife’s name was Maacah, lived in Gibeon  "
 	},
 	{
 		"type": "paragraph text",
@@ -2629,14 +2773,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Gedor, Ahio, and Zecher.  "
+		"value": "Gedor, Ahio, Zecher,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Mikloth became the father of Shimeah. They also lived with their brothers in Jerusalem, near their brothers.  "
+		"value": "and Mikloth, who became the father of Shimeah. They also lived with their families in Jerusalem, near their relatives.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2650,7 +2794,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "The son of Jonathan was Merib Baal. Merib Baal became the father of Micah.  "
+		"value": "The son of Jonathan was Merib-baal. Merib-baal became the father of Micah.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2692,7 +2836,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "The sons of Ulam were mighty men of valor, archers, and had many sons, and sons’ sons, one hundred fifty. All these were of the sons of Benjamin. "
+		"value": "The sons of Ulam were mighty men of valour, archers, and had many sons, and grandsons, one hundred and fifty. All these were of the sons of Benjamin. "
 	},
 	{
 		"type": "paragraph end"
@@ -2719,7 +2863,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "In Jerusalem lived of the children of Judah, of the children of Benjamin, and of the children of Ephraim and Manasseh:  "
+		"value": "In Jerusalem, there lived of the children of Judah, of the children of Benjamin, and of the children of Ephraim and Manasseh:  "
 	},
 	{
 		"type": "paragraph text",
@@ -2733,35 +2877,35 @@
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Of the Shilonites: Asaiah the firstborn, and his sons.  "
+		"value": "Of the Shilonites: Asaiah the firstborn and his sons.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Of the sons of Zerah: Jeuel and their brothers, six hundred ninety.  "
+		"value": "Of the sons of Zerah: Jeuel and their brothers, six hundred and ninety.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Of the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah,  "
+		"value": "Of the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "and Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah;  "
+		"value": "and Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri; and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "and their brothers, according to their generations, nine hundred fifty-six. All these men were heads of fathers’ households by their fathers’ houses. "
+		"value": "and their brothers, according to their generations, nine hundred and fifty-six. All these men were heads of fathers’ households by their fathers’ houses. "
 	},
 	{
 		"type": "paragraph end"
@@ -2788,14 +2932,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "and Adaiah the son of Jeroham, the son of Pashhur, the son of Malchijah, and Maasai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;  "
+		"value": "and Adaiah the son of Jeroham, the son of Pashhur, the son of Malchijah; and Maasai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "and their brothers, heads of their fathers’ houses, one thousand seven hundred sixty; very able men for the work of the service of God’s house. "
+		"value": "and their brothers, heads of their fathers’ houses, one thousand and seven hundred and sixty; they were very able men for the work of the service of God’s house. "
 	},
 	{
 		"type": "paragraph end"
@@ -2822,7 +2966,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "and Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, who lived in the villages of the Netophathites. "
+		"value": "and Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun; and Berechiah the son of Asa, the son of Elkanah, who lived in the villages of the Netophathites. "
 	},
 	{
 		"type": "paragraph end"
@@ -2849,14 +2993,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brothers, of his father’s house, the Korahites, were over the work of the service, keepers of the thresholds of the tent. Their fathers had been over Yahweh’s camp, keepers of the entry.  "
+		"value": "Shallum was the son of Kore, the son of Ebiasaph, the son of Korah, and his brothers, of his father’s house, the Korahites, were over the work of the service, keepers of the thresholds of the tent. Their fathers had been over the LORD’s camp, keepers of the entry.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Phinehas the son of Eleazar was ruler over them in time past, and Yahweh was with him.  "
+		"value": "Phinehas the son of Eleazar was ruler over them in time past, and the LORD was with him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2870,28 +3014,28 @@
 		"chapterNumber": 9,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "All these who were chosen to be gatekeepers in the thresholds were two hundred twelve. These were listed by genealogy in their villages, whom David and Samuel the seer ordained in their office of trust.  "
+		"value": "All these who were chosen to be gatekeepers in the thresholds were two hundred and twelve. These were listed by genealogy in their villages, whom David and Samuel the seer ordained in their office of trust.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "So they and their children had the oversight of the gates of Yahweh’s house, even the house of the tent, as guards.  "
+		"value": "So they and their children had the oversight of the gates of the LORD’s house, even the house of the tent, as guards.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "On the four sides were the gatekeepers, toward the east, west, north, and south.  "
+		"value": "On the four sides were the gatekeepers, towards the east, west, north, and south.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Their brothers, in their villages, were to come in every seven days from time to time to be with them:  "
+		"value": "Their brothers, in their villages, were to come in every seven days from time to time to be with them,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2905,14 +3049,20 @@
 		"chapterNumber": 9,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "They stayed around God’s house, because that duty was on them; and to their duty was its opening morning by morning.  "
+		"value": "They stayed around God’s house, because that was their duty; and it was their duty to open it morning by morning. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Certain of them were in charge of the vessels of service; for these were brought in by count, and these were taken out by count.  "
+		"value": "Certain of them were in charge of the vessels of service, for these were brought in by count, and these were taken out by count.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2946,35 +3096,47 @@
 		"chapterNumber": 9,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Some of their brothers, of the sons of the Kohathites, were over the show bread, to prepare it every Sabbath.  "
+		"value": "Some of their brothers, of the sons of the Kohathites, were over the show bread, to prepare it every Sabbath. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "These are the singers, heads of fathers’ households of the Levites, who lived in the rooms and were free from other service; for they were employed in their work day and night.  "
+		"value": "These are the singers, heads of fathers’ households of the Levites, who lived in the rooms and were free from other service, for they were employed in their work day and night.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "These were heads of fathers’ households of the Levites, throughout their generations, chief men. These lived at Jerusalem.  "
+		"value": "These were heads of fathers’ households of the Levites, throughout their generations, chief men. They lived at Jerusalem. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "Jeiel the father of Gibeon, whose wife’s name was Maacah, lived in Gibeon with  "
+		"value": "Jeiel the father of Gibeon, whose wife’s name was Maacah, lived in Gibeon.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "his firstborn son Abdon, Zur, Kish, Baal, Ner, Nadab,  "
+		"value": "His firstborn son was Abdon, then Zur, Kish, Baal, Ner, Nadab,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2988,7 +3150,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "Mikloth became the father of Shimeam. They also lived with their brothers in Jerusalem, near their brothers.  "
+		"value": "Mikloth became the father of Shimeam. They also lived with their relatives in Jerusalem, near their relatives.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3002,7 +3164,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "The son of Jonathan was Merib Baal. Merib Baal became the father of Micah.  "
+		"value": "The son of Jonathan was Merib-baal. Merib-baal became the father of Micah.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3023,14 +3185,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 43,
 		"sectionNumber": 1,
-		"value": "Moza became the father of Binea; and Rephaiah his son, Eleasah his son, and Azel his son.  "
+		"value": "Moza became the father of Binea, Rephaiah his son, Eleasah his son, and Azel his son.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": "Azel had six sons, whose names are these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel. "
+		"value": "Azel had six sons, whose names are Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel. "
 	},
 	{
 		"type": "paragraph end"
@@ -3043,7 +3205,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now the Philistines fought against Israel, and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa.  "
+		"value": "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3064,7 +3226,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Then Saul said to his armor bearer, “Draw your sword, and thrust me through with it, lest these uncircumcised come and abuse me.” "
+		"value": "Then Saul said to his armour bearer, “Draw your sword, and thrust me through with it, lest these uncircumcised come and abuse me.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3077,14 +3239,14 @@
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 2,
-		"value": "But his armor bearer would not; for he was terrified. Therefore Saul took his sword, and fell on it.  "
+		"value": "But his armour bearer would not, for he was terrified. Therefore Saul took his sword and fell on it.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "When his armor bearer saw that Saul was dead, he likewise fell on his sword, and died.  "
+		"value": "When his armour bearer saw that Saul was dead, he likewise fell on his sword and died.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3118,14 +3280,14 @@
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "They stripped him, and took his head and his armor, and sent into the land of the Philistines all around, to carry the news to their idols, and to the people.  "
+		"value": "They stripped him and took his head and his armour, then sent into the land of the Philistines all around to carry the news to their idols and to the people.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "They put his armor in the house of their gods, and fastened his head in the house of Dagon.  "
+		"value": "They put his armour in the house of their gods, and fastened his head in the house of Dagon.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3139,21 +3301,27 @@
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "all the valiant men arose, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days.  "
+		"value": "all the valiant men arose and took away the body of Saul and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "So Saul died for his trespass which he committed against Yahweh, because of Yahweh’s word, which he didn’t keep; and also because he asked counsel of one who had a familiar spirit, to inquire,  "
+		"value": "So Saul died for his trespass which he committed against the LORD, because of the LORD’s word, which he didn’t keep, and also because he asked counsel of one who had a familiar spirit, to enquire,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "and didn’t inquire of Yahweh. Therefore he killed him, and turned the kingdom over to David the son of Jesse. "
+		"value": "and didn’t enquire of the LORD. Therefore he killed him, and turned the kingdom over to David the son of Jesse. "
 	},
 	{
 		"type": "paragraph end"
@@ -3173,7 +3341,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "In times past, even when Saul was king, it was you who led out and brought in Israel. Yahweh your God said to you, ‘You shall be shepherd of my people Israel, and you shall be prince over my people Israel.’ ” "
+		"value": "In times past, even when Saul was king, it was you who led out and brought in Israel. The LORD your God said to you, ‘You shall be shepherd of my people Israel, and you shall be prince over my people Israel.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -3186,7 +3354,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "So all the elders of Israel came to the king to Hebron; and David made a covenant with them in Hebron before Yahweh; and they anointed David king over Israel, according to Yahweh’s word by Samuel.  "
+		"value": "So all the elders of Israel came to the king to Hebron; and David made a covenant with them in Hebron before the LORD. They anointed David king over Israel, according to the LORD’s word by Samuel. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3200,14 +3374,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "The inhabitants of Jebus said to David, “You will not come in here.” Nevertheless David took the stronghold of Zion. The same is David’s city.  "
+		"value": "The inhabitants of Jebus said to David, “You will not come in here!” Nevertheless David took the stronghold of Zion. The same is David’s city.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "David said, “Whoever strikes the Jebusites first shall be chief and captain.” Joab the son of Zeruiah went up first, and was made chief.  "
+		"value": "David had said, “Whoever strikes the Jebusites first shall be chief and captain.” Joab the son of Zeruiah went up first, and was made chief.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3228,14 +3402,20 @@
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "David grew greater and greater; for Yahweh of Armies was with him.  "
+		"value": "David grew greater and greater, for the LORD of Armies was with him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Now these are the chief of the mighty men whom David had, who showed themselves strong with him in his kingdom, together with all Israel, to make him king, according to Yahweh’s word concerning Israel. "
+		"value": "Now these are the chief of the mighty men whom David had, who showed themselves strong with him in his kingdom, together with all Israel, to make him king, according to the LORD’s word concerning Israel. "
 	},
 	{
 		"type": "paragraph end"
@@ -3269,7 +3449,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "They stood in the middle of the plot, defended it, and killed the Philistines; and Yahweh saved them by a great victory.  "
+		"value": "They stood in the middle of the plot, defended it, and killed the Philistines; and the LORD saved them by a great victory. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3290,7 +3476,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "David longed, and said, “Oh that one would give me water to drink from the well of Bethlehem, which is by the gate!” "
+		"value": "David longed, and said, “Oh, that someone would give me water to drink from the well of Bethlehem, which is by the gate!” "
 	},
 	{
 		"type": "paragraph end"
@@ -3303,7 +3489,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "The three broke through the army of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David; but David would not drink any of it, but poured it out to Yahweh,  "
+		"value": "The three broke through the army of the Philistines, and drew water out of the well of Bethlehem that was by the gate, took it, and brought it to David; but David would not drink any of it, but poured it out to the LORD,  "
 	},
 	{
 		"type": "paragraph text",
@@ -3323,14 +3509,20 @@
 		"chapterNumber": 11,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Abishai, the brother of Joab, he was chief of the three; for he lifted up his spear against three hundred and killed them, and had a name among the three.  "
+		"value": "Abishai, the brother of Joab, was chief of the three; for he lifted up his spear against three hundred and killed them, and had a name amongst the three.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Of the three, he was more honorable than the two, and was made their captain; however he wasn’t included in the three.  "
+		"value": "Of the three, he was more honourable than the two, and was made their captain; however he wasn’t included in the three. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3351,14 +3543,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Benaiah the son of Jehoiada did these things, and had a name among the three mighty men.  "
+		"value": "Benaiah the son of Jehoiada did these things and had a name amongst the three mighty men.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Behold, he was more honorable than the thirty, but he didn’t attain to the three; and David set him over his guard. "
+		"value": "Behold, he was more honourable than the thirty, but he didn’t attain to the three; and David set him over his guard. "
 	},
 	{
 		"type": "paragraph end"
@@ -3462,7 +3654,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "Zelek the Ammonite, Naharai the Berothite, the armor bearer of Joab the son of Zeruiah,  "
+		"value": "Zelek the Ammonite, Naharai the Berothite (the armour bearer of Joab the son of Zeruiah),  "
 	},
 	{
 		"type": "paragraph text",
@@ -3483,14 +3675,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "Adina the son of Shiza the Reubenite, a chief of the Reubenites, and thirty with him,  "
+		"value": "Adina the son of Shiza the Reubenite (a chief of the Reubenites), and thirty with him,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 43,
 		"sectionNumber": 1,
-		"value": "Hanan the son of Maacah, and Joshaphat the Mithnite,  "
+		"value": "Hanan the son of Maacah, Joshaphat the Mithnite,  "
 	},
 	{
 		"type": "paragraph text",
@@ -3518,7 +3710,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": "Eliel, and Obed, and Jaasiel the Mezobaite. "
+		"value": "Eliel, Obed, and Jaasiel the Mezobaite. "
 	},
 	{
 		"type": "paragraph end"
@@ -3531,7 +3723,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now these are those who came to David to Ziklag, while he was a fugitive from Saul the son of Kish. They were among the mighty men, his helpers in war.  "
+		"value": "Now these are those who came to David to Ziklag while he was a fugitive from Saul the son of Kish. They were amongst the mighty men, his helpers in war.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3552,7 +3744,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Ishmaiah the Gibeonite, a mighty man among the thirty and a leader of the thirty; Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite;  "
+		"value": "Ishmaiah the Gibeonite, a mighty man amongst the thirty and a leader of the thirty; Jeremiah; Jahaziel; Johanan; Jozabad the Gederathite;  "
 	},
 	{
 		"type": "paragraph text",
@@ -3566,21 +3758,27 @@
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Elkanah, Isshiah Azarel, Joezer, and Jashobeam, the Korahites;  "
+		"value": "Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "and Joelah and Zebadiah, the sons of Jeroham of Gedor.  "
+		"value": "and Joelah and Zebadiah, the sons of Jeroham of Gedor. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Some Gadites joined David in the stronghold in the wilderness, mighty men of valor, men trained for war, who could handle shield and spear; whose faces were like the faces of lions, and they were as swift as the gazelles on the mountains:  "
+		"value": "Some Gadites joined David in the stronghold in the wilderness, mighty men of valour, men trained for war, who could handle shield and spear; whose faces were like the faces of lions, and they were as swift as the gazelles on the mountains:  "
 	},
 	{
 		"type": "paragraph text",
@@ -3622,14 +3820,20 @@
 		"chapterNumber": 12,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "These of the sons of Gad were captains of the army: he who was least was equal to one hundred, and the greatest to one thousand.  "
+		"value": "These of the sons of Gad were captains of the army. He who was least was equal to one hundred, and the greatest to one thousand.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "These are those who went over the Jordan in the first month, when it had overflowed all its banks; and they put to flight all who lived in the valleys, both toward the east and toward the west.  "
+		"value": "These are those who went over the Jordan in the first month, when it had overflowed all its banks; and they put to flight all who lived in the valleys, both towards the east and towards the west. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3650,14 +3854,20 @@
 		"chapterNumber": 12,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Then the Spirit came on Amasai, who was chief of the thirty, and he said, “We are yours, David, and on your side, you son of Jesse. Peace, peace be to you, and peace be to your helpers; for your God helps you.” Then David received them, and made them captains of the band.  "
+		"value": "Then the Spirit came on Amasai, who was chief of the thirty, and he said, “We are yours, David, and on your side, you son of Jesse. Peace, peace be to you, and peace be to your helpers; for your God helps you.” Then David received them and made them captains of the band. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Some of Manasseh also joined David, when he came with the Philistines against Saul to battle; but they didn’t help them; for the lords of the Philistines sent him away after consultation, saying, “He will desert to his master Saul to the jeopardy of our heads.” "
+		"value": "Some of Manasseh also joined David when he came with the Philistines against Saul to battle, but they didn’t help them, for the lords of the Philistines sent him away after consultation, saying, “He will desert to his master Saul to the jeopardy of our heads.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3677,7 +3887,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "They helped David against the band of rovers; for they were all mighty men of valor, and were captains in the army.  "
+		"value": "They helped David against the band of raiders, for they were all mighty men of valour and were captains in the army.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3697,42 +3907,42 @@
 		"chapterNumber": 12,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "These are the numbers of the heads of those who were armed for war, who came to David to Hebron, to turn the kingdom of Saul to him, according to Yahweh’s word.  "
+		"value": "These are the numbers of the heads of those who were armed for war, who came to David to Hebron to turn the kingdom of Saul to him, according to the LORD’s word.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "The children of Judah who bore shield and spear were six thousand eight hundred, armed for war.  "
+		"value": "The children of Judah who bore shield and spear were six thousand and eight hundred, armed for war.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Of the children of Simeon, mighty men of valor for the war: seven thousand one hundred.  "
+		"value": "Of the children of Simeon, mighty men of valour for the war: seven thousand and one hundred.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "Of the children of Levi: four thousand six hundred.  "
+		"value": "Of the children of Levi: four thousand and six hundred.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Jehoiada was the leader of the household of Aaron; and with him were three thousand seven hundred,  "
+		"value": "Jehoiada was the leader of the household of Aaron; and with him were three thousand and seven hundred,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "and Zadok, a young man mighty of valor, and of his father’s house twenty-two captains.  "
+		"value": "and Zadok, a young man mighty of valour, and of his father’s house twenty-two captains.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3746,7 +3956,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "Of the children of Ephraim: twenty thousand eight hundred, mighty men of valor, famous men in their fathers’ houses.  "
+		"value": "Of the children of Ephraim: twenty thousand and eight hundred, mighty men of valour, famous men in their fathers’ houses.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3767,7 +3977,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "Of Zebulun, such as were able to go out in the army, who could set the battle in array, with all kinds of instruments of war: fifty thousand who could command and were not of double heart.  "
+		"value": "Of Zebulun, such as were able to go out in the army, who could set the battle in array with all kinds of instruments of war: fifty thousand who could command and were not of double heart.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3781,7 +3991,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "Of the Danites who could set the battle in array: twenty-eight thousand six hundred.  "
+		"value": "Of the Danites who could set the battle in array: twenty-eight thousand and six hundred.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3795,14 +4005,20 @@
 		"chapterNumber": 12,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "On the other side of the Jordan, of the Reubenites, the Gadites, and of the half-tribe of Manasseh, with all kinds of instruments of war for the battle: one hundred twenty thousand.  "
+		"value": "On the other side of the Jordan, of the Reubenites, the Gadites, and of the half-tribe of Manasseh, with all kinds of instruments of war for the battle: one hundred and twenty thousand. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "All these were men of war, who could order the battle array, and came with a perfect heart to Hebron, to make David king over all Israel; and all the rest also of Israel were of one heart to make David king.  "
+		"value": "All these were men of war who could order the battle array, and came with a perfect heart to Hebron to make David king over all Israel; and all the rest also of Israel were of one heart to make David king.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3836,14 +4052,14 @@
 		"chapterNumber": 13,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "David said to all the assembly of Israel, “If it seems good to you, and if it is of Yahweh our God, let’s send word everywhere to our brothers who are left in all the land of Israel, with whom the priests and Levites are in their cities that have pasture lands, that they may gather themselves to us.  "
+		"value": "David said to all the assembly of Israel, “If it seems good to you, and if it is of the LORD our God, let’s send word everywhere to our brothers who are left in all the land of Israel, with whom the priests and Levites are in their cities that have pasture lands, that they may gather themselves to us.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Also, let’s bring the ark of our God back to us again; for we didn’t seek it in the days of Saul.” "
+		"value": "Also, let’s bring the ark of our God back to us again, for we didn’t seek it in the days of Saul.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3856,14 +4072,14 @@
 		"chapterNumber": 13,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "All the assembly said that they would do so; for the thing was right in the eyes of all the people.  "
+		"value": "All the assembly said that they would do so, for the thing was right in the eyes of all the people.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "So David assembled all Israel together, from the Shihor the brook of Egypt even to the entrance of Hamath, to bring God’s ark from Kiriath Jearim. "
+		"value": "So David assembled all Israel together, from the Shihor River of Egypt even to the entrance of Hamath, to bring God’s ark from Kiriath Jearim. "
 	},
 	{
 		"type": "paragraph end"
@@ -3876,7 +4092,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "David went up with all Israel to Baalah, that is, to Kiriath Jearim, which belonged to Judah, to bring up from there God Yahweh’s ark that sits above the cherubim, that is called by the Name.  "
+		"value": "David went up with all Israel to Baalah, that is, to Kiriath Jearim, which belonged to Judah, to bring up from there God the LORD’s ark that sits above the cherubim, that is called by the Name.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3890,28 +4106,34 @@
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "David and all Israel played before God with all their might, even with songs, with harps, with stringed instruments, with tambourines, with cymbals, and with trumpets.  "
+		"value": "David and all Israel played before God with all their might, even with songs, with harps, with stringed instruments, with tambourines, with cymbals, and with trumpets. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "When they came to Chidon’s threshing floor, Uzza put out his hand to hold the ark; for the oxen stumbled.  "
+		"value": "When they came to Chidon’s threshing floor, Uzza put out his hand to hold the ark, for the oxen stumbled.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Yahweh’s anger burned against Uzza, and he struck him, because he put his hand on the ark; and he died there before God.  "
+		"value": "The LORD’s anger burnt against Uzza, and he struck him because he put his hand on the ark; and he died there before God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "David was displeased, because Yahweh had broken out against Uzza. He called that place Perez Uzza, to this day.  "
+		"value": "David was displeased, because the LORD had broken out against Uzza. He called that place Perez Uzza, to this day.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3932,7 +4154,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "God’s ark remained with the family of Obed-Edom in his house three months; and Yahweh blessed Obed-Edom’s house and all that he had. "
+		"value": "God’s ark remained with the family of Obed-Edom in his house three months; and the LORD blessed Obed-Edom’s house and all that he had. "
 	},
 	{
 		"type": "paragraph end"
@@ -3952,14 +4174,20 @@
 		"chapterNumber": 14,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "David perceived that Yahweh had established him king over Israel; for his kingdom was exalted on high, for his people Israel’s sake.  "
+		"value": "David perceived that the LORD had established him king over Israel, for his kingdom was highly exalted, for his people Israel’s sake. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David took more wives at Jerusalem, and David became the father of more sons and daughters.  "
+		"value": "David took more wives in Jerusalem, and David became the father of more sons and daughters.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4014,7 +4242,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "David inquired of God, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” "
+		"value": "David enquired of God, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” "
 	},
 	{
 		"type": "paragraph end"
@@ -4027,7 +4255,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "Yahweh said to him, “Go up; for I will deliver them into your hand.” "
+		"value": "The LORD said to him, “Go up; for I will deliver them into your hand.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4047,7 +4275,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "They left their gods there; and David gave a command, and they were burned with fire. "
+		"value": "They left their gods there; and David gave a command, and they were burnt with fire. "
 	},
 	{
 		"type": "paragraph end"
@@ -4060,14 +4288,14 @@
 		"chapterNumber": 14,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "The Philistines made a another raid in the valley.  "
+		"value": "The Philistines made another raid in the valley.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "David inquired again of God; and God said to him, “You shall not go up after them. Turn away from them, and come on them opposite the mulberry trees.  "
+		"value": "David enquired again of God; and God said to him, “You shall not go up after them. Turn away from them, and come on them opposite the mulberry trees.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4094,7 +4322,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "The fame of David went out into all lands; and Yahweh brought the fear of him on all nations. "
+		"value": "The fame of David went out into all lands; and the LORD brought the fear of him on all nations. "
 	},
 	{
 		"type": "paragraph end"
@@ -4114,7 +4342,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Then David said, “No one ought to carry God’s ark but the Levites. For Yahweh has chosen them to carry God’s ark, and to minister to him forever.” "
+		"value": "Then David said, “No one ought to carry God’s ark but the Levites. For the LORD has chosen them to carry God’s ark, and to minister to him forever.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4127,7 +4355,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David assembled all Israel at Jerusalem, to bring up Yahweh’s ark to its place, which he had prepared for it.  "
+		"value": "David assembled all Israel at Jerusalem, to bring up the LORD’s ark to its place, which he had prepared for it.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4141,21 +4369,21 @@
 		"chapterNumber": 15,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "of the sons of Kohath, Uriel the chief, and his brothers one hundred twenty;  "
+		"value": "of the sons of Kohath, Uriel the chief, and his brothers one hundred and twenty;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "of the sons of Merari, Asaiah the chief, and his brothers two hundred twenty;  "
+		"value": "of the sons of Merari, Asaiah the chief, and his brothers two hundred and twenty;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "of the sons of Gershom, Joel the chief, and his brothers one hundred thirty;  "
+		"value": "of the sons of Gershom, Joel the chief, and his brothers one hundred and thirty;  "
 	},
 	{
 		"type": "paragraph text",
@@ -4176,28 +4404,34 @@
 		"chapterNumber": 15,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "of the sons of Uzziel, Amminadab the chief, and his brothers one hundred twelve.  "
+		"value": "of the sons of Uzziel, Amminadab the chief, and his brothers one hundred and twelve. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,  "
+		"value": "David called for Zadok and Abiathar the priests, and for the Levites: for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "and said to them, “You are the heads of the fathers’ households of the Levites. Sanctify yourselves, both you and your brothers, that you may bring the ark of Yahweh, the God of Israel, up to the place that I have prepared for it.  "
+		"value": "and said to them, “You are the heads of the fathers’ households of the Levites. Sanctify yourselves, both you and your brothers, that you may bring the ark of the LORD, the God of Israel, up to the place that I have prepared for it.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For because you didn’t carry it at first, Yahweh our God broke out in anger against us, because we didn’t seek him according to the ordinance.” "
+		"value": "For because you didn’t carry it at first, the LORD our God broke out in anger against us, because we didn’t seek him according to the ordinance.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4210,14 +4444,20 @@
 		"chapterNumber": 15,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "So the priests and the Levites sanctified themselves to bring up the ark of Yahweh, the God of Israel.  "
+		"value": "So the priests and the Levites sanctified themselves to bring up the ark of the LORD, the God of Israel.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "The children of the Levites bore God’s ark on their shoulders with its poles, as Moses commanded according to Yahweh’s word.  "
+		"value": "The children of the Levites bore God’s ark on their shoulders with its poles, as Moses commanded according to the LORD’s word. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -4238,7 +4478,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "and with them their brothers of the second rank, Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the doorkeepers.  "
+		"value": "and with them their brothers of the second rank: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the doorkeepers.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4266,7 +4506,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Chenaniah, chief of the Levites, was over the singing. He taught the singers, because he was skillful.  "
+		"value": "Chenaniah, chief of the Levites, was over the singing. He taught the singers, because he was skilful.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4293,14 +4533,14 @@
 		"chapterNumber": 15,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "So David, the elders of Israel, and the captains over thousands, went to bring the ark of Yahweh’s covenant up out of the house of Obed-Edom with joy.  "
+		"value": "So David, the elders of Israel, and the captains over thousands went to bring the ark of the LORD’s covenant up out of the house of Obed-Edom with joy.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "When God helped the Levites who bore the ark of Yahweh’s covenant, they sacrificed seven bulls and seven rams.  "
+		"value": "When God helped the Levites who bore the ark of the LORD’s covenant, they sacrificed seven bulls and seven rams.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4314,14 +4554,14 @@
 		"chapterNumber": 15,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Thus all Israel brought the ark of Yahweh’s covenant up with shouting, with sound of the cornet, with trumpets, and with cymbals, sounding aloud with stringed instruments and harps.  "
+		"value": "Thus all Israel brought the ark of the LORD’s covenant up with shouting, with sound of the cornet, with trumpets, and with cymbals, sounding aloud with stringed instruments and harps.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "As the ark of Yahweh’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart. "
+		"value": "As the ark of the LORD’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart. "
 	},
 	{
 		"type": "paragraph end"
@@ -4341,21 +4581,27 @@
 		"chapterNumber": 16,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "When David had finished offering the burnt offering and the peace offerings, he blessed the people in Yahweh’s name.  "
+		"value": "When David had finished offering the burnt offering and the peace offerings, he blessed the people in the LORD’s name.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "He gave to everyone of Israel, both man and woman, to everyone a loaf of bread, a portion of meat, and a cake of raisins.  "
+		"value": "He gave to everyone of Israel, both man and woman, to everyone a loaf of bread, a portion of meat, and a cake of raisins. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "He appointed some of the Levites to minister before Yahweh’s ark, and to commemorate, to thank, and to praise Yahweh, the God of Israel:  "
+		"value": "He appointed some of the Levites to minister before the LORD’s ark, and to commemorate, to thank, and to praise the LORD, the God of Israel:  "
 	},
 	{
 		"type": "paragraph text",
@@ -4382,7 +4628,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Then on that day David first ordained to give thanks to Yahweh, by the hand of Asaph and his brothers. "
+		"value": "Then on that day David first ordained giving of thanks to the LORD by the hand of Asaph and his brothers. "
 	},
 	{
 		"type": "paragraph end"
@@ -4402,7 +4648,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Oh give thanks to Yahweh. "
+		"value": "Oh give thanks to the LORD. "
 	},
 	{
 		"type": "line break"
@@ -4422,7 +4668,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 3,
-		"value": "Make what he has done known among the peoples. "
+		"value": "Make what he has done known amongst the peoples. "
 	},
 	{
 		"type": "line break"
@@ -4452,7 +4698,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 9,
 		"sectionNumber": 3,
-		"value": "Tell of all his marvelous works. "
+		"value": "Tell of all his marvellous works. "
 	},
 	{
 		"type": "line break"
@@ -4472,7 +4718,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "Let the heart of those who seek Yahweh rejoice. "
+		"value": "Let the heart of those who seek the LORD rejoice. "
 	},
 	{
 		"type": "line break"
@@ -4482,7 +4728,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Seek Yahweh and his strength. "
+		"value": "Seek the LORD and his strength. "
 	},
 	{
 		"type": "line break"
@@ -4502,7 +4748,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Remember his marvelous works that he has done, "
+		"value": "Remember his marvellous works that he has done, "
 	},
 	{
 		"type": "line break"
@@ -4512,7 +4758,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 2,
-		"value": "his wonders, and the judgments of his mouth, "
+		"value": "his wonders, and the judgements of his mouth, "
 	},
 	{
 		"type": "line break"
@@ -4538,11 +4784,24 @@
 		"type": "line break"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "He is Yahweh our God. "
+		"value": "He is the LORD our God. "
 	},
 	{
 		"type": "line break"
@@ -4552,7 +4811,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 2,
-		"value": "His judgments are in all the earth. "
+		"value": "His judgements are in all the earth. "
 	},
 	{
 		"type": "line break"
@@ -4652,7 +4911,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 19,
 		"sectionNumber": 2,
-		"value": "yes, very few, and foreigners were in it. "
+		"value": "yes, very few, and foreigners in it. "
 	},
 	{
 		"type": "line break"
@@ -4718,11 +4977,24 @@
 		"type": "line break"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 22,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Sing to Yahweh, all the earth! "
+		"value": "Sing to the LORD, all the earth! "
 	},
 	{
 		"type": "line break"
@@ -4742,7 +5014,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Declare his glory among the nations, "
+		"value": "Declare his glory amongst the nations, "
 	},
 	{
 		"type": "line break"
@@ -4752,7 +5024,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 24,
 		"sectionNumber": 2,
-		"value": "and his marvelous works among all the peoples. "
+		"value": "and his marvellous works amongst all the peoples. "
 	},
 	{
 		"type": "line break"
@@ -4762,7 +5034,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "For great is Yahweh, and greatly to be praised. "
+		"value": "For great is the LORD, and greatly to be praised. "
 	},
 	{
 		"type": "line break"
@@ -4792,7 +5064,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 26,
 		"sectionNumber": 2,
-		"value": "but Yahweh made the heavens. "
+		"value": "but the LORD made the heavens. "
 	},
 	{
 		"type": "line break"
@@ -4802,7 +5074,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Honor and majesty are before him. "
+		"value": "Honour and majesty are before him. "
 	},
 	{
 		"type": "line break"
@@ -4818,11 +5090,24 @@
 		"type": "line break"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 16,
+		"verseNumber": 27,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "line text",
 		"chapterNumber": 16,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Ascribe to Yahweh, you relatives of the peoples, "
+		"value": "Ascribe to the LORD, you families of the peoples, "
 	},
 	{
 		"type": "line break"
@@ -4832,7 +5117,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 28,
 		"sectionNumber": 2,
-		"value": "ascribe to Yahweh glory and strength! "
+		"value": "ascribe to the LORD glory and strength! "
 	},
 	{
 		"type": "line break"
@@ -4842,7 +5127,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Ascribe to Yahweh the glory due to his name. "
+		"value": "Ascribe to the LORD the glory due to his name. "
 	},
 	{
 		"type": "line break"
@@ -4862,7 +5147,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 29,
 		"sectionNumber": 3,
-		"value": "Worship Yahweh in holy array. "
+		"value": "Worship the LORD in holy array. "
 	},
 	{
 		"type": "line break"
@@ -4912,7 +5197,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 31,
 		"sectionNumber": 3,
-		"value": "Let them say among the nations, “Yahweh reigns!” "
+		"value": "Let them say amongst the nations, “The LORD reigns!” "
 	},
 	{
 		"type": "line break"
@@ -4942,7 +5227,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "Then the trees of the forest will sing for joy before Yahweh, "
+		"value": "Then the trees of the forest will sing for joy before the LORD, "
 	},
 	{
 		"type": "line break"
@@ -4962,7 +5247,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "Oh give thanks to Yahweh, for he is good, "
+		"value": "Oh give thanks to the LORD, for he is good, "
 	},
 	{
 		"type": "line break"
@@ -5022,7 +5307,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "Blessed be Yahweh, the God of Israel, "
+		"value": "Blessed be the LORD, the God of Israel, "
 	},
 	{
 		"type": "line break"
@@ -5048,7 +5333,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 36,
 		"sectionNumber": 3,
-		"value": "All the people said, “Amen,” and praised Yahweh. "
+		"value": "All the people said, “Amen,” and praised the LORD. "
 	},
 	{
 		"type": "paragraph end"
@@ -5061,42 +5346,42 @@
 		"chapterNumber": 16,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "So he left Asaph and his brothers there before the ark of Yahweh’s covenant, to minister before the ark continually, as every day’s work required;  "
+		"value": "So he left Asaph and his brothers there before the ark of the LORD’s covenant, to minister before the ark continually, as every day’s work required;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "and Obed-Edom with their brothers, sixty-eight; Obed-Edom also the son of Jeduthun and Hosah to be doorkeepers;  "
+		"value": "and Obed-Edom with their sixty-eight relatives; Obed-Edom also the son of Jeduthun and Hosah to be doorkeepers;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "and Zadok the priest, and his brothers the priests, before Yahweh’s tabernacle in the high place that was at Gibeon,  "
+		"value": "and Zadok the priest and his brothers the priests, before the LORD’s tabernacle in the high place that was at Gibeon,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "to offer burnt offerings to Yahweh on the altar of burnt offering continually morning and evening, even according to all that is written in Yahweh’s law, which he commanded to Israel;  "
+		"value": "to offer burnt offerings to the LORD on the altar of burnt offering continually morning and evening, even according to all that is written in the LORD’s law, which he commanded to Israel;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "and with them Heman and Jeduthun, and the rest who were chosen, who were mentioned by name, to give thanks to Yahweh, because his loving kindness endures forever;  "
+		"value": "and with them Heman and Jeduthun and the rest who were chosen, who were mentioned by name, to give thanks to the LORD, because his loving kindness endures forever;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "and with them Heman and Jeduthun with trumpets and cymbals for those that should sound aloud, and with instruments for the songs of God; and the sons of Jeduthun to be at the gate.  "
+		"value": "and with them Heman and Jeduthun with trumpets and cymbals for those that should sound aloud, and with instruments for the songs of God, and the sons of Jeduthun to be at the gate.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5116,7 +5401,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "When David lived in his house, David said to Nathan the prophet, “Behold, I dwell in a house of cedar, but the ark of Yahweh’s covenant is in a tent.” "
+		"value": "When David was living in his house, David said to Nathan the prophet, “Behold, I live in a cedar house, but the ark of the LORD’s covenant is in a tent.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5149,7 +5434,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "“Go and tell David my servant, ‘Yahweh says, “You shall not build me a house to dwell in;  "
+		"value": "“Go and tell David my servant, ‘The LORD says, “You shall not build me a house to dwell in;  "
 	},
 	{
 		"type": "paragraph text",
@@ -5176,7 +5461,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "“Now therefore, you shall tell my servant David, ‘Yahweh of Armies says, “I took you from the sheep pen, from following the sheep, to be prince over my people Israel.  "
+		"value": "“Now therefore, you shall tell my servant David, ‘The LORD of Armies says, “I took you from the sheep pen, from following the sheep, to be prince over my people Israel.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5197,7 +5482,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "and from the day that I commanded judges to be over my people Israel. I will subdue all your enemies. Moreover I tell you that Yahweh will build you a house.  "
+		"value": "and from the day that I commanded judges to be over my people Israel. I will subdue all your enemies. Moreover I tell you that the LORD will build you a house.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5218,7 +5503,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "I will be his father, and he will be my son. I will not take my loving kindness away from him, as I took it from him that was before you;  "
+		"value": "I will be his father, and he will be my son. I will not take my loving kindness away from him, as I took it from him who was before you;  "
 	},
 	{
 		"type": "paragraph text",
@@ -5245,63 +5530,63 @@
 		"chapterNumber": 17,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Then David the king went in, and sat before Yahweh; and he said, “Who am I, Yahweh God, and what is my house, that you have brought me this far?  "
+		"value": "Then David the king went in and sat before the LORD; and he said, “Who am I, LORD God, and what is my house, that you have brought me this far?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "This was a small thing in your eyes, God; but you have spoken of your servant’s house for a great while to come, and have respected me according to the standard of a man of high degree, Yahweh God.  "
+		"value": "This was a small thing in your eyes, O God, but you have spoken of your servant’s house for a great while to come, and have respected me according to the standard of a man of high degree, LORD God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "What can David say yet more to you concerning the honor which is done to your servant? For you know your servant.  "
+		"value": "What can David say yet more to you concerning the honour which is done to your servant? For you know your servant.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Yahweh, for your servant’s sake, and according to your own heart, you have done all this greatness, to make known all these great things.  "
+		"value": "LORD, for your servant’s sake, and according to your own heart, you have done all this greatness, to make known all these great things.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Yahweh, there is no one like you, neither is there any God besides you, according to all that we have heard with our ears.  "
+		"value": "LORD, there is no one like you, neither is there any God besides you, according to all that we have heard with our ears.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "What one nation in the earth is like your people Israel, whom God went to redeem to himself for a people, to make you a name by great and awesome things, in driving out nations from before your people, whom you redeem out of Egypt?  "
+		"value": "What one nation in the earth is like your people Israel, whom God went to redeem to himself for a people, to make you a name by great and awesome things, in driving out nations from before your people whom you redeemed out of Egypt?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "For you made your people Israel your own people forever; and you, Yahweh, became their God.  "
+		"value": "For you made your people Israel your own people forever; and you, LORD, became their God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Now, Yahweh, let the word that you have spoken concerning your servant, and concerning his house, be established forever, and do as you have spoken.  "
+		"value": "Now, LORD, let the word that you have spoken concerning your servant, and concerning his house, be established forever, and do as you have spoken.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Let your name be established and magnified forever, saying, ‘Yahweh of Armies is the God of Israel, even a God to Israel. The house of David your servant is established before you.’  "
+		"value": "Let your name be established and magnified forever, saying, ‘The LORD of Armies is the God of Israel, even a God to Israel. The house of David your servant is established before you.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -5315,14 +5600,14 @@
 		"chapterNumber": 17,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "Now, Yahweh, you are God, and have promised this good thing to your servant.  "
+		"value": "Now, LORD, you are God, and have promised this good thing to your servant.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Now it has pleased you to bless the house of your servant, that it may continue forever before you; for you, Yahweh, have blessed, and it is blessed forever.” "
+		"value": "Now it has pleased you to bless the house of your servant, that it may continue forever before you; for you, LORD, have blessed, and it is blessed forever.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5342,14 +5627,20 @@
 		"chapterNumber": 18,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "He defeated Moab; and the Moabites became servants to David, and brought tribute.  "
+		"value": "He defeated Moab; and the Moabites became servants to David and brought tribute. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David defeated Hadadezer king of Zobah to Hamath, as he went to establish his dominion by the river Euphrates.  "
+		"value": "David defeated Hadadezer king of Zobah, towards Hamath, as he went to establish his dominion by the river Euphrates.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5370,7 +5661,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought tribute. Yahweh gave victory to David wherever he went.  "
+		"value": "Then David put garrisons in Syria of Damascus; and the Syrians became servants to David and brought tribute. The LORD gave victory to David wherever he went.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5404,14 +5695,20 @@
 		"chapterNumber": 18,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "he sent Hadoram his son to king David, to Greet him, and to bless him, because he had fought against Hadadezer and struck him (for Hadadezer had wars with Tou); and he had with him all kinds of vessels of gold and silver and bronze.  "
+		"value": "he sent Hadoram his son to King David to greet him and to bless him, because he had fought against Hadadezer and struck him (for Hadadezer had wars with Tou); and he had with him all kinds of vessels of gold and silver and bronze.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "King David also dedicated these to Yahweh, with the silver and the gold that he carried away from all the nations; from Edom, from Moab, from the children of Ammon, from the Philistines, and from Amalek.  "
+		"value": "King David also dedicated these to the LORD, with the silver and the gold that he carried away from all the nations: from Edom, from Moab, from the children of Ammon, from the Philistines, and from Amalek. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5425,7 +5722,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "He put garrisons in Edom; and all the Edomites became servants to David. Yahweh gave victory to David wherever he went. "
+		"value": "He put garrisons in Edom; and all the Edomites became servants to David. The LORD gave victory to David wherever he went. "
 	},
 	{
 		"type": "paragraph end"
@@ -5452,7 +5749,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Zadok the son of Ahitub, and Abimelech the son of Abiathar, were priests; Shavsha was scribe;  "
+		"value": "Zadok the son of Ahitub and Abimelech the son of Abiathar were priests; Shavsha was scribe;  "
 	},
 	{
 		"type": "paragraph text",
@@ -5492,14 +5789,14 @@
 		"chapterNumber": 19,
 		"verseNumber": 2,
 		"sectionNumber": 2,
-		"value": "So David sent messengers to comfort him concerning his father. David’s servants came into the land of the children of Ammon to Hanun, to comfort him.  "
+		"value": "So David sent messengers to comfort him concerning his father. David’s servants came into the land of the children of Ammon to Hanun to comfort him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "But the princes of the children of Ammon said to Hanun, “Do you think that David honors your father, in that he has sent comforters to you? Haven’t his servants come to you to search, to overthrow, and to spy out the land?”  "
+		"value": "But the princes of the children of Ammon said to Hanun, “Do you think that David honours your father, in that he has sent comforters to you? Haven’t his servants come to you to search, to overthrow, and to spy out the land?”  "
 	},
 	{
 		"type": "paragraph text",
@@ -5547,7 +5844,13 @@
 		"chapterNumber": 19,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "The children of Ammon came out, and put the battle in array at the gate of the city; and the kings who had come were by themselves in the field.  "
+		"value": "The children of Ammon came out, and put the battle in array at the gate of the city; and the kings who had come were by themselves in the field. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5575,7 +5878,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Be courageous, and let’s be strong for our people and for the cities of our God. May Yahweh do that which seems good to him.” "
+		"value": "Be courageous, and let’s be strong for our people and for the cities of our God. May the LORD do that which seems good to him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5608,28 +5911,28 @@
 		"chapterNumber": 19,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "When the Syrians saw that they were defeated by Israel, they sent messengers, and called out the Syrians who were beyond the River, with Shophach the captain of the army of Hadadezer leading them.  "
+		"value": "When the Syrians saw that they were defeated by Israel, they sent messengers and called out the Syrians who were beyond the River, with Shophach the captain of the army of Hadadezer leading them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "David was told that; so he gathered all Israel together, passed over the Jordan, came to them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him.  "
+		"value": "David was told that, so he gathered all Israel together, passed over the Jordan, came to them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "The Syrians fled before Israel; and David killed of the Syrian men seven thousand chariots, and forty thousand footmen, and also killed Shophach the captain of the army.  "
+		"value": "The Syrians fled before Israel; and David killed of the Syrian men seven thousand charioteers and forty thousand footmen, and also killed Shophach the captain of the army.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "When the servants of Hadadezer saw that they were defeated by Israel, they made peace with David, and served him. The Syrians would not help the children of Ammon any more. "
+		"value": "When the servants of Hadadezer saw that they were defeated by Israel, they made peace with David and served him. The Syrians would not help the children of Ammon any more. "
 	},
 	{
 		"type": "paragraph end"
@@ -5642,7 +5945,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "At the time of the return of the year, at the time when kings go out, Joab led out the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it.  "
+		"value": "At the time of the return of the year, at the time when kings go out, Joab led out the army and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5689,21 +5992,21 @@
 		"chapterNumber": 20,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "There was again war at Gath, where there was a man of great stature, who had twenty-four fingers and toes, six on each hand, and six on each foot; and he also was born to the giant.  "
+		"value": "There was again war at Gath, where there was a man of great stature, who had twenty-four fingers and toes, six on each hand and six on each foot; and he also was born to the giant.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "When he defied Israel, Jonathan the son of Shimea David’s brother killed him.  "
+		"value": "When he defied Israel, Jonathan the son of Shimea, David’s brother, killed him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "These were born to the giant in Gath; and they fell by the hand of David, and by the hand of his servants. "
+		"value": "These were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants. "
 	},
 	{
 		"type": "paragraph end"
@@ -5736,7 +6039,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Joab said, “May Yahweh make his people a hundred times as many as they are. But, my lord the king, aren’t they all my lord’s servants? Why does my lord require this thing? Why will he be a cause of guilt to Israel?” "
+		"value": "Joab said, “May the LORD make his people a hundred times as many as they are. But, my lord the king, aren’t they all my lord’s servants? Why does my lord require this thing? Why will he be a cause of guilt to Israel?” "
 	},
 	{
 		"type": "paragraph end"
@@ -5749,21 +6052,21 @@
 		"chapterNumber": 21,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Nevertheless the king’s word prevailed against Joab. Therefore Joab departed, and went throughout all Israel, then came to Jerusalem.  "
+		"value": "Nevertheless the king’s word prevailed against Joab. Therefore Joab departed and went throughout all Israel, then came to Jerusalem.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Joab gave up the sum of the census of the people to David. All those of Israel were one million one hundred thousand men who drew a sword; and in Judah were four hundred seventy thousand men who drew a sword.  "
+		"value": "Joab gave the sum of the census of the people to David. All those of Israel were one million one hundred thousand men who drew a sword; and in Judah were four hundred and seventy thousand men who drew a sword.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "But he didn’t count Levi and Benjamin among them; for the king’s word was abominable to Joab. "
+		"value": "But he didn’t count Levi and Benjamin amongst them, for the king’s word was abominable to Joab. "
 	},
 	{
 		"type": "paragraph end"
@@ -5783,7 +6086,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "David said to God, “I have sinned greatly, in that I have done this thing. But now put away, I beg you, the iniquity of your servant; for I have done very foolishly.” "
+		"value": "David said to God, “I have sinned greatly, in that I have done this thing. But now put away, I beg you, the iniquity of your servant, for I have done very foolishly.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5796,14 +6099,14 @@
 		"chapterNumber": 21,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Yahweh spoke to Gad, David’s seer, saying,  "
+		"value": "The LORD spoke to Gad, David’s seer, saying,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "“Go and speak to David, saying, ‘Yahweh says, “I offer you three things. Choose one of them, that I may do it to you.” ’ ” "
+		"value": "“Go and speak to David, saying, ‘The LORD says, “I offer you three things. Choose one of them, that I may do it to you.” ’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -5816,14 +6119,14 @@
 		"chapterNumber": 21,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "So Gad came to David, and said to him, “Yahweh says, ‘Take your choice:  "
+		"value": "So Gad came to David and said to him, “The LORD says, ‘Take your choice:  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "either three years of famine; or three months to be consumed before your foes, while the sword of your enemies overtakes you; or else three days the sword of Yahweh, even pestilence in the land, and Yahweh’s angel destroying throughout all the borders of Israel. Now therefore consider what answer I shall return to him who sent me.’ ” "
+		"value": "either three years of famine; or three months to be consumed before your foes, while the sword of your enemies overtakes you; or else three days of the sword of the LORD, even pestilence in the land, and the LORD’s angel destroying throughout all the borders of Israel. Now therefore consider what answer I shall return to him who sent me.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -5836,7 +6139,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "David said to Gad, “I am in distress. Let me fall, I pray, into Yahweh’s hand; for his mercies are very great. Don’t let me fall into man’s hand.” "
+		"value": "David said to Gad, “I am in distress. Let me fall, I pray, into the LORD’s hand, for his mercies are very great. Don’t let me fall into man’s hand.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5849,21 +6152,21 @@
 		"chapterNumber": 21,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "So Yahweh sent a pestilence on Israel, and seventy thousand men of Israel fell.  "
+		"value": "So the LORD sent a pestilence on Israel, and seventy thousand men of Israel fell.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "God sent an angel to Jerusalem to destroy it. As he was about to destroy, Yahweh saw, and he relented of the disaster, and said to the destroying angel, “It is enough. Now withdraw your hand.” Yahweh’s angel was standing by the threshing floor of Ornan the Jebusite.  "
+		"value": "God sent an angel to Jerusalem to destroy it. As he was about to destroy, the LORD saw, and he relented of the disaster, and said to the destroying angel, “It is enough. Now withdraw your hand.” the LORD’s angel was standing by the threshing floor of Ornan the Jebusite.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "David lifted up his eyes, and saw Yahweh’s angel standing between earth and the sky, having a drawn sword in his hand stretched out over Jerusalem. "
+		"value": "David lifted up his eyes, and saw the LORD’s angel standing between earth and the sky, having a drawn sword in his hand stretched out over Jerusalem. "
 	},
 	{
 		"type": "paragraph end"
@@ -5883,7 +6186,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "David said to God, “Isn’t it I who commanded the people to be counted? It is even I who have sinned and done very wickedly; but these sheep, what have they done? Please let your hand, O Yahweh my God, be against me, and against my father’s house; but not against your people, that they should be plagued.” "
+		"value": "David said to God, “Isn’t it I who commanded the people to be counted? It is even I who have sinned and done very wickedly; but these sheep, what have they done? Please let your hand, O LORD my God, be against me and against my father’s house; but not against your people, that they should be plagued.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5896,14 +6199,14 @@
 		"chapterNumber": 21,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Then Yahweh’s angel commanded Gad to tell David that David should go up and raise an altar to Yahweh on the threshing floor of Ornan the Jebusite.  "
+		"value": "Then the LORD’s angel commanded Gad to tell David that David should go up and raise an altar to the LORD on the threshing floor of Ornan the Jebusite.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "David went up at the saying of Gad, which he spoke in Yahweh’s name. "
+		"value": "David went up at the saying of Gad, which he spoke in the LORD’s name. "
 	},
 	{
 		"type": "paragraph end"
@@ -5916,7 +6219,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Ornan turned back, and saw the angel; and his four sons who were with him hid themselves. Now Ornan was threshing wheat.  "
+		"value": "Ornan turned back and saw the angel; and his four sons who were with him hid themselves. Now Ornan was threshing wheat.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5936,7 +6239,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Then David said to Ornan, “Give me the place of this threshing floor, that I may build an altar to Yahweh on it. You shall sell it to me for the full price, that the plague may be stopped from afflicting the people.” "
+		"value": "Then David said to Ornan, “Sell me the place of this threshing floor, that I may build an altar to the LORD on it. You shall sell it to me for the full price, that the plague may be stopped from afflicting the people.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5962,7 +6265,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "King David said to Ornan, “No; but I will most certainly buy it for the full price. For I will not take that which is yours for Yahweh, nor offer a burnt offering that costs me nothing.” "
+		"value": "King David said to Ornan, “No, but I will most certainly buy it for the full price. For I will not take that which is yours for the LORD, nor offer a burnt offering that costs me nothing.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5982,7 +6285,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "David built an altar to Yahweh there, and offered burnt offerings and peace offerings, and called on Yahweh; and he answered him from the sky by fire on the altar of burnt offering. "
+		"value": "David built an altar to the LORD there, and offered burnt offerings and peace offerings, and called on the LORD; and he answered him from the sky by fire on the altar of burnt offering. "
 	},
 	{
 		"type": "paragraph end"
@@ -5995,28 +6298,34 @@
 		"chapterNumber": 21,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Then Yahweh commanded the angel, and he put his sword back into its sheath.  "
+		"value": "Then The LORD commanded the angel, and he put his sword back into its sheath. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "At that time, when David saw that Yahweh had answered him in the threshing floor of Ornan the Jebusite, then he sacrificed there.  "
+		"value": "At that time, when David saw that the LORD had answered him in the threshing floor of Ornan the Jebusite, then he sacrificed there.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "For Yahweh’s tabernacle, which Moses made in the wilderness, and the altar of burnt offering, were at that time in the high place at Gibeon.  "
+		"value": "For the LORD’s tabernacle, which Moses made in the wilderness, and the altar of burnt offering, were at that time in the high place at Gibeon.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "But David couldn’t go before it to inquire of God; for he was afraid because of the sword of Yahweh’s angel. "
+		"value": "But David couldn’t go before it to enquire of God, for he was afraid because of the sword of the LORD’s angel. "
 	},
 	{
 		"type": "paragraph end"
@@ -6029,7 +6338,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Then David said, “This is the house of Yahweh God, and this is the altar of burnt offering for Israel.” "
+		"value": "Then David said, “This is the house of the LORD God, and this is the altar of burnt offering for Israel.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6049,7 +6358,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David prepared iron in abundance for the nails for the doors of the gates, and for the couplings; and bronze in abundance without weight;  "
+		"value": "David prepared iron in abundance for the nails for the doors of the gates and for the couplings, and bronze in abundance without weight,  "
 	},
 	{
 		"type": "paragraph text",
@@ -6063,28 +6372,28 @@
 		"chapterNumber": 22,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "David said, “Solomon my son is young and tender, and the house that is to be built for Yahweh must be exceedingly magnificent, of fame and of glory throughout all countries. I will therefore make preparation for it.” So David prepared abundantly before his death.  "
+		"value": "David said, “Solomon my son is young and tender, and the house that is to be built for the LORD must be exceedingly magnificent, of fame and of glory throughout all countries. I will therefore make preparation for it.” So David prepared abundantly before his death.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Then he called for Solomon his son, and commanded him to build a house for Yahweh, the God of Israel.  "
+		"value": "Then he called for Solomon his son, and commanded him to build a house for the LORD, the God of Israel.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "David said to Solomon his son, “As for me, it was in my heart to build a house to the name of Yahweh my God.  "
+		"value": "David said to Solomon his son, “As for me, it was in my heart to build a house to the name of the LORD my God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But Yahweh’s word came to me, saying, ‘You have shed blood abundantly, and have made great wars. You shall not build a house to my name, because you have shed much blood on the earth in my sight.  "
+		"value": "But the LORD’s word came to me, saying, ‘You have shed blood abundantly and have made great wars. You shall not build a house to my name, because you have shed much blood on the earth in my sight.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6105,42 +6414,42 @@
 		"chapterNumber": 22,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Now, my son, may Yahweh be with you and prosper you, and build the house of Yahweh your God, as he has spoken concerning you.  "
+		"value": "Now, my son, may the LORD be with you and prosper you, and build the house of the LORD your God, as he has spoken concerning you.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "May Yahweh give you discretion and understanding, and put you in charge of Israel; that so you may keep the law of Yahweh your God.  "
+		"value": "May the LORD give you discretion and understanding, and put you in charge of Israel, so that you may keep the law of the LORD your God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Then you will prosper, if you observe to do the statutes and the ordinances which Yahweh gave Moses concerning Israel. Be strong and courageous. Don’t be afraid, and don’t be dismayed.  "
+		"value": "Then you will prosper, if you observe to do the statutes and the ordinances which the LORD gave Moses concerning Israel. Be strong and courageous. Don’t be afraid and don’t be dismayed.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Now, behold, in my affliction I have prepared for Yahweh’s house one hundred thousand talents of gold, one million talents of silver, and bronze and iron without weight; for it is in abundance. I have also prepared timber and stone; and you may add to them.  "
+		"value": "Now, behold, in my affliction I have prepared for the LORD’s house one hundred thousand talents of gold, one million talents of silver, and bronze and iron without weight; for it is in abundance. I have also prepared timber and stone; and you may add to them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "There are also workmen with you in abundance, cutters and workers of stone and timber, and all kinds of men who are skillful in every kind of work;  "
+		"value": "There are also workmen with you in abundance—cutters and workers of stone and timber, and all kinds of men who are skilful in every kind of work;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "of the gold, the silver, the bronze, and the iron, there is no number. Arise and be doing, and may Yahweh be with you.” "
+		"value": "of the gold, the silver, the bronze, and the iron, there is no number. Arise and be doing, and may the LORD be with you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6160,14 +6469,14 @@
 		"chapterNumber": 22,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "“Isn’t Yahweh your God with you? Hasn’t he given you rest on every side? For he has delivered the inhabitants of the land into my hand; and the land is subdued before Yahweh, and before his people.  "
+		"value": "“Isn’t the LORD your God with you? Hasn’t he given you rest on every side? For he has delivered the inhabitants of the land into my hand; and the land is subdued before the LORD and before his people.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Now set your heart and your soul to follow Yahweh your God. Arise therefore, and build the sanctuary of Yahweh God, to bring the ark of Yahweh’s covenant and the holy vessels of God into the house that is to be built for Yahweh’s name.” "
+		"value": "Now set your heart and your soul to follow the LORD your God. Arise therefore, and build the sanctuary of the LORD God, to bring the ark of the LORD’s covenant and the holy vessels of God into the house that is to be built for the LORD’s name.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6201,14 +6510,14 @@
 		"chapterNumber": 23,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "David said, “Of these, twenty-four thousand were to oversee the work of Yahweh’s house, six thousand were officers and judges,  "
+		"value": "David said, “Of these, twenty-four thousand were to oversee the work of the LORD’s house, six thousand were officers and judges,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "four thousand were doorkeepers, and four thousand praised Yahweh with the instruments which I made for giving praise.” "
+		"value": "four thousand were doorkeepers, and four thousand praised the LORD with the instruments which I made for giving praise.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6282,14 +6591,14 @@
 		"chapterNumber": 23,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "The sons of Amram: Aaron and Moses; and Aaron was separated, that he should sanctify the most holy things, he and his sons, forever, to burn incense before Yahweh, to minister to him, and to bless in his name, forever.  "
+		"value": "The sons of Amram: Aaron and Moses; and Aaron was separated that he should sanctify the most holy things, he and his sons forever, to burn incense before the LORD, to minister to him, and to bless in his name forever.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "But as for Moses the man of God, his sons were named among the tribe of Levi.  "
+		"value": "But as for Moses the man of God, his sons were named amongst the tribe of Levi.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6310,14 +6619,14 @@
 		"chapterNumber": 23,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "The sons of Eliezer were: Rehabiah the chief; and Eliezer had no other sons; but the sons of Rehabiah were very many.  "
+		"value": "The son of Eliezer was Rehabiah the chief; and Eliezer had no other sons, but the sons of Rehabiah were very many.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "The sons of Izhar: Shelomith the chief.  "
+		"value": "The son of Izhar: Shelomith the chief.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6331,7 +6640,13 @@
 		"chapterNumber": 23,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "The sons of Uzziel: Micah the chief, and Isshiah the second.  "
+		"value": "The sons of Uzziel: Micah the chief, and Isshiah the second. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -6345,7 +6660,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Eleazar died, and had no sons, but daughters only: and their brothers the sons of Kish took them as wives.  "
+		"value": "Eleazar died, and had no sons, but daughters only; and their relatives, the sons of Kish, took them as wives.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6365,14 +6680,14 @@
 		"chapterNumber": 23,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "These were the sons of Levi after their fathers’ houses, even the heads of the fathers’ houses of those who were counted individually, in the number of names by their polls, who did the work for the service of Yahweh’s house, from twenty years old and upward.  "
+		"value": "These were the sons of Levi after their fathers’ houses, even the heads of the fathers’ houses of those who were counted individually, in the number of names by their polls, who did the work for the service of the LORD’s house, from twenty years old and upward.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "For David said, “Yahweh, the God of Israel, has given rest to his people; and he dwells in Jerusalem forever.  "
+		"value": "For David said, “The LORD, the God of Israel, has given rest to his people; and he dwells in Jerusalem forever.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6393,7 +6708,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "For their office was to wait on the sons of Aaron for the service of Yahweh’s house, in the courts, and in the rooms, and in the purifying of all holy things, even the work of the service of God’s house;  "
+		"value": "For their duty was to wait on the sons of Aaron for the service of the LORD’s house—in the courts, in the rooms, and in the purifying of all holy things, even the work of the service of God’s house;  "
 	},
 	{
 		"type": "paragraph text",
@@ -6407,21 +6722,21 @@
 		"chapterNumber": 23,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "and to stand every morning to thank and praise Yahweh, and likewise in the evening;  "
+		"value": "and to stand every morning to thank and praise the LORD, and likewise in the evening;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "and to offer all burnt offerings to Yahweh, on the Sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before Yahweh;  "
+		"value": "and to offer all burnt offerings to the LORD on the Sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before the LORD;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "and that they should keep the duty of the Tent of Meeting, the duty of the holy place, and the duty of the sons of Aaron their brothers, for the service of Yahweh’s house. "
+		"value": "and that they should keep the duty of the Tent of Meeting, the duty of the holy place, and the duty of the sons of Aaron their brothers for the service of the LORD’s house. "
 	},
 	{
 		"type": "paragraph end"
@@ -6441,14 +6756,14 @@
 		"chapterNumber": 24,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.  "
+		"value": "But Nadab and Abihu died before their father, and had no children; therefore Eleazar and Ithamar served as priests.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David with Zadok of the sons of Eleazar and Ahimelech of the sons of Ithamar, divided them according to their ordering in their service.  "
+		"value": "David, with Zadok of the sons of Eleazar and Ahimelech of the sons of Ithamar, divided them according to their ordering in their service.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6462,14 +6777,20 @@
 		"chapterNumber": 24,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Thus they were divided impartially by drawing lots; for there were princes of the sanctuary, and princes of God, both of the sons of Eleazar, and of the sons of Ithamar.  "
+		"value": "Thus they were divided impartially by drawing lots; for there were princes of the sanctuary and princes of God, both of the sons of Eleazar, and of the sons of Ithamar.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Shemaiah the son of Nethanel the scribe, who was of the Levites, wrote them in the presence of the king, the princes, Zadok the priest, Ahimelech the son of Abiathar, and the heads of the fathers’ households of the priests and of the Levites; one fathers’ house being taken for Eleazar, and one taken for Ithamar.  "
+		"value": "Shemaiah the son of Nethanel the scribe, who was of the Levites, wrote them in the presence of the king, the princes, Zadok the priest, Ahimelech the son of Abiathar, and the heads of the fathers’ households of the priests and of the Levites; one fathers’ house being taken for Eleazar, and one taken for Ithamar. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -6560,7 +6881,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "This was their ordering in their service, to come into Yahweh’s house according to the ordinance given to them by Aaron their father, as Yahweh, the God of Israel, had commanded him. "
+		"value": "This was their ordering in their service, to come into the LORD’s house according to the ordinance given to them by Aaron their father, as the LORD, the God of Israel, had commanded him. "
 	},
 	{
 		"type": "paragraph end"
@@ -6622,7 +6943,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "The sons of Merari: of Jaaziah, Beno, Shoham, Zaccur, and Ibri.  "
+		"value": "The sons of Merari by Jaaziah: Beno, Shoham, Zaccur, and Ibri.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6650,7 +6971,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "These likewise cast lots even as their brothers the sons of Aaron in the presence of David the king, Zadok, Ahimelech, and the heads of the fathers’ households of the priests and of the Levites; the fathers’ households of the chief even as those of his younger brother. "
+		"value": "These likewise cast lots even as their brothers the sons of Aaron in the presence of David the king, Zadok, Ahimelech, and the heads of the fathers’ households of the priests and of the Levites, the fathers’ households of the chief even as those of his younger brother. "
 	},
 	{
 		"type": "paragraph end"
@@ -6663,7 +6984,7 @@
 		"chapterNumber": 25,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Moreover, David and the captains of the army set apart for the service certain of the sons of Asaph, and of Heman, and of Jeduthun, who were to prophesy with harps, with stringed instruments, and with cymbals. The number of those who did the work according to their service was:  "
+		"value": "Moreover, David and the captains of the army set apart for the service certain of the sons of Asaph, of Heman, and of Jeduthun, who were to prophesy with harps, with stringed instruments, and with cymbals. The number of those who did the work according to their service was:  "
 	},
 	{
 		"type": "paragraph text",
@@ -6677,7 +6998,7 @@
 		"chapterNumber": 25,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied in giving thanks and praising Yahweh with the harp.  "
+		"value": "Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied in giving thanks and praising the LORD with the harp.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6698,14 +7019,14 @@
 		"chapterNumber": 25,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "All these were under the hands of their father for song in Yahweh’s house, with cymbals, stringed instruments, and harps, for the service of God’s house: Asaph, Jeduthun, and Heman being under the order of the king.  "
+		"value": "All these were under the hands of their father for song in the LORD’s house, with cymbals, stringed instruments, and harps, for the service of God’s house: Asaph, Jeduthun, and Heman being under the order of the king.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 25,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "The number of them, with their brothers who were instructed in singing to Yahweh, even all who were skillful, was two hundred eighty-eight.  "
+		"value": "The number of them, with their brothers who were instructed in singing to the LORD, even all who were skilful, was two hundred and eighty-eight.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6927,28 +7248,28 @@
 		"chapterNumber": 26,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Sons were also born to Shemaiah his son, who ruled over the house of their father; for they were mighty men of valor.  "
+		"value": "Sons were also born to Shemaiah his son, who ruled over the house of their father; for they were mighty men of valour.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "The sons of Shemaiah: Othni, Rephael, Obed, and Elzabad, whose brothers were valiant men, Elihu, and Semachiah.  "
+		"value": "The sons of Shemaiah: Othni, Rephael, Obed, and Elzabad, whose relatives were valiant men, Elihu, and Semachiah.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "All these were of the sons of Obed-Edom: they and their sons and their brothers, able men in strength for the service: sixty-two of Obed-Edom.  "
+		"value": "All these were of the sons of Obed-Edom with their sons and their brothers, able men in strength for the service: sixty-two of Obed-Edom.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Meshelemiah had sons and brothers, valiant men, eighteen.  "
+		"value": "Meshelemiah had sons and brothers, eighteen valiant men.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6962,14 +7283,20 @@
 		"chapterNumber": 26,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Hilkiah the second, Tebaliah the third, and Zechariah the fourth. All the sons and brothers of Hosah were thirteen.  "
+		"value": "Hilkiah the second, Tebaliah the third, and Zechariah the fourth. All the sons and brothers of Hosah were thirteen. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Of these were the divisions of the doorkeepers, even of the chief men, having offices like their brothers, to minister in Yahweh’s house.  "
+		"value": "Of these were the divisions of the doorkeepers, even of the chief men, having offices like their brothers, to minister in the LORD’s house.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6983,7 +7310,7 @@
 		"chapterNumber": 26,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "The lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counselor, they cast lots; and his lot came out northward.  "
+		"value": "The lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counsellor, they cast lots; and his lot came out northward.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7045,7 +7372,7 @@
 		"chapterNumber": 26,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "The sons of Jehieli: Zetham, and Joel his brother, over the treasures of Yahweh’s house.  "
+		"value": "The sons of Jehieli: Zetham, and Joel his brother, over the treasures of the LORD’s house.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7059,7 +7386,7 @@
 		"chapterNumber": 26,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "and Shebuel the son of Gershom, the son of Moses, was ruler over the treasures.  "
+		"value": "Shebuel the son of Gershom, the son of Moses, was ruler over the treasuries.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7073,49 +7400,55 @@
 		"chapterNumber": 26,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "This Shelomoth and his brothers were over all the treasures of the dedicated things, which David the king, and the heads of the fathers’ households, the captains over thousands and hundreds, and the captains of the army, had dedicated.  "
+		"value": "This Shelomoth and his brothers were over all the treasuries of the dedicated things, which David the king, and the heads of the fathers’ households, the captains over thousands and hundreds, and the captains of the army, had dedicated.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "They dedicated some of the plunder won in battles to repair Yahweh’s house.  "
+		"value": "They dedicated some of the plunder won in battles to repair the LORD’s house.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "All that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated, whoever had dedicated anything, it was under the hand of Shelomoth, and of his brothers.  "
+		"value": "All that Samuel the seer, Saul the son of Kish, Abner the son of Ner, and Joab the son of Zeruiah had dedicated, whoever had dedicated anything, it was under the hand of Shelomoth and of his brothers. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges.  "
+		"value": "Of the Izharites, Chenaniah and his sons were appointed to the outward business over Israel, for officers and judges.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "Of the Hebronites, Hashabiah and his brothers, men of valor, one thousand seven hundred, had the oversight of Israel beyond the Jordan westward, for all the business of Yahweh, and for the service of the king.  "
+		"value": "Of the Hebronites, Hashabiah and his brothers, one thousand and seven hundred men of valour, had the oversight of Israel beyond the Jordan westward, for all the business of the LORD and for the service of the king.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Of the Hebronites, Jerijah was the chief, even of the Hebronites, according to their generations by fathers’ households. They were sought for in the fortieth year of the reign of David, and mighty men of valor were found among them at Jazer of Gilead.  "
+		"value": "Of the Hebronites, Jerijah was the chief of the Hebronites, according to their generations by fathers’ households. They were sought for in the fortieth year of the reign of David, and mighty men of valour were found amongst them at Jazer of Gilead.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "His brothers, men of valor, were two thousand seven hundred, heads of fathers’ households, whom king David made overseers over the Reubenites, the Gadites, and the half-tribe of the Manassites, for every matter pertaining to God, and for the affairs of the king. "
+		"value": "His relatives, men of valour, were two thousand and seven hundred, heads of fathers’ households, whom King David made overseers over the Reubenites, the Gadites, and the half-tribe of the Manassites, for every matter pertaining to God and for the affairs of the king. "
 	},
 	{
 		"type": "paragraph end"
@@ -7128,14 +7461,20 @@
 		"chapterNumber": 27,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now the children of Israel after their number, the heads of fathers’ households and the captains of thousands and of hundreds, and their officers who served the king, in any matter of the divisions which came in and went out month by month throughout all the months of the year—of every division were twenty-four thousand.  "
+		"value": "Now the children of Israel after their number, the heads of fathers’ households and the captains of thousands and of hundreds, and their officers who served the king in any matter of the divisions which came in and went out month by month throughout all the months of the year—of every division were twenty-four thousand. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Over the first division for the first month was Jashobeam the son of Zabdiel: and in his division were twenty-four thousand.  "
+		"value": "Over the first division for the first month was Jashobeam the son of Zabdiel. In his division were twenty-four thousand.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7149,7 +7488,7 @@
 		"chapterNumber": 27,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Over the division of the second month was Dodai the Ahohite, and his division; and Mikloth the ruler: and in his division were twenty-four thousand.  "
+		"value": "Over the division of the second month was Dodai the Ahohite and his division, and Mikloth the ruler; and in his division were twenty-four thousand.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7163,28 +7502,28 @@
 		"chapterNumber": 27,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "This is that Benaiah who was the mighty man of the thirty, and over the thirty: and of his division was Ammizabad his son.  "
+		"value": "This is that Benaiah who was the mighty man of the thirty and over the thirty. Of his division was Ammizabad his son.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his division were twenty-four thousand.  "
+		"value": "The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him. In his division were twenty-four thousand.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "The fifth captain for the fifth month was Shamhuth the Izrahite: and in his division were twenty-four thousand.  "
+		"value": "The fifth captain for the fifth month was Shamhuth the Izrahite. In his division were twenty-four thousand.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite: and in his division were twenty-four thousand.  "
+		"value": "The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite. In his division were twenty-four thousand.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7226,7 +7565,13 @@
 		"chapterNumber": 27,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel. In his division were twenty-four thousand.  "
+		"value": "The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel. In his division were twenty-four thousand. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -7282,14 +7627,14 @@
 		"chapterNumber": 27,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "But David didn’t take the number of them from twenty years old and under, because Yahweh had said he would increase Israel like the stars of the sky.  "
+		"value": "But David didn’t take the number of them from twenty years old and under, because the LORD had said he would increase Israel like the stars of the sky.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Joab the son of Zeruiah began to take a census, but didn’t finish; and wrath came on Israel for this. The number wasn’t put into the account in the chronicles of king David. "
+		"value": "Joab the son of Zeruiah began to take a census, but didn’t finish; and wrath came on Israel for this. The number wasn’t put into the account in the chronicles of King David. "
 	},
 	{
 		"type": "paragraph end"
@@ -7302,49 +7647,49 @@
 		"chapterNumber": 27,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Over the king’s treasures was Azmaveth the son of Adiel: and over the treasures in the fields, in the cities, and in the villages, and in the towers, was Jonathan the son of Uzziah;  "
+		"value": "Over the king’s treasures was Azmaveth the son of Adiel. Over the treasures in the fields, in the cities, in the villages, and in the towers was Jonathan the son of Uzziah;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "Over those who did the work of the field for tillage of the ground was Ezri the son of Chelub;  "
+		"value": "Over those who did the work of the field for tillage of the ground was Ezri the son of Chelub.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "and over the vineyards was Shimei the Ramathite; and over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite;  "
+		"value": "Over the vineyards was Shimei the Ramathite. Over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "and over the olive trees and the sycamore trees that were in the lowland was Baal Hanan the Gederite; and over the cellars of oil was Joash;  "
+		"value": "Over the olive trees and the sycamore trees that were in the lowland was Baal Hanan the Gederite. Over the cellars of oil was Joash.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "and over the herds that fed in Sharon was Shitrai the Sharonite; and over the herds that were in the valleys was Shaphat the son of Adlai;  "
+		"value": "Over the herds that fed in Sharon was Shitrai the Sharonite. Over the herds that were in the valleys was Shaphat the son of Adlai.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "and over the camels was Obil the Ishmaelite; and over the donkeys was Jehdeiah the Meronothite; and over the flocks was Jaziz the Hagrite.  "
+		"value": "Over the camels was Obil the Ishmaelite. Over the donkeys was Jehdeiah the Meronothite. Over the flocks was Jaziz the Hagrite.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "All these were the rulers of the property which was king David’s. "
+		"value": "All these were the rulers of the property which was King David’s. "
 	},
 	{
 		"type": "paragraph end"
@@ -7357,14 +7702,14 @@
 		"chapterNumber": 27,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Also Jonathan, David’s uncle, was a counselor, a man of understanding, and a scribe. Jehiel the son of Hachmoni was with the king’s sons.  "
+		"value": "Also Jonathan, David’s uncle, was a counsellor, a man of understanding, and a scribe. Jehiel the son of Hachmoni was with the king’s sons.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 27,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "Ahithophel was the king’s counselor. Hushai the Archite was the king’s friend.  "
+		"value": "Ahithophel was the king’s counsellor. Hushai the Archite was the king’s friend.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7384,35 +7729,35 @@
 		"chapterNumber": 28,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "David assembled all the princes of Israel, the princes of the tribes, the captains of the companies who served the king by division, the captains of thousands, the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers and the mighty men, even all the mighty men of valor, to Jerusalem.  "
+		"value": "David assembled all the princes of Israel, the princes of the tribes, the captains of the companies who served the king by division, the captains of thousands, the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers and the mighty men, even all the mighty men of valour, to Jerusalem.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Then David the king stood up on his feet, and said, “Hear me, my brothers, and my people! As for me, it was in my heart to build a house of rest for the ark of Yahweh’s covenant, and for the footstool of our God; and I had prepared for the building.  "
+		"value": "Then David the king stood up on his feet and said, “Hear me, my brothers and my people! As for me, it was in my heart to build a house of rest for the ark of the LORD’s covenant, and for the footstool of our God; and I had prepared for the building.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "But God said to me, ‘You shall not build a house for my name, because you are a man of war, and have shed blood.’  "
+		"value": "But God said to me, ‘You shall not build a house for my name, because you are a man of war and have shed blood.’  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "However Yahweh, the God of Israel, chose me out of all the house of my father to be king over Israel forever. For he has chosen Judah to be prince; and in the house of Judah, the house of my father; and among the sons of my father he took pleasure in me to make me king over all Israel.  "
+		"value": "However the LORD, the God of Israel, chose me out of all the house of my father to be king over Israel forever. For he has chosen Judah to be prince; and in the house of Judah, the house of my father; and amongst the sons of my father he took pleasure in me to make me king over all Israel.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Of all my sons (for Yahweh has given me many sons), he has chosen Solomon my son to sit on the throne of Yahweh’s kingdom over Israel.  "
+		"value": "Of all my sons (for the LORD has given me many sons), he has chosen Solomon my son to sit on the throne of the LORD’s kingdom over Israel.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7439,21 +7784,27 @@
 		"chapterNumber": 28,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Now therefore, in the sight of all Israel, Yahweh’s assembly, and in the audience of our God, observe and seek out all the commandments of Yahweh your God; that you may possess this good land, and leave it for an inheritance to your children after you forever.  "
+		"value": "Now therefore, in the sight of all Israel, the LORD’s assembly, and in the audience of our God, observe and seek out all the commandments of the LORD your God, that you may possess this good land, and leave it for an inheritance to your children after you forever. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "You, Solomon my son, know the God of your father, and serve him with a perfect heart and with a willing mind; for Yahweh searches all hearts, and understands all the imaginations of the thoughts. If you seek him, he will be found by you; but if you forsake him, he will cast you off forever.  "
+		"value": "You, Solomon my son, know the God of your father, and serve him with a perfect heart and with a willing mind; for the LORD searches all hearts, and understands all the imaginations of the thoughts. If you seek him, he will be found by you; but if you forsake him, he will cast you off forever.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Take heed now; for Yahweh has chosen you to build a house for the sanctuary. Be strong, and do it.” "
+		"value": "Take heed now, for the LORD has chosen you to build a house for the sanctuary. Be strong, and do it.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7473,21 +7824,21 @@
 		"chapterNumber": 28,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "and the plans of all that he had by the Spirit, for the courts of Yahweh’s house, for all the surrounding rooms, for the treasuries of God’s house, and for the treasuries of the dedicated things;  "
+		"value": "and the plans of all that he had by the Spirit, for the courts of the LORD’s house, for all the surrounding rooms, for the treasuries of God’s house, and for the treasuries of the dedicated things;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "also for the divisions of the priests and the Levites, for all the work of the service of Yahweh’s house, and for all the vessels of service in Yahweh’s house;  "
+		"value": "also for the divisions of the priests and the Levites, for all the work of the service of the LORD’s house, and for all the vessels of service in the LORD’s house—  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "of gold by weight for the gold, for all vessels of every kind of service; for all the vessels of silver by weight, for all vessels of every kind of service;  "
+		"value": "of gold by weight for the gold for all vessels of every kind of service, for all the vessels of silver by weight, for all vessels of every kind of service;  "
 	},
 	{
 		"type": "paragraph text",
@@ -7515,14 +7866,14 @@
 		"chapterNumber": 28,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "and for the altar of incense refined gold by weight; and gold for the plans for the chariot, and the cherubim that spread out and cover the ark of Yahweh’s covenant.  "
+		"value": "and for the altar of incense, refined gold by weight; and gold for the plans for the chariot, and the cherubim that spread out and cover the ark of the LORD’s covenant.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "“All this”, David said, “I have been made to understand in writing from Yahweh’s hand, even all the works of this pattern.” "
+		"value": "“All this”, David said, “I have been made to understand in writing from the LORD’s hand, even all the works of this pattern.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7535,14 +7886,14 @@
 		"chapterNumber": 28,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "David said to Solomon his son, “Be strong and courageous, and do it. Don’t be afraid, nor be dismayed; for Yahweh God, even my God, is with you. He will not fail you, nor forsake you, until all the work for the service of Yahweh’s house is finished.  "
+		"value": "David said to Solomon his son, “Be strong and courageous, and do it. Don’t be afraid, nor be dismayed, for the LORD God, even my God, is with you. He will not fail you nor forsake you, until all the work for the service of the LORD’s house is finished.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 28,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Behold, there are the divisions of the priests and the Levites, for all the service of God’s house. Every willing man who has skill, for any kind of service, shall be with you in all kinds of work. Also the captains and all the people will be entirely at your command.” "
+		"value": "Behold, there are the divisions of the priests and the Levites for all the service of God’s house. Every willing man who has skill for any kind of service shall be with you in all kinds of work. Also the captains and all the people will be entirely at your command.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7555,21 +7906,21 @@
 		"chapterNumber": 29,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "David the king said to all the assembly, “Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great; for the palace is not for man, but for Yahweh God.  "
+		"value": "David the king said to all the assembly, “Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great; for the palace is not for man, but for the LORD God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Now I have prepared with all my might for the house of my God the gold for the things of gold, the silver for the things of silver, the bronze for the things of bronze, iron for the things of iron, and wood for the things of wood; also onyx stones, stones to be set, stones for inlaid work, of various colors, all kinds of precious stones, and marble stones in abundance.  "
+		"value": "Now I have prepared with all my might for the house of my God the gold for the things of gold, the silver for the things of silver, the bronze for the things of bronze, iron for the things of iron, and wood for the things of wood, also onyx stones, stones to be set, stones for inlaid work of various colours, all kinds of precious stones, and marble stones in abundance.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "In addition, because I have set my affection on the house of my God, since I have a treasure of my own of gold and silver, I give it to the house of my God, over and above all that I have prepared for the holy house,  "
+		"value": "In addition, because I have set my affection on the house of my God, since I have a treasure of my own of gold and silver, I give it to the house of my God, over and above all that I have prepared for the holy house:  "
 	},
 	{
 		"type": "paragraph text",
@@ -7583,7 +7934,7 @@
 		"chapterNumber": 29,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "of gold for the things of gold, and of silver for the things of silver, and for all kinds of work to be made by the hands of artisans. Who then offers willingly to consecrate himself today to Yahweh?” "
+		"value": "of gold for the things of gold, and of silver for the things of silver, and for all kinds of work to be made by the hands of artisans. Who then offers willingly to consecrate himself today to the LORD?” "
 	},
 	{
 		"type": "paragraph end"
@@ -7610,42 +7961,48 @@
 		"chapterNumber": 29,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "People with whom precious stones were found gave them to the treasure of Yahweh’s house, under the hand of Jehiel the Gershonite.  "
+		"value": "People with whom precious stones were found gave them to the treasure of the LORD’s house, under the hand of Jehiel the Gershonite.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Then the people rejoiced, because they offered willingly, because with a perfect heart they offered willingly to Yahweh; and David the king also rejoiced with great joy.  "
+		"value": "Then the people rejoiced, because they offered willingly, because with a perfect heart they offered willingly to the LORD; and David the king also rejoiced with great joy. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Therefore David blessed Yahweh before all the assembly; and David said, “You are blessed, Yahweh, the God of Israel our father, forever and ever.  "
+		"value": "Therefore David blessed the LORD before all the assembly; and David said, “You are blessed, LORD, the God of Israel our father, forever and ever.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Yours, Yahweh, is the greatness, the power, the glory, the victory, and the majesty! For all that is in the heavens and in the earth is yours. Yours is the kingdom, Yahweh, and you are exalted as head above all.  "
+		"value": "Yours, LORD, is the greatness, the power, the glory, the victory, and the majesty! For all that is in the heavens and in the earth is yours. Yours is the kingdom, LORD, and you are exalted as head above all.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Both riches and honor come from you, and you rule over all! In your hand is power and might! It is in your hand to make great, and to give strength to all!  "
+		"value": "Both riches and honour come from you, and you rule over all! In your hand is power and might! It is in your hand to make great, and to give strength to all!  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Now therefore, our God, we thank you, and praise your glorious name.  "
+		"value": "Now therefore, our God, we thank you and praise your glorious name.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7659,28 +8016,28 @@
 		"chapterNumber": 29,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "For we are strangers before you, and foreigners, as all our fathers were. Our days on the earth are as a shadow, and there is no remaining.  "
+		"value": "For we are strangers before you and foreigners, as all our fathers were. Our days on the earth are as a shadow, and there is no remaining.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Yahweh our God, all this store that we have prepared to build you a house for your holy name comes from your hand, and is all your own.  "
+		"value": "LORD our God, all this store that we have prepared to build you a house for your holy name comes from your hand, and is all your own.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "I know also, my God, that you try the heart, and have pleasure in uprightness. As for me, in the uprightness of my heart I have willingly offered all these things. Now I have seen with joy your people, who are present here, offer willingly to you.  "
+		"value": "I know also, my God, that you try the heart and have pleasure in uprightness. As for me, in the uprightness of my heart I have willingly offered all these things. Now I have seen with joy your people, who are present here, offer willingly to you.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Yahweh, the God of Abraham, of Isaac, and of Israel, our fathers, keep this desire forever in the thoughts of the heart of your people, and prepare their heart for you;  "
+		"value": "LORD, the God of Abraham, of Isaac, and of Israel, our fathers, keep this desire forever in the thoughts of the heart of your people, and prepare their heart for you;  "
 	},
 	{
 		"type": "paragraph text",
@@ -7700,7 +8057,7 @@
 		"chapterNumber": 29,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Then David said to all the assembly, “Now bless Yahweh your God!” "
+		"value": "Then David said to all the assembly, “Now bless the LORD your God!” "
 	},
 	{
 		"type": "paragraph end"
@@ -7713,21 +8070,21 @@
 		"chapterNumber": 29,
 		"verseNumber": 20,
 		"sectionNumber": 2,
-		"value": "All the assembly blessed Yahweh, the God of their fathers, and bowed down their heads and prostrated themselves before Yahweh and the king.  "
+		"value": "All the assembly blessed the LORD, the God of their fathers, and bowed down their heads and prostrated themselves before the LORD and the king.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "They sacrificed sacrifices to Yahweh, and offered burnt offerings to Yahweh, on the next day after that day, even one thousand bulls, one thousand rams, and one thousand lambs, with their drink offerings and sacrifices in abundance for all Israel,  "
+		"value": "They sacrificed sacrifices to the LORD and offered burnt offerings to the LORD on the next day after that day, even one thousand bulls, one thousand rams, and one thousand lambs, with their drink offerings and sacrifices in abundance for all Israel,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "and ate and drank before Yahweh on that day with great gladness. They made Solomon the son of David king the second time, and anointed him before Yahweh to be prince, and Zadok to be priest. "
+		"value": "and ate and drank before the LORD on that day with great gladness. They made Solomon the son of David king the second time, and anointed him before the LORD to be prince, and Zadok to be priest. "
 	},
 	{
 		"type": "paragraph end"
@@ -7740,21 +8097,27 @@
 		"chapterNumber": 29,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Then Solomon sat on the throne of Yahweh as king instead of David his father, and prospered; and all Israel obeyed him.  "
+		"value": "Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "All the princes, the mighty men, and also all of the sons of king David submitted themselves to Solomon the king.  "
+		"value": "All the princes, the mighty men, and also all of the sons of King David submitted themselves to Solomon the king.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 29,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Yahweh magnified Solomon exceedingly in the sight of all Israel, and gave to him such royal majesty as had not been on any king before him in Israel.  "
+		"value": "The LORD magnified Solomon exceedingly in the sight of all Israel, and gave to him such royal majesty as had not been on any king before him in Israel. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -7775,7 +8138,7 @@
 		"chapterNumber": 29,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "He died at a good old age, full of days, riches, and honor; and Solomon his son reigned in his place.  "
+		"value": "He died at a good old age, full of days, riches, and honour; and Solomon his son reigned in his place.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7789,7 +8152,7 @@
 		"chapterNumber": 29,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "with all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries. "
+		"value": "with all his reign and his might, and the events that involved him, Israel, and all the kingdoms of the lands. "
 	},
 	{
 		"type": "paragraph end"

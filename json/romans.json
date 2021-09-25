@@ -28,21 +28,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "who was declared to be the Son of God with power, according to the Spirit of holiness, by the resurrection from the dead, Jesus Christ our Lord,  "
+		"value": "who was declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead, Jesus Christ our Lord,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "through whom we received grace and apostleship for obedience of faith among all the nations for his name’s sake;  "
+		"value": "through whom we received grace and apostleship for obedience of faith amongst all the nations for his name’s sake;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "among whom you are also called to belong to Jesus Christ;  "
+		"value": "amongst whom you are also called to belong to Jesus Christ;  "
 	},
 	{
 		"type": "paragraph text",
@@ -103,7 +103,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Now I don’t desire to have you unaware, brothers, that I often planned to come to you, and was hindered so far, that I might have some fruit among you also, even as among the rest of the Gentiles.  "
+		"value": "Now I don’t desire to have you unaware, brothers, that I often planned to come to you (and was hindered so far), that I might have some fruit amongst you also, even as amongst the rest of the Gentiles.  "
 	},
 	{
 		"type": "paragraph text",
@@ -117,7 +117,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "So as much as is in me, I am eager to preach the Good News to you also who are in Rome.  "
+		"value": "So as much as is in me, I am eager to preach the Good News to you also who are in Rome. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -131,7 +137,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”  "
+		"value": "For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -186,14 +198,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Therefore God also gave them up in the lusts of their hearts to uncleanness, that their bodies should be dishonored among themselves;  "
+		"value": "Therefore God also gave them up in the lusts of their hearts to uncleanness, that their bodies should be dishonoured amongst themselves;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "who exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen. "
+		"value": "who exchanged the truth of God for a lie, and worshipped and served the creature rather than the Creator, who is blessed forever. Amen. "
 	},
 	{
 		"type": "paragraph end"
@@ -213,7 +225,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Likewise also the men, leaving the natural function of the woman, burned in their lust toward one another, men doing what is inappropriate with men, and receiving in themselves the due penalty of their error.  "
+		"value": "Likewise also the men, leaving the natural function of the woman, burnt in their lust towards one another, men doing what is inappropriate with men, and receiving in themselves the due penalty of their error.  "
 	},
 	{
 		"type": "paragraph text",
@@ -248,7 +260,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them. "
+		"value": "who, knowing the ordinance of God, that those who practise such things are worthy of death, not only do the same, but also approve of those who practise them. "
 	},
 	{
 		"type": "paragraph end"
@@ -261,21 +273,21 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.  "
+		"value": "Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practise the same things.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "We know that the judgment of God is according to truth against those who practice such things.  "
+		"value": "We know that the judgement of God is according to truth against those who practise such things.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Do you think this, O man who judges those who practice such things, and do the same, that you will escape the judgment of God?  "
+		"value": "Do you think this, O man who judges those who practise such things, and do the same, that you will escape the judgement of God?  "
 	},
 	{
 		"type": "paragraph text",
@@ -289,7 +301,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God;  "
+		"value": "But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgement of God,  "
 	},
 	{
 		"type": "paragraph text",
@@ -303,14 +315,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "to those who by perseverance in well-doing seek for glory, honor, and incorruptibility, eternal life;  "
+		"value": "to those who by perseverance in well-doing seek for glory, honour, and incorruptibility, eternal life;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "but to those who are self-seeking, and don’t obey the truth, but obey unrighteousness, will be wrath, indignation,  "
+		"value": "but to those who are self-seeking and don’t obey the truth, but obey unrighteousness, will be wrath, indignation,  "
 	},
 	{
 		"type": "paragraph text",
@@ -330,7 +342,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "But glory, honor, and peace go to every man who does good, to the Jew first, and also to the Greek.  "
+		"value": "But glory, honour, and peace go to every man who does good, to the Jew first, and also to the Greek.  "
 	},
 	{
 		"type": "paragraph text",
@@ -365,7 +377,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "in that they show the work of the law written in their hearts, their conscience testifying with them, and their thoughts among themselves accusing or else excusing them)  "
+		"value": "in that they show the work of the law written in their hearts, their conscience testifying with them, and their thoughts amongst themselves accusing or else excusing them)  "
 	},
 	{
 		"type": "paragraph text",
@@ -427,14 +439,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "You who glory in the law, do you dishonor God by disobeying the law?  "
+		"value": "You who glory in the law, do you dishonour God by disobeying the law?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "For “the name of God is blasphemed among the Gentiles because of you,”  just as it is written.  "
+		"value": "For “the name of God is blasphemed amongst the Gentiles because of you,”  just as it is written.  "
 	},
 	{
 		"type": "paragraph text",
@@ -455,7 +467,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Won’t the uncircumcision which is by nature, if it fulfills the law, judge you, who with the letter and circumcision are a transgressor of the law?  "
+		"value": "Won’t those who are physically uncircumcised, but fulfil the law, judge you, who with the letter and circumcision are a transgressor of the law?  "
 	},
 	{
 		"type": "paragraph text",
@@ -469,7 +481,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God. "
+		"value": "but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit, not in the letter; whose praise is not from men, but from God. "
 	},
 	{
 		"type": "paragraph end"
@@ -526,7 +538,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 3,
-		"value": "and might prevail when you come into judgment.” "
+		"value": "and might prevail when you come into judgement.” "
 	},
 	{
 		"type": "line break"
@@ -762,7 +774,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Now we know that whatever things the law says, it speaks to those who are under the law, that every mouth may be closed, and all the world may be brought under the judgment of God.  "
+		"value": "Now we know that whatever things the law says, it speaks to those who are under the law, that every mouth may be closed, and all the world may be brought under the judgement of God.  "
 	},
 	{
 		"type": "paragraph text",
@@ -803,21 +815,21 @@
 		"chapterNumber": 3,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "being justified freely by his grace through the redemption that is in Christ Jesus;  "
+		"value": "being justified freely by his grace through the redemption that is in Christ Jesus,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "whom God sent to be an atoning sacrifice, through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance;  "
+		"value": "whom God sent to be an atoning sacrifice through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "to demonstrate his righteousness at this present time; that he might himself be just, and the justifier of him who has faith in Jesus. "
+		"value": "to demonstrate his righteousness at this present time, that he might himself be just and the justifier of him who has faith in Jesus. "
 	},
 	{
 		"type": "paragraph end"
@@ -851,7 +863,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "since indeed there is one God who will justify the circumcised by faith, and the uncircumcised through faith. "
+		"value": "since indeed there is one God who will justify the circumcised by faith and the uncircumcised through faith. "
 	},
 	{
 		"type": "paragraph end"
@@ -884,7 +896,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "For if Abraham was justified by works, he has something to boast about, but not toward God.  "
+		"value": "For if Abraham was justified by works, he has something to boast about, but not towards God.  "
 	},
 	{
 		"type": "paragraph text",
@@ -912,7 +924,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Even as David also pronounces blessing on the man to whom God counts righteousness apart from works, "
+		"value": "Even as David also pronounces blessing on the man to whom God counts righteousness apart from works: "
 	},
 	{
 		"type": "paragraph end"
@@ -968,7 +980,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Is this blessing then pronounced on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.  "
+		"value": "Is this blessing then pronounced only on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.  "
 	},
 	{
 		"type": "paragraph text",
@@ -989,14 +1001,20 @@
 		"chapterNumber": 4,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision.  "
+		"value": "He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For the promise to Abraham and to his offspring that he should be heir of the world wasn’t through the law, but through the righteousness of faith.  "
+		"value": "For the promise to Abraham and to his offspring that he would be heir of the world wasn’t through the law, but through the righteousness of faith.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1010,7 +1028,13 @@
 		"chapterNumber": 4,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "For the law produces wrath, for where there is no law, neither is there disobedience.  "
+		"value": "For the law produces wrath; for where there is no law, neither is there disobedience. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1031,7 +1055,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Besides hope, Abraham in hope believed, to the end that he might become a father of many nations, according to that which had been spoken, “So will your offspring be.”  "
+		"value": "Against hope, Abraham in hope believed, to the end that he might become a father of many nations, according to that which had been spoken, “So will your offspring be.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1073,7 +1097,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "but for our sake also, to whom it will be accounted, who believe in him who raised Jesus, our Lord, from the dead,  "
+		"value": "but for our sake also, to whom it will be accounted, who believe in him who raised Jesus our Lord from the dead,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1114,14 +1138,20 @@
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "and perseverance, proven character; and proven character, hope:  "
+		"value": "and perseverance, proven character; and proven character, hope;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "and hope doesn’t disappoint us, because God’s love has been poured into our hearts through the Holy Spirit who was given to us.  "
+		"value": "and hope doesn’t disappoint us, because God’s love has been poured into our hearts through the Holy Spirit who was given to us. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1135,14 +1165,14 @@
 		"chapterNumber": 5,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "For one will hardly die for a righteous man. Yet perhaps for a righteous person someone would even dare to die.  "
+		"value": "For one will hardly die for a righteous man. Yet perhaps for a good person someone would even dare to die.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But God commends his own love toward us, in that while we were yet sinners, Christ died for us. "
+		"value": "But God commends his own love towards us, in that while we were yet sinners, Christ died for us. "
 	},
 	{
 		"type": "paragraph end"
@@ -1182,7 +1212,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Therefore as sin entered into the world through one man, and death through sin; so death passed to all men, because all sinned.  "
+		"value": "Therefore, as sin entered into the world through one man, and death through sin, so death passed to all men because all sinned.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1196,28 +1226,40 @@
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Nevertheless death reigned from Adam until Moses, even over those whose sins weren’t like Adam’s disobedience, who is a foreshadowing of him who was to come.  "
+		"value": "Nevertheless death reigned from Adam until Moses, even over those whose sins weren’t like Adam’s disobedience, who is a foreshadowing of him who was to come. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "But the free gift isn’t like the trespass. For if by the trespass of the one the many died, much more did the grace of God, and the gift by the grace of the one man, Jesus Christ, abound to the many.  "
+		"value": "But the free gift isn’t like the trespass. For if by the trespass of the one the many died, much more did the grace of God and the gift by the grace of the one man, Jesus Christ, abound to the many.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "The gift is not as through one who sinned; for the judgment came by one to condemnation, but the free gift came of many trespasses to justification.  "
+		"value": "The gift is not as through one who sinned; for the judgement came by one to condemnation, but the free gift followed many trespasses to justification.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "For if by the trespass of the one, death reigned through the one; so much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ.  "
+		"value": "For if by the trespass of the one, death reigned through the one; so much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one, Jesus Christ. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1238,7 +1280,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "The law came in that the trespass might abound; but where sin abounded, grace abounded more exceedingly;  "
+		"value": "The law came in that the trespass might abound; but where sin abounded, grace abounded more exceedingly,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1272,14 +1314,20 @@
 		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Or don’t you know that all we who were baptized into Christ Jesus were baptized into his death?  "
+		"value": "Or don’t you know that all of us who were baptised into Christ Jesus were baptised into his death?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "We were buried therefore with him through baptism into death, that just as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life.  "
+		"value": "We were buried therefore with him through baptism into death, that just as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1307,7 +1355,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But if we died with Christ, we believe that we will also live with him;  "
+		"value": "But if we died with Christ, we believe that we will also live with him,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1355,7 +1403,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "For sin will not have dominion over you. For you are not under law, but under grace. "
+		"value": "For sin will not have dominion over you, for you are not under law, but under grace. "
 	},
 	{
 		"type": "paragraph end"
@@ -1368,21 +1416,21 @@
 		"chapterNumber": 6,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "What then? Shall we sin, because we are not under law, but under grace? May it never be!  "
+		"value": "What then? Shall we sin because we are not under law but under grace? May it never be!  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Don’t you know that when you present yourselves as servants and obey someone, you are the servants of whomever you obey; whether of sin to death, or of obedience to righteousness?  "
+		"value": "Don’t you know that when you present yourselves as servants and obey someone, you are the servants of whomever you obey, whether of sin to death, or of obedience to righteousness?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "But thanks be to God, that, whereas you were bondservants of sin, you became obedient from the heart to that form of teaching to which you were delivered.  "
+		"value": "But thanks be to God that, whereas you were bondservants of sin, you became obedient from the heart to that form of teaching to which you were delivered.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1402,7 +1450,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "I speak in human terms because of the weakness of your flesh, for as you presented your members as servants to uncleanness and to wickedness upon wickedness, even so now present your members as servants to righteousness for sanctification.  "
+		"value": "I speak in human terms because of the weakness of your flesh; for as you presented your members as servants to uncleanness and to wickedness upon wickedness, even so now present your members as servants to righteousness for sanctification.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1491,7 +1539,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "What shall we say then? Is the law sin? May it never be! However, I wouldn’t have known sin, except through the law. For I wouldn’t have known coveting, unless the law had said, “You shall not covet.”  "
+		"value": "What shall we say then? Is the law sin? May it never be! However, I wouldn’t have known sin except through the law. For I wouldn’t have known coveting unless the law had said, “You shall not covet.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1505,7 +1553,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "I was alive apart from the law once, but when the commandment came, sin revived, and I died.  "
+		"value": "I was alive apart from the law once, but when the commandment came, sin revived and I died.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1526,7 +1574,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Therefore the law indeed is holy, and the commandment holy, and righteous, and good. "
+		"value": "Therefore the law indeed is holy, and the commandment holy, righteous, and good. "
 	},
 	{
 		"type": "paragraph end"
@@ -1553,7 +1601,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "For I don’t know what I am doing. For I don’t practice what I desire to do; but what I hate, that I do.  "
+		"value": "For I don’t understand what I am doing. For I don’t practise what I desire to do; but what I hate, that I do.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1581,7 +1629,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "For the good which I desire, I don’t do; but the evil which I don’t desire, that I practice.  "
+		"value": "For the good which I desire, I don’t do; but the evil which I don’t desire, that I practise.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1595,14 +1643,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "I find then the law that, to me, while I desire to do good, evil is present.  "
+		"value": "I find then the law that, while I desire to do good, evil is present.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "For I delight in God’s law after the inward man,  "
+		"value": "For I delight in God’s law after the inward person,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1650,14 +1698,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "For what the law couldn’t do, in that it was weak through the flesh, God did, sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh;  "
+		"value": "For what the law couldn’t do, in that it was weak through the flesh, God did, sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "that the ordinance of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.  "
+		"value": "that the ordinance of the law might be fulfilled in us who don’t walk according to the flesh, but according to the Spirit.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1678,14 +1726,20 @@
 		"chapterNumber": 8,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "because the mind of the flesh is hostile toward God; for it is not subject to God’s law, neither indeed can it be.  "
+		"value": "because the mind of the flesh is hostile towards God, for it is not subject to God’s law, neither indeed can it be.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Those who are in the flesh can’t please God.  "
+		"value": "Those who are in the flesh can’t please God. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1760,7 +1814,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "and if children, then heirs: heirs of God and joint heirs with Christ, if indeed we suffer with him, that we may also be glorified with him. "
+		"value": "and if children, then heirs—heirs of God and joint heirs with Christ, if indeed we suffer with him, that we may also be glorified with him. "
 	},
 	{
 		"type": "paragraph end"
@@ -1773,7 +1827,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed toward us.  "
+		"value": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which will be revealed towards us.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1862,7 +1916,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "For whom he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers.  "
+		"value": "For whom he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn amongst many brothers.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1956,7 +2010,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "No, in all these things, we are more than conquerors through him who loved us.  "
+		"value": "No, in all these things we are more than conquerors through him who loved us.  "
 	},
 	{
 		"type": "line text",
@@ -2048,7 +2102,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "For this is a word of promise, “At the appointed time I will come, and Sarah will have a son.”  "
+		"value": "For this is a word of promise: “At the appointed time I will come, and Sarah will have a son.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2144,7 +2198,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Or hasn’t the potter a right over the clay, from the same lump to make one part a vessel for honor, and another for dishonor?  "
+		"value": "Or hasn’t the potter a right over the clay, from the same lump to make one part a vessel for honour, and another for dishonour?  "
 	},
 	{
 		"type": "paragraph text",
@@ -2158,7 +2212,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "and that he might make known the riches of his glory on vessels of mercy, which he prepared beforehand for glory,  "
+		"value": "and that he might make known the riches of his glory on vessels of mercy, which he prepared beforehand for glory—  "
 	},
 	{
 		"type": "paragraph text",
@@ -2264,7 +2318,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "for He will finish the work and cut it short in righteousness, "
+		"value": "for he will finish the work and cut it short in righteousness, "
 	},
 	{
 		"type": "line break"
@@ -2274,7 +2328,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 2,
-		"value": "because the LORD will make a short work upon the earth.” "
+		"value": "because the Lord will make a short work upon the earth.” "
 	},
 	{
 		"type": "line break"
@@ -2353,7 +2407,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Why? Because they didn’t seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone;  "
+		"value": "Why? Because they didn’t seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2373,7 +2427,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 33,
 		"sectionNumber": 2,
-		"value": "“Behold, I lay in Zion a stumbling stone and a rock of offense; "
+		"value": "“Behold, I lay in Zion a stumbling stone and a rock of offence; "
 	},
 	{
 		"type": "line break"
@@ -2420,7 +2474,13 @@
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For Christ is the fulfillment of the law for righteousness to everyone who believes.  "
+		"value": "For Christ is the fulfilment of the law for righteousness to everyone who believes. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2448,21 +2508,21 @@
 		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But what does it say? “The word is near you, in your mouth, and in your heart;” that is, the word of faith which we preach:  "
+		"value": "But what does it say? “The word is near you, in your mouth and in your heart;” that is, the word of faith which we preach:  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "that if you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.  "
+		"value": "that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For with the heart, one believes resulting in righteousness; and with the mouth confession is made resulting in salvation.  "
+		"value": "For with the heart one believes resulting in righteousness; and with the mouth confession is made resulting in salvation.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2693,14 +2753,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "God didn’t reject his people, which he foreknew. Or don’t you know what the Scripture says about Elijah? How he pleads with God against Israel:  "
+		"value": "God didn’t reject his people, whom he foreknew. Or don’t you know what the Scripture says about Elijah? How he pleads with God against Israel:  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "“Lord, they have killed your prophets, they have broken down your altars. I am left alone, and they seek my life.”  "
+		"value": "“Lord, they have killed your prophets. They have broken down your altars. I am left alone, and they seek my life.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2714,7 +2774,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Even so then at this present time also there is a remnant according to the election of grace.  "
+		"value": "Even so too at this present time also there is a remnant according to the election of grace.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2741,7 +2801,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "According as it is written, “God gave them a spirit of stupor, eyes that they should not see, and ears that they should not hear, to this very day.”   "
+		"value": "According as it is written, “God gave them a spirit of stupor, eyes that they should not see, and ears that they should not hear, to this very day.”  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2814,14 +2880,20 @@
 		"chapterNumber": 11,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Now if their fall is the riches of the world, and their loss the riches of the Gentiles; how much more their fullness?  "
+		"value": "Now if their fall is the riches of the world, and their loss the riches of the Gentiles, how much more their fullness! "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For I speak to you who are Gentiles. Since then as I am an apostle to Gentiles, I glorify my ministry;  "
+		"value": "For I speak to you who are Gentiles. Since then as I am an apostle to Gentiles, I glorify my ministry,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2835,7 +2907,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "For if the rejection of them is the reconciling of the world, what would their acceptance be, but life from the dead?  "
+		"value": "For if the rejection of them is the reconciling of the world, what would their acceptance be, but life from the dead? "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2849,14 +2927,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "But if some of the branches were broken off, and you, being a wild olive, were grafted in among them and became partaker with them of the root and of the richness of the olive tree,  "
+		"value": "But if some of the branches were broken off, and you, being a wild olive, were grafted in amongst them and became partaker with them of the root and of the richness of the olive tree,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "don’t boast over the branches. But if you boast, it is not you who support the root, but the root supports you.  "
+		"value": "don’t boast over the branches. But if you boast, remember that it is not you who support the root, but the root supports you.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2884,7 +2962,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "See then the goodness and severity of God. Toward those who fell, severity; but toward you, goodness, if you continue in his goodness; otherwise you also will be cut off.  "
+		"value": "See then the goodness and severity of God. Towards those who fell, severity; but towards you, goodness, if you continue in his goodness; otherwise you also will be cut off.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3018,7 +3096,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgments, and his ways past tracing out! "
+		"value": "Oh the depth of the riches both of the wisdom and the knowledge of God! How unsearchable are his judgements, and his ways past tracing out! "
 	},
 	{
 		"type": "paragraph end"
@@ -3048,7 +3126,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 34,
 		"sectionNumber": 2,
-		"value": "Or who has been his counselor?” "
+		"value": "Or who has been his counsellor?” "
 	},
 	{
 		"type": "line break"
@@ -3084,7 +3162,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "For of him, and through him, and to him are all things. To him be the glory for ever! Amen. "
+		"value": "For of him and through him and to him are all things. To him be the glory for ever! Amen. "
 	},
 	{
 		"type": "paragraph end"
@@ -3117,7 +3195,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "For I say through the grace that was given me, to every man who is among you, not to think of himself more highly than he ought to think; but to think reasonably, as God has apportioned to each person a measure of faith.  "
+		"value": "For I say through the grace that was given me, to everyone who is amongst you, not to think of yourself more highly than you ought to think; but to think reasonably, as God has apportioned to each person a measure of faith.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3172,28 +3250,34 @@
 		"chapterNumber": 12,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "In love of the brothers be tenderly affectionate to one another; in honor preferring one another;  "
+		"value": "In love of the brothers be tenderly affectionate to one another; in honour prefer one another,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "not lagging in diligence; fervent in spirit; serving the Lord;  "
+		"value": "not lagging in diligence, fervent in spirit, serving the Lord,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "rejoicing in hope; enduring in troubles; continuing steadfastly in prayer;  "
+		"value": "rejoicing in hope, enduring in troubles, continuing steadfastly in prayer,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "contributing to the needs of the saints; given to hospitality.  "
+		"value": "contributing to the needs of the saints, and given to hospitality. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3214,14 +3298,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Be of the same mind one toward another. Don’t set your mind on high things, but associate with the humble. Don’t be wise in your own conceits.  "
+		"value": "Be of the same mind one towards another. Don’t set your mind on high things, but associate with the humble. Don’t be wise in your own conceits.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Repay no one evil for evil. Respect what is honorable in the sight of all men.  "
+		"value": "Repay no one evil for evil. Respect what is honourable in the sight of all men.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3311,7 +3395,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment.  "
+		"value": "Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgement.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3346,7 +3430,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, then customs; if respect, then respect; if honor, then honor. "
+		"value": "Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, then customs; if respect, then respect; if honour, then honour. "
 	},
 	{
 		"type": "paragraph end"
@@ -3359,21 +3443,21 @@
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law.  "
+		"value": "Owe no one anything, except to love one another; for he who loves his neighbour has fulfilled the law.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,”  and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.”  "
+		"value": "For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,”  and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbour as yourself.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law. "
+		"value": "Love doesn’t harm a neighbour. Love therefore is the fulfilment of the law. "
 	},
 	{
 		"type": "paragraph end"
@@ -3393,14 +3477,14 @@
 		"chapterNumber": 13,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "The night is far gone, and the day is near. Let’s therefore throw off the deeds of darkness, and let’s put on the armor of light.  "
+		"value": "The night is far gone, and the day is near. Let’s therefore throw off the deeds of darkness, and let’s put on the armour of light.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Let’s walk properly, as in the day; not in reveling and drunkenness, not in sexual promiscuity and lustful acts, and not in strife and jealousy.  "
+		"value": "Let’s walk properly, as in the day; not in revelling and drunkenness, not in sexual promiscuity and lustful acts, and not in strife and jealousy.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3495,7 +3579,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgment seat of Christ.  "
+		"value": "But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgement seat of Christ.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3561,7 +3645,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "I know, and am persuaded in the Lord Jesus, that nothing is unclean of itself; except that to him who considers anything to be unclean, to him it is unclean.  "
+		"value": "I know and am persuaded in the Lord Jesus that nothing is unclean of itself; except that to him who considers anything to be unclean, to him it is unclean.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3677,7 +3761,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Let each one of us please his neighbor for that which is good, to be building him up.  "
+		"value": "Let each one of us please his neighbour for that which is good, to be building him up.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3745,7 +3829,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "“Therefore I will give praise to you among the Gentiles "
+		"value": "“Therefore I will give praise to you amongst the Gentiles "
 	},
 	{
 		"type": "line break"
@@ -3888,7 +3972,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit. "
+		"value": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope in the power of the Holy Spirit. "
 	},
 	{
 		"type": "paragraph end"
@@ -3908,7 +3992,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "But I write the more boldly to you in part, as reminding you, because of the grace that was given to me by God,  "
+		"value": "But I write the more boldly to you in part as reminding you, because of the grace that was given to me by God,  "
 	},
 	{
 		"type": "paragraph text",
@@ -3929,14 +4013,14 @@
 		"chapterNumber": 15,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "For I will not dare to speak of any things except those which Christ worked through me, for the obedience of the Gentiles, by word and deed,  "
+		"value": "For I will not dare to speak of any things except those which Christ worked through me for the obedience of the Gentiles, by word and deed,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "in the power of signs and wonders, in the power of God’s Spirit; so that from Jerusalem, and around as far as to Illyricum, I have fully preached the Good News of Christ;  "
+		"value": "in the power of signs and wonders, in the power of God’s Spirit; so that from Jerusalem and around as far as to Illyricum, I have fully preached the Good News of Christ;  "
 	},
 	{
 		"type": "paragraph text",
@@ -4017,14 +4101,14 @@
 		"chapterNumber": 15,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "For it has been the good pleasure of Macedonia and Achaia to make a certain contribution for the poor among the saints who are at Jerusalem.  "
+		"value": "For it has been the good pleasure of Macedonia and Achaia to make a certain contribution for the poor amongst the saints who are at Jerusalem.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Yes, it has been their good pleasure, and they are their debtors. For if the Gentiles have been made partakers of their spiritual things, they owe it to them also to serve them in fleshly things.  "
+		"value": "Yes, it has been their good pleasure, and they are their debtors. For if the Gentiles have been made partakers of their spiritual things, they owe it to them also to serve them in material things.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4092,7 +4176,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "that you receive her in the Lord, in a way worthy of the saints, and that you assist her in whatever matter she may need from you, for she herself also has been a helper of many, and of my own self. "
+		"value": "that you receive her in the Lord in a way worthy of the saints, and that you assist her in whatever matter she may need from you, for she herself also has been a helper of many, and of my own self. "
 	},
 	{
 		"type": "paragraph end"
@@ -4126,14 +4210,14 @@
 		"chapterNumber": 16,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Greet Mary, who labored much for us.  "
+		"value": "Greet Mary, who laboured much for us.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Greet Andronicus and Junia, my relatives and my fellow prisoners, who are notable among the apostles, who were also in Christ before me.  "
+		"value": "Greet Andronicus and Junia, my relatives and my fellow prisoners, who are notable amongst the apostles, who were also in Christ before me.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4168,7 +4252,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Greet Tryphaena and Tryphosa, who labor in the Lord. Greet Persis, the beloved, who labored much in the Lord.  "
+		"value": "Greet Tryphaena and Tryphosa, who labour in the Lord. Greet Persis, the beloved, who laboured much in the Lord.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4182,7 +4266,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers  who are with them.  "
+		"value": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4209,14 +4293,14 @@
 		"chapterNumber": 16,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Now I beg you, brothers, look out for those who are causing the divisions and occasions of stumbling, contrary to the doctrine which you learned, and turn away from them.  "
+		"value": "Now I beg you, brothers, look out for those who are causing the divisions and occasions of stumbling, contrary to the doctrine which you learnt, and turn away from them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "For those who are such don’t serve our Lord, Jesus Christ, but their own belly; and by their smooth and flattering speech, they deceive the hearts of the innocent.  "
+		"value": "For those who are such don’t serve our Lord Jesus Christ, but their own belly; and by their smooth and flattering speech they deceive the hearts of the innocent.  "
 	},
 	{
 		"type": "paragraph text",

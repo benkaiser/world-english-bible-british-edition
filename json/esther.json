@@ -7,7 +7,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces),  "
+		"value": "Now in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred and twenty-seven provinces),  "
 	},
 	{
 		"type": "paragraph text",
@@ -21,14 +21,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "in the third year of his reign, he made a feast for all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him.  "
+		"value": "in the third year of his reign, he made a feast for all his princes and his servants; the army of Persia and Media, the nobles and princes of the provinces being before him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "He displayed the riches of his glorious kingdom and the honor of his excellent majesty many days, even one hundred eighty days.  "
+		"value": "He displayed the riches of his glorious kingdom and the honour of his excellent majesty many days, even one hundred and eighty days. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -89,14 +95,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "to bring Vashti the queen before the king with the royal crown, to show the people and the princes her beauty; for she was beautiful.  "
+		"value": "to bring Vashti the queen before the king wearing the royal crown, to show the people and the princes her beauty; for she was beautiful.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "But the queen Vashti refused to come at the king’s commandment by the eunuchs. Therefore the king was very angry, and his anger burned in him. "
+		"value": "But the queen Vashti refused to come at the king’s commandment by the eunuchs. Therefore the king was very angry, and his anger burnt in him. "
 	},
 	{
 		"type": "paragraph end"
@@ -109,21 +115,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Then the king said to the wise men, who knew the times (for it was the king’s custom to consult those who knew law and judgment;  "
+		"value": "Then the king said to the wise men, who knew the times (for it was the king’s custom to consult those who knew law and judgement;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "and the next to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king’s face, and sat first in the kingdom),  "
+		"value": "and next to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king’s face, and sat first in the kingdom),  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "“What shall we do to the queen Vashti according to law, because she has not done the bidding of the King Ahasuerus by the eunuchs?” "
+		"value": "“What shall we do to Queen Vashti according to law, because she has not done the bidding of the King Ahasuerus by the eunuchs?” "
 	},
 	{
 		"type": "paragraph end"
@@ -143,7 +149,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "For this deed of the queen will become known to all women, causing them to show contempt for their husbands, when it is reported, ‘King Ahasuerus commanded Vashti the queen to be brought in before him, but she didn’t come.’  "
+		"value": "For this deed of the queen will become known to all women, causing them to show contempt for their husbands when it is reported, ‘King Ahasuerus commanded Vashti the queen to be brought in before him, but she didn’t come.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -163,14 +169,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "“If it pleases the king, let a royal commandment go from him, and let it be written among the laws of the Persians and the Medes, so that it cannot be altered, that Vashti may never again come before King Ahasuerus; and let the king give her royal estate to another who is better than she.  "
+		"value": "“If it pleases the king, let a royal commandment go from him, and let it be written amongst the laws of the Persians and the Medes, so that it cannot be altered, that Vashti may never again come before King Ahasuerus; and let the king give her royal estate to another who is better than she.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "When the king’s decree which he shall make is published throughout all his kingdom (for it is great), all the wives will give their husbands honor, both great and small.” "
+		"value": "When the king’s decree which he shall make is published throughout all his kingdom (for it is great), all the wives will give their husbands honour, both great and small.” "
 	},
 	{
 		"type": "paragraph end"
@@ -237,7 +243,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "There was a certain Jew in the citadel of Susa, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite,  "
+		"value": "There was a certain Jew in the citadel of Susa whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite,  "
 	},
 	{
 		"type": "paragraph text",
@@ -312,14 +318,20 @@
 		"chapterNumber": 2,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "In the evening she went, and on the next day she returned into the second women’s house, to the custody of Shaashgaz, the king’s eunuch, who kept the concubines. She came in to the king no more, unless the king delighted in her, and she was called by name.  "
+		"value": "In the evening she went, and on the next day she returned into the second women’s house, to the custody of Shaashgaz, the king’s eunuch, who kept the concubines. She came in to the king no more, unless the king delighted in her, and she was called by name. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, came to go in to the king, she required nothing but what Hegai the king’s eunuch, the keeper of the women, advised. Esther obtained favor in the sight of all those who looked at her. "
+		"value": "Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, came to go in to the king, she required nothing but what Hegai the king’s eunuch, the keeper of the women, advised. Esther obtained favour in the sight of all those who looked at her. "
 	},
 	{
 		"type": "paragraph end"
@@ -339,7 +351,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "The king loved Esther more than all the women, and she obtained favor and kindness in his sight more than all the virgins; so that he set the royal crown on her head, and made her queen instead of Vashti. "
+		"value": "The king loved Esther more than all the women, and she obtained favour and kindness in his sight more than all the virgins; so that he set the royal crown on her head, and made her queen instead of Vashti. "
 	},
 	{
 		"type": "paragraph end"
@@ -413,14 +425,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "All the king’s servants who were in the king’s gate bowed down, and paid homage to Haman; for the king had so commanded concerning him. But Mordecai didn’t bow down or pay him homage.  "
+		"value": "All the king’s servants who were in the king’s gate bowed down and paid homage to Haman, for the king had so commanded concerning him. But Mordecai didn’t bow down or pay him homage.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Then the king’s servants, who were in the king’s gate, said to Mordecai, “Why do you disobey the king’s commandment?”  "
+		"value": "Then the king’s servants who were in the king’s gate said to Mordecai, “Why do you disobey the king’s commandment?”  "
 	},
 	{
 		"type": "paragraph text",
@@ -434,7 +446,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "When Haman saw that Mordecai didn’t bow down, nor pay him homage, Haman was full of wrath.  "
+		"value": "When Haman saw that Mordecai didn’t bow down nor pay him homage, Haman was full of wrath.  "
 	},
 	{
 		"type": "paragraph text",
@@ -461,7 +473,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Haman said to King Ahasuerus, “There is a certain people scattered abroad and dispersed among the peoples in all the provinces of your kingdom, and their laws are different from other people’s. They don’t keep the king’s laws. Therefore it is not for the king’s profit to allow them to remain.  "
+		"value": "Haman said to King Ahasuerus, “There is a certain people scattered abroad and dispersed amongst the peoples in all the provinces of your kingdom, and their laws are different from other people’s. They don’t keep the king’s laws. Therefore it is not for the king’s profit to allow them to remain.  "
 	},
 	{
 		"type": "paragraph text",
@@ -535,7 +547,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now when Mordecai found out all that was done, Mordecai tore his clothes, and put on sackcloth with ashes, and went out into the middle of the city, and wailed loudly and bitterly.  "
+		"value": "Now when Mordecai found out all that was done, Mordecai tore his clothes and put on sackcloth with ashes, and went out into the middle of the city, and wailed loudly and bitterly.  "
 	},
 	{
 		"type": "paragraph text",
@@ -549,7 +561,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "In every province, wherever the king’s commandment and his decree came, there was great mourning among the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes. "
+		"value": "In every province, wherever the king’s commandment and his decree came, there was great mourning amongst the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes. "
 	},
 	{
 		"type": "paragraph end"
@@ -562,7 +574,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Esther’s maidens and her eunuchs came and told her this, and the queen was exceedingly grieved. She sent clothing to Mordecai, to replace his sackcloth; but he didn’t receive it.  "
+		"value": "Esther’s maidens and her eunuchs came and told her this, and the queen was exceedingly grieved. She sent clothing to Mordecai, to replace his sackcloth, but he didn’t receive it.  "
 	},
 	{
 		"type": "paragraph text",
@@ -590,7 +602,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "He also gave him the copy of the writing of the decree that was given out in Susa to destroy them, to show it to Esther, and to declare it to her, and to urge her to go in to the king, to make supplication to him, and to make request before him, for her people. "
+		"value": "He also gave him the copy of the writing of the decree that was given out in Susa to destroy them, to show it to Esther, and to declare it to her, and to urge her to go in to the king to make supplication to him, and to make request before him for her people. "
 	},
 	{
 		"type": "paragraph end"
@@ -617,7 +629,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "“All the king’s servants, and the people of the king’s provinces, know, that whoever, whether man or woman, comes to the king into the inner court without being called, there is one law for him, that he be put to death, except those to whom the king might hold out the golden scepter, that he may live. I have not been called to come in to the king these thirty days.” "
+		"value": "“All the king’s servants and the people of the king’s provinces know that whoever, whether man or woman, comes to the king into the inner court without being called, there is one law for him, that he be put to death, except those to whom the king might hold out the golden sceptre, that he may live. I have not been called to come in to the king these thirty days.” "
 	},
 	{
 		"type": "paragraph end"
@@ -684,14 +696,20 @@
 		"chapterNumber": 5,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now on the third day, Esther put on her royal clothing, and stood in the inner court of the king’s house, next to the king’s house. The king sat on his royal throne in the royal house, next to the entrance of the house.  "
+		"value": "Now on the third day, Esther put on her royal clothing and stood in the inner court of the king’s house, next to the king’s house. The king sat on his royal throne in the royal house, next to the entrance of the house.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "When the king saw Esther the queen standing in the court, she obtained favor in his sight; and the king held out to Esther the golden scepter that was in his hand. So Esther came near, and touched the top of the scepter.  "
+		"value": "When the king saw Esther the queen standing in the court, she obtained favour in his sight; and the king held out to Esther the golden sceptre that was in his hand. So Esther came near and touched the top of the sceptre. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -757,7 +775,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "If I have found favor in the sight of the king, and if it pleases the king to grant my petition and to perform my request, let the king and Haman come to the banquet that I will prepare for them, and I will do tomorrow as the king has said.” "
+		"value": "If I have found favour in the sight of the king, and if it pleases the king to grant my petition and to perform my request, let the king and Haman come to the banquet that I will prepare for them, and I will do tomorrow as the king has said.” "
 	},
 	{
 		"type": "paragraph end"
@@ -784,7 +802,13 @@
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Haman recounted to them the glory of his riches, the multitude of his children, all the things in which the king had promoted him, and how he had advanced him above the princes and servants of the king.  "
+		"value": "Haman recounted to them the glory of his riches, the multitude of his children, all the things in which the king had promoted him, and how he had advanced him above the princes and servants of the king. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -838,7 +862,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "The king said, “What honor and dignity has been given to Mordecai for this?” "
+		"value": "The king said, “What honour and dignity has been given to Mordecai for this?” "
 	},
 	{
 		"type": "paragraph end"
@@ -897,7 +921,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honor?” "
+		"value": "So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honour?” "
 	},
 	{
 		"type": "paragraph end"
@@ -910,14 +934,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 6,
 		"sectionNumber": 2,
-		"value": "Now Haman said in his heart, “Who would the king delight to honor more than myself?”  "
+		"value": "Now Haman said in his heart, “Who would the king delight to honour more than myself?”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Haman said to the king, “For the man whom the king delights to honor,  "
+		"value": "Haman said to the king, “For the man whom the king delights to honour,  "
 	},
 	{
 		"type": "paragraph text",
@@ -931,7 +955,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Let the clothing and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man whom the king delights to honor with them, and have him ride on horseback through the city square, and proclaim before him, ‘Thus it shall be done to the man whom the king delights to honor!’ ” "
+		"value": "Let the clothing and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man whom the king delights to honour with them, and have him ride on horseback through the city square, and proclaim before him, ‘Thus it shall be done to the man whom the king delights to honour!’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -957,7 +981,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Then Haman took the clothing and the horse, and arrayed Mordecai, and had him ride through the city square, and proclaimed before him, “Thus it shall be done to the man whom the king delights to honor!” "
+		"value": "Then Haman took the clothing and the horse, and arrayed Mordecai, and had him ride through the city square, and proclaimed before him, “Thus it shall be done to the man whom the king delights to honour!” "
 	},
 	{
 		"type": "paragraph end"
@@ -1017,7 +1041,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Then Esther the queen answered, “If I have found favor in your sight, O king, and if it pleases the king, let my life be given me at my petition, and my people at my request.  "
+		"value": "Then Esther the queen answered, “If I have found favour in your sight, O king, and if it pleases the king, let my life be given me at my petition, and my people at my request.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1070,7 +1094,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "The king arose in his wrath from the banquet of wine and went into the palace garden. Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.  "
+		"value": "The king arose in his wrath from the banquet of wine and went into the palace garden. Haman stood up to make request for his life to Esther the queen, for he saw that there was evil determined against him by the king.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1090,7 +1114,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Then Harbonah, one of the eunuchs who were with the king said, “Behold, the gallows fifty cubits high, which Haman has made for Mordecai, who spoke good for the king, is standing at Haman’s house.” "
+		"value": "Then Harbonah, one of the eunuchs who were with the king, said, “Behold, the gallows fifty cubits high, which Haman has made for Mordecai, who spoke good for the king, is standing at Haman’s house.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1149,21 +1173,21 @@
 		"chapterNumber": 8,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Esther spoke yet again before the king, and fell down at his feet, and begged him with tears to put away the mischief of Haman the Agagite, and his plan that he had planned against the Jews.  "
+		"value": "Esther spoke yet again before the king, and fell down at his feet and begged him with tears to put away the mischief of Haman the Agagite, and his plan that he had planned against the Jews.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Then the king held out to Esther the golden scepter. So Esther arose, and stood before the king.  "
+		"value": "Then the king held out to Esther the golden sceptre. So Esther arose, and stood before the king.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "She said, “If it pleases the king, and if I have found favor in his sight, and the thing seem right to the king, and I am pleasing in his eyes, let it be written to reverse the letters devised by Haman, the son of Hammedatha the Agagite, which he wrote to destroy the Jews who are in all the king’s provinces.  "
+		"value": "She said, “If it pleases the king, and if I have found favour in his sight, and the thing seems right to the king, and I am pleasing in his eyes, let it be written to reverse the letters devised by Haman, the son of Hammedatha the Agagite, which he wrote to destroy the Jews who are in all the king’s provinces.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1183,14 +1207,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Then King Ahasuerus said to Esther the queen and to Mordecai the Jew, “See, I have given Esther the house of Haman, and they have hanged him on the gallows, because he laid his hand on the Jews.  "
+		"value": "Then King Ahasuerus said to Esther the queen and to Mordecai the Jew, “See, I have given Esther the house of Haman, and they have hanged him on the gallows because he laid his hand on the Jews.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Write also to the Jews, as it pleases you, in the king’s name, and seal it with the king’s ring; for the writing which is written in the king’s name, and sealed with the king’s ring, may not be reversed by any man.” "
+		"value": "Write also to the Jews as it pleases you, in the king’s name, and seal it with the king’s ring; for the writing which is written in the king’s name, and sealed with the king’s ring, may not be reversed by any man.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1203,7 +1227,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Then the king’s scribes were called at that time, in the third month, which is the month Sivan, on the twenty-third day of the month; and it was written according to all that Mordecai commanded to the Jews, and to the local governors, and the governors and princes of the provinces which are from India to Ethiopia, one hundred twenty-seven provinces, to every province according to its writing, and to every people in their language, and to the Jews in their writing, and in their language.  "
+		"value": "Then the king’s scribes were called at that time, in the third month, which is the month Sivan, on the twenty-third day of the month; and it was written according to all that Mordecai commanded to the Jews, and to the local governors, and the governors and princes of the provinces which are from India to Ethiopia, one hundred and twenty-seven provinces, to every province according to its writing, and to every people in their language, and to the Jews in their writing, and in their language.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1217,7 +1241,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "In those letters, the king granted the Jews who were in every city to gather themselves together, and to defend their life, to destroy, to kill, and to cause to perish, all the power of the people and province that would assault them, their little ones and women, and to plunder their possessions,  "
+		"value": "In those letters, the king granted the Jews who were in every city to gather themselves together and to defend their lives—to destroy, to kill, and to cause to perish all the power of the people and province that would assault them, their little ones and women, and to plunder their possessions,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1258,14 +1282,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "The Jews had light, gladness, joy, and honor.  "
+		"value": "The Jews had light, gladness, joy, and honour.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "In every province, and in every city, wherever the king’s commandment and his decree came, the Jews had gladness, joy, a feast, and a good day. Many from among the peoples of the land became Jews; for the fear of the Jews was fallen on them. "
+		"value": "In every province and in every city, wherever the king’s commandment and his decree came, the Jews had gladness, joy, a feast and a holiday. Many from amongst the peoples of the land became Jews, for the fear of the Jews had fallen on them. "
 	},
 	{
 		"type": "paragraph end"
@@ -1278,7 +1302,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now in the twelfth month, which is the month Adar, on the thirteenth day of the month, when the king’s commandment and his decree came near to be put in execution, on the day that the enemies of the Jews hoped to conquer them, (but it was turned out the opposite happened, that the Jews conquered those who hated them),  "
+		"value": "Now in the twelfth month, which is the month Adar, on the thirteenth day of the month, when the king’s commandment and his decree came near to be put in execution, on the day that the enemies of the Jews hoped to conquer them, (but it turned out that the opposite happened, that the Jews conquered those who hated them),  "
 	},
 	{
 		"type": "paragraph text",
@@ -1299,7 +1323,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For Mordecai was great in the king’s house, and his fame went out throughout all the provinces; for the man Mordecai grew greater and greater.  "
+		"value": "For Mordecai was great in the king’s house, and his fame went out throughout all the provinces, for the man Mordecai grew greater and greater.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1394,14 +1418,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "The Jews who were in Susa gathered themselves together on the fourteenth day also of the month Adar, and killed three hundred men in Susa; but they didn’t lay their hand on the plunder.  "
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 9,
-		"verseNumber": 16,
-		"sectionNumber": 1,
-		"value": "The other Jews who were in the king’s provinces gathered themselves together, defended their lives, had rest from their enemies, and killed seventy-five thousand of those who hated them; but they didn’t lay their hand on the plunder. "
+		"value": "The Jews who were in Susa gathered themselves together on the fourteenth day also of the month Adar, and killed three hundred men in Susa; but they didn’t lay their hand on the plunder. "
 	},
 	{
 		"type": "paragraph end"
@@ -1412,9 +1429,22 @@
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
+		"verseNumber": 16,
+		"sectionNumber": 1,
+		"value": "The other Jews who were in the king’s provinces gathered themselves together, defended their lives, had rest from their enemies, and killed seventy-five thousand of those who hated them; but they didn’t lay their hand on the plunder.  "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "This was done on the thirteenth day of the month Adar; and on the fourteenth day of that month they rested and made it a day of feasting and gladness.  "
+		"value": "This was done on the thirteenth day of the month Adar; and on the fourteenth day of that month they rested and made it a day of feasting and gladness. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1428,7 +1458,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Therefore the Jews of the villages, who live in the unwalled towns, make the fourteenth day of the month Adar a day of gladness and feasting, a good day, and a day of sending presents of food to one another. "
+		"value": "Therefore the Jews of the villages, who live in the unwalled towns, make the fourteenth day of the month Adar a day of gladness and feasting, a holiday, and a day of sending presents of food to one another. "
 	},
 	{
 		"type": "paragraph end"
@@ -1441,7 +1471,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Mordecai wrote these things, and sent letters to all the Jews who were in all the provinces of the king Ahasuerus, both near and far,  "
+		"value": "Mordecai wrote these things, and sent letters to all the Jews who were in all the provinces of the King Ahasuerus, both near and far,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1455,21 +1485,21 @@
 		"chapterNumber": 9,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "as the days in which the Jews had rest from their enemies, and the month which was turned to them from sorrow to gladness, and from mourning into a good day; that they should make them days of feasting and gladness, and of sending presents of food to one another, and gifts to the needy.  "
+		"value": "as the days in which the Jews had rest from their enemies, and the month which was turned to them from sorrow to gladness, and from mourning into a holiday; that they should make them days of feasting and gladness, and of sending presents of food to one another, and gifts to the needy.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "The Jews accepted the custom that they had begun, as Mordecai had written to them;  "
+		"value": "The Jews accepted the custom that they had begun, as Mordecai had written to them,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them, and had cast “Pur”, that is the lot, to consume them, and to destroy them;  "
+		"value": "because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them, and had cast “Pur”, that is the lot, to consume them and to destroy them;  "
 	},
 	{
 		"type": "paragraph text",
@@ -1496,14 +1526,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "the Jews established and imposed on themselves, and on their descendants, and on all those who joined themselves to them, so that it should not fail that they would keep these two days according to what was written, and according to its appointed time, every year;  "
+		"value": "the Jews established and imposed on themselves, on their descendants, and on all those who joined themselves to them, so that it should not fail that they would keep these two days according to what was written and according to its appointed time every year;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "and that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from among the Jews, nor their memory perish from their offspring, "
+		"value": "and that these days should be remembered and kept throughout every generation, every family, every province, and every city; and that these days of Purim should not fail from amongst the Jews, nor their memory perish from their offspring. "
 	},
 	{
 		"type": "paragraph end"
@@ -1516,21 +1546,21 @@
 		"chapterNumber": 9,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority to confirm this second letter of Purim.  "
+		"value": "Then Esther the queen, the daughter of Abihail, and Mordecai the Jew wrote with all authority to confirm this second letter of Purim.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "He sent letters to all the Jews, to the hundred twenty-seven provinces of the kingdom of Ahasuerus, with words of peace and truth,  "
+		"value": "He sent letters to all the Jews in the hundred and twenty-seven provinces of the kingdom of Ahasuerus with words of peace and truth,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "to confirm these days of Purim in their appointed times, as Mordecai the Jew and Esther the queen had decreed, and as they had imposed upon themselves and their descendants, in the matter of the fastings and their cry.  "
+		"value": "to confirm these days of Purim in their appointed times, as Mordecai the Jew and Esther the queen had decreed, and as they had imposed upon themselves and their descendants in the matter of the fastings and their mourning.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1550,21 +1580,21 @@
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "King Ahasuerus laid a tribute on the land, and on the islands of the sea.  "
+		"value": "King Ahasuerus laid a tribute on the land and on the islands of the sea.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "All the acts of his power and of his might, and the full account of the greatness of Mordecai, to which the king advanced him, aren’t they written in the book of the chronicles of the kings of Media and Persia?  "
+		"value": "Aren’t all the acts of his power and of his might, and the full account of the greatness of Mordecai, to which the king advanced him, written in the book of the chronicles of the kings of Media and Persia?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "For Mordecai the Jew was next to King Ahasuerus, and great among the Jews, and accepted by the multitude of his brothers, seeking the good of his people, and speaking peace to all his descendants. "
+		"value": "For Mordecai the Jew was next to King Ahasuerus, and great amongst the Jews and accepted by the multitude of his brothers, seeking the good of his people and speaking peace to all his descendants. "
 	},
 	{
 		"type": "paragraph end"

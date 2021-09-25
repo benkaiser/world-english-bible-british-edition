@@ -7,27 +7,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Paul and Timothy, servants of Jesus Christ; "
-	},
-	{
-		"type": "paragraph end"
-	},
-	{
-		"type": "paragraph start"
-	},
-	{
-		"type": "paragraph text",
-		"chapterNumber": 1,
-		"verseNumber": 1,
-		"sectionNumber": 2,
-		"value": "To all the saints in Christ Jesus who are at Philippi, with the overseers  and servants:  "
+		"value": "Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are at Philippi, with the overseers and servants:  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Grace to you, and peace from God our Father and the Lord Jesus Christ.  "
+		"value": "Grace to you and peace from God our Father and the Lord Jesus Christ. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -62,7 +55,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "It is even right for me to think this way on behalf of all of you, because I have you in my heart, because both in my bonds and in the defense and confirmation of the Good News, you all are partakers with me of grace.  "
+		"value": "It is even right for me to think this way on behalf of all of you, because I have you in my heart, because both in my bonds and in the defence and confirmation of the Good News, you all are partakers with me of grace.  "
 	},
 	{
 		"type": "paragraph text",
@@ -89,14 +82,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "so that you may approve the things that are excellent, that you may be sincere and without offense to the day of Christ,  "
+		"value": "so that you may approve the things that are excellent, that you may be sincere and without offence to the day of Christ,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "being filled with the fruits of righteousness, which are through Jesus Christ, to the glory and praise of God. "
+		"value": "being filled with the fruits of righteousness which are through Jesus Christ, to the glory and praise of God. "
 	},
 	{
 		"type": "paragraph end"
@@ -144,7 +137,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "but the latter out of love, knowing that I am appointed for the defense of the Good News. "
+		"value": "but the latter out of love, knowing that I am appointed for the defence of the Good News. "
 	},
 	{
 		"type": "paragraph end"
@@ -157,14 +150,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "What does it matter? Only that in every way, whether in pretense or in truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.  "
+		"value": "What does it matter? Only that in every way, whether in pretence or in truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "For I know that this will turn out to my salvation, through your prayers and the supply of the Spirit of Jesus Christ,  "
+		"value": "For I know that this will turn out to my salvation through your prayers and the supply of the Spirit of Jesus Christ,  "
 	},
 	{
 		"type": "paragraph text",
@@ -213,7 +206,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "that your rejoicing may abound in Christ Jesus in me through my presence with you again. "
+		"value": "that your boasting may abound in Christ Jesus in me through my presence with you again. "
 	},
 	{
 		"type": "paragraph end"
@@ -356,7 +349,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For it is God who works in you both to will and to work, for his good pleasure.  "
+		"value": "For it is God who works in you both to will and to work for his good pleasure. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -370,28 +369,28 @@
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "that you may become blameless and harmless, children of God without defect in the middle of a crooked and perverse generation, among whom you are seen as lights in the world,  "
+		"value": "that you may become blameless and harmless, children of God without defect in the middle of a crooked and perverse generation, amongst whom you are seen as lights in the world,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "holding up the word of life, that I may have something to boast in the day of Christ, that I didn’t run in vain nor labor in vain.  "
+		"value": "holding up the word of life, that I may have something to boast in the day of Christ that I didn’t run in vain nor labour in vain.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Yes, and if I am poured out on the sacrifice and service of your faith, I rejoice, and rejoice with you all.  "
+		"value": "Yes, and if I am poured out on the sacrifice and service of your faith, I am glad and rejoice with you all.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "In the same way, you also rejoice, and rejoice with me. "
+		"value": "In the same way, you also should be glad and rejoice with me. "
 	},
 	{
 		"type": "paragraph end"
@@ -425,7 +424,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "But you know the proof of him, that as a child serves a father, so he served with me in furtherance of the Good News.  "
+		"value": "But you know that he has proved himself. As a child serves a father, so he served with me in furtherance of the Good News.  "
 	},
 	{
 		"type": "paragraph text",
@@ -439,14 +438,20 @@
 		"chapterNumber": 2,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "But I trust in the Lord that I myself also will come shortly.  "
+		"value": "But I trust in the Lord that I myself also will come shortly. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "But I counted it necessary to send to you Epaphroditus, my brother, fellow worker, fellow soldier, and your apostle and servant of my need,  "
+		"value": "But I thought it necessary to send to you Epaphroditus, my brother, fellow worker, fellow soldier, and your apostle and servant of my need,  "
 	},
 	{
 		"type": "paragraph text",
@@ -460,7 +465,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "For indeed he was sick, nearly to death, but God had mercy on him, and not on him only, but on me also, that I might not have sorrow on sorrow.  "
+		"value": "For indeed he was sick nearly to death, but God had mercy on him, and not on him only, but on me also, that I might not have sorrow on sorrow.  "
 	},
 	{
 		"type": "paragraph text",
@@ -474,14 +479,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Receive him therefore in the Lord with all joy, and hold such people in honor,  "
+		"value": "Receive him therefore in the Lord with all joy, and hold such people in honour,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "because for the work of Christ he came near to death, risking his life to supply that which was lacking in your service toward me. "
+		"value": "because for the work of Christ he came near to death, risking his life to supply that which was lacking in your service towards me. "
 	},
 	{
 		"type": "paragraph end"
@@ -494,7 +499,13 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Finally, my brothers, rejoice in the Lord! To write the same things to you, to me indeed is not tiresome, but for you it is safe.  "
+		"value": "Finally, my brothers, rejoice in the Lord! To write the same things to you, to me indeed is not tiresome, but for you it is safe. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -563,7 +574,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "that I may know him, and the power of his resurrection, and the fellowship of his sufferings, becoming conformed to his death,  "
+		"value": "that I may know him and the power of his resurrection, and the fellowship of his sufferings, becoming conformed to his death,  "
 	},
 	{
 		"type": "paragraph text",
@@ -590,14 +601,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Brothers, I don’t regard myself as yet having taken hold, but one thing I do: forgetting the things which are behind, and stretching forward to the things which are before,  "
+		"value": "Brothers, I don’t regard myself as yet having taken hold, but one thing I do: forgetting the things which are behind and stretching forward to the things which are before,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "I press on toward the goal for the prize of the high calling of God in Christ Jesus.  "
+		"value": "I press on towards the goal for the prize of the high calling of God in Christ Jesus.  "
 	},
 	{
 		"type": "paragraph text",
@@ -645,7 +656,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "For our citizenship is in heaven, from where we also wait for a Savior, the Lord Jesus Christ,  "
+		"value": "For our citizenship is in heaven, from where we also wait for a Saviour, the Lord Jesus Christ,  "
 	},
 	{
 		"type": "paragraph text",
@@ -685,7 +696,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Yes, I beg you also, true partner, help these women, for they labored with me in the Good News with Clement also, and the rest of my fellow workers, whose names are in the book of life. "
+		"value": "Yes, I beg you also, true partner, help these women, for they laboured with me in the Good News with Clement also, and the rest of my fellow workers, whose names are in the book of life. "
 	},
 	{
 		"type": "paragraph end"
@@ -732,14 +743,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report: if there is any virtue and if there is any praise, think about these things.  "
+		"value": "Finally, brothers, whatever things are true, whatever things are honourable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report: if there is any virtue and if there is anything worthy of praise, think about these things.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "The things which you learned, received, heard, and saw in me: do these things, and the God of peace will be with you. "
+		"value": "Do the things which you learnt, received, heard, and saw in me, and the God of peace will be with you. "
 	},
 	{
 		"type": "paragraph end"
@@ -752,28 +763,28 @@
 		"chapterNumber": 4,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "But I rejoice in the Lord greatly, that now at length you have revived your thought for me; in which you did indeed take thought, but you lacked opportunity.  "
+		"value": "But I rejoice in the Lord greatly that now at length you have revived your thought for me; in which you did indeed take thought, but you lacked opportunity.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Not that I speak because of lack, for I have learned in whatever state I am, to be content in it.  "
+		"value": "Not that I speak because of lack, for I have learnt in whatever state I am, to be content in it.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "I know how to be humbled, and I also know how to abound. In everything and in all things I have learned the secret both to be filled and to be hungry, both to abound and to be in need.  "
+		"value": "I know how to be humbled, and I also know how to abound. In any and all circumstances I have learnt the secret both to be filled and to be hungry, both to abound and to be in need.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "I can do all things through Christ, who strengthens me.  "
+		"value": "I can do all things through Christ who strengthens me.  "
 	},
 	{
 		"type": "paragraph text",

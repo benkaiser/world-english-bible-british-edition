@@ -41,7 +41,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also. "
+		"value": "having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois and your mother Eunice and, I am persuaded, in you also. "
 	},
 	{
 		"type": "paragraph end"
@@ -82,7 +82,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.  "
+		"value": "but has now been revealed by the appearing of our Saviour, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.  "
 	},
 	{
 		"type": "paragraph text",
@@ -183,7 +183,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The things which you have heard from me among many witnesses, commit the same things to faithful men, who will be able to teach others also.  "
+		"value": "The things which you have heard from me amongst many witnesses, commit the same things to faithful men who will be able to teach others also.  "
 	},
 	{
 		"type": "paragraph text",
@@ -211,7 +211,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "The farmer who labors must be the first to get a share of the crops.  "
+		"value": "The farmer who labours must be the first to get a share of the crops.  "
 	},
 	{
 		"type": "paragraph text",
@@ -361,7 +361,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Remind them of these things, charging them in the sight of the Lord, that they don’t argue about words, to no profit, to the subverting of those who hear. "
+		"value": "Remind them of these things, charging them in the sight of the Lord that they don’t argue about words to no profit, to the subverting of those who hear. "
 	},
 	{
 		"type": "paragraph end"
@@ -402,21 +402,27 @@
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "However God’s firm foundation stands, having this seal, “The Lord knows those who are his,” and, “Let every one who names the name of the Lord depart from unrighteousness.”  "
+		"value": "However, God’s firm foundation stands, having this seal: “The Lord knows those who are his,” and, “Let every one who names the name of the Lord depart from unrighteousness.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor, and some for dishonor.  "
+		"value": "Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honour and some for dishonour.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "If anyone therefore purges himself from these, he will be a vessel for honor, sanctified, and suitable for the master’s use, prepared for every good work. "
+		"value": "If anyone therefore purges himself from these, he will be a vessel for honour, sanctified, and suitable for the master’s use, prepared for every good work. "
 	},
 	{
 		"type": "paragraph end"
@@ -443,21 +449,21 @@
 		"chapterNumber": 2,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "The Lord’s servant must not quarrel, but be gentle toward all, able to teach, patient,  "
+		"value": "The Lord’s servant must not quarrel, but be gentle towards all, able to teach, patient,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "in gentleness correcting those who oppose him: perhaps God may give them repentance leading to a full knowledge of the truth,  "
+		"value": "in gentleness correcting those who oppose him. Perhaps God may give them repentance leading to a full knowledge of the truth,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "and they may recover themselves out of the devil’s snare, having been taken captive by him to his will. "
+		"value": "and they may recover themselves out of the devil’s snare, having been taken captive by him to do his will. "
 	},
 	{
 		"type": "paragraph end"
@@ -498,7 +504,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "holding a form of godliness, but having denied its power. Turn away from these, also.  "
+		"value": "holding a form of godliness but having denied its power. Turn away from these, also.  "
 	},
 	{
 		"type": "paragraph text",
@@ -512,7 +518,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "always learning, and never able to come to the knowledge of the truth.  "
+		"value": "always learning and never able to come to the knowledge of the truth.  "
 	},
 	{
 		"type": "paragraph text",
@@ -526,7 +532,13 @@
 		"chapterNumber": 3,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "But they will proceed no further. For their folly will be evident to all men, as theirs also came to be.  "
+		"value": "But they will proceed no further. For their folly will be evident to all men, as theirs also came to be. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -540,7 +552,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "persecutions, and sufferings: those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all.  "
+		"value": "persecutions, and sufferings—those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all.  "
 	},
 	{
 		"type": "paragraph text",
@@ -561,14 +573,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "But you remain in the things which you have learned and have been assured of, knowing from whom you have learned them.  "
+		"value": "But you remain in the things which you have learnt and have been assured of, knowing from whom you have learnt them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith, which is in Christ Jesus.  "
+		"value": "From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith which is in Christ Jesus.  "
 	},
 	{
 		"type": "paragraph text",
@@ -623,7 +635,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry. "
+		"value": "But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfil your ministry. "
 	},
 	{
 		"type": "paragraph end"
@@ -677,7 +689,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Only Luke is with me. Take Mark, and bring him with you, for he is useful to me for service.  "
+		"value": "Only Luke is with me. Take Mark and bring him with you, for he is useful to me for service.  "
 	},
 	{
 		"type": "paragraph text",
@@ -691,21 +703,21 @@
 		"chapterNumber": 4,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Bring the cloak that I left at Troas with Carpus when you come, and the books, especially the parchments.  "
+		"value": "Bring the cloak that I left at Troas with Carpus when you come—and the books, especially the parchments.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Alexander, the coppersmith, did much evil to me. The Lord will repay him according to his deeds,  "
+		"value": "Alexander the coppersmith did much evil to me. The Lord will repay him according to his deeds.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "of whom you also must beware; for he greatly opposed our words. "
+		"value": "Beware of him, for he greatly opposed our words. "
 	},
 	{
 		"type": "paragraph end"
@@ -718,7 +730,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "At my first defense, no one came to help me, but all left me. May it not be held against them.  "
+		"value": "At my first defence, no one came to help me, but all left me. May it not be held against them.  "
 	},
 	{
 		"type": "paragraph text",
@@ -732,7 +744,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "And the Lord will deliver me from every evil work, and will preserve me for his heavenly Kingdom. To him be the glory forever and ever. Amen. "
+		"value": "And the Lord will deliver me from every evil work and will preserve me for his heavenly Kingdom. To him be the glory forever and ever. Amen. "
 	},
 	{
 		"type": "paragraph end"

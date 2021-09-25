@@ -7,7 +7,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now Yahweh’s word came to Jonah the son of Amittai, saying,  "
+		"value": "Now the LORD’s word came to Jonah the son of Amittai, saying,  "
 	},
 	{
 		"type": "paragraph text",
@@ -27,21 +27,27 @@
 		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "But Jonah rose up to flee to Tarshish from the presence of Yahweh. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of Yahweh.  "
+		"value": "But Jonah rose up to flee to Tarshish from the presence of the LORD. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of the LORD. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "But Yahweh sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up.  "
+		"value": "But the LORD sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Then the mariners were afraid, and every man cried to his god. They threw the cargo that was in the ship into the sea to lighten the ship. But Jonah had gone down into the innermost parts of the ship, and he was laying down, and was fast asleep.  "
+		"value": "Then the mariners were afraid, and every man cried to his god. They threw the cargo that was in the ship into the sea to lighten the ship. But Jonah had gone down into the innermost parts of the ship and he was laying down, and was fast asleep.  "
 	},
 	{
 		"type": "paragraph text",
@@ -81,7 +87,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "He said to them, “I am a Hebrew, and I fear Yahweh, the God of heaven, who has made the sea and the dry land.” "
+		"value": "He said to them, “I am a Hebrew, and I fear the LORD, the God of heaven, who has made the sea and the dry land.” "
 	},
 	{
 		"type": "paragraph end"
@@ -94,14 +100,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Then the men were exceedingly afraid, and said to him, “What have you done?” For the men knew that he was fleeing from the presence of Yahweh, because he had told them.  "
+		"value": "Then the men were exceedingly afraid, and said to him, “What have you done?” For the men knew that he was fleeing from the presence of the LORD, because he had told them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Then they said to him, “What shall we do to you, that the sea may be calm to us?” For the sea grew more and more stormy.  "
+		"value": "Then they said to him, “What shall we do to you, that the sea may be calm to us?” For the sea grew more and more stormy. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -128,21 +140,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Therefore they cried to Yahweh, and said, “We beg you, Yahweh, we beg you, don’t let us die for this man’s life, and don’t lay on us innocent blood; for you, Yahweh, have done as it pleased you.”  "
+		"value": "Therefore they cried to the LORD, and said, “We beg you, LORD, we beg you, don’t let us die for this man’s life, and don’t lay on us innocent blood; for you, LORD, have done as it pleased you.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "So they took up Jonah, and threw him into the sea; and the sea ceased its raging.  "
+		"value": "So they took up Jonah and threw him into the sea; and the sea ceased its raging.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Then the men feared Yahweh exceedingly; and they offered a sacrifice to Yahweh, and made vows. "
+		"value": "Then the men feared the LORD exceedingly; and they offered a sacrifice to the LORD and made vows. "
 	},
 	{
 		"type": "paragraph end"
@@ -155,7 +167,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Yahweh prepared a great fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights. "
+		"value": "The LORD prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights. "
 	},
 	{
 		"type": "paragraph end"
@@ -168,7 +180,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Then Jonah prayed to Yahweh, his God, out of the fish’s belly.  "
+		"value": "Then Jonah prayed to the LORD, his God, out of the fish’s belly.  "
 	},
 	{
 		"type": "paragraph text",
@@ -188,7 +200,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 2,
-		"value": "“I called because of my affliction to Yahweh. "
+		"value": "“I called because of my affliction to the LORD. "
 	},
 	{
 		"type": "line break"
@@ -278,7 +290,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 2,
-		"value": "yet I will look again toward your holy temple.’ "
+		"value": "yet I will look again towards your holy temple.’ "
 	},
 	{
 		"type": "line break"
@@ -338,7 +350,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 2,
-		"value": "The earth barred me in forever: "
+		"value": "The earth barred me in forever; "
 	},
 	{
 		"type": "line break"
@@ -348,7 +360,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 3,
-		"value": "yet have you brought up my life from the pit, Yahweh my God. "
+		"value": "yet you have brought my life up from the pit, LORD my God. "
 	},
 	{
 		"type": "line break"
@@ -371,7 +383,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "“When my soul fainted within me, I remembered Yahweh. "
+		"value": "“When my soul fainted within me, I remembered the LORD. "
 	},
 	{
 		"type": "line break"
@@ -391,7 +403,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Those who regard lying vanities forsake their own mercy. "
+		"value": "Those who regard vain idols forsake their own mercy. "
 	},
 	{
 		"type": "line break"
@@ -421,7 +433,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 3,
-		"value": "Salvation belongs to Yahweh.” "
+		"value": "Salvation belongs to the LORD.” "
 	},
 	{
 		"type": "line break"
@@ -437,7 +449,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land. "
+		"value": "Then the LORD spoke to the fish, and it vomited out Jonah on the dry land. "
 	},
 	{
 		"type": "paragraph end"
@@ -450,7 +462,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Yahweh’s word came to Jonah the second time, saying,  "
+		"value": "The LORD’s word came to Jonah the second time, saying,  "
 	},
 	{
 		"type": "paragraph text",
@@ -470,7 +482,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "So Jonah arose, and went to Nineveh, according to Yahweh’s word. Now Nineveh was an exceedingly great city, three days’ journey across.  "
+		"value": "So Jonah arose, and went to Nineveh, according to the LORD’s word. Now Nineveh was an exceedingly great city, three days’ journey across.  "
 	},
 	{
 		"type": "paragraph text",
@@ -490,14 +502,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "The people of Nineveh believed God; and they proclaimed a fast, and put on sackcloth, from their greatest even to their least.  "
+		"value": "The people of Nineveh believed God; and they proclaimed a fast and put on sackcloth, from their greatest even to their least.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "The news reached the king of Nineveh, and he arose from his throne, and took off his royal robe, covered himself with sackcloth, and sat in ashes.  "
+		"value": "The news reached the king of Nineveh, and he arose from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.  "
 	},
 	{
 		"type": "paragraph text",
@@ -511,7 +523,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "but let them be covered with sackcloth, both man and animal, and let them cry mightily to God. Yes, let them turn everyone from his evil way, and from the violence that is in his hands.  "
+		"value": "but let them be covered with sackcloth, both man and animal, and let them cry mightily to God. Yes, let them turn everyone from his evil way and from the violence that is in his hands.  "
 	},
 	{
 		"type": "paragraph text",
@@ -551,14 +563,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "He prayed to Yahweh, and said, “Please, Yahweh, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God, and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm.  "
+		"value": "He prayed to the LORD, and said, “Please, LORD, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Therefore now, Yahweh, take, I beg you, my life from me; for it is better for me to die than to live.” "
+		"value": "Therefore now, LORD, take, I beg you, my life from me, for it is better for me to die than to live.” "
 	},
 	{
 		"type": "paragraph end"
@@ -571,7 +583,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Yahweh said, “Is it right for you to be angry?” "
+		"value": "The LORD said, “Is it right for you to be angry?” "
 	},
 	{
 		"type": "paragraph end"
@@ -584,28 +596,28 @@
 		"chapterNumber": 4,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Then Jonah went out of the city, and sat on the east side of the city, and there made himself a booth, and sat under it in the shade, until he might see what would become of the city.  "
+		"value": "Then Jonah went out of the city and sat on the east side of the city, and there made himself a booth and sat under it in the shade, until he might see what would become of the city.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Yahweh God prepared a vine, and made it to come up over Jonah, that it might be a shade over his head, to deliver him from his discomfort. So Jonah was exceedingly glad because of the vine.  "
+		"value": "The LORD God prepared a vine and made it to come up over Jonah, that it might be a shade over his head to deliver him from his discomfort. So Jonah was exceedingly glad because of the vine.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But God prepared a worm at dawn the next day, and it chewed on the vine, so that it withered.  "
+		"value": "But God prepared a worm at dawn the next day, and it chewed on the vine so that it withered.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "When the sun arose, God prepared a sultry east wind; and the sun beat on Jonah’s head, so that he fainted, and requested for himself that he might die, and said, “It is better for me to die than to live.” "
+		"value": "When the sun arose, God prepared a sultry east wind; and the sun beat on Jonah’s head, so that he was faint and requested for himself that he might die. He said, “It is better for me to die than to live.” "
 	},
 	{
 		"type": "paragraph end"
@@ -644,14 +656,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Yahweh said, “You have been concerned for the vine, for which you have not labored, neither made it grow; which came up in a night, and perished in a night.  "
+		"value": "The LORD said, “You have been concerned for the vine, for which you have not laboured, neither made it grow; which came up in a night and perished in a night.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Shouldn’t I be concerned for Nineveh, that great city, in which are more than one hundred twenty thousand persons who can’t discern between their right hand and their left hand; and also much livestock?” "
+		"value": "Shouldn’t I be concerned for Nineveh, that great city, in which are more than one hundred and twenty thousand persons who can’t discern between their right hand and their left hand, and also many animals?” "
 	},
 	{
 		"type": "paragraph end"

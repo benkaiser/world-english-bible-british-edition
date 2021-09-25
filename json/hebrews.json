@@ -173,7 +173,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 3,
-		"value": "The scepter of uprightness is the scepter of your Kingdom. "
+		"value": "The sceptre of uprightness is the sceptre of your Kingdom. "
 	},
 	{
 		"type": "line break"
@@ -381,7 +381,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "God also testifying with them, both by signs and wonders, by various works of power and by gifts of the Holy Spirit, according to his own will? "
+		"value": "God also testifying with them, both by signs and wonders, by various works of power, and by gifts of the Holy Spirit, according to his own will? "
 	},
 	{
 		"type": "paragraph end"
@@ -444,7 +444,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 2,
-		"value": "You crowned him with glory and honor. "
+		"value": "You crowned him with glory and honour. "
 	},
 	{
 		"type": "line break"
@@ -470,21 +470,27 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 2,
-		"value": "For in that he subjected all things to him, he left nothing that is not subject to him. But now we don’t see all things subjected to him, yet.  "
+		"value": "For in that he subjected all things to him, he left nothing that is not subject to him. But now we don’t yet see all things subjected to him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "But we see him who has been made a little lower than the angels, Jesus, because of the suffering of death crowned with glory and honor, that by the grace of God he should taste of death for everyone.  "
+		"value": "But we see him who has been made a little lower than the angels, Jesus, because of the suffering of death crowned with glory and honour, that by the grace of God he should taste of death for everyone. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For it became him, for whom are all things, and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.  "
+		"value": "For it became him, for whom are all things and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.  "
 	},
 	{
 		"type": "paragraph text",
@@ -521,7 +527,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 3,
-		"value": "Among the congregation I will sing your praise.” "
+		"value": "Amongst the congregation I will sing your praise.” "
 	},
 	{
 		"type": "line break"
@@ -599,7 +605,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "For he has been counted worthy of more glory than Moses, because he who built the house has more honor than the house.  "
+		"value": "For he has been counted worthy of more glory than Moses, because he who built the house has more honour than the house.  "
 	},
 	{
 		"type": "paragraph text",
@@ -650,7 +656,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "don’t harden your hearts, as in the rebellion, "
+		"value": "don’t harden your hearts as in the rebellion, "
 	},
 	{
 		"type": "line break"
@@ -660,7 +666,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 2,
-		"value": "like as in the day of the trial in the wilderness, "
+		"value": "in the day of the trial in the wilderness, "
 	},
 	{
 		"type": "line break"
@@ -888,7 +894,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "he again defines a certain day, today, saying through David so long a time afterward (just as has been said), "
+		"value": "he again defines a certain day, “today”, saying through David so long a time afterward (just as has been said), "
 	},
 	{
 		"type": "paragraph end"
@@ -1002,7 +1008,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins.  "
+		"value": "For every high priest, being taken from amongst men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1023,7 +1029,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Nobody takes this honor on himself, but he is called by God, just like Aaron was.  "
+		"value": "Nobody takes this honour on himself, but he is called by God, just like Aaron was.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1115,7 +1121,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "though he was a Son, yet learned obedience by the things which he suffered.  "
+		"value": "though he was a Son, yet learnt obedience by the things which he suffered.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1176,14 +1182,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Therefore leaving the teaching of the first principles of Christ, let’s press on to perfection—not laying again a foundation of repentance from dead works, of faith toward God,  "
+		"value": "Therefore leaving the teaching of the first principles of Christ, let’s press on to perfection—not laying again a foundation of repentance from dead works, of faith towards God,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "of the teaching of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment.  "
+		"value": "of the teaching of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgement.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1225,7 +1231,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to be burned. "
+		"value": "but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to be burnt. "
 	},
 	{
 		"type": "paragraph end"
@@ -1245,7 +1251,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name, in that you served the saints, and still do serve them.  "
+		"value": "For God is not unrighteous, so as to forget your work and the labour of love which you showed towards his name, in that you served the saints, and still do serve them.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1259,7 +1265,13 @@
 		"chapterNumber": 6,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "that you won’t be sluggish, but imitators of those who through faith and perseverance inherited the promises.  "
+		"value": "that you won’t be sluggish, but imitators of those who through faith and perseverance inherited the promises. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1308,7 +1320,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "This hope we have as an anchor of the soul, a hope both sure and steadfast and entering into that which is within the veil;  "
+		"value": "This hope we have as an anchor of the soul, a hope both sure and steadfast and entering into that which is within the veil,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1355,14 +1367,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Now consider how great this man was, to whom even Abraham, the patriarch, gave a tenth out of the best plunder.  "
+		"value": "Now consider how great this man was, to whom even Abraham the patriarch gave a tenth out of the best plunder.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "They indeed of the sons of Levi who receive the priest’s office have a commandment to take tithes of the people according to the law, that is, of their brothers, though these have come out of the body of Abraham,  "
+		"value": "They indeed of the sons of Levi who receive the priest’s office have a commandment to take tithes from the people according to the law, that is, of their brothers, though these have come out of the body of Abraham,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1561,7 +1573,13 @@
 		"chapterNumber": 7,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "By so much, Jesus has become the collateral of a better covenant.  "
+		"value": "By so much, Jesus has become the guarantee of a better covenant. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1609,7 +1627,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "For the law appoints men as high priests who have weakness, but the word of the oath which came after the law appoints a Son forever who has been perfected. "
+		"value": "For the law appoints men as high priests who have weakness, but the word of the oath, which came after the law, appoints a Son forever who has been perfected. "
 	},
 	{
 		"type": "paragraph end"
@@ -1622,14 +1640,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now in the things which we are saying, the main point is this. We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens,  "
+		"value": "Now in the things which we are saying, the main point is this: we have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "a servant of the sanctuary and of the true tabernacle, which the Lord pitched, not man.  "
+		"value": "a servant of the sanctuary and of the true tabernacle which the Lord pitched, not man.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1657,7 +1675,13 @@
 		"chapterNumber": 8,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "But now he has obtained a more excellent ministry, by so much as he is also the mediator of a better covenant, which on better promises has been given as law.  "
+		"value": "But now he has obtained a more excellent ministry, by as much as he is also the mediator of a better covenant, which on better promises has been given as law. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1684,7 +1708,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 2,
-		"value": "“Behold, the days come”, says the Lord, "
+		"value": "“Behold, the days are coming”, says the Lord, "
 	},
 	{
 		"type": "line break"
@@ -1704,7 +1728,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "not according to the covenant that I made with their fathers, "
+		"value": "not according to the covenant that I made with their fathers "
 	},
 	{
 		"type": "line break"
@@ -1744,7 +1768,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "“For this is the covenant that I will make with the house of Israel. "
+		"value": "“For this is the covenant that I will make with the house of Israel "
 	},
 	{
 		"type": "line break"
@@ -1754,7 +1778,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "After those days,” says the Lord; "
+		"value": "after those days,” says the Lord: "
 	},
 	{
 		"type": "line break"
@@ -1764,7 +1788,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 3,
-		"value": "“I will put my laws into their mind, "
+		"value": "“I will put my laws into their mind; "
 	},
 	{
 		"type": "line break"
@@ -1804,7 +1828,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "They will not teach every man his fellow citizen, "
+		"value": "They will not teach every man his fellow citizen "
 	},
 	{
 		"type": "line break"
@@ -1870,7 +1894,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "In that he says, “A new covenant”, he has made the first old. But that which is becoming old and grows aged is near to vanishing away. "
+		"value": "In that he says, “A new covenant”, he has made the first obsolete. But that which is becoming obsolete and grows aged is near to vanishing away. "
 	},
 	{
 		"type": "paragraph end"
@@ -1890,7 +1914,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "For a tabernacle was prepared. In the first part were the lamp stand, the table, and the show bread; which is called the Holy Place.  "
+		"value": "For a tabernacle was prepared. In the first part were the lamp stand, the table, and the show bread, which is called the Holy Place.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1904,14 +1928,20 @@
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "having a golden altar of incense, and the ark of the covenant overlaid on all sides with gold, in which was a golden pot holding the manna, Aaron’s rod that budded, and the tablets of the covenant;  "
+		"value": "having a golden altar of incense and the ark of the covenant overlaid on all sides with gold, in which was a golden pot holding the manna, Aaron’s rod that budded, and the tablets of the covenant;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "and above it cherubim of glory overshadowing the mercy seat, of which things we can’t speak now in detail.  "
+		"value": "and above it cherubim of glory overshadowing the mercy seat, of which things we can’t speak now in detail. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1925,7 +1955,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "but into the second the high priest alone, once in the year, not without blood, which he offers for himself, and for the errors of the people.  "
+		"value": "but into the second the high priest alone, once in the year, not without blood, which he offers for himself and for the errors of the people.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1939,14 +1969,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "This is a symbol of the present age, where gifts and sacrifices are offered that are incapable, concerning the conscience, of making the worshiper perfect,  "
+		"value": "This is a symbol of the present age, where gifts and sacrifices are offered that are incapable, concerning the conscience, of making the worshipper perfect,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "being only (with meats and drinks and various washings) fleshly ordinances, imposed until a time of reformation. "
+		"value": "being only (with foods and drinks and various washings) fleshly ordinances, imposed until a time of reformation. "
 	},
 	{
 		"type": "paragraph end"
@@ -2035,7 +2065,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Moreover he sprinkled the tabernacle and all the vessels of the ministry in the same way with the blood.  "
+		"value": "He sprinkled the tabernacle and all the vessels of the ministry in the same way with the blood.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2083,14 +2113,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Inasmuch as it is appointed for men to die once, and after this, judgment,  "
+		"value": "Inasmuch as it is appointed for men to die once, and after this, judgement,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "so Christ also, having been offered once to bear the sins of many, will appear a second time, without sin, to those who are eagerly waiting for him for salvation. "
+		"value": "so Christ also, having been offered once to bear the sins of many, will appear a second time, not to deal with sin, but to save those who are eagerly waiting for him. "
 	},
 	{
 		"type": "paragraph end"
@@ -2110,7 +2140,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Or else wouldn’t they have ceased to be offered, because the worshipers, having been once cleansed, would have had no more consciousness of sins?  "
+		"value": "Or else wouldn’t they have ceased to be offered, because the worshippers, having been once cleansed, would have had no more consciousness of sins?  "
 	},
 	{
 		"type": "paragraph text",
@@ -2214,14 +2244,20 @@
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "by which will we have been sanctified through the offering of the body of Jesus Christ once for all.  "
+		"value": "by which will we have been sanctified through the offering of the body of Jesus Christ once for all. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Every priest indeed stands day by day serving and often offering the same sacrifices which can never take away sins,  "
+		"value": "Every priest indeed stands day by day serving and offering often the same sacrifices, which can never take away sins,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2269,7 +2305,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "“This is the covenant that I will make with them: "
+		"value": "“This is the covenant that I will make with them "
 	},
 	{
 		"type": "line break"
@@ -2279,7 +2315,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 2,
-		"value": "‘After those days,’ says the Lord, "
+		"value": "after those days,” says the Lord, "
 	},
 	{
 		"type": "line break"
@@ -2289,7 +2325,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 3,
-		"value": "‘I will put my laws on their heart, "
+		"value": "“I will put my laws on their heart, "
 	},
 	{
 		"type": "line break"
@@ -2299,7 +2335,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 4,
-		"value": "I will also write them on their mind;’ ” "
+		"value": "I will also write them on their mind;” "
 	},
 	{
 		"type": "line break"
@@ -2385,7 +2421,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience, and having our body washed with pure water,  "
+		"value": "let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience and having our body washed with pure water,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2425,14 +2461,14 @@
 		"chapterNumber": 10,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins,  "
+		"value": "For if we sin wilfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries.  "
+		"value": "but a certain fearful expectation of judgement, and a fierceness of fire which will devour the adversaries.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2453,7 +2489,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "For we know him who said, “Vengeance belongs to me;” says the Lord, “I will repay.” Again, “The Lord will judge his people.”  "
+		"value": "For we know him who said, “Vengeance belongs to me. I will repay,” says the Lord. Again, “The Lord will judge his people.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2473,21 +2509,21 @@
 		"chapterNumber": 10,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings;  "
+		"value": "But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings:  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "partly, being exposed to both reproaches and oppressions; and partly, becoming partakers with those who were treated so.  "
+		"value": "partly, being exposed to both reproaches and oppressions, and partly, becoming partakers with those who were treated so.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "For you both had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens.  "
+		"value": "For you both had compassion on me in my chains and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2531,7 +2567,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 37,
 		"sectionNumber": 2,
-		"value": "he who comes will come, and will not wait. "
+		"value": "he who comes will come and will not wait. "
 	},
 	{
 		"type": "line break"
@@ -2541,7 +2577,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "But the righteous will live by faith. "
+		"value": "But the righteous one will live by faith. "
 	},
 	{
 		"type": "line break"
@@ -2587,77 +2623,113 @@
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "For by this, the elders obtained testimony.  "
+		"value": "For by this, the elders obtained approval.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "By faith, we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible.  "
+		"value": "By faith we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "By faith, Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks.  "
+		"value": "By faith Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "By faith, Enoch was taken away, so that he wouldn’t see death, and he was not found, because God translated him. For he has had testimony given to him that before his translation he had been well pleasing to God.  "
+		"value": "By faith Enoch was taken away, so that he wouldn’t see death, and he was not found, because God translated him. For he has had testimony given to him that before his translation he had been well pleasing to God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.  "
+		"value": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "By faith, Noah, being warned about things not yet seen, moved with godly fear, prepared a ship for the saving of his house, through which he condemned the world, and became heir of the righteousness which is according to faith.  "
+		"value": "By faith Noah, being warned about things not yet seen, moved with godly fear, prepared a ship for the saving of his house, through which he condemned the world and became heir of the righteousness which is according to faith. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "By faith, Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went.  "
+		"value": "By faith Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "By faith, he lived as an alien in the land of promise, as in a land not his own, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise.  "
+		"value": "By faith he lived as an alien in the land of promise, as in a land not his own, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For he looked for the city which has the foundations, whose builder and maker is God.  "
+		"value": "For he was looking for the city which has foundations, whose builder and maker is God. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "By faith, even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised.  "
+		"value": "By faith even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Therefore as many as the stars of the sky in multitude, and as innumerable as the sand which is by the sea shore, were fathered by one man, and him as good as dead.  "
+		"value": "Therefore as many as the stars of the sky in multitude, and as innumerable as the sand which is by the sea shore, were fathered by one man, and him as good as dead. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2698,7 +2770,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his one and only son,  "
+		"value": "By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his only born son,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2712,42 +2784,72 @@
 		"chapterNumber": 11,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead.  "
+		"value": "concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "By faith, Isaac blessed Jacob and Esau, even concerning things to come.  "
+		"value": "By faith Isaac blessed Jacob and Esau, even concerning things to come. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "By faith, Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff.  "
+		"value": "By faith Jacob, when he was dying, blessed each of the sons of Joseph, and worshipped, leaning on the top of his staff. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "By faith, Joseph, when his end was near, made mention of the departure of the children of Israel, and gave instructions concerning his bones.  "
+		"value": "By faith Joseph, when his end was near, made mention of the departure of the children of Israel, and gave instructions concerning his bones. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "By faith, Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child, and they were not afraid of the king’s commandment.  "
+		"value": "By faith Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child; and they were not afraid of the king’s commandment. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "By faith, Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter,  "
+		"value": "By faith Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2768,42 +2870,66 @@
 		"chapterNumber": 11,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "By faith, he left Egypt, not fearing the wrath of the king; for he endured, as seeing him who is invisible.  "
+		"value": "By faith he left Egypt, not fearing the wrath of the king; for he endured, as seeing him who is invisible.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "By faith, he kept the Passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them.  "
+		"value": "By faith he kept the Passover and the sprinkling of the blood, that the destroyer of the firstborn should not touch them. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "By faith, they passed through the Red Sea as on dry land. When the Egyptians tried to do so, they were swallowed up.  "
+		"value": "By faith they passed through the Red Sea as on dry land. When the Egyptians tried to do so, they were swallowed up. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "By faith, the walls of Jericho fell down, after they had been encircled for seven days.  "
+		"value": "By faith the walls of Jericho fell down after they had been encircled for seven days. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "By faith, Rahab the prostitute didn’t perish with those who were disobedient, having received the spies in peace.  "
+		"value": "By faith Rahab the prostitute didn’t perish with those who were disobedient, having received the spies in peace. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,  "
+		"value": "What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets—  "
 	},
 	{
 		"type": "paragraph text",
@@ -2845,14 +2971,20 @@
 		"chapterNumber": 11,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "of whom the world was not worthy—wandering in deserts, mountains, caves, and the holes of the earth.  "
+		"value": "of whom the world was not worthy—wandering in deserts, mountains, caves, and the holes of the earth. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "These all, having had testimony given to them through their faith, didn’t receive the promise,  "
+		"value": "These all, having been commended for their faith, didn’t receive the promise,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2879,7 +3011,13 @@
 		"chapterNumber": 12,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.  "
+		"value": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2973,14 +3111,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Furthermore, we had the fathers of our flesh to chasten us, and we paid them respect. Shall we not much rather be in subjection to the Father of spirits, and live?  "
+		"value": "Furthermore, we had the fathers of our flesh to chasten us, and we paid them respect. Shall we not much rather be in subjection to the Father of spirits and live?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For they indeed, for a few days, punished us as seemed good to them; but he for our profit, that we may be partakers of his holiness.  "
+		"value": "For they indeed for a few days disciplined us as seemed good to them, but he for our profit, that we may be partakers of his holiness.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3021,14 +3159,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "looking carefully lest there be any man who falls short of the grace of God, lest any root of bitterness springing up trouble you, and many be defiled by it,  "
+		"value": "looking carefully lest there be any man who falls short of the grace of God, lest any root of bitterness springing up trouble you and many be defiled by it,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "lest there be any sexually immoral person, or profane person, like Esau, who sold his birthright for one meal.  "
+		"value": "lest there be any sexually immoral person or profane person, like Esau, who sold his birthright for one meal.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3048,7 +3186,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "For you have not come to a mountain that might be touched, and that burned with fire, and to blackness, darkness, storm,  "
+		"value": "For you have not come to a mountain that might be touched and that burnt with fire, and to blackness, darkness, storm,  "
 	},
 	{
 		"type": "paragraph text",
@@ -3082,7 +3220,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "But you have come to Mount Zion, and to the city of the living God, the heavenly Jerusalem, and to innumerable multitudes of angels,  "
+		"value": "But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable multitudes of angels,  "
 	},
 	{
 		"type": "paragraph text",
@@ -3171,7 +3309,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Let marriage be held in honor among all, and let the bed be undefiled; but God will judge the sexually immoral and adulterers. "
+		"value": "Let marriage be held in honour amongst all, and let the bed be undefiled; but God will judge the sexually immoral and adulterers. "
 	},
 	{
 		"type": "paragraph end"
@@ -3244,7 +3382,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Don’t be carried away by various and strange teachings, for it is good that the heart be established by grace, not by food, through which those who were so occupied were not benefited. "
+		"value": "Don’t be carried away by various and strange teachings, for it is good that the heart be established by grace, not by foods, through which those who were so occupied were not benefitted. "
 	},
 	{
 		"type": "paragraph end"
@@ -3264,7 +3402,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burned outside of the camp.  "
+		"value": "For the bodies of those animals, whose blood is brought into the holy place by the high priest as an offering for sin, are burnt outside of the camp.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3312,7 +3450,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Obey your leaders and submit to them, for they watch on behalf of your souls, as those who will give account, that they may do this with joy, and not with groaning, for that would be unprofitable for you. "
+		"value": "Obey your leaders and submit to them, for they watch on behalf of your souls, as those who will give account, that they may do this with joy and not with groaning, for that would be unprofitable for you. "
 	},
 	{
 		"type": "paragraph end"
@@ -3325,7 +3463,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Pray for us, for we are persuaded that we have a good conscience, desiring to live honorably in all things.  "
+		"value": "Pray for us, for we are persuaded that we have a good conscience, desiring to live honourably in all things.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3365,7 +3503,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "But I exhort you, brothers, endure the word of exhortation; for I have written to you in few words.  "
+		"value": "But I exhort you, brothers, endure the word of exhortation, for I have written to you in few words.  "
 	},
 	{
 		"type": "paragraph text",

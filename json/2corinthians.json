@@ -27,7 +27,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort;  "
+		"value": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,  "
 	},
 	{
 		"type": "paragraph text",
@@ -55,14 +55,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort.  "
+		"value": "Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so you are also of the comfort. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "For we don’t desire to have you uninformed, brothers, concerning our affliction which happened to us in Asia, that we were weighed down exceedingly, beyond our power, so much that we despaired even of life.  "
+		"value": "For we don’t desire to have you uninformed, brothers, concerning our affliction which happened to us in Asia: that we were weighed down exceedingly, beyond our power, so much that we despaired even of life.  "
 	},
 	{
 		"type": "paragraph text",
@@ -76,7 +82,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "who delivered us out of so great a death, and does deliver; on whom we have set our hope that he will also still deliver us;  "
+		"value": "who delivered us out of so great a death, and does deliver, on whom we have set our hope that he will also still deliver us,  "
 	},
 	{
 		"type": "paragraph text",
@@ -96,21 +102,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "For our boasting is this: the testimony of our conscience, that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God we behaved ourselves in the world, and more abundantly toward you.  "
+		"value": "For our boasting is this: the testimony of our conscience that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God, we behaved ourselves in the world, and more abundantly towards you.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For we write no other things to you than what you read or even acknowledge, and I hope you will acknowledge to the end,  "
+		"value": "For we write no other things to you than what you read or even acknowledge, and I hope you will acknowledge to the end—  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "as also you acknowledged us in part, that we are your boasting, even as you also are ours, in the day of our Lord Jesus. "
+		"value": "as also you acknowledged us in part—that we are your boasting, even as you also are ours, in the day of our Lord Jesus. "
 	},
 	{
 		"type": "paragraph end"
@@ -137,21 +143,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "When I therefore was thus determined, did I show fickleness? Or the things that I purpose, do I purpose according to the flesh, that with me there should be the “Yes, yes” and the “No, no?”  "
+		"value": "When I therefore planned this, did I show fickleness? Or the things that I plan, do I plan according to the flesh, that with me there should be the “Yes, yes” and the “No, no?”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "But as God is faithful, our word toward you was not “Yes and no.”  "
+		"value": "But as God is faithful, our word towards you was not “Yes and no.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "For the Son of God, Jesus Christ, who was preached among you by us, by me, Silvanus, and Timothy, was not “Yes and no,” but in him is “Yes.”  "
+		"value": "For the Son of God, Jesus Christ, who was preached amongst you by us—by me, Silvanus, and Timothy—was not “Yes and no,” but in him is “Yes.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -178,7 +184,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "who also sealed us, and gave us the down payment of the Spirit in our hearts. "
+		"value": "who also sealed us and gave us the down payment of the Spirit in our hearts. "
 	},
 	{
 		"type": "paragraph end"
@@ -191,7 +197,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "But I call God for a witness to my soul, that I didn’t come to Corinth to spare you.  "
+		"value": "But I call God for a witness to my soul, that to spare you, I didn’t come to Corinth.  "
 	},
 	{
 		"type": "paragraph text",
@@ -225,21 +231,27 @@
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "And I wrote this very thing to you, so that, when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy would be shared by all of you.  "
+		"value": "And I wrote this very thing to you, so that when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all that my joy would be shared by all of you.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made to grieve, but that you might know the love that I have so abundantly for you.  "
+		"value": "For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made to grieve, but that you might know the love that I have so abundantly for you. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "But if any has caused sorrow, he has caused sorrow, not to me, but in part (that I not press too heavily) to you all.  "
+		"value": "But if any has caused sorrow, he has caused sorrow not to me, but in part (that I not press too heavily) to you all.  "
 	},
 	{
 		"type": "paragraph text",
@@ -253,14 +265,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.  "
+		"value": "so that, on the contrary, you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Therefore I beg you to confirm your love toward him.  "
+		"value": "Therefore I beg you to confirm your love towards him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -301,7 +313,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "I had no relief for my spirit, because I didn’t find Titus, my brother, but taking my leave of them, I went out into Macedonia. "
+		"value": "I had no relief for my spirit, because I didn’t find Titus my brother, but taking my leave of them, I went out into Macedonia. "
 	},
 	{
 		"type": "paragraph end"
@@ -314,14 +326,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Now thanks be to God, who always leads us in triumph in Christ, and reveals through us the sweet aroma of his knowledge in every place.  "
+		"value": "Now thanks be to God who always leads us in triumph in Christ, and reveals through us the sweet aroma of his knowledge in every place.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "For we are a sweet aroma of Christ to God, in those who are saved and in those who perish:  "
+		"value": "For we are a sweet aroma of Christ to God in those who are saved and in those who perish:  "
 	},
 	{
 		"type": "paragraph text",
@@ -362,28 +374,40 @@
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh.  "
+		"value": "being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Such confidence we have through Christ toward God,  "
+		"value": "Such confidence we have through Christ towards God,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God,  "
+		"value": "not that we are sufficient of ourselves to account anything as from ourselves; but our sufficiency is from God,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "who also made us sufficient as servants of a new covenant, not of the letter, but of the Spirit. For the letter kills, but the Spirit gives life.  "
+		"value": "who also made us sufficient as servants of a new covenant, not of the letter but of the Spirit. For the letter kills, but the Spirit gives life. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -438,7 +462,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "and not as Moses, who put a veil on his face, that the children of Israel wouldn’t look steadfastly on the end of that which was passing away.  "
+		"value": "and not as Moses, who put a veil on his face so that the children of Israel wouldn’t look steadfastly on the end of that which was passing away.  "
 	},
 	{
 		"type": "paragraph text",
@@ -466,7 +490,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Now the Lord is the Spirit and where the Spirit of the Lord is, there is liberty.  "
+		"value": "Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.  "
 	},
 	{
 		"type": "paragraph text",
@@ -486,14 +510,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Therefore seeing we have this ministry, even as we obtained mercy, we don’t faint.  "
+		"value": "Therefore, seeing we have this ministry, even as we obtained mercy, we don’t faint.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "But we have renounced the hidden things of shame, not walking in craftiness, nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God.  "
+		"value": "But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God.  "
 	},
 	{
 		"type": "paragraph text",
@@ -534,7 +558,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But we have this treasure in clay vessels, that the exceeding greatness of the power may be of God, and not from ourselves.  "
+		"value": "But we have this treasure in clay vessels, that the exceeding greatness of the power may be of God and not from ourselves.  "
 	},
 	{
 		"type": "paragraph text",
@@ -569,14 +593,20 @@
 		"chapterNumber": 4,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "So then death works in us, but life in you.  "
+		"value": "So then death works in us, but life in you. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "But having the same spirit of faith, according to that which is written, “I believed, and therefore I spoke.” We also believe, and therefore we also speak;  "
+		"value": "But having the same spirit of faith, according to that which is written, “I believed, and therefore I spoke.” We also believe, and therefore we also speak,  "
 	},
 	{
 		"type": "paragraph text",
@@ -603,7 +633,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Therefore we don’t faint, but though our outward man is decaying, yet our inward man is renewed day by day.  "
+		"value": "Therefore we don’t faint, but though our outward person is decaying, yet our inward person is renewed day by day.  "
 	},
 	{
 		"type": "paragraph text",
@@ -699,7 +729,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For we must all be revealed before the judgment seat of Christ that each one may receive the things in the body according to what he has done, whether good or bad. "
+		"value": "For we must all be revealed before the judgement seat of Christ that each one may receive the things in the body according to what he has done, whether good or bad. "
 	},
 	{
 		"type": "paragraph end"
@@ -719,7 +749,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "For we are not commending ourselves to you again, but speak as giving you occasion of boasting on our behalf, that you may have something to answer those who boast in appearance, and not in heart.  "
+		"value": "For we are not commending ourselves to you again, but speak as giving you occasion of boasting on our behalf, that you may have something to answer those who boast in appearance and not in heart.  "
 	},
 	{
 		"type": "paragraph text",
@@ -733,21 +763,27 @@
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "For the love of Christ constrains us; because we judge thus, that one died for all, therefore all died.  "
+		"value": "For the love of Christ compels us; because we judge thus: that one died for all, therefore all died.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "He died for all, that those who live should no longer live to themselves, but to him who for their sakes died and rose again.  "
+		"value": "He died for all, that those who live should no longer live to themselves, but to him who for their sakes died and rose again. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Therefore we know no one after the flesh from now on. Even though we have known Christ after the flesh, yet now we know him so no more.  "
+		"value": "Therefore we know no one according to the flesh from now on. Even though we have known Christ according to the flesh, yet now we know him so no more.  "
 	},
 	{
 		"type": "paragraph text",
@@ -788,7 +824,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "For him who knew no sin he made to be sin on our behalf; so that in him we might become the righteousness of God. "
+		"value": "For him who knew no sin he made to be sin on our behalf, so that in him we might become the righteousness of God. "
 	},
 	{
 		"type": "paragraph end"
@@ -801,14 +837,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Working together, we entreat also that you do not receive the grace of God in vain,  "
+		"value": "Working together, we entreat also that you do not receive the grace of God in vain.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "for he says, "
+		"value": "For he says, "
 	},
 	{
 		"type": "paragraph end"
@@ -861,14 +897,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "but in everything commending ourselves, as servants of God, in great endurance, in afflictions, in hardships, in distresses,  "
+		"value": "but in everything commending ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "in beatings, in imprisonments, in riots, in labors, in watchings, in fastings;  "
+		"value": "in beatings, in imprisonments, in riots, in labours, in watchings, in fastings,  "
 	},
 	{
 		"type": "paragraph text",
@@ -882,28 +918,28 @@
 		"chapterNumber": 6,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "in the word of truth, in the power of God; by the armor of righteousness on the right hand and on the left,  "
+		"value": "in the word of truth, in the power of God, by the armour of righteousness on the right hand and on the left,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "by glory and dishonor, by evil report and good report; as deceivers, and yet true;  "
+		"value": "by glory and dishonour, by evil report and good report, as deceivers and yet true,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "as unknown, and yet well known; as dying, and behold, we live; as punished, and not killed;  "
+		"value": "as unknown and yet well known, as dying and behold—we live, as punished and not killed,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things. "
+		"value": "as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing and yet possessing all things. "
 	},
 	{
 		"type": "paragraph end"
@@ -930,7 +966,13 @@
 		"chapterNumber": 6,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Now in return, I speak as to my children: you also open your hearts.  "
+		"value": "Now in return—I speak as to my children—you also open your hearts. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -971,7 +1013,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 2,
-		"value": "“ ‘Come out from among them, "
+		"value": "“ ‘Come out from amongst them, "
 	},
 	{
 		"type": "line break"
@@ -1077,7 +1119,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Great is my boldness of speech toward you. Great is my boasting on your behalf. I am filled with comfort. I overflow with joy in all our affliction. "
+		"value": "Great is my boldness of speech towards you. Great is my boasting on your behalf. I am filled with comfort. I overflow with joy in all our affliction. "
 	},
 	{
 		"type": "paragraph end"
@@ -1131,14 +1173,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For godly sorrow produces repentance to salvation, which brings no regret. But the sorrow of the world produces death.  "
+		"value": "For godly sorrow produces repentance leading to salvation, which brings no regret. But the sorrow of the world produces death.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "For behold, this same thing, that you were grieved in a godly way, what earnest care it worked in you. Yes, what defense, indignation, fear, longing, zeal, and vengeance! In everything you demonstrated yourselves to be pure in the matter.  "
+		"value": "For behold, this same thing, that you were grieved in a godly way, what earnest care it worked in you. Yes, what defence, indignation, fear, longing, zeal, and vindication! In everything you demonstrated yourselves to be pure in the matter.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1166,7 +1208,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "His affection is more abundantly toward you, while he remembers all of your obedience, how with fear and trembling you received him.  "
+		"value": "His affection is more abundantly towards you, while he remembers all of your obedience, how with fear and trembling you received him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1193,7 +1235,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "how in much proof of affliction, the abundance of their joy and their deep poverty abounded to the riches of their generosity.  "
+		"value": "how in a severe ordeal of affliction, the abundance of their joy and their deep poverty abounded to the riches of their generosity.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1228,7 +1270,13 @@
 		"chapterNumber": 8,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But as you abound in everything, in faith, utterance, knowledge, all earnestness, and in your love to us, see that you also abound in this grace.  "
+		"value": "But as you abound in everything—in faith, utterance, knowledge, all earnestness, and in your love to us—see that you also abound in this grace. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1249,7 +1297,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "I give a judgment in this: for this is expedient for you who were the first to start a year ago, not only to do, but also to be willing.  "
+		"value": "I give advice in this: it is expedient for you who were the first to start a year ago, not only to do, but also to be willing.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1277,7 +1325,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "but for equality. Your abundance at this present time supplies their lack, that their abundance also may become a supply for your lack; that there may be equality.  "
+		"value": "but for equality. Your abundance at this present time supplies their lack, that their abundance also may become a supply for your lack, that there may be equality.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1332,14 +1380,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men.  "
+		"value": "Having regard for honourable things, not only in the sight of the Lord, but also in the sight of men.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "We have sent with them our brother, whom we have many times proved earnest in many things, but now much more earnest, by reason of the great confidence which he has in you.  "
+		"value": "We have sent with them our brother whom we have many times proved earnest in many things, but now much more earnest, by reason of the great confidence which he has in you.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1380,7 +1428,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "But I have sent the brothers that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared,  "
+		"value": "But I have sent the brothers so that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1474,14 +1522,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "you being enriched in everything to all generosity, which produces thanksgiving to God through us.  "
+		"value": "you being enriched in everything for all generosity, which produces thanksgiving to God through us.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "For this service of giving that you perform not only makes up for lack among the saints, but abounds also through much giving of thanks to God,  "
+		"value": "For this service of giving that you perform not only makes up for lack amongst the saints, but abounds also through much giving of thanks to God,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1515,7 +1563,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now I Paul, myself, entreat you by the humility and gentleness of Christ, I who in your presence am lowly among you, but being absent am bold toward you.  "
+		"value": "Now I Paul, myself, entreat you by the humility and gentleness of Christ, I who in your presence am lowly amongst you, but being absent am bold towards you.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1550,7 +1598,13 @@
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "and being in readiness to avenge all disobedience when your obedience is made full.  "
+		"value": "and being in readiness to avenge all disobedience when your obedience is made full. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1564,7 +1618,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "For even if I boast somewhat abundantly concerning our authority, which the Lord gave for building you up, and not for casting you down, I will not be ashamed,  "
+		"value": "For even if I boast somewhat abundantly concerning our authority, which the Lord gave for building you up and not for casting you down, I will not be ashamed,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1585,7 +1639,13 @@
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Let such a person consider this, that what we are in word by letters when we are absent, such are we also in deed when we are present.  "
+		"value": "Let such a person consider this, that what we are in word by letters when we are absent, such are we also in deed when we are present. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1613,7 +1673,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "not boasting beyond proper limits in other men’s labors, but having hope that as your faith grows, we will be abundantly enlarged by you in our sphere of influence,  "
+		"value": "not boasting beyond proper limits in other men’s labours, but having hope that as your faith grows, we will be abundantly enlarged by you in our sphere of influence,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1654,7 +1714,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "For I am jealous over you with a godly jealousy. For I married you to one husband, that I might present you as a pure virgin to Christ.  "
+		"value": "For I am jealous over you with a godly jealousy. For I promised you in marriage to one husband, that I might present you as a pure virgin to Christ.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1668,7 +1728,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For if he who comes preaches another Jesus, whom we didn’t preach, or if you receive a different spirit, which you didn’t receive, or a different “good news”, which you didn’t accept, you put up with that well enough.  "
+		"value": "For if he who comes preaches another Jesus whom we didn’t preach, or if you receive a different spirit which you didn’t receive, or a different “good news” which you didn’t accept, you put up with that well enough.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1682,7 +1742,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things.  "
+		"value": "But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1717,14 +1783,20 @@
 		"chapterNumber": 11,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Why? Because I don’t love you? God knows.  "
+		"value": "Why? Because I don’t love you? God knows. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "But what I do, that I will do, that I may cut off occasion from those who desire an occasion, that in which they boast, they may be found even as we.  "
+		"value": "But what I do, that I will continue to do, that I may cut off opportunity from those who desire an opportunity, that in which they boast, they may be recognised just like us.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1793,7 +1865,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "I speak by way of disparagement, as though we had been weak. Yet in whatever way anyone is bold (I speak in foolishness), I am bold also.  "
+		"value": "To my shame, I speak as though we had been weak. Yet in whatever way anyone is bold (I speak in foolishness), I am bold also.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1807,7 +1879,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Are they servants of Christ? (I speak as one beside himself.) I am more so: in labors more abundantly, in prisons more abundantly, in stripes above measure, and in deaths often.  "
+		"value": "Are they servants of Christ? (I speak as one beside himself.) I am more so: in labours more abundantly, in prisons more abundantly, in stripes above measure, and in deaths often.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1828,14 +1900,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils among false brothers;  "
+		"value": "I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils amongst false brothers;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "in labor and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness. "
+		"value": "in labour and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness. "
 	},
 	{
 		"type": "paragraph end"
@@ -1855,7 +1927,13 @@
 		"chapterNumber": 11,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation?  "
+		"value": "Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation? "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1896,14 +1974,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "It is doubtless not profitable for me to boast. For I will come to visions and revelations of the Lord.  "
+		"value": "It is doubtless not profitable for me to boast, but I will come to visions and revelations of the Lord.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "I know a man in Christ, fourteen years ago (whether in the body, I don’t know, or whether out of the body, I don’t know; God knows), such a one caught up into the third heaven.  "
+		"value": "I know a man in Christ who was caught up into the third heaven fourteen years ago—whether in the body, I don’t know, or whether out of the body, I don’t know; God knows.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1917,7 +1995,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "how he was caught up into Paradise, and heard unspeakable words, which it is not lawful for a man to utter.  "
+		"value": "how he was caught up into Paradise and heard unspeakable words, which it is not lawful for a man to utter.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1979,14 +2057,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Truly the signs of an apostle were worked among you in all perseverance, in signs and wonders and mighty works.  "
+		"value": "Truly the signs of an apostle were worked amongst you in all perseverance, in signs and wonders and mighty works.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For what is there in which you were made inferior to the rest of the assemblies, unless it is that I myself was not a burden to you? Forgive me this wrong. "
+		"value": "For what is there in which you were made inferior to the rest of the assemblies, unless it is that I myself was not a burden to you? Forgive me this wrong! "
 	},
 	{
 		"type": "paragraph end"
@@ -2013,7 +2091,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Even so, I myself didn’t burden you. “But, being crafty, I caught you with deception.”  "
+		"value": "Even so, I myself didn’t burden you. But you might say that being crafty, I caught you with deception.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2047,7 +2125,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "For I am afraid that by any means, when I come, I might find you not the way I want to, and that I might be found by you as you don’t desire, that by any means there would be strife, jealousy, outbursts of anger, factions, slander, whisperings, proud thoughts, or riots,  "
+		"value": "For I am afraid that perhaps when I come, I might find you not the way I want to, and that I might be found by you as you don’t desire, that perhaps there would be strife, jealousy, outbursts of anger, factions, slander, whisperings, proud thoughts, or riots,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2074,21 +2152,27 @@
 		"chapterNumber": 13,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, I write to those who have sinned before now, and to all the rest, that, if I come again, I will not spare;  "
+		"value": "I have warned previously, and I warn again, as when I was present the second time, so now, being absent, I write to those who have sinned before now and to all the rest that if I come again, I will not spare,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "seeing that you seek a proof of Christ who speaks in me; who toward you is not weak, but is powerful in you.  "
+		"value": "seeing that you seek a proof of Christ who speaks in me who is not weak, but is powerful in you.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.  "
+		"value": "For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God towards you. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2115,7 +2199,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honorable, though we are as reprobate.  "
+		"value": "Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honourable, though we may seem to have failed.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2136,7 +2220,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up, and not for tearing down. "
+		"value": "For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up and not for tearing down. "
 	},
 	{
 		"type": "paragraph end"

@@ -14,7 +14,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Mercy to you and peace and love be multiplied. "
+		"value": "May mercy, peace, and love be multiplied to you. "
 	},
 	{
 		"type": "paragraph end"
@@ -54,7 +54,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgment of the great day.  "
+		"value": "Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgement of the great day.  "
 	},
 	{
 		"type": "paragraph text",
@@ -117,7 +117,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "to execute judgment on all, and to convict all the ungodly of all their works of ungodliness which they have done in an ungodly way, and of all the hard things which ungodly sinners have spoken against him.”  "
+		"value": "to execute judgement on all, and to convict all the ungodly of all their works of ungodliness which they have done in an ungodly way, and of all the hard things which ungodly sinners have spoken against him.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -151,7 +151,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "These are those who cause divisions and are sensual, not having the Spirit.  "
+		"value": "These are those who cause divisions and are sensual, not having the Spirit. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -199,7 +205,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "to God our Savior, who alone is wise, be glory and majesty, dominion and power, both now and forever. Amen. "
+		"value": "to God our Saviour, who alone is wise, be glory and majesty, dominion and power, both now and forever. Amen. "
 	},
 	{
 		"type": "paragraph end"

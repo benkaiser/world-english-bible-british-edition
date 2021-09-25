@@ -7,14 +7,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Yahweh’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.  "
+		"value": "The LORD’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "When Yahweh spoke at first by Hosea, Yahweh said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking Yahweh.” "
+		"value": "When the LORD spoke at first by Hosea, the LORD said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking the LORD.” "
 	},
 	{
 		"type": "paragraph end"
@@ -40,7 +46,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Yahweh said to him, “Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel on the house of Jehu, and will cause the kingdom of the house of Israel to cease.  "
+		"value": "The LORD said to him, “Call his name Jezreel, for yet a little while, and I will avenge the blood of Jezreel on the house of Jehu, and will cause the kingdom of the house of Israel to cease.  "
 	},
 	{
 		"type": "paragraph text",
@@ -73,14 +79,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 2,
-		"value": "Then he said to him, “Call her name Lo-Ruhamah; for I will no longer have mercy on the house of Israel, that I should in any way pardon them.  "
+		"value": "Then he said to him, “Call her name Lo-Ruhamah, for I will no longer have mercy on the house of Israel, that I should in any way pardon them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But I will have mercy on the house of Judah, and will save them by Yahweh their God, and will not save them by bow, sword, battle, horses, or horsemen.” "
+		"value": "But I will have mercy on the house of Judah, and will save them by the LORD their God, and will not save them by bow, sword, battle, horses, or horsemen.” "
 	},
 	{
 		"type": "paragraph end"
@@ -106,7 +112,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "He said, “Call his name Lo-Ammi; for you are not my people, and I will not be yours.  "
+		"value": "He said, “Call his name Lo-Ammi, for you are not my people, and I will not be yours.  "
 	},
 	{
 		"type": "paragraph text",
@@ -206,7 +212,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Lest I strip her naked, "
+		"value": "lest I strip her naked, "
 	},
 	{
 		"type": "line break"
@@ -256,7 +262,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Indeed, on her children I will have no mercy; "
+		"value": "Indeed, on her children I will have no mercy, "
 	},
 	{
 		"type": "line break"
@@ -266,7 +272,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 2,
-		"value": "for they are children of unfaithfulness; "
+		"value": "for they are children of unfaithfulness. "
 	},
 	{
 		"type": "line break"
@@ -406,7 +412,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 5,
-		"value": "Then she will say, ‘I will go and return to my first husband; "
+		"value": "Then she will say, ‘I will go and return to my first husband, "
 	},
 	{
 		"type": "line break"
@@ -416,7 +422,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 7,
 		"sectionNumber": 6,
-		"value": "for then was it better with me than now.’ "
+		"value": "for then it was better with me than now.’ "
 	},
 	{
 		"type": "line break"
@@ -526,7 +532,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 2,
-		"value": "about which she has said, ‘These are my wages that my lovers have given me; "
+		"value": "about which she has said, ‘These are my wages that my lovers have given me,’ "
 	},
 	{
 		"type": "line break"
@@ -536,7 +542,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 3,
-		"value": "and I will make them a forest,’ "
+		"value": "and I will make them a forest, "
 	},
 	{
 		"type": "line break"
@@ -566,7 +572,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 2,
-		"value": "to which she burned incense, "
+		"value": "to which she burnt incense "
 	},
 	{
 		"type": "line break"
@@ -586,7 +592,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 4,
-		"value": "and went after her lovers, "
+		"value": "and went after her lovers "
 	},
 	{
 		"type": "line break"
@@ -596,7 +602,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 5,
-		"value": "and forgot me,” says Yahweh. "
+		"value": "and forgot me,” says the LORD. "
 	},
 	{
 		"type": "line break"
@@ -656,7 +662,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 3,
-		"value": "and she will respond there, "
+		"value": "and she will respond there "
 	},
 	{
 		"type": "line break"
@@ -686,7 +692,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "It will be in that day,” says Yahweh, "
+		"value": "It will be in that day,” says the LORD, "
 	},
 	{
 		"type": "line break"
@@ -816,7 +822,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 2,
-		"value": "and you shall know Yahweh. "
+		"value": "and you shall know the LORD. "
 	},
 	{
 		"type": "line break"
@@ -826,7 +832,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "It will happen in that day, I will respond,” says Yahweh, "
+		"value": "It will happen in that day, that I will respond,” says the LORD. "
 	},
 	{
 		"type": "line break"
@@ -906,7 +912,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 4,
-		"value": "and they will say, ‘My God!’ ” "
+		"value": "and they will say, ‘You are My God!’ ” "
 	},
 	{
 		"type": "line break"
@@ -922,7 +928,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.” "
+		"value": "The LORD said to me, “Go again, love a woman loved by another, and an adulteress, even as the LORD loves the children of Israel, though they turn to other gods, and love cakes of raisins.” "
 	},
 	{
 		"type": "paragraph end"
@@ -935,14 +941,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "So I bought her for myself for fifteen pieces of silver and a homer  and a half of barley.  "
+		"value": "So I bought her for myself for fifteen pieces of silver and a homer and a half of barley.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "I said to her, “You shall stay with me many days. You shall not play the prostitute, and you shall not be with any other man. I will also be so toward you.” "
+		"value": "I said to her, “You shall stay with me many days. You shall not play the prostitute, and you shall not be with any other man. I will also be so towards you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -955,14 +961,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For the children of Israel shall live many days without king, and without prince, and without sacrifice, and without sacred stone, and without ephod or idols.  "
+		"value": "For the children of Israel shall live many days without king, without prince, without sacrifice, without sacred stone, and without ephod or idols.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Afterward the children of Israel shall return, and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days. "
+		"value": "Afterward the children of Israel shall return and seek the LORD their God, and David their king, and shall come with trembling to the LORD and to his blessings in the last days. "
 	},
 	{
 		"type": "paragraph end"
@@ -975,7 +981,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Hear Yahweh’s word, you children of Israel; "
+		"value": "Hear the LORD’s word, you children of Israel, "
 	},
 	{
 		"type": "paragraph end"
@@ -988,7 +994,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 2,
-		"value": "for Yahweh has a charge against the inhabitants of the land: "
+		"value": "for the LORD has a charge against the inhabitants of the land: "
 	},
 	{
 		"type": "line break"
@@ -998,7 +1004,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 3,
-		"value": "“Indeed there is no truth, "
+		"value": "“Indeed there is no truth, nor goodness, "
 	},
 	{
 		"type": "line break"
@@ -1008,16 +1014,6 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 4,
-		"value": "nor goodness, "
-	},
-	{
-		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
-		"verseNumber": 1,
-		"sectionNumber": 5,
 		"value": "nor knowledge of God in the land. "
 	},
 	{
@@ -1078,7 +1074,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 4,
-		"value": "even the animals of the field and the birds of the sky, "
+		"value": "even the animals of the field and the birds of the sky; "
 	},
 	{
 		"type": "line break"
@@ -1111,7 +1107,17 @@
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "“Yet let no man bring a charge, neither let any man accuse; for your people are like those who bring charges against a priest. "
+		"value": "“Yet let no man bring a charge, neither let any man accuse; "
+	},
+	{
+		"type": "line break"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 4,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"value": "for your people are like those who bring charges against a priest. "
 	},
 	{
 		"type": "line break"
@@ -1241,7 +1247,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "It will be, like people, like priest; "
+		"value": "It will be like people, like priest; "
 	},
 	{
 		"type": "line break"
@@ -1291,7 +1297,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 10,
 		"sectionNumber": 3,
-		"value": "because they have abandoned giving to Yahweh. "
+		"value": "because they have abandoned listening to the LORD. "
 	},
 	{
 		"type": "line break"
@@ -1361,7 +1367,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 13,
 		"sectionNumber": 2,
-		"value": "and burn incense on the hills, under oaks and poplars and terebinths, "
+		"value": "and burn incense on the hills, under oaks, poplars, and terebinths, "
 	},
 	{
 		"type": "line break"
@@ -1504,7 +1510,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 15,
 		"sectionNumber": 5,
-		"value": "nor swear, ‘As Yahweh lives.’ "
+		"value": "nor swear, ‘As the LORD lives.’ "
 	},
 	{
 		"type": "line break"
@@ -1524,7 +1530,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 16,
 		"sectionNumber": 2,
-		"value": "Then how will Yahweh feed them like a lamb in a meadow. "
+		"value": "Then how will the LORD feed them like a lamb in a meadow? "
 	},
 	{
 		"type": "line break"
@@ -1649,7 +1655,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 1,
 		"sectionNumber": 4,
-		"value": "For the judgment is against you; "
+		"value": "For the judgement is against you; "
 	},
 	{
 		"type": "line break"
@@ -1679,7 +1685,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The rebels are deep in slaughter; "
+		"value": "The rebels are deep in slaughter, "
 	},
 	{
 		"type": "line break"
@@ -1739,7 +1745,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Their deeds won’t allow them to turn to their God; "
+		"value": "Their deeds won’t allow them to turn to their God, "
 	},
 	{
 		"type": "line break"
@@ -1759,7 +1765,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 3,
-		"value": "and they don’t know Yahweh. "
+		"value": "and they don’t know the LORD. "
 	},
 	{
 		"type": "line break"
@@ -1799,7 +1805,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "They will go with their flocks and with their herds to seek Yahweh; "
+		"value": "They will go with their flocks and with their herds to seek the LORD, "
 	},
 	{
 		"type": "line break"
@@ -1829,7 +1835,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "They are unfaithful to Yahweh; "
+		"value": "They are unfaithful to the LORD; "
 	},
 	{
 		"type": "line break"
@@ -1912,7 +1918,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "Among the tribes of Israel, I have made known that which will surely be. "
+		"value": "Amongst the tribes of Israel, I have made known that which will surely be. "
 	},
 	{
 		"type": "line break"
@@ -1952,7 +1958,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 2,
-		"value": "he is crushed in judgment; "
+		"value": "he is crushed in judgement, "
 	},
 	{
 		"type": "line break"
@@ -1962,7 +1968,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 3,
-		"value": "Because he is intent in his pursuit of idols. "
+		"value": "because he is intent in his pursuit of idols. "
 	},
 	{
 		"type": "line break"
@@ -2025,7 +2031,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 3,
-		"value": "Then Ephraim went to Assyria, "
+		"value": "then Ephraim went to Assyria, "
 	},
 	{
 		"type": "line break"
@@ -2035,7 +2041,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 4,
-		"value": "and sent to king Jareb: "
+		"value": "and sent to King Jareb: "
 	},
 	{
 		"type": "line break"
@@ -2115,7 +2121,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 15,
 		"sectionNumber": 2,
-		"value": "until they acknowledge their offense, "
+		"value": "until they acknowledge their offence, "
 	},
 	{
 		"type": "line break"
@@ -2157,7 +2163,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "“Come! Let’s return to Yahweh; "
+		"value": "“Come! Let’s return to the LORD; "
 	},
 	{
 		"type": "paragraph end"
@@ -2240,7 +2246,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Let’s acknowledge Yahweh. "
+		"value": "Let’s acknowledge the LORD. "
 	},
 	{
 		"type": "line break"
@@ -2250,7 +2256,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 2,
-		"value": "Let’s press on to know Yahweh. "
+		"value": "Let’s press on to know the LORD. "
 	},
 	{
 		"type": "line break"
@@ -2270,7 +2276,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 4,
-		"value": "Yahweh will appear. "
+		"value": "the LORD will appear. "
 	},
 	{
 		"type": "line break"
@@ -2373,7 +2379,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 5,
 		"sectionNumber": 3,
-		"value": "Your judgments are like a flash of lightning. "
+		"value": "Your judgements are like a flash of lightning. "
 	},
 	{
 		"type": "line break"
@@ -2413,7 +2419,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 7,
 		"sectionNumber": 2,
-		"value": "They were unfaithful to me, there. "
+		"value": "They were unfaithful to me there. "
 	},
 	{
 		"type": "line break"
@@ -2453,7 +2459,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "so the company of priests murder on the path toward Shechem, "
+		"value": "so the company of priests murder on the path towards Shechem, "
 	},
 	{
 		"type": "line break"
@@ -2725,7 +2731,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 6,
 		"sectionNumber": 3,
-		"value": "Their baker sleeps all the night. "
+		"value": "Their anger smoulders all night. "
 	},
 	{
 		"type": "line break"
@@ -2775,7 +2781,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 4,
-		"value": "There is no one among them who calls to me. "
+		"value": "There is no one amongst them who calls to me. "
 	},
 	{
 		"type": "line break"
@@ -2785,7 +2791,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Ephraim, he mixes himself among the nations. "
+		"value": "Ephraim mixes himself amongst the nations. "
 	},
 	{
 		"type": "line break"
@@ -2815,7 +2821,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "and he doesn’t realize it. "
+		"value": "and he doesn’t realise it. "
 	},
 	{
 		"type": "line break"
@@ -2825,7 +2831,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 3,
-		"value": "Indeed, gray hairs are here and there on him, "
+		"value": "Indeed, grey hairs are here and there on him, "
 	},
 	{
 		"type": "line break"
@@ -2835,7 +2841,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 9,
 		"sectionNumber": 4,
-		"value": "and he doesn’t realize it. "
+		"value": "and he doesn’t realise it. "
 	},
 	{
 		"type": "line break"
@@ -2855,7 +2861,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "yet they haven’t returned to Yahweh their God, "
+		"value": "yet they haven’t returned to the LORD their God, "
 	},
 	{
 		"type": "line break"
@@ -3133,7 +3139,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 1,
 		"sectionNumber": 2,
-		"value": "Something like an eagle is over Yahweh’s house, "
+		"value": "Something like an eagle is over the LORD’s house, "
 	},
 	{
 		"type": "line break"
@@ -3143,7 +3149,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 1,
 		"sectionNumber": 3,
-		"value": "because they have broken my covenant, "
+		"value": "because they have broken my covenant "
 	},
 	{
 		"type": "line break"
@@ -3163,7 +3169,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "They cry to me, ‘My God, we Israel acknowledge you!’ "
+		"value": "They cry to me, ‘My God, we, Israel, acknowledge you!’ "
 	},
 	{
 		"type": "line break"
@@ -3353,7 +3359,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 2,
-		"value": "Now they are among the nations like a worthless thing. "
+		"value": "Now they are amongst the nations like a worthless thing. "
 	},
 	{
 		"type": "line break"
@@ -3393,7 +3399,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "But although they sold themselves among the nations, "
+		"value": "But although they sold themselves amongst the nations, "
 	},
 	{
 		"type": "line break"
@@ -3443,7 +3449,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "I wrote for him the many things of my law; "
+		"value": "I wrote for him the many things of my law, "
 	},
 	{
 		"type": "line break"
@@ -3473,7 +3479,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 13,
 		"sectionNumber": 2,
-		"value": "they sacrifice meat and eat it; "
+		"value": "they sacrifice meat and eat it, "
 	},
 	{
 		"type": "line break"
@@ -3483,7 +3489,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 13,
 		"sectionNumber": 3,
-		"value": "But Yahweh doesn’t accept them. "
+		"value": "but the LORD doesn’t accept them. "
 	},
 	{
 		"type": "line break"
@@ -3628,7 +3634,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "They won’t dwell in Yahweh’s land; "
+		"value": "They won’t dwell in the LORD’s land; "
 	},
 	{
 		"type": "line break"
@@ -3658,7 +3664,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "They won’t pour out wine offerings to Yahweh, "
+		"value": "They won’t pour out wine offerings to the LORD, "
 	},
 	{
 		"type": "line break"
@@ -3708,7 +3714,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 6,
-		"value": "It will not come into Yahweh’s house. "
+		"value": "It will not come into the LORD’s house. "
 	},
 	{
 		"type": "line break"
@@ -3728,7 +3734,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 2,
-		"value": "and in the day of the feast of Yahweh? "
+		"value": "and in the day of the feast of the LORD? "
 	},
 	{
 		"type": "line break"
@@ -3738,7 +3744,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "For, behold, they have gone away from destruction. "
+		"value": "For, behold, when they flee destruction, "
 	},
 	{
 		"type": "line break"
@@ -4028,7 +4034,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Give them—Yahweh what will you give? "
+		"value": "Give them—LORD what will you give? "
 	},
 	{
 		"type": "line break"
@@ -4081,7 +4087,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 3,
-		"value": "Because of the wickedness of their deeds I will drive them out of my house! "
+		"value": "Because of the wickedness of their deeds, I will drive them out of my house! "
 	},
 	{
 		"type": "line break"
@@ -4174,7 +4180,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 17,
 		"sectionNumber": 2,
-		"value": "and they will be wanderers among the nations. "
+		"value": "and they will be wanderers amongst the nations. "
 	},
 	{
 		"type": "line break"
@@ -4263,7 +4269,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Surely now they will say, “We have no king; for we don’t fear Yahweh; "
+		"value": "Surely now they will say, “We have no king; for we don’t fear the LORD; "
 	},
 	{
 		"type": "line break"
@@ -4293,7 +4299,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 4,
 		"sectionNumber": 2,
-		"value": "Therefore judgment springs up like poisonous weeds in the furrows of the field. "
+		"value": "Therefore judgement springs up like poisonous weeds in the furrows of the field. "
 	},
 	{
 		"type": "line break"
@@ -4303,7 +4309,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "The inhabitants of Samaria will be in terror for the calves of Beth Aven; "
+		"value": "The inhabitants of Samaria will be in terror for the calves of Beth Aven, "
 	},
 	{
 		"type": "line break"
@@ -4323,7 +4329,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 5,
 		"sectionNumber": 3,
-		"value": "Along with its priests who rejoiced over it, "
+		"value": "along with its priests who rejoiced over it, "
 	},
 	{
 		"type": "line break"
@@ -4373,7 +4379,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Samaria and her king float away, "
+		"value": "Samaria and her king float away "
 	},
 	{
 		"type": "line break"
@@ -4476,7 +4482,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "and the nations will be gathered against them, "
+		"value": "and the nations will be gathered against them "
 	},
 	{
 		"type": "line break"
@@ -4496,7 +4502,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Ephraim is a trained heifer that loves to thresh; "
+		"value": "Ephraim is a trained heifer that loves to thresh, "
 	},
 	{
 		"type": "line break"
@@ -4526,7 +4532,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 4,
-		"value": "Judah will plow. "
+		"value": "Judah will plough. "
 	},
 	{
 		"type": "line break"
@@ -4566,7 +4572,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 3,
-		"value": "Break up your fallow ground; "
+		"value": "Break up your fallow ground, "
 	},
 	{
 		"type": "line break"
@@ -4576,7 +4582,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 4,
-		"value": "for it is time to seek Yahweh, "
+		"value": "for it is time to seek the LORD, "
 	},
 	{
 		"type": "line break"
@@ -4596,7 +4602,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "You have plowed wickedness. "
+		"value": "You have ploughed wickedness. "
 	},
 	{
 		"type": "line break"
@@ -4636,7 +4642,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Therefore a battle roar will arise among your people, "
+		"value": "Therefore a battle roar will arise amongst your people, "
 	},
 	{
 		"type": "line break"
@@ -4751,7 +4757,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 3,
-		"value": "and burned incense to engraved images. "
+		"value": "and burnt incense to engraved images. "
 	},
 	{
 		"type": "line break"
@@ -4771,7 +4777,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 2,
-		"value": "I took them by his arms; "
+		"value": "I took them by their arms, "
 	},
 	{
 		"type": "line break"
@@ -5007,7 +5013,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "I will not return to destroy Ephraim: "
+		"value": "I will not return to destroy Ephraim, "
 	},
 	{
 		"type": "line break"
@@ -5017,7 +5023,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 3,
-		"value": "for I am God, and not man; the Holy One among you; "
+		"value": "for I am God, and not man—the Holy One amongst you. "
 	},
 	{
 		"type": "line break"
@@ -5027,7 +5033,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 4,
-		"value": "and I will not come in wrath. "
+		"value": "I will not come in wrath. "
 	},
 	{
 		"type": "line break"
@@ -5037,7 +5043,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "They will walk after Yahweh, "
+		"value": "They will walk after the LORD, "
 	},
 	{
 		"type": "line break"
@@ -5087,7 +5093,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 11,
 		"sectionNumber": 3,
-		"value": "and I will settle them in their houses,” says Yahweh. "
+		"value": "and I will settle them in their houses,” says the LORD. "
 	},
 	{
 		"type": "line break"
@@ -5209,7 +5215,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Yahweh also has a controversy with Judah, "
+		"value": "The LORD also has a controversy with Judah, "
 	},
 	{
 		"type": "line break"
@@ -5239,7 +5245,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "In the womb he took his brother by the heel; "
+		"value": "In the womb he took his brother by the heel, "
 	},
 	{
 		"type": "line break"
@@ -5279,7 +5285,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 3,
-		"value": "He found him at Bethel, and there he spoke with us, "
+		"value": "He found him at Bethel, and there he spoke with us— "
 	},
 	{
 		"type": "line break"
@@ -5289,7 +5295,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "even Yahweh, the God of Armies; "
+		"value": "even the LORD, the God of Armies. "
 	},
 	{
 		"type": "line break"
@@ -5299,7 +5305,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 2,
-		"value": "Yahweh is his name of renown! "
+		"value": "The LORD is his name of renown! "
 	},
 	{
 		"type": "line break"
@@ -5372,7 +5378,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Ephraim said, “Surely I have become rich, "
+		"value": "Ephraim said, “Surely I have become rich. "
 	},
 	{
 		"type": "line break"
@@ -5415,7 +5421,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "“But I am Yahweh your God from the land of Egypt. "
+		"value": "“But I am the LORD your God from the land of Egypt. "
 	},
 	{
 		"type": "line break"
@@ -5515,7 +5521,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Jacob fled into the country of Aram, "
+		"value": "Jacob fled into the country of Aram. "
 	},
 	{
 		"type": "line break"
@@ -5525,7 +5531,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 2,
-		"value": "and Israel served to get a wife, "
+		"value": "Israel served to get a wife. "
 	},
 	{
 		"type": "line break"
@@ -5535,7 +5541,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 3,
-		"value": "and for a wife he tended flocks and herds. "
+		"value": "For a wife he tended flocks and herds. "
 	},
 	{
 		"type": "line break"
@@ -5545,7 +5551,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "By a prophet Yahweh brought Israel up out of Egypt, "
+		"value": "By a prophet the LORD brought Israel up out of Egypt, "
 	},
 	{
 		"type": "line break"
@@ -5624,7 +5630,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 1,
 		"sectionNumber": 3,
-		"value": "but when he became guilty in Baal, he died. "
+		"value": "but when he became guilty through Baal, he died. "
 	},
 	{
 		"type": "line break"
@@ -5694,7 +5700,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 3,
 		"sectionNumber": 2,
-		"value": "and like the dew that passes away early, "
+		"value": "like the dew that passes away early, "
 	},
 	{
 		"type": "line break"
@@ -5737,7 +5743,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "“Yet I am Yahweh your God from the land of Egypt; "
+		"value": "“Yet I am the LORD your God from the land of Egypt; "
 	},
 	{
 		"type": "line break"
@@ -5757,7 +5763,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 4,
 		"sectionNumber": 3,
-		"value": "and besides me there is no savior. "
+		"value": "and besides me there is no saviour. "
 	},
 	{
 		"type": "line break"
@@ -5887,7 +5893,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "against your help. "
+		"value": "against your helper. "
 	},
 	{
 		"type": "line break"
@@ -5907,7 +5913,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 10,
 		"sectionNumber": 2,
-		"value": "And your judges, of whom you said, ‘Give me a king and princes?’ "
+		"value": "And your judges, of whom you said, ‘Give me a king and princes’? "
 	},
 	{
 		"type": "line break"
@@ -5967,7 +5973,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 13,
 		"sectionNumber": 2,
-		"value": "He is an unwise son; "
+		"value": "He is an unwise son, "
 	},
 	{
 		"type": "line break"
@@ -6043,7 +6049,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Though he is fruitful among his brothers, an east wind will come, "
+		"value": "Though he is fruitful amongst his brothers, an east wind will come, "
 	},
 	{
 		"type": "line break"
@@ -6053,7 +6059,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 15,
 		"sectionNumber": 2,
-		"value": "the breath of Yahweh coming up from the wilderness; "
+		"value": "the breath of the LORD coming up from the wilderness; "
 	},
 	{
 		"type": "line break"
@@ -6093,7 +6099,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Samaria will bear her guilt; "
+		"value": "Samaria will bear her guilt, "
 	},
 	{
 		"type": "line break"
@@ -6156,7 +6162,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Israel, return to Yahweh your God; "
+		"value": "Israel, return to the LORD your God; "
 	},
 	{
 		"type": "line break"
@@ -6176,7 +6182,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Take words with you, and return to Yahweh. "
+		"value": "Take words with you, and return to the LORD. "
 	},
 	{
 		"type": "line break"
@@ -6196,7 +6202,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 2,
 		"sectionNumber": 3,
-		"value": "and accept that which is good: "
+		"value": "and accept that which is good; "
 	},
 	{
 		"type": "line break"
@@ -6206,7 +6212,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 2,
 		"sectionNumber": 4,
-		"value": "so we offer our lips like bulls. "
+		"value": "so we offer bulls as we vowed of our lips. "
 	},
 	{
 		"type": "line break"
@@ -6289,7 +6295,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 4,
 		"sectionNumber": 3,
-		"value": "for my anger is turned away from him. "
+		"value": "for my anger is turned away from them. "
 	},
 	{
 		"type": "line break"
@@ -6472,7 +6478,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 9,
 		"sectionNumber": 3,
-		"value": "For the ways of Yahweh are right, "
+		"value": "For the ways of the LORD are right, "
 	},
 	{
 		"type": "line break"
@@ -6482,7 +6488,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 9,
 		"sectionNumber": 4,
-		"value": "and the righteous walk in them; "
+		"value": "and the righteous walk in them, "
 	},
 	{
 		"type": "line break"
@@ -6492,7 +6498,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 9,
 		"sectionNumber": 5,
-		"value": "But the rebellious stumble in them. "
+		"value": "but the rebellious stumble in them. "
 	},
 	{
 		"type": "line break"

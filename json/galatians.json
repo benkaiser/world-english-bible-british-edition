@@ -69,14 +69,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "As we have said before, so I now say again: if any man preaches to you any “good news” other than that which you received, let him be cursed.  "
+		"value": "As we have said before, so I now say again: if any man preaches to you any “good news” other than that which you received, let him be cursed. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For am I now seeking the favor of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn’t be a servant of Christ. "
+		"value": "For am I now seeking the favour of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn’t be a servant of Christ. "
 	},
 	{
 		"type": "paragraph end"
@@ -110,21 +116,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "I advanced in the Jews’ religion beyond many of my own age among my countrymen, being more exceedingly zealous for the traditions of my fathers.  "
+		"value": "I advanced in the Jews’ religion beyond many of my own age amongst my countrymen, being more exceedingly zealous for the traditions of my fathers.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "But when it was the good pleasure of God, who separated me from my mother’s womb and called me through his grace  "
+		"value": "But when it was the good pleasure of God, who separated me from my mother’s womb and called me through his grace,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "to reveal his Son in me, that I might preach him among the Gentiles, I didn’t immediately confer with flesh and blood,  "
+		"value": "to reveal his Son in me, that I might preach him amongst the Gentiles, I didn’t immediately confer with flesh and blood,  "
 	},
 	{
 		"type": "paragraph text",
@@ -179,7 +185,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "but they only heard: “He who once persecuted us now preaches the faith that he once tried to destroy.”  "
+		"value": "but they only heard, “He who once persecuted us now preaches the faith that he once tried to destroy.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -206,7 +212,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "I went up by revelation, and I laid before them the Good News which I preach among the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain.  "
+		"value": "I went up by revelation, and I laid before them the Good News which I preach amongst the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain.  "
 	},
 	{
 		"type": "paragraph text",
@@ -309,14 +315,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "“We, being Jews by nature, and not Gentile sinners,  "
+		"value": "“We, being Jews by nature and not Gentile sinners,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "yet knowing that a man is not justified by the works of the law but through faith in Jesus Christ, even we believed in Christ Jesus, that we might be justified by faith in Christ, and not by the works of the law, because no flesh will be justified by the works of the law.  "
+		"value": "yet knowing that a man is not justified by the works of the law but through faith in Jesus Christ, even we believed in Christ Jesus, that we might be justified by faith in Christ and not by the works of the law, because no flesh will be justified by the works of the law.  "
 	},
 	{
 		"type": "paragraph text",
@@ -337,14 +343,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "For I, through the law, died to the law, that I might live to God.  "
+		"value": "For I through the law died to the law, that I might live to God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.  "
+		"value": "I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself up for me.  "
 	},
 	{
 		"type": "paragraph text",
@@ -364,7 +370,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed among you as crucified?  "
+		"value": "Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed amongst you as crucified?  "
 	},
 	{
 		"type": "paragraph text",
@@ -392,14 +398,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "He therefore who supplies the Spirit to you and does miracles among you, does he do it by the works of the law, or by hearing of faith?  "
+		"value": "He therefore who supplies the Spirit to you and does miracles amongst you, does he do it by the works of the law, or by hearing of faith?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Even as Abraham “believed God, and it was counted to him for righteousness.”  "
+		"value": "Even so, Abraham “believed God, and it was counted to him for righteousness.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -420,7 +426,13 @@
 		"chapterNumber": 3,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "So then, those who are of faith are blessed with the faithful Abraham.  "
+		"value": "So then, those who are of faith are blessed with the faithful Abraham. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -488,7 +500,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Now I say this: A covenant confirmed beforehand by God in Christ, the law, which came four hundred thirty years after, does not annul, so as to make the promise of no effect.  "
+		"value": "Now I say this: A covenant confirmed beforehand by God in Christ, the law, which came four hundred and thirty years after, does not annul, so as to make the promise of no effect.  "
 	},
 	{
 		"type": "paragraph text",
@@ -515,7 +527,13 @@
 		"chapterNumber": 3,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Now a mediator is not between one, but God is one.  "
+		"value": "Now a mediator is not between one, but God is one. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -570,7 +588,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "For as many of you as were baptized into Christ have put on Christ.  "
+		"value": "For as many of you as were baptised into Christ have put on Christ.  "
 	},
 	{
 		"type": "paragraph text",
@@ -625,7 +643,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "that he might redeem those who were under the law, that we might receive the adoption of children.  "
+		"value": "that he might redeem those who were under the law, that we might receive the adoption as children.  "
 	},
 	{
 		"type": "paragraph text",
@@ -673,7 +691,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "I am afraid for you, that I might have wasted my labor for you. "
+		"value": "I am afraid for you, that I might have wasted my labour for you. "
 	},
 	{
 		"type": "paragraph end"
@@ -842,7 +860,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 27,
 		"sectionNumber": 4,
-		"value": "For the desolate have more children than her who has a husband.”  "
+		"value": "For the desolate women have more children than her who has a husband.”  "
 	},
 	{
 		"type": "line break"
@@ -872,7 +890,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "However what does the Scripture say? “Throw out the servant and her son, for the son of the servant will not inherit with the son of the free woman.”  "
+		"value": "However, what does the Scripture say? “Throw out the servant and her son, for the son of the servant will not inherit with the son of the free woman.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -926,14 +944,20 @@
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "For we, through the Spirit, by faith wait for the hope of righteousness.  "
+		"value": "For we through the Spirit, by faith wait for the hope of righteousness.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "For in Christ Jesus neither circumcision amounts to anything, nor uncircumcision, but faith working through love.  "
+		"value": "For in Christ Jesus neither circumcision nor uncircumcision amounts to anything, but faith working through love. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -961,7 +985,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "I have confidence toward you in the Lord that you will think no other way. But he who troubles you will bear his judgment, whoever he is. "
+		"value": "I have confidence towards you in the Lord that you will think no other way. But he who troubles you will bear his judgement, whoever he is. "
 	},
 	{
 		"type": "paragraph end"
@@ -994,14 +1018,14 @@
 		"chapterNumber": 5,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For you, brothers, were called for freedom. Only don’t use your freedom for gain to the flesh, but through love be servants to one another.  "
+		"value": "For you, brothers, were called for freedom. Only don’t use your freedom as an opportunity for the flesh, but through love be servants to one another.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "For the whole law is fulfilled in one word, in this: “You shall love your neighbor as yourself.”  "
+		"value": "For the whole law is fulfilled in one word, in this: “You shall love your neighbour as yourself.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1021,7 +1045,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "But I say, walk by the Spirit, and you won’t fulfill the lust of the flesh.  "
+		"value": "But I say, walk by the Spirit, and you won’t fulfil the lust of the flesh.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1056,7 +1080,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "envy, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practice such things will not inherit God’s Kingdom. "
+		"value": "envy, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practise such things will not inherit God’s Kingdom. "
 	},
 	{
 		"type": "paragraph end"
@@ -1116,14 +1140,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness; looking to yourself so that you also aren’t tempted.  "
+		"value": "Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness, looking to yourself so that you also aren’t tempted.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Bear one another’s burdens, and so fulfill the law of Christ.  "
+		"value": "Bear one another’s burdens, and so fulfil the law of Christ.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1157,7 +1181,13 @@
 		"chapterNumber": 6,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "But let him who is taught in the word share all good things with him who teaches.  "
+		"value": "But let him who is taught in the word share all good things with him who teaches. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1178,14 +1208,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Let’s not be weary in doing good, for we will reap in due season, if we don’t give up.  "
+		"value": "Let’s not be weary in doing good, for we will reap in due season if we don’t give up.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "So then, as we have opportunity, let’s do what is good toward all men, and especially toward those who are of the household of the faith. "
+		"value": "So then, as we have opportunity, let’s do what is good towards all men, and especially towards those who are of the household of the faith. "
 	},
 	{
 		"type": "paragraph end"
@@ -1205,21 +1235,21 @@
 		"chapterNumber": 6,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "As many as desire to make a good impression in the flesh compel you to be circumcised; just so they may not be persecuted for the cross of Christ.  "
+		"value": "As many as desire to make a good impression in the flesh compel you to be circumcised, just so they may not be persecuted for the cross of Christ.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For even they who receive circumcision don’t keep the law themselves, but they desire to have you circumcised, that they may boast in your flesh.  "
+		"value": "For even they who receive circumcision don’t keep the law themselves, but they desire to have you circumcised, so that they may boast in your flesh.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "But far be it from me to boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.  "
+		"value": "But far be it from me to boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.  "
 	},
 	{
 		"type": "paragraph text",

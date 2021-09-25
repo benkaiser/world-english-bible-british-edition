@@ -7,14 +7,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ our hope;  "
+		"value": "Paul, an apostle of Jesus Christ according to the commandment of God our Saviour and the Lord Jesus Christ our hope,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "to Timothy, my true child in faith: Grace, mercy, and peace, from God our Father and Christ Jesus our Lord. "
+		"value": "to Timothy, my true child in faith: Grace, mercy, and peace from God our Father and Christ Jesus our Lord. "
 	},
 	{
 		"type": "paragraph end"
@@ -34,14 +34,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "and not to pay attention to myths and endless genealogies, which cause disputes, rather than God’s stewardship, which is in faith—  "
+		"value": "and not to pay attention to myths and endless genealogies, which cause disputes rather than God’s stewardship, which is in faith.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "but the goal of this command is love, out of a pure heart and a good conscience and sincere faith,  "
+		"value": "But the goal of this command is love from a pure heart, a good conscience, and sincere faith,  "
 	},
 	{
 		"type": "paragraph text",
@@ -55,14 +55,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "desiring to be teachers of the law, though they understand neither what they say, nor about what they strongly affirm.  "
+		"value": "desiring to be teachers of the law, though they understand neither what they say nor about what they strongly affirm. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But we know that the law is good, if a person uses it lawfully,  "
+		"value": "But we know that the law is good if a person uses it lawfully,  "
 	},
 	{
 		"type": "paragraph text",
@@ -96,14 +102,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "I thank him who enabled me, Christ Jesus our Lord, because he counted me faithful, appointing me to service;  "
+		"value": "I thank him who enabled me, Christ Jesus our Lord, because he counted me faithful, appointing me to service,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "although I used to be a blasphemer, a persecutor, and insolent. However, I obtained mercy, because I did it ignorantly in unbelief.  "
+		"value": "although I used to be a blasphemer, a persecutor, and insolent. However, I obtained mercy because I did it ignorantly in unbelief.  "
 	},
 	{
 		"type": "paragraph text",
@@ -131,7 +137,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen. "
+		"value": "Now to the King eternal, immortal, invisible, to God who alone is wise, be honour and glory forever and ever. Amen. "
 	},
 	{
 		"type": "paragraph end"
@@ -158,7 +164,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "of whom are Hymenaeus and Alexander, whom I delivered to Satan, that they might be taught not to blaspheme. "
+		"value": "of whom are Hymenaeus and Alexander, whom I delivered to Satan that they might be taught not to blaspheme. "
 	},
 	{
 		"type": "paragraph end"
@@ -171,7 +177,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks be made for all men:  "
+		"value": "I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks be made for all men,  "
 	},
 	{
 		"type": "paragraph text",
@@ -185,7 +191,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "For this is good and acceptable in the sight of God our Savior,  "
+		"value": "For this is good and acceptable in the sight of God our Saviour,  "
 	},
 	{
 		"type": "paragraph text",
@@ -199,14 +205,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "For there is one God, and one mediator between God and men, the man Christ Jesus,  "
+		"value": "For there is one God and one mediator between God and men, the man Christ Jesus,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "who gave himself as a ransom for all, the testimony in its own times,  "
+		"value": "who gave himself as a ransom for all, the testimony at the proper time,  "
 	},
 	{
 		"type": "paragraph text",
@@ -233,7 +239,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "In the same way, that women also adorn themselves in decent clothing, with modesty and propriety, not just with braided hair, gold, pearls, or expensive clothing,  "
+		"value": "In the same way, that women also adorn themselves in decent clothing, with modesty and propriety, not with braided hair, gold, pearls, or expensive clothing,  "
 	},
 	{
 		"type": "paragraph text",
@@ -275,7 +281,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "but she will be saved through her childbearing, if they continue in faith, love, and sanctification with sobriety. "
+		"value": "but she will be saved through her childbearing, if they continue in faith, love, and holiness with sobriety. "
 	},
 	{
 		"type": "paragraph end"
@@ -316,7 +322,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "(but how could someone who doesn’t know how to rule one’s own house take care of God’s assembly?)  "
+		"value": "(for how could someone who doesn’t know how to rule his own house take care of God’s assembly?)  "
 	},
 	{
 		"type": "paragraph text",
@@ -378,7 +384,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "For those who have served well gain for themselves a good standing, and great boldness in the faith which is in Christ Jesus. "
+		"value": "For those who have served well gain for themselves a good standing and great boldness in the faith which is in Christ Jesus. "
 	},
 	{
 		"type": "paragraph end"
@@ -391,7 +397,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "These things I write to you, hoping to come to you shortly;  "
+		"value": "These things I write to you, hoping to come to you shortly,  "
 	},
 	{
 		"type": "paragraph text",
@@ -448,7 +454,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 5,
-		"value": "preached among the nations, "
+		"value": "preached amongst the nations, "
 	},
 	{
 		"type": "line break"
@@ -505,7 +511,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving.  "
+		"value": "For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving.  "
 	},
 	{
 		"type": "paragraph text",
@@ -525,21 +531,21 @@
 		"chapterNumber": 4,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith, and of the good doctrine which you have followed.  "
+		"value": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith and of the good doctrine which you have followed.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But refuse profane and old wives’ fables. Exercise yourself toward godliness.  "
+		"value": "But refuse profane and old wives’ fables. Exercise yourself towards godliness.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now, and of that which is to come.  "
+		"value": "For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now and of that which is to come.  "
 	},
 	{
 		"type": "paragraph text",
@@ -553,7 +559,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.  "
+		"value": "For to this end we both labour and suffer reproach, because we have set our trust in the living God, who is the Saviour of all men, especially of those who believe.  "
 	},
 	{
 		"type": "paragraph text",
@@ -587,7 +593,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Don’t neglect the gift that is in you, which was given to you by prophecy, with the laying on of the hands of the elders.  "
+		"value": "Don’t neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the elders.  "
 	},
 	{
 		"type": "paragraph text",
@@ -621,28 +627,34 @@
 		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "the elder women as mothers; the younger as sisters, in all purity.  "
+		"value": "the elder women as mothers; the younger as sisters, in all purity. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Honor widows who are widows indeed.  "
+		"value": "Honour widows who are widows indeed.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "But if any widow has children or grandchildren, let them learn first to show piety toward their own family and to repay their parents, for this is  acceptable in the sight of God.  "
+		"value": "But if any widow has children or grandchildren, let them learn first to show piety towards their own family and to repay their parents, for this is acceptable in the sight of God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Now she who is a widow indeed and desolate, has her hope set on God, and continues in petitions and prayers night and day.  "
+		"value": "Now she who is a widow indeed and desolate, has her hope set on God and continues in petitions and prayers night and day.  "
 	},
 	{
 		"type": "paragraph text",
@@ -663,7 +675,13 @@
 		"chapterNumber": 5,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith, and is worse than an unbeliever.  "
+		"value": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -738,14 +756,14 @@
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching.  "
+		"value": "Let the elders who rule well be counted worthy of double honour, especially those who labour in the word and in teaching.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, “The laborer is worthy of his wages.” "
+		"value": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, “The labourer is worthy of his wages.” "
 	},
 	{
 		"type": "paragraph end"
@@ -758,7 +776,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Don’t receive an accusation against an elder, except at the word of two or three witnesses.  "
+		"value": "Don’t receive an accusation against an elder except at the word of two or three witnesses.  "
 	},
 	{
 		"type": "paragraph text",
@@ -779,7 +797,13 @@
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Lay hands hastily on no one. Don’t be a participant in other people’s sins. Keep yourself pure.  "
+		"value": "Lay hands hastily on no one. Don’t be a participant in other people’s sins. Keep yourself pure. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -799,7 +823,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Some men’s sins are evident, preceding them to judgment, and some also follow later.  "
+		"value": "Some men’s sins are evident, preceding them to judgement, and some also follow later.  "
 	},
 	{
 		"type": "paragraph text",
@@ -819,7 +843,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed.  "
+		"value": "Let as many as are bondservants under the yoke count their own masters worthy of all honour, that the name of God and the doctrine not be blasphemed.  "
 	},
 	{
 		"type": "paragraph text",
@@ -839,7 +863,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "If anyone teaches a different doctrine, and doesn’t consent to sound words, the words of our Lord Jesus Christ, and to the doctrine which is according to godliness,  "
+		"value": "If anyone teaches a different doctrine and doesn’t consent to sound words, the words of our Lord Jesus Christ, and to the doctrine which is according to godliness,  "
 	},
 	{
 		"type": "paragraph text",
@@ -853,7 +877,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "constant friction of people of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. Withdraw yourself from such.  "
+		"value": "constant friction of people of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. Withdraw yourself from such. "
 	},
 	{
 		"type": "paragraph end"
@@ -921,28 +945,28 @@
 		"chapterNumber": 6,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "I command you before God, who gives life to all things, and before Christ Jesus, who before Pontius Pilate testified the good confession,  "
+		"value": "I command you before God who gives life to all things, and before Christ Jesus who before Pontius Pilate testified the good confession,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "that you keep the commandment without spot, blameless, until the appearing of our Lord Jesus Christ,  "
+		"value": "that you keep the commandment without spot, blameless until the appearing of our Lord Jesus Christ,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "which in its own times he will show, who is the blessed and only Ruler, the King of kings, and Lord of lords.  "
+		"value": "which at the right time he will show, who is the blessed and only Ruler, the King of kings and Lord of lords.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "He alone has immortality, dwelling in unapproachable light, whom no man has seen, nor can see: to whom be honor and eternal power. Amen. "
+		"value": "He alone has immortality, dwelling in unapproachable light, whom no man has seen nor can see, to whom be honour and eternal power. Amen. "
 	},
 	{
 		"type": "paragraph end"
@@ -955,7 +979,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Charge those who are rich in this present world that they not be arrogant, nor have their hope set on the uncertainty of riches, but on the living God, who richly provides us with everything to enjoy;  "
+		"value": "Charge those who are rich in this present age that they not be arrogant, nor have their hope set on the uncertainty of riches, but on the living God, who richly provides us with everything to enjoy;  "
 	},
 	{
 		"type": "paragraph text",

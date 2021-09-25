@@ -7,14 +7,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag;  "
+		"value": "After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "on the third day, behold, a man came out of the camp from Saul, with his clothes torn, and earth on his head. When he came to David, he fell to the earth, and showed respect. "
+		"value": "on the third day, behold, a man came out of the camp from Saul, with his clothes torn and earth on his head. When he came to David, he fell to the earth and showed respect. "
 	},
 	{
 		"type": "paragraph end"
@@ -99,7 +99,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "When he looked behind him, he saw me, and called to me. I answered, ‘Here I am.’  "
+		"value": "When he looked behind him, he saw me and called to me. I answered, ‘Here I am.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -113,7 +113,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "He said to me, ‘Please stand beside me, and kill me; for anguish has taken hold of me, because my life lingers in me.’  "
+		"value": "He said to me, ‘Please stand beside me, and kill me, for anguish has taken hold of me because my life lingers in me.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -133,14 +133,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Then David took hold on his clothes, and tore them; and all the men who were with him did likewise.  "
+		"value": "Then David took hold on his clothes and tore them; and all the men who were with him did likewise.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "They mourned, wept, and fasted until evening, for Saul, and for Jonathan his son, and for the people of Yahweh, and for the house of Israel; because they had fallen by the sword.  "
+		"value": "They mourned, wept, and fasted until evening for Saul and for Jonathan his son, and for the people of the LORD, and for the house of Israel, because they had fallen by the sword. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -173,21 +179,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "David said to him, “Why were you not afraid to stretch out your hand to destroy Yahweh’s anointed?”  "
+		"value": "David said to him, “Why were you not afraid to stretch out your hand to destroy the LORD’s anointed?”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "David called one of the young men, and said, “Go near, and cut him down!” He struck him so that he died.  "
+		"value": "David called one of the young men and said, “Go near, and cut him down!” He struck him so that he died.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "David said to him, “Your blood be on your head; for your mouth has testified against you, saying, ‘I have slain Yahweh’s anointed.’ ” "
+		"value": "David said to him, “Your blood be on your head, for your mouth has testified against you, saying, ‘I have slain the LORD’s anointed.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -307,7 +313,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 21,
 		"sectionNumber": 3,
-		"value": "For there the shield of the mighty was defiled and cast away, "
+		"value": "for there the shield of the mighty was defiled and cast away, "
 	},
 	{
 		"type": "line break"
@@ -317,7 +323,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 21,
 		"sectionNumber": 4,
-		"value": "The shield of Saul was not anointed with oil. "
+		"value": "the shield of Saul was not anointed with oil. "
 	},
 	{
 		"type": "line break"
@@ -487,7 +493,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 26,
 		"sectionNumber": 4,
-		"value": "passing the love of women. "
+		"value": "surpassing the love of women. "
 	},
 	{
 		"type": "line break"
@@ -523,7 +529,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "After this, David inquired of Yahweh, saying, “Shall I go up into any of the cities of Judah?” "
+		"value": "After this, David enquired of the LORD, saying, “Shall I go up into any of the cities of Judah?” "
 	},
 	{
 		"type": "paragraph end"
@@ -536,7 +542,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 2,
-		"value": "Yahweh said to him, “Go up.” "
+		"value": "The LORD said to him, “Go up.” "
 	},
 	{
 		"type": "paragraph end"
@@ -596,14 +602,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "David sent messengers to the men of Jabesh Gilead, and said to them, “Blessed are you by Yahweh, that you have shown this kindness to your lord, even to Saul, and have buried him.  "
+		"value": "David sent messengers to the men of Jabesh Gilead, and said to them, “Blessed are you by the LORD, that you have shown this kindness to your lord, even to Saul, and have buried him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Now may Yahweh show loving kindness and truth to you. I also will reward you for this kindness, because you have done this thing.  "
+		"value": "Now may the LORD show loving kindness and truth to you. I also will reward you for this kindness, because you have done this thing.  "
 	},
 	{
 		"type": "paragraph text",
@@ -623,14 +629,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Now Abner the son of Ner, captain of Saul’s army, had taken Ishbosheth the son of Saul, and brought him over to Mahanaim;  "
+		"value": "Now Abner the son of Ner, captain of Saul’s army, had taken Ishbosheth the son of Saul and brought him over to Mahanaim.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "and he made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.  "
+		"value": "He made him king over Gilead, over the Ashurites, over Jezreel, over Ephraim, over Benjamin, and over all Israel.  "
 	},
 	{
 		"type": "paragraph text",
@@ -644,7 +650,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "The time that David was king in Hebron over the house of Judah was seven years and six months.  "
+		"value": "The time that David was king in Hebron over the house of Judah was seven years and six months. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -658,14 +670,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Joab the son of Zeruiah and David’s servants went out, and met them by the pool of Gibeon; and they sat down, the one on the one side of the pool, and the other on the other side of the pool.  "
+		"value": "Joab the son of Zeruiah and David’s servants went out, and met them by the pool of Gibeon; and they sat down, the one on the one side of the pool and the other on the other side of the pool.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Abner said to Joab, “Please let the young men arise and play before us!” "
+		"value": "Abner said to Joab, “Please let the young men arise and compete before us!” "
 	},
 	{
 		"type": "paragraph end"
@@ -692,7 +704,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "They each caught his opponent by the head, and thrust his sword in his fellow’s side; so they fell down together: therefore that place in Gibeon was called Helkath Hazzurim.  "
+		"value": "They each caught his opponent by the head and thrust his sword in his fellow’s side; so they fell down together. Therefore that place in Gibeon was called Helkath Hazzurim.  "
 	},
 	{
 		"type": "paragraph text",
@@ -706,21 +718,27 @@
 		"chapterNumber": 2,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "The three sons of Zeruiah were there, Joab, and Abishai, and Asahel: and Asahel was as light of foot as a wild gazelle.  "
+		"value": "The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Asahel was as light of foot as a wild gazelle.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Asahel pursued Abner; and in going he didn’t turn to the right hand or to the left from following Abner.  "
+		"value": "Asahel pursued Abner. He didn’t turn to the right hand or to the left from following Abner. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Then Abner looked behind him, and said, “Is that you, Asahel?” "
+		"value": "Then Abner looked behind him and said, “Is that you, Asahel?” "
 	},
 	{
 		"type": "paragraph end"
@@ -746,7 +764,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Abner said to him, “Turn away to your right hand or to your left, and grab one of the young men, and take his armor.” But Asahel would not turn away from following him.  "
+		"value": "Abner said to him, “Turn away to your right hand or to your left, and grab one of the young men, and take his armour.” But Asahel would not turn away from following him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -760,7 +778,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "However he refused to turn away. Therefore Abner with the back end of the spear struck him in the body, so that the spear came out behind him; and he fell down there, and died in the same place. As many as came to the place where Asahel fell down and died stood still.  "
+		"value": "However, he refused to turn away. Therefore Abner with the back end of the spear struck him in the body, so that the spear came out behind him; and he fell down there and died in the same place. As many as came to the place where Asahel fell down and died stood still. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -774,7 +798,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "The children of Benjamin gathered themselves together after Abner, and became one band, and stood on the top of a hill.  "
+		"value": "The children of Benjamin gathered themselves together after Abner and became one band, and stood on the top of a hill.  "
 	},
 	{
 		"type": "paragraph text",
@@ -801,14 +825,20 @@
 		"chapterNumber": 2,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "So Joab blew the trumpet; and all the people stood still, and pursued Israel no more, and they fought no more.  "
+		"value": "So Joab blew the trumpet; and all the people stood still and pursued Israel no more, and they fought no more.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Abner and his men went all that night through the Arabah; and they passed over the Jordan, and went through all Bithron, and came to Mahanaim.  "
+		"value": "Abner and his men went all that night through the Arabah; and they passed over the Jordan, and went through all Bithron, and came to Mahanaim. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -822,14 +852,14 @@
 		"chapterNumber": 2,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "But David’s servants had struck Benjamin and of Abner’s men so that three hundred sixty men died.  "
+		"value": "But David’s servants had struck Benjamin Abner’s men so that three hundred and sixty men died.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "They took up Asahel, and buried him in the tomb of his father, which was in Bethlehem. Joab and his men went all night, and the day broke on them at Hebron. "
+		"value": "They took up Asahel and buried him in the tomb of his father, which was in Bethlehem. Joab and his men went all night, and the day broke on them at Hebron. "
 	},
 	{
 		"type": "paragraph end"
@@ -903,14 +933,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Then Abner was very angry about Ishbosheth’s words, and said, “Am I a dog’s head that belongs to Judah? Today I show kindness to Saul’s house your father, to his brothers, and to his friends, and have not delivered you into the hand of David; and yet you charge me today with a fault concerning this woman!  "
+		"value": "Then Abner was very angry about Ishbosheth’s words, and said, “Am I a dog’s head that belongs to Judah? Today I show kindness to your father Saul’s house, to his brothers, and to his friends, and have not delivered you into the hand of David; and yet you charge me today with a fault concerning this woman!  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "God do so to Abner, and more also, if, as Yahweh has sworn to David, I don’t do even so to him;  "
+		"value": "God do so to Abner, and more also, if, as the LORD has sworn to David, I don’t do even so to him:  "
 	},
 	{
 		"type": "paragraph text",
@@ -943,7 +973,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Abner sent messengers to David on his behalf, saying, “Whose is the land?” and saying, “Make your alliance with me, and behold, my hand will be with you, to bring all Israel around to you.” "
+		"value": "Abner sent messengers to David on his behalf, saying, “Whose is the land?” and saying, “Make your alliance with me, and behold, my hand will be with you to bring all Israel around to you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -956,13 +986,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "He said, “Good. I will make a treaty with you, but one thing I require of you. That is, you will not see my face unless you first bring Michal, Saul’s daughter, when you come to see my face.” "
-	},
-	{
-		"type": "paragraph end"
-	},
-	{
-		"type": "paragraph start"
+		"value": "David said, “Good. I will make a treaty with you, but one thing I require of you. That is, you will not see my face unless you first bring Michal, Saul’s daughter, when you come to see my face.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -982,14 +1006,20 @@
 		"chapterNumber": 3,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Ishbosheth sent and took her from her husband, even from Paltiel the son of Laish.  "
+		"value": "Ishbosheth sent and took her from her husband, Paltiel the son of Laish.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Her husband went with her, weeping as he went, and followed her to Bahurim. Then Abner said to him, “Go! Return!” and he returned.  "
+		"value": "Her husband went with her, weeping as he went, and followed her to Bahurim. Then Abner said to him, “Go! Return!” and he returned. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1003,7 +1033,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Now then do it; for Yahweh has spoken of David, saying, ‘By the hand of my servant David, I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.’ ” "
+		"value": "Now then do it! For the LORD has spoken of David, saying, ‘By the hand of my servant David, I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -1016,7 +1046,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Abner also spoke in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and to the whole house of Benjamin.  "
+		"value": "Abner also spoke in the ears of Benjamin; and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel and to the whole house of Benjamin.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1043,7 +1073,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Behold, David’s servants and Joab came from a raid, and brought in a great plunder with them; but Abner was not with David in Hebron; for he had sent him away, and he had gone in peace.  "
+		"value": "Behold, David’s servants and Joab came from a raid and brought in a great plunder with them; but Abner was not with David in Hebron, for he had sent him away, and he had gone in peace.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1063,7 +1093,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Then Joab came to the king, and said, “What have you done? Behold, Abner came to you. Why is it that you have sent him away, and he is already gone?  "
+		"value": "Then Joab came to the king and said, “What have you done? Behold, Abner came to you. Why is it that you have sent him away, and he is already gone?  "
 	},
 	{
 		"type": "paragraph text",
@@ -1090,42 +1120,48 @@
 		"chapterNumber": 3,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "When Abner was returned to Hebron, Joab took him aside into the middle of the gate to speak with him quietly, and struck him there in the body, so that he died, for the blood of Asahel his brother.  "
+		"value": "When Abner had returned to Hebron, Joab took him aside into the middle of the gate to speak with him quietly, and struck him there in the body, so that he died for the blood of Asahel his brother.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Afterward, when David heard it, he said, “I and my kingdom are guiltless before Yahweh forever of the blood of Abner the son of Ner.  "
+		"value": "Afterward, when David heard it, he said, “I and my kingdom are guiltless before the LORD forever of the blood of Abner the son of Ner.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Let it fall on the head of Joab, and on all his father’s house. Let there not fail from the house of Joab one who has a discharge, or who is a leper, or who leans on a staff, or who falls by the sword, or who lacks bread.”  "
+		"value": "Let it fall on the head of Joab and on all his father’s house. Let there not fail from the house of Joab one who has a discharge, or who is a leper, or who leans on a staff, or who falls by the sword, or who lacks bread.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "So Joab and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in the battle.  "
+		"value": "So Joab and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in the battle. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "David said to Joab, and to all the people who were with him, “Tear your clothes, and clothe yourselves with sackcloth, and mourn in front of Abner.” King David followed the bier.  "
+		"value": "David said to Joab and to all the people who were with him, “Tear your clothes, and clothe yourselves with sackcloth, and mourn in front of Abner.” King David followed the bier.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "They buried Abner in Hebron; and the king lifted up his voice, and wept at Abner’s grave; and all the people wept.  "
+		"value": "They buried Abner in Hebron; and the king lifted up his voice and wept at Abner’s grave; and all the people wept.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1159,7 +1195,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "All the people came to urge David to eat bread while it was yet day; but David swore, saying, “God do so to me, and more also, if I taste bread, or anything else, until the sun goes down.” "
+		"value": "All the people came to urge David to eat bread while it was yet day; but David swore, saying, “God do so to me, and more also, if I taste bread or anything else, until the sun goes down.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1172,7 +1208,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "All the people took notice of it, and it pleased them; as whatever the king did pleased all the people.  "
+		"value": "All the people took notice of it, and it pleased them, as whatever the king did pleased all the people.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1193,7 +1229,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May Yahweh reward the evildoer according to his wickedness.” "
+		"value": "I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May the LORD reward the evildoer according to his wickedness.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1213,49 +1249,61 @@
 		"chapterNumber": 4,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Saul’s son had two men who were captains of raiding bands. The name of one was Baanah, and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin (for Beeroth also is considered a part of Benjamin:  "
+		"value": "Saul’s son had two men who were captains of raiding bands. The name of one was Baanah and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin (for Beeroth also is considered a part of Benjamin;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "and the Beerothites fled to Gittaim, and have lived as foreigners there until today).  "
+		"value": "and the Beerothites fled to Gittaim, and have lived as foreigners there until today). "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Now Jonathan, Saul’s son, had a son who was lame in his feet. He was five years old when the news came about Saul and Jonathan out of Jezreel; and his nurse picked him up and fled. As she hurried to flee, he fell and became lame. His name was Mephibosheth.  "
+		"value": "Now Jonathan, Saul’s son, had a son who was lame in his feet. He was five years old when the news came about Saul and Jonathan out of Jezreel; and his nurse picked him up and fled. As she hurried to flee, he fell and became lame. His name was Mephibosheth. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "The sons of Rimmon the Beerothite, Rechab and Baanah, went and came at about the heat of the day to the house of Ishbosheth, as he took his rest at noon.  "
+		"value": "The sons of Rimmon the Beerothite, Rechab and Baanah, went out and came at about the heat of the day to the house of Ishbosheth as he took his rest at noon.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "They came there into the middle of the house, as though they would have fetched wheat; and they struck him in the body: and Rechab and Baanah his brother escaped.  "
+		"value": "They came there into the middle of the house as though they would have fetched wheat, and they struck him in the body; and Rechab and Baanah his brother escaped.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Now when they came into the house, as he lay on his bed in his bedroom, they struck him, killed him, beheaded him, and took his head, and went by the way of the Arabah all night.  "
+		"value": "Now when they came into the house as he lay on his bed in his bedroom, they struck him, killed him, beheaded him, and took his head, and went by the way of the Arabah all night.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "They brought the head of Ishbosheth to David to Hebron, and said to the king, “Behold, the head of Ishbosheth, the son of Saul, your enemy, who sought your life! Yahweh has avenged my lord the king today of Saul, and of his offspring.” "
+		"value": "They brought the head of Ishbosheth to David to Hebron, and said to the king, “Behold, the head of Ishbosheth, the son of Saul, your enemy, who sought your life! The LORD has avenged my lord the king today of Saul and of his offspring.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1268,7 +1316,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, “As Yahweh lives, who has redeemed my soul out of all adversity,  "
+		"value": "David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said to them, “As the LORD lives, who has redeemed my soul out of all adversity,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1289,7 +1337,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "David commanded his young men, and they killed them, cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ishbosheth, and buried it in Abner’s grave in Hebron. "
+		"value": "David commanded his young men, and they killed them, cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ishbosheth and buried it in Abner’s grave in Hebron. "
 	},
 	{
 		"type": "paragraph end"
@@ -1302,21 +1350,21 @@
 		"chapterNumber": 5,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Then all the tribes of Israel came to David at Hebron, and spoke, saying, “Behold, we are your bone and your flesh.  "
+		"value": "Then all the tribes of Israel came to David at Hebron and spoke, saying, “Behold, we are your bone and your flesh.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "In times past, when Saul was king over us, it was you who led Israel out and in. Yahweh said to you, ‘You will be shepherd of my people Israel, and you will be prince over Israel.’ ”  "
+		"value": "In times past, when Saul was king over us, it was you who led Israel out and in. The LORD said to you, ‘You will be shepherd of my people Israel, and you will be prince over Israel.’ ”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "So all the elders of Israel came to the king to Hebron, and king David made a covenant with them in Hebron before Yahweh; and they anointed David king over Israel. "
+		"value": "So all the elders of Israel came to the king to Hebron, and King David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel. "
 	},
 	{
 		"type": "paragraph end"
@@ -1336,14 +1384,20 @@
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "In Hebron he reigned over Judah seven years and six months; and in Jerusalem he reigned thirty-three years over all Israel and Judah.  "
+		"value": "In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "The king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who spoke to David, saying, “The blind and the lame will keep you out of here;” thinking, “David can’t come in here.”  "
+		"value": "The king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who spoke to David, saying, “The blind and the lame will keep you out of here,” thinking, “David can’t come in here.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1377,7 +1431,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "David grew greater and greater; for Yahweh, the God of Armies, was with him.  "
+		"value": "David grew greater and greater, for the LORD, the God of Armies, was with him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1391,7 +1445,13 @@
 		"chapterNumber": 5,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "David perceived that Yahweh had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake.  "
+		"value": "David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1446,7 +1506,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "David inquired of Yahweh, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” "
+		"value": "David enquired of the LORD, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” "
 	},
 	{
 		"type": "paragraph end"
@@ -1459,7 +1519,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 19,
 		"sectionNumber": 2,
-		"value": "Yahweh said to David, “Go up; for I will certainly deliver the Philistines into your hand.” "
+		"value": "The LORD said to David, “Go up; for I will certainly deliver the Philistines into your hand.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1472,14 +1532,14 @@
 		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "David came to Baal Perazim, and David struck them there. Then he said, “Yahweh has broken my enemies before me, like the breach of waters.” Therefore he called the name of that place Baal Perazim.  "
+		"value": "David came to Baal Perazim, and David struck them there. Then he said, “The LORD has broken my enemies before me, like the breach of waters.” Therefore he called the name of that place Baal Perazim.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "They left their images there; and David and his men took them away. "
+		"value": "They left their images there, and David and his men took them away. "
 	},
 	{
 		"type": "paragraph end"
@@ -1492,21 +1552,21 @@
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "The Philistines came up yet again, and spread themselves in the valley of Rephaim.  "
+		"value": "The Philistines came up yet again and spread themselves in the valley of Rephaim.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "When David inquired of Yahweh, he said, “You shall not go up. Circle around behind them, and attack them in front of the mulberry trees.  "
+		"value": "When David enquired of the LORD, he said, “You shall not go up. Circle around behind them, and attack them in front of the mulberry trees.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "When you hear the sound of marching in the tops of the mulberry trees, then stir yourself up; for then Yahweh has gone out before you to strike the army of the Philistines.” "
+		"value": "When you hear the sound of marching in the tops of the mulberry trees, then stir yourself up; for then the LORD has gone out before you to strike the army of the Philistines.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1519,7 +1579,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "David did so, as Yahweh commanded him, and struck the Philistines all the way from Geba to Gezer. "
+		"value": "David did so, as the LORD commanded him, and struck the Philistines all the way from Geba to Gezer. "
 	},
 	{
 		"type": "paragraph end"
@@ -1539,7 +1599,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "David arose, and went with all the people who were with him, from Baale Judah, to bring up from there God’s ark, which is called by the Name, even the name of Yahweh of Armies who sits above the cherubim.  "
+		"value": "David arose and went with all the people who were with him from Baale Judah, to bring up from there God’s ark, which is called by the Name, even the name of the LORD of Armies who sits above the cherubim.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1553,63 +1613,69 @@
 		"chapterNumber": 6,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "They brought it out of Abinadab’s house, which was in the hill, with God’s ark; and Ahio went before the ark.  "
+		"value": "They brought it out of Abinadab’s house which was in the hill, with God’s ark; and Ahio went before the ark.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "David and all the house of Israel played before Yahweh with all kinds of instruments made of cypress wood, with harps, with stringed instruments, with tambourines, with castanets, and with cymbals.  "
+		"value": "David and all the house of Israel played before the LORD with all kinds of instruments made of cypress wood, with harps, with stringed instruments, with tambourines, with castanets, and with cymbals. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "When they came to the threshing floor of Nacon, Uzzah reached for God’s ark, and took hold of it; for the cattle stumbled.  "
+		"value": "When they came to the threshing floor of Nacon, Uzzah reached for God’s ark and took hold of it, for the cattle stumbled.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Yahweh’s anger burned against Uzzah; and God struck him there for his error; and he died there by God’s ark.  "
+		"value": "The LORD’s anger burnt against Uzzah, and God struck him there for his error; and he died there by God’s ark.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "David was displeased, because Yahweh had broken out against Uzzah; and he called that place Perez Uzzah, to this day.  "
+		"value": "David was displeased because the LORD had broken out against Uzzah; and he called that place Perez Uzzah to this day.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "David was afraid of Yahweh that day; and he said, “How could Yahweh’s ark come to me?”  "
+		"value": "David was afraid of the LORD that day; and he said, “How could the LORD’s ark come to me?”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "So David would not move Yahweh’s ark to be with him in David’s city; but David carried it aside into Obed-Edom the Gittite’s house.  "
+		"value": "So David would not move the LORD’s ark to be with him in David’s city; but David carried it aside into Obed-Edom the Gittite’s house.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Yahweh’s ark remained in Obed-Edom the Gittite’s house three months; and Yahweh blessed Obed-Edom and all his house.  "
+		"value": "The LORD’s ark remained in Obed-Edom the Gittite’s house three months; and the LORD blessed Obed-Edom and all his house.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "King David was told, “Yahweh has blessed the house of Obed-Edom, and all that belongs to him, because of God’s ark.” "
+		"value": "King David was told, “The LORD has blessed the house of Obed-Edom, and all that belongs to him, because of God’s ark.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1629,21 +1695,21 @@
 		"chapterNumber": 6,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "When those who bore Yahweh’s ark had gone six paces, he sacrificed an ox and a fattened calf.  "
+		"value": "When those who bore the LORD’s ark had gone six paces, he sacrificed an ox and a fattened calf.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "David danced before Yahweh with all his might; and David was clothed in a linen ephod.  "
+		"value": "David danced before the LORD with all his might; and David was clothed in a linen ephod.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "So David and all the house of Israel brought up Yahweh’s ark with shouting, and with the sound of the trumpet. "
+		"value": "So David and all the house of Israel brought up the LORD’s ark with shouting and with the sound of the trumpet. "
 	},
 	{
 		"type": "paragraph end"
@@ -1656,28 +1722,34 @@
 		"chapterNumber": 6,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "As Yahweh’s ark came into David’s city, Michal the daughter of Saul looked out through the window, and saw king David leaping and dancing before Yahweh; and she despised him in her heart.  "
+		"value": "As the LORD’s ark came into David’s city, Michal the daughter of Saul looked out through the window and saw King David leaping and dancing before the LORD; and she despised him in her heart.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "They brought in Yahweh’s ark, and set it in its place, in the middle of the tent that David had pitched for it; and David offered burnt offerings and peace offerings before Yahweh.  "
+		"value": "They brought in the LORD’s ark, and set it in its place in the middle of the tent that David had pitched for it; and David offered burnt offerings and peace offerings before the LORD.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "When David had finished offering the burnt offering and the peace offerings, he blessed the people in the name of Yahweh of Armies.  "
+		"value": "When David had finished offering the burnt offering and the peace offerings, he blessed the people in the name of the LORD of Armies.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "He gave to all the people, even among the whole multitude of Israel, both to men and women, to everyone a portion of bread, dates, and raisins. So all the people departed, each to his own house.  "
+		"value": "He gave to all the people, even amongst the whole multitude of Israel, both to men and women, to everyone a portion of bread, dates, and raisins. So all the people departed, each to his own house. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -1697,14 +1769,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "David said to Michal, “It was before Yahweh, who chose me above your father, and above all his house, to appoint me prince over the people of Yahweh, over Israel. Therefore I will celebrate before Yahweh.  "
+		"value": "David said to Michal, “It was before the LORD, who chose me above your father, and above all his house, to appoint me prince over the people of the LORD, over Israel. Therefore I will celebrate before the LORD.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "I will be yet more vile than this, and will be worthless in my own sight. But the maids of whom you have spoken will honor me.” "
+		"value": "I will be yet more undignified than this, and will be worthless in my own sight. But the maids of whom you have spoken will honour me.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1730,7 +1802,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "When the king lived in his house, and Yahweh had given him rest from all his enemies all around,  "
+		"value": "When the king lived in his house, and the LORD had given him rest from all his enemies all around,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1750,7 +1822,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Nathan said to the king, “Go, do all that is in your heart; for Yahweh is with you.” "
+		"value": "Nathan said to the king, “Go, do all that is in your heart, for the LORD is with you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1763,14 +1835,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "That same night, Yahweh’s word came to Nathan, saying,  "
+		"value": "That same night, the LORD’s word came to Nathan, saying,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "“Go and tell my servant David, ‘Yahweh says, “Should you build me a house for me to dwell in?  "
+		"value": "“Go and tell my servant David, ‘The LORD says, “Should you build me a house for me to dwell in?  "
 	},
 	{
 		"type": "paragraph text",
@@ -1784,14 +1856,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "In all places in which I have walked with all the children of Israel, did I say a word to any of the tribes of Israel, whom I commanded to be shepherd of my people Israel, saying, ‘Why have you not built me a house of cedar?’ ” ’  "
+		"value": "In all places in which I have walked with all the children of Israel, did I say a word to anyone from the tribes of Israel whom I commanded to be shepherd of my people Israel, saying, ‘Why have you not built me a house of cedar?’ ” ’  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Now therefore tell my servant David this, ‘Yahweh of Armies says, “I took you from the sheep pen, from following the sheep, to be prince over my people, over Israel.  "
+		"value": "Now therefore tell my servant David this: ‘The LORD of Armies says, “I took you from the sheep pen, from following the sheep, to be prince over my people, over Israel.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1805,21 +1877,21 @@
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "I will appoint a place for my people Israel, and will plant them, that they may dwell in their own place, and be moved no more. The children of wickedness will not afflict them any more, as at the first,  "
+		"value": "I will appoint a place for my people Israel, and will plant them, that they may dwell in their own place and be moved no more. The children of wickedness will not afflict them any more, as at the first,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "and as from the day that I commanded judges to be over my people Israel. I will cause you to rest from all your enemies. Moreover Yahweh tells you that Yahweh will make you a house.  "
+		"value": "and as from the day that I commanded judges to be over my people Israel. I will cause you to rest from all your enemies. Moreover the LORD tells you that the LORD will make you a house.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "When your days are fulfilled, and you sleep with your fathers, I will set up your offspring after you, who will proceed out of your body, and I will establish his kingdom.  "
+		"value": "When your days are fulfilled and you sleep with your fathers, I will set up your offspring after you, who will proceed out of your body, and I will establish his kingdom.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1833,7 +1905,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "I will be his father, and he will be my son. If he commits iniquity, I will chasten him with the rod of men, and with the stripes of the children of men;  "
+		"value": "I will be his father, and he will be my son. If he commits iniquity, I will chasten him with the rod of men and with the stripes of the children of men;  "
 	},
 	{
 		"type": "paragraph text",
@@ -1867,21 +1939,21 @@
 		"chapterNumber": 7,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Then David the king went in, and sat before Yahweh; and he said, “Who am I, Lord Yahweh, and what is my house, that you have brought me this far?  "
+		"value": "Then David the king went in and sat before the LORD; and he said, “Who am I, Lord GOD, and what is my house, that you have brought me this far?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "This was yet a small thing in your eyes, Lord Yahweh; but you have spoken also of your servant’s house for a great while to come; and this among men, Lord Yahweh!  "
+		"value": "This was yet a small thing in your eyes, Lord GOD, but you have spoken also of your servant’s house for a great while to come; and this amongst men, Lord GOD!  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "What more can David say to you? For you know your servant, Lord Yahweh.  "
+		"value": "What more can David say to you? For you know your servant, Lord GOD.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1895,7 +1967,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Therefore you are great, Yahweh God. For there is no one like you, neither is there any God besides you, according to all that we have heard with our ears.  "
+		"value": "Therefore you are great, LORD God. For there is no one like you, neither is there any God besides you, according to all that we have heard with our ears.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1909,28 +1981,34 @@
 		"chapterNumber": 7,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "You established for yourself your people Israel to be your people forever; and you, Yahweh, became their God.  "
+		"value": "You established for yourself your people Israel to be your people forever; and you, LORD, became their God. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Now, Yahweh God, the word that you have spoken concerning your servant, and concerning his house, confirm it forever, and do as you have spoken.  "
+		"value": "“Now, LORD God, the word that you have spoken concerning your servant, and concerning his house, confirm it forever, and do as you have spoken.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "Let your name be magnified forever, saying, ‘Yahweh of Armies is God over Israel; and the house of your servant David will be established before you.’  "
+		"value": "Let your name be magnified forever, saying, ‘The LORD of Armies is God over Israel; and the house of your servant David will be established before you.’  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "For you, Yahweh of Armies, the God of Israel, have revealed to your servant, saying, ‘I will build you a house.’ Therefore your servant has found in his heart to pray this prayer to you. "
+		"value": "For you, LORD of Armies, the God of Israel, have revealed to your servant, saying, ‘I will build you a house.’ Therefore your servant has found in his heart to pray this prayer to you. "
 	},
 	{
 		"type": "paragraph end"
@@ -1943,14 +2021,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "“Now, O Lord Yahweh, you are God, and your words are truth, and you have promised this good thing to your servant.  "
+		"value": "“Now, O Lord GOD, you are God, and your words are truth, and you have promised this good thing to your servant.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Now therefore let it please you to bless the house of your servant, that it may continue forever before you; for you, Lord Yahweh, have spoken it. Let the house of your servant be blessed forever with your blessing.” "
+		"value": "Now therefore, let it please you to bless the house of your servant, that it may continue forever before you; for you, Lord GOD, have spoken it. Let the house of your servant be blessed forever with your blessing.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1970,21 +2048,27 @@
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "He struck Moab, and measured them with the line, making them to lie down on the ground; and he measured two lines to put to death, and one full line to keep alive. The Moabites became servants to David, and brought tribute.  "
+		"value": "He defeated Moab, and measured them with the line, making them to lie down on the ground; and he measured two lines to put to death, and one full line to keep alive. The Moabites became servants to David, and brought tribute. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David struck also Hadadezer the son of Rehob, king of Zobah, as he went to recover his dominion at the River.  "
+		"value": "David also struck Hadadezer the son of Rehob, king of Zobah, as he went to recover his dominion at the River.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "David took from him one thousand seven hundred horsemen and twenty thousand footmen. David hamstrung all the chariot horses, but reserved of them for one hundred chariots.  "
+		"value": "David took from him one thousand and seven hundred horsemen and twenty thousand footmen. David hamstrung the chariot horses, but reserved enough of them for one hundred chariots.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1998,7 +2082,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought tribute. Yahweh gave victory to David wherever he went.  "
+		"value": "Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought tribute. The LORD gave victory to David wherever he went.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2012,7 +2096,13 @@
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "From Betah and from Berothai, cities of Hadadezer, king David took a great quantity of bronze.  "
+		"value": "From Betah and from Berothai, cities of Hadadezer, King David took a great quantity of bronze. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2026,14 +2116,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "then Toi sent Joram his son to king David, to greet him, and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had wars with Toi. Joram brought with him vessels of silver, vessels of gold, and vessels of bronze.  "
+		"value": "then Toi sent Joram his son to King David to greet him and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had wars with Toi. Joram brought with him vessels of silver, vessels of gold, and vessels of bronze.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "King David also dedicated these to Yahweh, with the silver and gold that he dedicated of all the nations which he subdued;  "
+		"value": "King David also dedicated these to the LORD, with the silver and gold that he dedicated of all the nations which he subdued—  "
 	},
 	{
 		"type": "paragraph text",
@@ -2060,7 +2150,13 @@
 		"chapterNumber": 8,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "He put garrisons in Edom. Throughout all Edom, he put garrisons, and all the Edomites became servants to David. Yahweh gave victory to David wherever he went.  "
+		"value": "He put garrisons in Edom. Throughout all Edom, he put garrisons, and all the Edomites became servants to David. The LORD gave victory to David wherever he went. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2088,7 +2184,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Benaiah the son of Jehoiada was over the Cherethites and the Pelethites, and David’s sons were chief ministers. "
+		"value": "Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were chief ministers. "
 	},
 	{
 		"type": "paragraph end"
@@ -2186,14 +2282,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Then king David sent, and brought him out of the house of Machir the son of Ammiel, from Lo Debar.  "
+		"value": "Then King David sent and brought him out of the house of Machir the son of Ammiel, from Lo Debar.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Mephibosheth, the son of Jonathan, the son of Saul, came to David, and fell on his face, and showed respect. David said, “Mephibosheth.” "
+		"value": "Mephibosheth, the son of Jonathan, the son of Saul, came to David, fell on his face, and showed respect. David said, “Mephibosheth?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2219,7 +2315,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "David said to him, “Don’t be afraid; for I will surely show you kindness for Jonathan your father’s sake, and will restore to you all the land of Saul your father. You will eat bread at my table continually.” "
+		"value": "David said to him, “Don’t be afraid, for I will surely show you kindness for Jonathan your father’s sake, and will restore to you all the land of Saul your father. You will eat bread at my table continually.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2232,7 +2328,13 @@
 		"chapterNumber": 9,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "He bowed down, and said, “What is your servant, that you should look at such a dead dog as I am?”  "
+		"value": "He bowed down, and said, “What is your servant, that you should look at such a dead dog as I am?” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2246,7 +2348,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Till the land for him, you, your sons, and your servants. Bring in the harvest, that your master’s son may have bread to eat; but Mephibosheth your master’s son will always eat bread at my table.” "
+		"value": "Till the land for him—you, your sons, and your servants. Bring in the harvest, that your master’s son may have bread to eat; but Mephibosheth your master’s son will always eat bread at my table.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2266,21 +2368,21 @@
 		"chapterNumber": 9,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Then Ziba said to the king, “According to all that my lord the king commands his servant, so your servant will do.” So Mephibosheth ate at the king’s table, like one of the king’s sons.  "
+		"value": "Then Ziba said to the king, “According to all that my lord the king commands his servant, so your servant will do.” So Mephibosheth ate at the king’s table like one of the king’s sons.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Mephibosheth had a young son, whose name was Mica. All that lived in Ziba’s house were servants to Mephibosheth.  "
+		"value": "Mephibosheth had a young son, whose name was Mica. All who lived in Ziba’s house were servants to Mephibosheth.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "So Mephibosheth lived in Jerusalem; for he ate continually at the king’s table. He was lame in both his feet. "
+		"value": "So Mephibosheth lived in Jerusalem, for he ate continually at the king’s table. He was lame in both his feet. "
 	},
 	{
 		"type": "paragraph end"
@@ -2313,7 +2415,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "But the princes of the children of Ammon said to Hanun their lord, “Do you think that David honors your father, in that he has sent comforters to you? Hasn’t David sent his servants to you to search the city, to spy it out, and to overthrow it?” "
+		"value": "But the princes of the children of Ammon said to Hanun their lord, “Do you think that David honours your father, in that he has sent comforters to you? Hasn’t David sent his servants to you to search the city, to spy it out, and to overthrow it?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2346,28 +2448,28 @@
 		"chapterNumber": 10,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "When the children of Ammon saw that they had become odious to David, the children of Ammon sent and hired the Syrians of Beth Rehob, and the Syrians of Zobah, twenty thousand footmen, and the king of Maacah with one thousand men, and the men of Tob twelve thousand men.  "
+		"value": "When the children of Ammon saw that they had become odious to David, the children of Ammon sent and hired the Syrians of Beth Rehob and the Syrians of Zobah, twenty thousand footmen, and the king of Maacah with one thousand men, and the men of Tob twelve thousand men.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "When David heard of it, he sent Joab, and all the army of the mighty men.  "
+		"value": "When David heard of it, he sent Joab and all the army of the mighty men.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "The children of Ammon came out, and put the battle in array at the entrance of the gate. The Syrians of Zobah and of Rehob, and the men of Tob and Maacah, were by themselves in the field.  "
+		"value": "The children of Ammon came out, and put the battle in array at the entrance of the gate. The Syrians of Zobah and of Rehob and the men of Tob and Maacah were by themselves in the field.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Now when Joab saw that the battle was set against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians.  "
+		"value": "Now when Joab saw that the battle was set against him before and behind, he chose of all the choice men of Israel and put them in array against the Syrians.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2388,7 +2490,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Be courageous, and let’s be strong for our people, and for the cities of our God; and may Yahweh do what seems good to him.”  "
+		"value": "Be courageous, and let’s be strong for our people and for the cities of our God; and may the LORD do what seems good to him.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -2402,7 +2504,13 @@
 		"chapterNumber": 10,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "When the children of Ammon saw that the Syrians had fled, they likewise fled before Abishai, and entered into the city. Then Joab returned from the children of Ammon, and came to Jerusalem.  "
+		"value": "When the children of Ammon saw that the Syrians had fled, they likewise fled before Abishai, and entered into the city. Then Joab returned from the children of Ammon and came to Jerusalem. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -2416,28 +2524,28 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Hadadezer sent, and brought out the Syrians who were beyond the River: and they came to Helam, with Shobach the captain of the army of Hadadezer at their head.  "
+		"value": "Hadadezer sent and brought out the Syrians who were beyond the River; and they came to Helam, with Shobach the captain of the army of Hadadezer at their head.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "David was told that; and he gathered all Israel together, passed over the Jordan, and came to Helam. The Syrians set themselves in array against David, and fought with him.  "
+		"value": "David was told that; and he gathered all Israel together, passed over the Jordan, and came to Helam. The Syrians set themselves in array against David and fought with him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "The Syrians fled before Israel; and David killed seven hundred charioteers of the Syrians, and forty thousand horsemen, and struck Shobach the captain of their army, so that he died there.  "
+		"value": "The Syrians fled before Israel; and David killed seven hundred charioteers of the Syrians and forty thousand horsemen, and struck Shobach the captain of their army, so that he died there.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "When all the kings who were servants to Hadadezer saw that they were defeated before Israel, they made peace with Israel, and served them. So the Syrians were afraid to help the children of Ammon any more. "
+		"value": "When all the kings who were servants to Hadadezer saw that they were defeated before Israel, they made peace with Israel and served them. So the Syrians were afraid to help the children of Ammon any more. "
 	},
 	{
 		"type": "paragraph end"
@@ -2450,7 +2558,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "At the return of the year, at the time when kings go out, David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David stayed at Jerusalem.  "
+		"value": "At the return of the year, at the time when kings go out, David sent Joab and his servants with him, and all Israel; and they destroyed the children of Ammon and besieged Rabbah. But David stayed at Jerusalem.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2464,7 +2572,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David sent and inquired after the woman. One said, “Isn’t this Bathsheba, the daughter of Eliam, Uriah the Hittite’s wife?” "
+		"value": "David sent and enquired after the woman. One said, “Isn’t this Bathsheba, the daughter of Eliam, Uriah the Hittite’s wife?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2538,7 +2646,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Uriah said to David, “The ark, Israel, and Judah, are staying in tents; and my lord Joab and the servants of my lord, are encamped in the open field. Shall I then go into my house to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing!” "
+		"value": "Uriah said to David, “The ark, Israel, and Judah, are staying in tents; and my lord Joab and the servants of my lord are encamped in the open field. Shall I then go into my house to eat and to drink, and to lie with my wife? As you live, and as your soul lives, I will not do this thing!” "
 	},
 	{
 		"type": "paragraph end"
@@ -2551,7 +2659,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "David said to Uriah, “Stay here today also, and tomorrow I will let you depart.” So Uriah stayed in Jerusalem that day, and the next day.  "
+		"value": "David said to Uriah, “Stay here today also, and tomorrow I will let you depart.” So Uriah stayed in Jerusalem that day and the next day.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2565,14 +2673,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "In the morning, David wrote a letter to Joab, and sent it by the hand of Uriah.  "
+		"value": "In the morning, David wrote a letter to Joab and sent it by the hand of Uriah.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "He wrote in the letter, saying, “Send Uriah to the forefront of the hottest battle, and retreat from him, that he may be struck, and die.” "
+		"value": "He wrote in the letter, saying, “Send Uriah to the forefront of the hottest battle, and retreat from him, that he may be struck and die.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2592,7 +2700,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "The men of the city went out, and fought with Joab. Some of the people fell, even of David’s servants; and Uriah the Hittite died also.  "
+		"value": "The men of the city went out and fought with Joab. Some of the people fell, even of David’s servants; and Uriah the Hittite died also.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2640,7 +2748,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "The messenger said to David, “The men prevailed against us, and came out to us into the field, and we were on them even to the entrance of the gate.  "
+		"value": "The messenger said to David, “The men prevailed against us, and came out to us into the field; and we were on them even to the entrance of the gate.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2680,7 +2788,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "When the mourning was past, David sent and took her home to his house, and she became his wife, and bore him a son. But the thing that David had done displeased Yahweh. "
+		"value": "When the mourning was past, David sent and took her home to his house, and she became his wife and bore him a son. But the thing that David had done displeased the LORD. "
 	},
 	{
 		"type": "paragraph end"
@@ -2693,7 +2801,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Yahweh sent Nathan to David. He came to him, and said to him, “There were two men in one city; the one rich, and the other poor.  "
+		"value": "The LORD sent Nathan to David. He came to him, and said to him, “There were two men in one city: the one rich, and the other poor.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2707,14 +2815,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "but the poor man had nothing, except one little ewe lamb, which he had bought and raised. It grew up together with him, and with his children. It ate of his own food, drank of his own cup, and lay in his bosom, and was like a daughter to him.  "
+		"value": "but the poor man had nothing, except one little ewe lamb, which he had bought and raised. It grew up together with him and with his children. It ate of his own food, drank of his own cup, and lay in his bosom, and was like a daughter to him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "A traveler came to the rich man, and he spared to take of his own flock and of his own herd, to prepare for the wayfaring man who had come to him, but took the poor man’s lamb, and prepared it for the man who had come to him.” "
+		"value": "A traveller came to the rich man, and he didn’t want to take of his own flock and of his own herd to prepare for the wayfaring man who had come to him, but took the poor man’s lamb and prepared it for the man who had come to him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2727,14 +2835,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "David’s anger burned hot against the man, and he said to Nathan, “As Yahweh lives, the man who has done this deserves to die!  "
+		"value": "David’s anger burnt hot against the man, and he said to Nathan, “As the LORD lives, the man who has done this deserves to die!  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "He must restore the lamb fourfold, because he did this thing, and because he had no pity!” "
+		"value": "He must restore the lamb fourfold, because he did this thing and because he had no pity!” "
 	},
 	{
 		"type": "paragraph end"
@@ -2747,28 +2855,28 @@
 		"chapterNumber": 12,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Nathan said to David, “You are the man. This is what Yahweh, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you out of the hand of Saul.  "
+		"value": "Nathan said to David, “You are the man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you out of the hand of Saul.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "I gave you your master’s house, and your master’s wives into your bosom, and gave you the house of Israel and of Judah; and if that would have been too little, I would have added to you many more such things.  "
+		"value": "I gave you your master’s house and your master’s wives into your bosom, and gave you the house of Israel and of Judah; and if that would have been too little, I would have added to you many more such things.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Why have you despised Yahweh’s word, to do that which is evil in his sight? You have struck Uriah the Hittite with the sword, and have taken his wife to be your wife, and have slain him with the sword of the children of Ammon.  "
+		"value": "Why have you despised the LORD’s word, to do that which is evil in his sight? You have struck Uriah the Hittite with the sword, have taken his wife to be your wife, and have slain him with the sword of the children of Ammon.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Now therefore the sword will never depart from your house, because you have despised me, and have taken Uriah the Hittite’s wife to be your wife.’ "
+		"value": "Now therefore the sword will never depart from your house, because you have despised me and have taken Uriah the Hittite’s wife to be your wife.’ "
 	},
 	{
 		"type": "paragraph end"
@@ -2781,7 +2889,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "“This is what Yahweh says: ‘Behold, I will raise up evil against you out of your own house; and I will take your wives before your eyes, and give them to your neighbor, and he will lie with your wives in the sight of this sun.  "
+		"value": "“This is what the LORD says: ‘Behold, I will raise up evil against you out of your own house; and I will take your wives before your eyes and give them to your neighbour, and he will lie with your wives in the sight of this sun.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2801,7 +2909,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "David said to Nathan, “I have sinned against Yahweh.” "
+		"value": "David said to Nathan, “I have sinned against the LORD.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2814,21 +2922,21 @@
 		"chapterNumber": 12,
 		"verseNumber": 13,
 		"sectionNumber": 2,
-		"value": "Nathan said to David, “Yahweh also has put away your sin. You will not die.  "
+		"value": "Nathan said to David, “The LORD also has put away your sin. You will not die.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "However, because by this deed you have given great occasion to Yahweh’s enemies to blaspheme, the child also who is born to you will surely die.”  "
+		"value": "However, because by this deed you have given great occasion to the LORD’s enemies to blaspheme, the child also who is born to you will surely die.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Nathan departed to his house. "
+		"value": "Then Nathan departed to his house. "
 	},
 	{
 		"type": "paragraph end"
@@ -2841,28 +2949,28 @@
 		"chapterNumber": 12,
 		"verseNumber": 15,
 		"sectionNumber": 2,
-		"value": "Yahweh struck the child that Uriah’s wife bore to David, and it was very sick.  "
+		"value": "The LORD struck the child that Uriah’s wife bore to David, and he was very sick.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "David therefore begged God for the child; and David fasted, and went in, and lay all night on the ground.  "
+		"value": "David therefore begged God for the child; and David fasted, and went in and lay all night on the ground.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "The elders of his house arose beside him, to raise him up from the earth: but he would not, and he didn’t eat bread with them.  "
+		"value": "The elders of his house arose beside him, to raise him up from the earth; but he would not, and he didn’t eat bread with them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "On the seventh day, the child died. David’s servants were afraid to tell him that the child was dead, for they said, “Behold, while the child was yet alive, we spoke to him, and he didn’t listen to our voice. How will he then harm himself, if we tell him that the child is dead?” "
+		"value": "On the seventh day, the child died. David’s servants were afraid to tell him that the child was dead, for they said, “Behold, while the child was yet alive, we spoke to him and he didn’t listen to our voice. How will he then harm himself if we tell him that the child is dead?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2901,7 +3009,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Then David arose from the earth, and washed, and anointed himself, and changed his clothing; and he came into Yahweh’s house, and worshiped. Then he came to his own house; and when he requested, they set bread before him, and he ate.  "
+		"value": "Then David arose from the earth, and washed and anointed himself, and changed his clothing; and he came into the LORD’s house, and worshipped. Then he came to his own house; and when he requested, they set bread before him and he ate.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2921,14 +3029,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "He said, “While the child was yet alive, I fasted and wept; for I said, ‘Who knows whether Yahweh will not be gracious to me, that the child may live?’  "
+		"value": "He said, “While the child was yet alive, I fasted and wept; for I said, ‘Who knows whether the LORD will not be gracious to me, that the child may live?’  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "But now he is dead, why should I fast? Can I bring him back again? I will go to him, but he will not return to me.” "
+		"value": "But now he is dead. Why should I fast? Can I bring him back again? I will go to him, but he will not return to me.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2941,14 +3049,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "David comforted Bathsheba his wife, and went in to her, and lay with her. She bore a son, and he called his name Solomon. Yahweh loved him;  "
+		"value": "David comforted Bathsheba his wife, and went in to her, and lay with her. She bore a son, and he called his name Solomon. The LORD loved him;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "and he sent by the hand of Nathan the prophet, and he named him Jedidiah, for Yahweh’s sake. "
+		"value": "and he sent by the hand of Nathan the prophet, and he named him Jedidiah, for the LORD’s sake. "
 	},
 	{
 		"type": "paragraph end"
@@ -2975,7 +3083,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Now therefore gather the rest of the people together, and encamp against the city, and take it; lest I take the city, and it be called by my name.” "
+		"value": "Now therefore gather the rest of the people together, and encamp against the city and take it; lest I take the city, and it be called by my name.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2988,7 +3096,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "David gathered all the people together, and went to Rabbah, and fought against it, and took it.  "
+		"value": "David gathered all the people together and went to Rabbah, and fought against it and took it.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3002,7 +3110,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "He brought out the people who were in it, and put them under saws, under iron picks, under axes of iron, and made them pass through the brick kiln; and he did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem. "
+		"value": "He brought out the people who were in it, and put them to work under saws, under iron picks, under axes of iron, and made them go to the brick kiln; and he did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem. "
 	},
 	{
 		"type": "paragraph end"
@@ -3022,14 +3130,14 @@
 		"chapterNumber": 13,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Amnon was so troubled that he became sick because of his sister Tamar; for she was a virgin; and it seemed hard to Amnon to do anything to her.  "
+		"value": "Amnon was so troubled that he became sick because of his sister Tamar, for she was a virgin, and it seemed hard to Amnon to do anything to her.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "But Amnon had a friend, whose name was Jonadab, the son of Shimeah, David’s brother; and Jonadab was a very subtle man.  "
+		"value": "But Amnon had a friend whose name was Jonadab the son of Shimeah, David’s brother; and Jonadab was a very subtle man.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3062,7 +3170,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Jonadab said to him, “Lay down on your bed, and pretend to be sick. When your father comes to see you, tell him, ‘Please let my sister Tamar come and give me bread to eat, and prepare the food in my sight, that I may see it, and eat it from her hand.’ ” "
+		"value": "Jonadab said to him, “Lay down on your bed and pretend to be sick. When your father comes to see you, tell him, ‘Please let my sister Tamar come and give me bread to eat, and prepare the food in my sight, that I may see it and eat it from her hand.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -3075,7 +3183,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "So Amnon lay down and faked being sick. When the king came to see him, Amnon said to the king, “Please let my sister Tamar come, and make me a couple of cakes in my sight, that I may eat from her hand.” "
+		"value": "So Amnon lay down and faked being sick. When the king came to see him, Amnon said to the king, “Please let my sister Tamar come and make me a couple of cakes in my sight, that I may eat from her hand.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3095,14 +3203,14 @@
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "So Tamar went to her brother Amnon’s house; and he was lying down. She took dough, and kneaded it, made cakes in his sight, and baked the cakes.  "
+		"value": "So Tamar went to her brother Amnon’s house; and he was lying down. She took dough, kneaded it, made cakes in his sight, and baked the cakes.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "She took the pan, and poured them out before him; but he refused to eat. Amnon said, “Have all men leave me.” Then every man went out from him.  "
+		"value": "She took the pan and poured them out before him, but he refused to eat. Amnon said, “Have all men leave me.” Then every man went out from him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3116,7 +3224,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "When she had brought them near to him to eat, he took hold of her, and said to her, “Come, lie with me, my sister!” "
+		"value": "When she had brought them near to him to eat, he took hold of her and said to her, “Come, lie with me, my sister!” "
 	},
 	{
 		"type": "paragraph end"
@@ -3129,7 +3237,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "She answered him, “No, my brother, do not force me! For no such thing ought to be done in Israel. Don’t you do this folly.  "
+		"value": "She answered him, “No, my brother, do not force me! For no such thing ought to be done in Israel. Don’t you do this folly!  "
 	},
 	{
 		"type": "paragraph text",
@@ -3149,7 +3257,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "However he would not listen to her voice; but being stronger than she, he forced her, and lay with her.  "
+		"value": "However, he would not listen to her voice; but being stronger than she, he forced her and lay with her.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3202,14 +3310,14 @@
 		"chapterNumber": 13,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "She had a garment of various colors on her; for the king’s daughters who were virgins dressed in such robes. Then his servant brought her out and bolted the door after her.  "
+		"value": "She had a garment of various colours on her, for the king’s daughters who were virgins dressed in such robes. Then his servant brought her out and bolted the door after her.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Tamar put ashes on her head, and tore her garment of various colors that was on her; and she laid her hand on her head, and went her way, crying aloud as she went.  "
+		"value": "Tamar put ashes on her head, and tore her garment of various colours that was on her; and she laid her hand on her head and went her way, crying aloud as she went.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3236,28 +3344,34 @@
 		"chapterNumber": 13,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "But when king David heard of all these things, he was very angry.  "
+		"value": "But when King David heard of all these things, he was very angry.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Absalom spoke to Amnon neither good nor bad; for Absalom hated Amnon, because he had forced his sister Tamar.  "
+		"value": "Absalom spoke to Amnon neither good nor bad; for Absalom hated Amnon, because he had forced his sister Tamar. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "After two full years, Absalom had sheep shearers in Baal Hazor, which is beside Ephraim: and Absalom invited all the king’s sons.  "
+		"value": "After two full years, Absalom had sheep shearers in Baal Hazor, which is beside Ephraim; and Absalom invited all the king’s sons.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Absalom came to the king, and said, “See now, your servant has sheep shearers. Please let the king and his servants go with your servant.” "
+		"value": "Absalom came to the king and said, “See now, your servant has sheep shearers. Please let the king and his servants go with your servant.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3329,7 +3443,13 @@
 		"chapterNumber": 13,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "The servants of Absalom did to Amnon as Absalom had commanded. Then all the king’s sons arose, and every man got up on his mule, and fled.  "
+		"value": "The servants of Absalom did to Amnon as Absalom had commanded. Then all the king’s sons arose, and every man got up on his mule and fled. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3356,7 +3476,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Jonadab, the son of Shimeah, David’s brother, answered, “Don’t let my lord suppose that they have killed all the young men the king’s sons; for Amnon only is dead; for by the appointment of Absalom this has been determined from the day that he forced his sister Tamar.  "
+		"value": "Jonadab the son of Shimeah, David’s brother, answered, “Don’t let my lord suppose that they have killed all the young men, the king’s sons, for Amnon only is dead; for by the appointment of Absalom this has been determined from the day that he forced his sister Tamar.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3370,7 +3490,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "But Absalom fled. The young man who kept the watch lifted up his eyes, and looked, and behold, many people were coming by way of the hillside behind him.  "
+		"value": "But Absalom fled. The young man who kept the watch lifted up his eyes and looked, and behold, many people were coming by way of the hillside behind him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3384,28 +3504,34 @@
 		"chapterNumber": 13,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "As soon as he had finished speaking, behold, the king’s sons came, and lifted up their voice, and wept. The king also and all his servants wept bitterly.  "
+		"value": "As soon as he had finished speaking, behold, the king’s sons came, and lifted up their voices and wept. The king also and all his servants wept bitterly. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "But Absalom fled, and went to Talmai the son of Ammihur, king of Geshur. David mourned for his son every day.  "
+		"value": "But Absalom fled and went to Talmai the son of Ammihur, king of Geshur. David mourned for his son every day.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "So Absalom fled, and went to Geshur, and was there three years.  "
+		"value": "So Absalom fled and went to Geshur, and was there three years.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "King David longed to go out to Absalom; for he was comforted concerning Amnon, since he was dead. "
+		"value": "King David longed to go out to Absalom, for he was comforted concerning Amnon, since he was dead. "
 	},
 	{
 		"type": "paragraph end"
@@ -3418,21 +3544,21 @@
 		"chapterNumber": 14,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Now Joab the son of Zeruiah perceived that the king’s heart was toward Absalom.  "
+		"value": "Now Joab the son of Zeruiah perceived that the king’s heart was towards Absalom.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Joab sent to Tekoa, and brought a wise woman from there, and said to her, “Please act like a mourner, and put on mourning clothing, please, and don’t anoint yourself with oil, but be as a woman who has mourned a long time for the dead.  "
+		"value": "Joab sent to Tekoa and brought a wise woman from there, and said to her, “Please act like a mourner, and put on mourning clothing, please, and don’t anoint yourself with oil; but be as a woman who has mourned a long time for the dead.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Go in to the king, and speak like this to him.” So Joab put the words in her mouth. "
+		"value": "Go in to the king and speak like this to him.” So Joab put the words in her mouth. "
 	},
 	{
 		"type": "paragraph end"
@@ -3478,7 +3604,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Your servant had two sons, and they both fought together in the field, and there was no one to part them, but the one struck the other, and killed him.  "
+		"value": "Your servant had two sons; and they both fought together in the field, and there was no one to part them, but the one struck the other and killed him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3537,7 +3663,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Then she said, “Please let the king remember Yahweh your God, that the avenger of blood destroy not any more, lest they destroy my son.” "
+		"value": "Then she said, “Please let the king remember the LORD your God, that the avenger of blood destroy not any more, lest they destroy my son.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3550,7 +3676,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 11,
 		"sectionNumber": 2,
-		"value": "He said, “As Yahweh lives, not one hair of your son shall fall to the earth.” "
+		"value": "He said, “As the LORD lives, not one hair of your son shall fall to the earth.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3603,7 +3729,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Now therefore seeing that I have come to speak this word to my lord the king, it is because the people have made me afraid. Your servant said, ‘I will now speak to the king; it may be that the king will perform the request of his servant.’  "
+		"value": "Now therefore, seeing that I have come to speak this word to my lord the king, it is because the people have made me afraid. Your servant said, ‘I will now speak to the king; it may be that the king will perform the request of his servant.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -3617,7 +3743,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Then your servant said, ‘Please let the word of my lord the king bring rest; for as an angel of God, so is my lord the king to discern good and bad. May Yahweh, your God, be with you.’ ” "
+		"value": "Then your servant said, ‘Please let the word of my lord the king bring rest; for as an angel of God, so is my lord the king to discern good and bad. May the LORD, your God, be with you.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -3689,7 +3815,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "The king said to Joab, “Behold now, I have done this thing. Go therefore, and bring the young man Absalom back.” "
+		"value": "The king said to Joab, “Behold now, I have granted this thing. Go therefore, and bring the young man Absalom back.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3702,7 +3828,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Joab fell to the ground on his face, showed respect, and blessed the king. Joab said, “Today your servant knows that I have found favor in your sight, my lord, king, in that the king has performed the request of his servant.” "
+		"value": "Joab fell to the ground on his face, showed respect, and blessed the king. Joab said, “Today your servant knows that I have found favour in your sight, my lord, O king, in that the king has performed the request of his servant.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3736,7 +3862,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "When he cut the hair of his head (now it was at every year’s end that he cut it; because it was heavy on him, therefore he cut it); he weighed the hair of his head at two hundred shekels, after the king’s weight.  "
+		"value": "When he cut the hair of his head (now it was at every year’s end that he cut it; because it was heavy on him, therefore he cut it), he weighed the hair of his head at two hundred shekels, after the king’s weight.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3777,7 +3903,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Then Joab arose, and came to Absalom to his house, and said to him, “Why have your servants set my field on fire?” "
+		"value": "Then Joab arose and came to Absalom to his house, and said to him, “Why have your servants set my field on fire?” "
 	},
 	{
 		"type": "paragraph end"
@@ -3790,7 +3916,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Absalom answered Joab, “Behold, I sent to you, saying, ‘Come here, that I may send you to the king, to say, “Why have I come from Geshur? It would be better for me to be there still. Now therefore let me see the king’s face, and if there is iniquity in me, let him kill me.” ’ ” "
+		"value": "Absalom answered Joab, “Behold, I sent to you, saying, ‘Come here, that I may send you to the king, to say, “Why have I come from Geshur? It would be better for me to be there still. Now therefore, let me see the king’s face; and if there is iniquity in me, let him kill me.” ’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -3803,7 +3929,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "So Joab came to the king, and told him; and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king; and the king kissed Absalom. "
+		"value": "So Joab came to the king and told him; and when he had called for Absalom, he came to the king and bowed himself on his face to the ground before the king; and the king kissed Absalom. "
 	},
 	{
 		"type": "paragraph end"
@@ -3823,7 +3949,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Absalom rose up early, and stood beside the way of the gate. When any man had a suit which should come to the king for judgment, then Absalom called to him, and said, “What city are you from?” "
+		"value": "Absalom rose up early, and stood beside the way of the gate. When any man had a suit which should come to the king for judgement, then Absalom called to him, and said, “What city are you from?” "
 	},
 	{
 		"type": "paragraph end"
@@ -3863,28 +3989,34 @@
 		"chapterNumber": 15,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "It was so, that when any man came near to bow down to him, he stretched out his hand, and took hold of him, and kissed him.  "
+		"value": "It was so, that when any man came near to bow down to him, he stretched out his hand, took hold of him, and kissed him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Absalom did this sort of thing to all Israel who came to the king for judgment. So Absalom stole the hearts of the men of Israel.  "
+		"value": "Absalom did this sort of thing to all Israel who came to the king for judgement. So Absalom stole the hearts of the men of Israel. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "At the end of forty years, Absalom said to the king, “Please let me go and pay my vow, which I have vowed to Yahweh, in Hebron.  "
+		"value": "At the end of forty years, Absalom said to the king, “Please let me go and pay my vow, which I have vowed to the LORD, in Hebron.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "For your servant vowed a vow while I stayed at Geshur in Syria, saying, ‘If Yahweh shall indeed bring me again to Jerusalem, then I will serve Yahweh.’ ” "
+		"value": "For your servant vowed a vow while I stayed at Geshur in Syria, saying, ‘If the LORD shall indeed bring me again to Jerusalem, then I will serve the LORD.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -3910,7 +4042,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 9,
 		"sectionNumber": 2,
-		"value": "So he arose, and went to Hebron.  "
+		"value": "So he arose and went to Hebron.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3937,7 +4069,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Absalom sent for Ahithophel the Gilonite, David’s counselor, from his city, even from Giloh, while he was offering the sacrifices. The conspiracy was strong; for the people increased continually with Absalom.  "
+		"value": "Absalom sent for Ahithophel the Gilonite, David’s counsellor, from his city, even from Giloh, while he was offering the sacrifices. The conspiracy was strong, for the people increased continually with Absalom.  "
 	},
 	{
 		"type": "paragraph text",
@@ -3957,7 +4089,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "David said to all his servants who were with him at Jerusalem, “Arise! Let’s flee; or else none of us will escape from Absalom. Hurry to depart, lest he overtake us quickly, and bring down evil on us, and strike the city with the edge of the sword.” "
+		"value": "David said to all his servants who were with him at Jerusalem, “Arise! Let’s flee, or else none of us will escape from Absalom. Hurry to depart, lest he overtake us quickly and bring down evil on us, and strike the city with the edge of the sword.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3997,14 +4129,20 @@
 		"chapterNumber": 15,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "All his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men who came after him from Gath, passed on before the king.  "
+		"value": "All his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men who came after him from Gath, passed on before the king. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Then the king said to Ittai the Gittite, “Why do you also go with us? Return, and stay with the king; for you are a foreigner, and also an exile. Return to your own place.  "
+		"value": "Then the king said to Ittai the Gittite, “Why do you also go with us? Return, and stay with the king; for you are a foreigner and also an exile. Return to your own place.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4024,7 +4162,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Ittai answered the king, and said, “As Yahweh lives, and as my lord the king lives, surely in what place my lord the king is, whether for death or for life, your servant will be there also.” "
+		"value": "Ittai answered the king and said, “As the LORD lives, and as my lord the king lives, surely in what place my lord the king is, whether for death or for life, your servant will be there also.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4044,42 +4182,42 @@
 		"chapterNumber": 15,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "All the country wept with a loud voice, and all the people passed over. The king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.  "
+		"value": "All the country wept with a loud voice, and all the people passed over. The king also himself passed over the brook Kidron, and all the people passed over towards the way of the wilderness.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Behold, Zadok also came, and all the Levites with him, bearing the ark of the covenant of God; and they set down God’s ark; and Abiathar went up, until all the people finished passing out of the city.  "
+		"value": "Behold, Zadok also came, and all the Levites with him, bearing the ark of the covenant of God; and they set down God’s ark; and Abiathar went up until all the people finished passing out of the city.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "The king said to Zadok, “Carry God’s ark back into the city. If I find favor in Yahweh’s eyes, he will bring me again, and show me both it, and his habitation;  "
+		"value": "The king said to Zadok, “Carry God’s ark back into the city. If I find favour in the LORD’s eyes, he will bring me again, and show me both it and his habitation;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "but if he says, ‘I have no delight in you;’ behold, here I am. Let him do to me as seems good to him.”  "
+		"value": "but if he says, ‘I have no delight in you,’ behold, here I am. Let him do to me as seems good to him.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "The king said also to Zadok the priest, “Aren’t you a seer? Return into the city in peace, and your two sons with you, Ahimaaz your son, and Jonathan the son of Abiathar.  "
+		"value": "The king said also to Zadok the priest, “Aren’t you a seer? Return into the city in peace, and your two sons with you, Ahimaaz your son and Jonathan the son of Abiathar.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Behold, I will stay at the fords of the wilderness, until word comes from you to inform me.”  "
+		"value": "Behold, I will stay at the fords of the wilderness until word comes from you to inform me.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -4093,7 +4231,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "David went up by the ascent of the Mount of Olives, and wept as he went up; and he had his head covered, and went barefoot. All the people who were with him each covered his head, and they went up, weeping as they went up. "
+		"value": "David went up by the ascent of the Mount of Olives, and wept as he went up; and he had his head covered and went barefoot. All the people who were with him each covered his head, and they went up, weeping as they went up. "
 	},
 	{
 		"type": "paragraph end"
@@ -4106,7 +4244,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Someone told David, saying, “Ahithophel is among the conspirators with Absalom.” "
+		"value": "Someone told David, saying, “Ahithophel is amongst the conspirators with Absalom.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4119,7 +4257,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 31,
 		"sectionNumber": 2,
-		"value": "David said, “Yahweh, please turn the counsel of Ahithophel into foolishness.” "
+		"value": "David said, “LORD, please turn the counsel of Ahithophel into foolishness.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4132,7 +4270,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "When David had come to the top, where God was worshiped, behold, Hushai the Archite came to meet him with his tunic torn, and earth on his head.  "
+		"value": "When David had come to the top, where God was worshipped, behold, Hushai the Archite came to meet him with his tunic torn and earth on his head.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4258,7 +4396,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 4,
 		"sectionNumber": 2,
-		"value": "Ziba said, “I bow down. Let me find favor in your sight, my lord, O king.” "
+		"value": "Ziba said, “I bow down. Let me find favour in your sight, my lord, O king.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4271,14 +4409,14 @@
 		"chapterNumber": 16,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "When king David came to Bahurim, behold, a man of the family of Saul’s house came out, whose name was Shimei, the son of Gera. He came out and cursed as he came.  "
+		"value": "When King David came to Bahurim, behold, a man of the family of Saul’s house came out, whose name was Shimei, the son of Gera. He came out and cursed as he came.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "He cast stones at David, and at all the servants of king David, and all the people and all the mighty men were on his right hand and on his left.  "
+		"value": "He cast stones at David and at all the servants of King David, and all the people and all the mighty men were on his right hand and on his left.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4292,7 +4430,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Yahweh has returned on you all the blood of Saul’s house, in whose place you have reigned! Yahweh has delivered the kingdom into the hand of Absalom your son! Behold, you are caught by your own mischief, because you are a man of blood!” "
+		"value": "The LORD has returned on you all the blood of Saul’s house, in whose place you have reigned! The LORD has delivered the kingdom into the hand of Absalom your son! Behold, you are caught by your own mischief, because you are a man of blood!” "
 	},
 	{
 		"type": "paragraph end"
@@ -4312,7 +4450,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "The king said, “What have I to do with you, you sons of Zeruiah? Because he curses, and because Yahweh has said to him, ‘Curse David;’ who then shall say, ‘Why have you done so?’ ” "
+		"value": "The king said, “What have I to do with you, you sons of Zeruiah? Because he curses, and because the LORD has said to him, ‘Curse David,’ who then shall say, ‘Why have you done so?’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -4325,28 +4463,28 @@
 		"chapterNumber": 16,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "David said to Abishai, and to all his servants, “Behold, my son, who came out of my bowels, seeks my life. How much more this Benjamite, now? Leave him alone, and let him curse; for Yahweh has invited him.  "
+		"value": "David said to Abishai and to all his servants, “Behold, my son, who came out of my bowels, seeks my life. How much more this Benjamite, now? Leave him alone, and let him curse; for the LORD has invited him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "It may be that Yahweh will look on the wrong done to me, and that Yahweh will repay me good for the cursing of me today.”  "
+		"value": "It may be that the LORD will look on the wrong done to me, and that the LORD will repay me good for the cursing of me today.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "So David and his men went by the way; and Shimei went along on the hillside opposite him, and cursed as he went, threw stones at him, and threw dust.  "
+		"value": "So David and his men went by the way; and Shimei went along on the hillside opposite him and cursed as he went, threw stones at him, and threw dust.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "The king, and all the people who were with him, came weary; and he refreshed himself there. "
+		"value": "The king and all the people who were with him arrived weary; and he refreshed himself there. "
 	},
 	{
 		"type": "paragraph end"
@@ -4392,7 +4530,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Hushai said to Absalom, “No; but whomever Yahweh, and this people, and all the men of Israel have chosen, I will be his, and I will stay with him.  "
+		"value": "Hushai said to Absalom, “No; but whomever the LORD and this people and all the men of Israel have chosen, I will be his, and I will stay with him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4438,14 +4576,20 @@
 		"chapterNumber": 16,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "So they spread a tent for Absalom on the top of the house, and Absalom went in to his father’s concubines in the sight of all Israel.  "
+		"value": "So they spread a tent for Absalom on the top of the house, and Absalom went in to his father’s concubines in the sight of all Israel. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "The counsel of Ahithophel, which he gave in those days, was as if a man inquired at the inner sanctuary of God. All the counsel of Ahithophel both was like this with David and with Absalom. "
+		"value": "The counsel of Ahithophel, which he gave in those days, was as if a man enquired at the inner sanctuary of God. All the counsel of Ahithophel was like this both with David and with Absalom. "
 	},
 	{
 		"type": "paragraph end"
@@ -4532,7 +4676,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Behold, he is now hidden in some pit, or in some other place. It will happen, when some of them have fallen at the first, that whoever hears it will say, ‘There is a slaughter among the people who follow Absalom!’  "
+		"value": "Behold, he is now hidden in some pit, or in some other place. It will happen, when some of them have fallen at the first, that whoever hears it will say, ‘There is a slaughter amongst the people who follow Absalom!’  "
 	},
 	{
 		"type": "paragraph text",
@@ -4573,21 +4717,27 @@
 		"chapterNumber": 17,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Absalom and all the men of Israel said, “The counsel of Hushai the Archite is better than the counsel of Ahithophel.” For Yahweh had ordained to defeat the good counsel of Ahithophel, to the intent that Yahweh might bring evil on Absalom.  "
+		"value": "Absalom and all the men of Israel said, “The counsel of Hushai the Archite is better than the counsel of Ahithophel.” For the LORD had ordained to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil on Absalom. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Then Hushai said to Zadok and to Abiathar the priests, “Ahithophel counseled Absalom and the elders of Israel that way; and I have counseled this way.  "
+		"value": "Then Hushai said to Zadok and to Abiathar the priests, “Ahithophel counselled Absalom and the elders of Israel that way; and I have counselled this way.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Now therefore send quickly, and tell David, saying, ‘Don’t lodge tonight at the fords of the wilderness, but by all means pass over; lest the king be swallowed up, and all the people who are with him.’ ” "
+		"value": "Now therefore send quickly, and tell David, saying, ‘Don’t lodge tonight at the fords of the wilderness, but by all means pass over, lest the king be swallowed up, and all the people who are with him.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -4600,14 +4750,14 @@
 		"chapterNumber": 17,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Now Jonathan and Ahimaaz were staying by En Rogel; and a female servant used to go and tell them; and they went and told king David. For they might not be seen to come into the city.  "
+		"value": "Now Jonathan and Ahimaaz were staying by En Rogel; and a female servant used to go and report to them, and they went and told King David; for they couldn’t risk being seen coming into the city.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "But a boy saw them, and told Absalom. Then they both went away quickly, and came to the house of a man in Bahurim, who had a well in his court; and they went down there.  "
+		"value": "But a boy saw them, and told Absalom. Then they both went away quickly and came to the house of a man in Bahurim, who had a well in his court; and they went down there.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4654,7 +4804,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "After they had departed, they came up out of the well, and went and told king David; and they said to David, “Arise and pass quickly over the water; for thus has Ahithophel counseled against you.” "
+		"value": "After they had departed, they came up out of the well and went and told King David; and they said to David, “Arise and pass quickly over the water; for thus has Ahithophel counselled against you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4667,14 +4817,26 @@
 		"chapterNumber": 17,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Then David arose, and all the people who were with him, and they passed over the Jordan. By the morning light there lacked not one of them who had not gone over the Jordan.  "
+		"value": "Then David arose, and all the people who were with him, and they passed over the Jordan. By the morning light there lacked not one of them who had not gone over the Jordan. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 17,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "When Ahithophel saw that his counsel was not followed, he saddled his donkey, arose, and went home, to his city, and set his house in order, and hanged himself; and he died, and was buried in the tomb of his father.  "
+		"value": "When Ahithophel saw that his counsel was not followed, he saddled his donkey, arose, and went home to his city, set his house in order, and hanged himself; and he died, and was buried in the tomb of his father. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -4695,7 +4857,13 @@
 		"chapterNumber": 17,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "Israel and Absalom encamped in the land of Gilead.  "
+		"value": "Israel and Absalom encamped in the land of Gilead. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -4716,7 +4884,7 @@
 		"chapterNumber": 17,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "honey, butter, sheep, and cheese of the herd, for David, and for the people who were with him, to eat; for they said, “The people are hungry, weary, and thirsty in the wilderness.” "
+		"value": "honey, butter, sheep, and cheese of the herd, for David and for the people who were with him to eat; for they said, “The people are hungry, weary, and thirsty in the wilderness.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4749,7 +4917,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "But the people said, “You shall not go out; for if we flee away, they will not care for us; neither if half of us die, will they care for us. But you are worth ten thousand of us. Therefore now it is better that you are ready to help us out of the city.” "
+		"value": "But the people said, “You shall not go out, for if we flee away, they will not care for us, neither if half of us die, will they care for us. But you are worth ten thousand of us. Therefore now it is better that you are ready to help us out of the city.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4782,7 +4950,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "The king commanded Joab and Abishai and Ittai, saying, “Deal gently for my sake with the young man, even with Absalom.” All the people heard when the king commanded all the captains concerning Absalom. "
+		"value": "The king commanded Joab and Abishai and Ittai, saying, “Deal gently for my sake with the young man Absalom.” All the people heard when the king commanded all the captains concerning Absalom. "
 	},
 	{
 		"type": "paragraph end"
@@ -4809,14 +4977,20 @@
 		"chapterNumber": 18,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "For the battle was there spread over the surface of all the country, and the forest devoured more people that day than the sword devoured.  "
+		"value": "For the battle was there spread over the surface of all the country, and the forest devoured more people that day than the sword devoured. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Absalom happened to meet David’s servants. Absalom was riding on his mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the sky and earth; and the mule that was under him went on.  "
+		"value": "Absalom happened to meet David’s servants. Absalom was riding on his mule, and the mule went under the thick boughs of a great oak; and his head caught hold of the oak, and he was hanging between the sky and earth; and the mule that was under him went on.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4836,7 +5010,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Joab said to the man who told him, “Behold, you saw it, and why didn’t you strike him there to the ground? I would have given you ten pieces of silver, and a sash.” "
+		"value": "Joab said to the man who told him, “Behold, you saw it, and why didn’t you strike him there to the ground? I would have given you ten pieces of silver and a sash.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4856,7 +5030,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Otherwise if I had dealt falsely against his life (and there is no matter hidden from the king), then you yourself would have set yourself against me.” "
+		"value": "Otherwise, if I had dealt falsely against his life (and there is no matter hidden from the king), then you yourself would have set yourself against me.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4869,14 +5043,14 @@
 		"chapterNumber": 18,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Then Joab said, “I’m not going to wait like this with you.” He took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the middle of the oak.  "
+		"value": "Then Joab said, “I’m not going to wait like this with you.” He took three darts in his hand and thrust them through Absalom’s heart while he was still alive in the middle of the oak.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Ten young men who bore Joab’s armor surrounded and struck Absalom, and killed him.  "
+		"value": "Ten young men who bore Joab’s armour surrounded and struck Absalom, and killed him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4890,7 +5064,13 @@
 		"chapterNumber": 18,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "They took Absalom and cast him into a great pit in the forest, and raised over him a very great heap of stones. Then all Israel fled, each to his own tent.  "
+		"value": "They took Absalom and cast him into a great pit in the forest, and raised over him a very great heap of stones. Then all Israel fled, each to his own tent. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -4910,7 +5090,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Then Ahimaaz the son of Zadok said, “Let me now run and carry the king news, how Yahweh has avenged him of his enemies.” "
+		"value": "Then Ahimaaz the son of Zadok said, “Let me now run and carry the king news, how the LORD has avenged him of his enemies.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5001,14 +5181,14 @@
 		"chapterNumber": 18,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Now David was sitting between the two gates; and the watchman went up to the roof of the gate to the wall, and lifted up his eyes, and looked, and, behold, a man running alone.  "
+		"value": "Now David was sitting between the two gates; and the watchman went up to the roof of the gate to the wall, and lifted up his eyes and looked, and, behold, a man running alone.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "The watchman cried, and told the king. The king said, “If he is alone, there is news in his mouth.” He came closer and closer. "
+		"value": "The watchman shouted and told the king. The king said, “If he is alone, there is news in his mouth.” He came closer and closer. "
 	},
 	{
 		"type": "paragraph end"
@@ -5021,7 +5201,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "The watchman saw another man running; and the watchman called to the gatekeeper, and said, “Behold, a man running alone!” "
+		"value": "The watchman saw another man running; and the watchman called to the gatekeeper and said, “Behold, a man running alone!” "
 	},
 	{
 		"type": "paragraph end"
@@ -5073,7 +5253,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Ahimaaz called, and said to the king, “All is well.” He bowed himself before the king with his face to the earth, and said, “Blessed is Yahweh your God, who has delivered up the men who lifted up their hand against my lord the king!” "
+		"value": "Ahimaaz called, and said to the king, “All is well.” He bowed himself before the king with his face to the earth, and said, “Blessed is the LORD your God, who has delivered up the men who lifted up their hand against my lord the king!” "
 	},
 	{
 		"type": "paragraph end"
@@ -5112,7 +5292,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "The king said, “Come and stand here.” He came, and stood still. "
+		"value": "The king said, “Come and stand here.” He came and stood still. "
 	},
 	{
 		"type": "paragraph end"
@@ -5125,7 +5305,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Behold, the Cushite came. The Cushite said, “News for my lord the king, for Yahweh has avenged you today of all those who rose up against you.” "
+		"value": "Behold, the Cushite came. The Cushite said, “Good news for my lord the king, for the LORD has avenged you today of all those who rose up against you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5164,7 +5344,7 @@
 		"chapterNumber": 18,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "The king was much moved, and went up to the room over the gate, and wept. As he went, he said, “My son Absalom! My son, my son Absalom! I wish I had died for you, Absalom, my son, my son!” "
+		"value": "The king was much moved, and went up to the room over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! I wish I had died instead of you, Absalom, my son, my son!” "
 	},
 	{
 		"type": "paragraph end"
@@ -5184,7 +5364,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The victory that day was turned into mourning among all the people; for the people heard it said that day, “The king grieves for his son.” "
+		"value": "The victory that day was turned into mourning amongst all the people, for the people heard it said that day, “The king grieves for his son.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5217,21 +5397,21 @@
 		"chapterNumber": 19,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Joab came into the house to the king, and said, “Today you have shamed the faces of all your servants, who today have saved your life, and the lives of your sons and of your daughters, and the lives of your wives, and the lives of your concubines;  "
+		"value": "Joab came into the house to the king, and said, “Today you have shamed the faces of all your servants who today have saved your life, and the lives of your sons and of your daughters, and the lives of your wives, and the lives of your concubines;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "in that you love those who hate you, and hate those who love you. For you have declared today that princes and servants are nothing to you. For today I perceive that if Absalom had lived, and all we had died today, then it would have pleased you well.  "
+		"value": "in that you love those who hate you and hate those who love you. For you have declared today that princes and servants are nothing to you. For today I perceive that if Absalom had lived and we had all died today, then it would have pleased you well.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Now therefore arise, go out, and speak to comfort your servants; for I swear by Yahweh, if you don’t go out, not a man will stay with you this night. That would be worse to you than all the evil that has happened to you from your youth until now.” "
+		"value": "Now therefore arise, go out and speak to comfort your servants; for I swear by the LORD, if you don’t go out, not a man will stay with you this night. That would be worse to you than all the evil that has happened to you from your youth until now.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5244,7 +5424,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Then the king arose, and sat in the gate. They told to all the people, saying, “Behold, the king is sitting in the gate.” All the people came before the king. Now Israel had fled every man to his tent.  "
+		"value": "Then the king arose and sat in the gate. The people were all told, “Behold, the king is sitting in the gate.” All the people came before the king. Now Israel had fled every man to his tent.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5271,7 +5451,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "King David sent to Zadok and to Abiathar the priests, saying, “Speak to the elders of Judah, saying, ‘Why are you the last to bring the king back to his house? Since the speech of all Israel has come to the king, to return him to his house.  "
+		"value": "King David sent to Zadok and to Abiathar the priests, saying, “Speak to the elders of Judah, saying, ‘Why are you the last to bring the king back to his house, since the speech of all Israel has come to the king, to return him to his house?  "
 	},
 	{
 		"type": "paragraph text",
@@ -5292,7 +5472,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "He bowed the heart of all the men of Judah, even as one man; so that they sent to the king, saying, “Return, you and all your servants.” "
+		"value": "He bowed the heart of all the men of Judah, even as one man, so that they sent to the king, saying, “Return, you and all your servants.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5312,7 +5492,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "Shimei the son of Gera, the Benjamite, who was of Bahurim, hurried and came down with the men of Judah to meet king David.  "
+		"value": "Shimei the son of Gera, the Benjamite, who was of Bahurim, hurried and came down with the men of Judah to meet King David.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5326,7 +5506,20 @@
 		"chapterNumber": 19,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "A ferry boat went to bring over the king’s household, and to do what he thought good. Shimei the son of Gera fell down before the king, when he had come over the Jordan.  "
+		"value": "A ferry boat went to bring over the king’s household, and to do what he thought good. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 19,
+		"verseNumber": 18,
+		"sectionNumber": 2,
+		"value": "Shimei the son of Gera fell down before the king when he had come over the Jordan.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5353,7 +5546,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "But Abishai the son of Zeruiah answered, “Shouldn’t Shimei be put to death for this, because he cursed Yahweh’s anointed?” "
+		"value": "But Abishai the son of Zeruiah answered, “Shouldn’t Shimei be put to death for this, because he cursed the LORD’s anointed?” "
 	},
 	{
 		"type": "paragraph end"
@@ -5420,7 +5613,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "For all my father’s house were but dead men before my lord the king; yet you set your servant among those who ate at your own table. What right therefore have I yet that I should cry any more to the king?” "
+		"value": "For all my father’s house were but dead men before my lord the king; yet you set your servant amongst those who ate at your own table. What right therefore have I yet that I should appeal any more to the king?” "
 	},
 	{
 		"type": "paragraph end"
@@ -5446,28 +5639,40 @@
 		"chapterNumber": 19,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "Mephibosheth said to the king, “Yes, let him take all, because my lord the king has come in peace to his own house.”  "
+		"value": "Mephibosheth said to the king, “Yes, let him take all, because my lord the king has come in peace to his own house.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Barzillai the Gileadite came down from Rogelim; and he went over the Jordan with the king, to conduct him over the Jordan.  "
+		"value": "Barzillai the Gileadite came down from Rogelim; and he went over the Jordan with the king to conduct him over the Jordan.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Now Barzillai was a very aged man, even eighty years old. He had provided the king with sustenance while he stayed at Mahanaim; for he was a very great man.  "
+		"value": "Now Barzillai was a very aged man, even eighty years old. He had provided the king with sustenance while he stayed at Mahanaim, for he was a very great man.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 19,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "The king said to Barzillai, “Come over with me, and I will sustain you with me in Jerusalem.”  "
+		"value": "The king said to Barzillai, “Come over with me, and I will sustain you with me in Jerusalem.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5488,7 +5693,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "Your servant would but just go over the Jordan with the king. Why should the king repay me with such a reward?  "
+		"value": "Your servant will just go over the Jordan with the king. Why should the king repay me with such a reward?  "
 	},
 	{
 		"type": "paragraph text",
@@ -5521,7 +5726,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "All the people went over the Jordan, and the king went over. Then the king kissed Barzillai, and blessed him; and he returned to his own place.  "
+		"value": "All the people went over the Jordan, and the king went over. Then the king kissed Barzillai and blessed him; and he returned to his own place.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5535,7 +5740,7 @@
 		"chapterNumber": 19,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "Behold, all the men of Israel came to the king, and said to the king, “Why have our brothers the men of Judah stolen you away, and brought the king, and his household, over the Jordan, and all David’s men with him?” "
+		"value": "Behold, all the men of Israel came to the king, and said to the king, “Why have our brothers the men of Judah stolen you away, and brought the king and his household, over the Jordan, and all David’s men with him?” "
 	},
 	{
 		"type": "paragraph end"
@@ -5574,7 +5779,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "There happened to be there a wicked fellow, whose name was Sheba, the son of Bichri, a Benjamite; and he blew the trumpet, and said, “We have no portion in David, neither have we inheritance in the son of Jesse. Every man to his tents, Israel!” "
+		"value": "There happened to be there a wicked fellow, whose name was Sheba the son of Bichri, a Benjamite; and he blew the trumpet, and said, “We have no portion in David, neither have we inheritance in the son of Jesse. Every man to his tents, Israel!” "
 	},
 	{
 		"type": "paragraph end"
@@ -5587,14 +5792,20 @@
 		"chapterNumber": 20,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "So all the men of Israel went up from following David, and followed Sheba the son of Bichri; but the men of Judah joined with their king, from the Jordan even to Jerusalem.  "
+		"value": "So all the men of Israel went up from following David, and followed Sheba the son of Bichri; but the men of Judah joined with their king, from the Jordan even to Jerusalem. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in custody, and provided them with sustenance, but didn’t go in to them. So they were shut up to the day of their death, living in widowhood. "
+		"value": "David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in custody and provided them with sustenance, but didn’t go in to them. So they were shut up to the day of their death, living in widowhood. "
 	},
 	{
 		"type": "paragraph end"
@@ -5620,14 +5831,14 @@
 		"chapterNumber": 20,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "So Amasa went to call the men of Judah together; but he stayed longer than the set time which he had appointed him.  "
+		"value": "So Amasa went to call the men of Judah together, but he stayed longer than the set time which had been appointed to him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "David said to Abishai, “Now Sheba the son of Bichri will do us more harm than Absalom did. Take your lord’s servants, and pursue after him, lest he get himself fortified cities, and escape out of our sight.” "
+		"value": "David said to Abishai, “Now Sheba the son of Bichri will do us more harm than Absalom did. Take your lord’s servants and pursue after him, lest he get himself fortified cities, and escape out of our sight.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5640,7 +5851,7 @@
 		"chapterNumber": 20,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Joab’s men went out after him, and the Cherethites and the Pelethites, and all the mighty men; and they went out of Jerusalem, to pursue Sheba the son of Bichri.  "
+		"value": "Joab’s men went out after him with the Cherethites, the Pelethites, and all the mighty men; and they went out of Jerusalem to pursue Sheba the son of Bichri.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5661,14 +5872,14 @@
 		"chapterNumber": 20,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "But Amasa took no heed to the sword that was in Joab’s hand. So he struck him with it in the body, and shed out his bowels to the ground, and didn’t strike him again; and he died. Joab and Abishai his brother pursued Sheba the son of Bichri.  "
+		"value": "But Amasa took no heed to the sword that was in Joab’s hand. So he struck him with it in the body and shed out his bowels to the ground, and didn’t strike him again; and he died. Joab and Abishai his brother pursued Sheba the son of Bichri.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "One of Joab’s young men stood by him, and said, “He who favors Joab, and he who is for David, let him follow Joab!” "
+		"value": "One of Joab’s young men stood by him, and said, “He who favours Joab, and he who is for David, let him follow Joab!” "
 	},
 	{
 		"type": "paragraph end"
@@ -5681,28 +5892,34 @@
 		"chapterNumber": 20,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Amasa lay wallowing in his blood in the middle of the highway. When the man saw that all the people stood still, he carried Amasa out of the highway into the field, and cast a garment over him, when he saw that everyone who came by him stood still.  "
+		"value": "Amasa lay wallowing in his blood in the middle of the highway. When the man saw that all the people stood still, he carried Amasa out of the highway into the field, and cast a garment over him when he saw that everyone who came by him stood still.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "When he was removed out of the highway, all the people went on after Joab, to pursue Sheba the son of Bichri.  "
+		"value": "When he was removed out of the highway, all the people went on after Joab to pursue Sheba the son of Bichri.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "He went through all the tribes of Israel to Abel, and to Beth Maacah, and all the Berites. They were gathered together, and went also after him.  "
+		"value": "He went through all the tribes of Israel to Abel, to Beth Maacah, and all the Berites. They were gathered together, and went also after him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "They came and besieged him in Abel of Beth Maacah, and they cast up a mound against the city, and it stood against the rampart; and all the people who were with Joab battered the wall, to throw it down.  "
+		"value": "They came and besieged him in Abel of Beth Maacah, and they cast up a mound against the city, and it stood against the rampart; and all the people who were with Joab battered the wall to throw it down. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5768,14 +5985,14 @@
 		"chapterNumber": 20,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Then she spoke, saying, “They used to say in old times, ‘They shall surely ask counsel at Abel;’ and so they settled a matter.  "
+		"value": "Then she spoke, saying, “They used to say in old times, ‘They shall surely ask counsel at Abel,’ and so they settled a matter.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "I am among those who are peaceable and faithful in Israel. You seek to destroy a city and a mother in Israel. Why will you swallow up Yahweh’s inheritance?” "
+		"value": "I am amongst those who are peaceable and faithful in Israel. You seek to destroy a city and a mother in Israel. Why will you swallow up the LORD’s inheritance?” "
 	},
 	{
 		"type": "paragraph end"
@@ -5821,7 +6038,13 @@
 		"chapterNumber": 20,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Then the woman went to all the people in her wisdom. They cut off the head of Sheba the son of Bichri, and threw it out to Joab. He blew the trumpet, and they were dispersed from the city, every man to his tent. Then Joab returned to Jerusalem to the king.  "
+		"value": "Then the woman went to all the people in her wisdom. They cut off the head of Sheba the son of Bichri, and threw it out to Joab. He blew the trumpet, and they were dispersed from the city, every man to his tent. Then Joab returned to Jerusalem to the king. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5835,14 +6058,14 @@
 		"chapterNumber": 20,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Adoram was over the men subject to forced labor, Jehoshaphat the son of Ahilud was the recorder,  "
+		"value": "Adoram was over the men subject to forced labour, Jehoshaphat the son of Ahilud was the recorder,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 20,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Sheva was scribe, and Zadok and Abiathar were priests,  "
+		"value": "Sheva was scribe, Zadok and Abiathar were priests,  "
 	},
 	{
 		"type": "paragraph text",
@@ -5862,7 +6085,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "There was a famine in the days of David for three years, year after year; and David sought the face of Yahweh. Yahweh said, “It is for Saul, and for his bloody house, because he put the Gibeonites to death.” "
+		"value": "There was a famine in the days of David for three years, year after year; and David sought the face of the LORD. The LORD said, “It is for Saul, and for his bloody house, because he put the Gibeonites to death.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5875,14 +6098,14 @@
 		"chapterNumber": 21,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "The king called the Gibeonites, and said to them (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites, and the children of Israel had sworn to them; and Saul sought to kill them in his zeal for the children of Israel and Judah);  "
+		"value": "The king called the Gibeonites and said to them (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites, and the children of Israel had sworn to them; and Saul sought to kill them in his zeal for the children of Israel and Judah);  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "and David said to the Gibeonites, “What should I do for you? And with what should I make atonement, that you may bless Yahweh’s inheritance?” "
+		"value": "and David said to the Gibeonites, “What should I do for you? And with what should I make atonement, that you may bless the LORD’s inheritance?” "
 	},
 	{
 		"type": "paragraph end"
@@ -5895,7 +6118,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "The Gibeonites said to him, “It is no matter of silver or gold between us and Saul, or his house; neither is it for us to put any man to death in Israel.” "
+		"value": "The Gibeonites said to him, “It is no matter of silver or gold between us and Saul or his house; neither is it for us to put any man to death in Israel.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5921,14 +6144,14 @@
 		"chapterNumber": 21,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "They said to the king, “The man who consumed us, and who devised against us, that we should be destroyed from remaining in any of the borders of Israel,  "
+		"value": "They said to the king, “The man who consumed us and who plotted against us, that we should be destroyed from remaining in any of the borders of Israel,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "let seven men of his sons be delivered to us, and we will hang them up to Yahweh in Gibeah of Saul, the chosen of Yahweh.” "
+		"value": "let seven men of his sons be delivered to us, and we will hang them up to the LORD in Gibeah of Saul, the chosen of the LORD.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5954,28 +6177,34 @@
 		"chapterNumber": 21,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of Yahweh’s oath that was between them, between David and Jonathan the son of Saul.  "
+		"value": "But the king spared Mephibosheth the son of Jonathan the son of Saul, because of the LORD’s oath that was between them, between David and Jonathan the son of Saul.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "But the king took the two sons of Rizpah the daughter of Aiah, whom she bore to Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she bore to Adriel the son of Barzillai the Meholathite.  "
+		"value": "But the king took the two sons of Rizpah the daughter of Aiah, whom she bore to Saul, Armoni and Mephibosheth; and the five sons of Merab the daughter of Saul, whom she bore to Adriel the son of Barzillai the Meholathite.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "He delivered them into the hands of the Gibeonites, and they hanged them on the mountain before Yahweh, and all seven of them fell together. They were put to death in the days of harvest, in the first days, at the beginning of barley harvest.  "
+		"value": "He delivered them into the hands of the Gibeonites; and they hanged them on the mountain before the LORD, and all seven of them fell together. They were put to death in the days of harvest, in the first days, at the beginning of barley harvest. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Rizpah the daughter of Aiah took sackcloth, and spread it for herself on the rock, from the beginning of harvest until water poured on them from the sky. She allowed neither the birds of the sky to rest on them by day, nor the animals of the field by night.  "
+		"value": "Rizpah the daughter of Aiah took sackcloth and spread it for herself on the rock, from the beginning of harvest until water poured on them from the sky. She allowed neither the birds of the sky to rest on them by day, nor the animals of the field by night.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5989,7 +6218,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "So David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabesh Gilead, who had stolen them from the street of Beth Shan, where the Philistines had hanged them, in the day that the Philistines killed Saul in Gilboa;  "
+		"value": "So David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabesh Gilead, who had stolen them from the street of Beth Shan, where the Philistines had hanged them in the day that the Philistines killed Saul in Gilboa;  "
 	},
 	{
 		"type": "paragraph text",
@@ -6003,7 +6232,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "They buried the bones of Saul and Jonathan his son in the country of Benjamin in Zela, in the tomb of Kish his father: and they performed all that the king commanded. After that, God answered prayer for the land. "
+		"value": "They buried the bones of Saul and Jonathan his son in the country of Benjamin in Zela, in the tomb of Kish his father; and they performed all that the king commanded. After that, God answered prayer for the land. "
 	},
 	{
 		"type": "paragraph end"
@@ -6030,7 +6259,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "But Abishai the son of Zeruiah helped him, and struck the Philistine, and killed him. Then the men of David swore to him, saying, “Don’t go out with us to battle any more, so that you don’t quench the lamp of Israel.” "
+		"value": "But Abishai the son of Zeruiah helped him, and struck the Philistine and killed him. Then the men of David swore to him, saying, “Don’t go out with us to battle any more, so that you don’t quench the lamp of Israel.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6050,14 +6279,14 @@
 		"chapterNumber": 21,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "There was again war with the Philistines at Gob; and Elhanan the son of Jaare-Oregim the Bethlehemite killed Goliath the Gittite’s brother, the staff of whose spear was like a weaver’s beam.  "
+		"value": "There was again war with the Philistines at Gob, and Elhanan the son of Jaare-Oregim the Bethlehemite killed Goliath the Gittite’s brother, the staff of whose spear was like a weaver’s beam.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 21,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "There was again war at Gath, where there was a man of great stature, who had six fingers on every hand, and six toes on every foot, twenty four in count; and he also was born to the giant.  "
+		"value": "There was again war at Gath, where there was a man of great stature, who had six fingers on every hand and six toes on every foot, twenty-four in number, and he also was born to the giant.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6071,7 +6300,7 @@
 		"chapterNumber": 21,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "These four were born to the giant in Gath; and they fell by the hand of David, and by the hand of his servants. "
+		"value": "These four were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants. "
 	},
 	{
 		"type": "paragraph end"
@@ -6084,7 +6313,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "David spoke to Yahweh the words of this song in the day that Yahweh delivered him out of the hand of all his enemies, and out of the hand of Saul,  "
+		"value": "David spoke to the LORD the words of this song in the day that the LORD delivered him out of the hand of all his enemies, and out of the hand of Saul,  "
 	},
 	{
 		"type": "paragraph text",
@@ -6104,7 +6333,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 2,
 		"sectionNumber": 2,
-		"value": "“Yahweh is my rock, "
+		"value": "“The LORD is my rock, "
 	},
 	{
 		"type": "line break"
@@ -6164,7 +6393,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 3,
 		"sectionNumber": 4,
-		"value": "My savior, you save me from violence. "
+		"value": "My saviour, you save me from violence. "
 	},
 	{
 		"type": "line break"
@@ -6174,7 +6403,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "I call on Yahweh, who is worthy to be praised; "
+		"value": "I call on the LORD, who is worthy to be praised; "
 	},
 	{
 		"type": "line break"
@@ -6188,6 +6417,19 @@
 	},
 	{
 		"type": "line break"
+	},
+	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 22,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "line text",
@@ -6234,7 +6476,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "In my distress, I called on Yahweh. "
+		"value": "In my distress, I called on the LORD. "
 	},
 	{
 		"type": "line break"
@@ -6374,7 +6616,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "He made darkness a shelter around himself: "
+		"value": "He made darkness a shelter around himself, "
 	},
 	{
 		"type": "line break"
@@ -6414,7 +6656,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Yahweh thundered from heaven. "
+		"value": "The LORD thundered from heaven. "
 	},
 	{
 		"type": "line break"
@@ -6434,7 +6676,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "He sent out arrows, and scattered them; "
+		"value": "He sent out arrows and scattered them, "
 	},
 	{
 		"type": "line break"
@@ -6444,7 +6686,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 15,
 		"sectionNumber": 2,
-		"value": "lightning, and confused them. "
+		"value": "lightning and confused them. "
 	},
 	{
 		"type": "line break"
@@ -6464,7 +6706,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 16,
 		"sectionNumber": 2,
-		"value": "The foundations of the world were laid bare by Yahweh’s rebuke, "
+		"value": "The foundations of the world were laid bare by the LORD’s rebuke, "
 	},
 	{
 		"type": "line break"
@@ -6478,6 +6720,19 @@
 	},
 	{
 		"type": "line break"
+	},
+	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 22,
+		"verseNumber": 16,
+		"sectionNumber": 4,
+		"value": " "
 	},
 	{
 		"type": "line text",
@@ -6534,7 +6789,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 19,
 		"sectionNumber": 2,
-		"value": "but Yahweh was my support. "
+		"value": "but the LORD was my support. "
 	},
 	{
 		"type": "line break"
@@ -6560,11 +6815,24 @@
 		"type": "line break"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 22,
+		"verseNumber": 20,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "line text",
 		"chapterNumber": 22,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Yahweh rewarded me according to my righteousness. "
+		"value": "The LORD rewarded me according to my righteousness. "
 	},
 	{
 		"type": "line break"
@@ -6584,7 +6852,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "For I have kept Yahweh’s ways, "
+		"value": "For I have kept the LORD’s ways, "
 	},
 	{
 		"type": "line break"
@@ -6624,7 +6892,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "I was also perfect toward him. "
+		"value": "I was also perfect towards him. "
 	},
 	{
 		"type": "line break"
@@ -6644,7 +6912,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "Therefore Yahweh has rewarded me according to my righteousness, "
+		"value": "Therefore the LORD has rewarded me according to my righteousness, "
 	},
 	{
 		"type": "line break"
@@ -6658,6 +6926,19 @@
 	},
 	{
 		"type": "line break"
+	},
+	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 22,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "line text",
@@ -6714,7 +6995,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 28,
 		"sectionNumber": 2,
-		"value": "But your eyes are on the arrogant, that you may bring them down. "
+		"value": "but your eyes are on the arrogant, that you may bring them down. "
 	},
 	{
 		"type": "line break"
@@ -6724,7 +7005,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "For you are my lamp, Yahweh. "
+		"value": "For you are my lamp, LORD. "
 	},
 	{
 		"type": "line break"
@@ -6734,7 +7015,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 29,
 		"sectionNumber": 2,
-		"value": "Yahweh will light up my darkness. "
+		"value": "The LORD will light up my darkness. "
 	},
 	{
 		"type": "line break"
@@ -6774,7 +7055,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 31,
 		"sectionNumber": 2,
-		"value": "Yahweh’s word is tested. "
+		"value": "The LORD’s word is tested. "
 	},
 	{
 		"type": "line break"
@@ -6790,11 +7071,24 @@
 		"type": "line break"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 22,
+		"verseNumber": 31,
+		"sectionNumber": 4,
+		"value": " "
+	},
+	{
 		"type": "line text",
 		"chapterNumber": 22,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "For who is God, besides Yahweh? "
+		"value": "For who is God, besides the LORD? "
 	},
 	{
 		"type": "line break"
@@ -7024,7 +7318,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 42,
 		"sectionNumber": 2,
-		"value": "even to Yahweh, but he didn’t answer them. "
+		"value": "even to the LORD, but he didn’t answer them. "
 	},
 	{
 		"type": "line break"
@@ -7048,6 +7342,19 @@
 	},
 	{
 		"type": "line break"
+	},
+	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 22,
+		"verseNumber": 43,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "line text",
@@ -7120,11 +7427,24 @@
 		"type": "line break"
 	},
 	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 22,
+		"verseNumber": 46,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
 		"type": "line text",
 		"chapterNumber": 22,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": "Yahweh lives! "
+		"value": "The LORD lives! "
 	},
 	{
 		"type": "line break"
@@ -7204,7 +7524,7 @@
 		"chapterNumber": 22,
 		"verseNumber": 50,
 		"sectionNumber": 1,
-		"value": "Therefore I will give thanks to you, Yahweh, among the nations, "
+		"value": "Therefore I will give thanks to you, LORD, amongst the nations, "
 	},
 	{
 		"type": "line break"
@@ -7313,7 +7633,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "“Yahweh’s Spirit spoke by me. "
+		"value": "“The LORD’s Spirit spoke by me. "
 	},
 	{
 		"type": "line break"
@@ -7373,7 +7693,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "shall be as the light of the morning, when the sun rises, "
+		"value": "shall be as the light of the morning when the sun rises, "
 	},
 	{
 		"type": "line break"
@@ -7407,6 +7727,19 @@
 	},
 	{
 		"type": "line break"
+	},
+	{
+		"type": "stanza end"
+	},
+	{
+		"type": "stanza start"
+	},
+	{
+		"type": "line text",
+		"chapterNumber": 23,
+		"verseNumber": 4,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "line text",
@@ -7443,7 +7776,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 5,
 		"sectionNumber": 4,
-		"value": "for it is all my salvation, and all my desire, "
+		"value": "for it is all my salvation and all my desire. "
 	},
 	{
 		"type": "line break"
@@ -7453,7 +7786,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 5,
 		"sectionNumber": 5,
-		"value": "although he doesn’t make it grow. "
+		"value": "Won’t he make it grow? "
 	},
 	{
 		"type": "line break"
@@ -7473,7 +7806,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 6,
 		"sectionNumber": 2,
-		"value": "because they can’t be taken with the hand, "
+		"value": "because they can’t be taken with the hand. "
 	},
 	{
 		"type": "line break"
@@ -7483,7 +7816,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But the man who touches them must be armed with iron and the staff of a spear. "
+		"value": "The man who touches them must be armed with iron and the staff of a spear. "
 	},
 	{
 		"type": "line break"
@@ -7493,7 +7826,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 7,
 		"sectionNumber": 2,
-		"value": "They will be utterly burned with fire in their place.” "
+		"value": "They will be utterly burnt with fire in their place.” "
 	},
 	{
 		"type": "line break"
@@ -7516,28 +7849,34 @@
 		"chapterNumber": 23,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "After him was Eleazar the son of Dodai the son of an Ahohite, one of the three mighty men with David, when they defied the Philistines who were there gathered together to battle, and the men of Israel had gone away.  "
+		"value": "After him was Eleazar the son of Dodai the son of an Ahohite, one of the three mighty men with David when they defied the Philistines who were there gathered together to battle, and the men of Israel had gone away.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "He arose and struck the Philistines until his hand was weary, and his hand froze to the sword; and Yahweh worked a great victory that day; and the people returned after him only to take plunder.  "
+		"value": "He arose and struck the Philistines until his hand was weary, and his hand froze to the sword; and the LORD worked a great victory that day; and the people returned after him only to take plunder.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "After him was Shammah the son of Agee a Hararite. The Philistines had gathered together into a troop, where there was a plot of ground full of lentils; and the people fled from the Philistines.  "
+		"value": "After him was Shammah the son of Agee a Hararite. The Philistines had gathered together into a troop where there was a plot of ground full of lentils; and the people fled from the Philistines.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "But he stood in the middle of the plot and defended it, and killed the Philistines; and Yahweh worked a great victory.  "
+		"value": "But he stood in the middle of the plot and defended it, and killed the Philistines; and the LORD worked a great victory. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -7558,7 +7897,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "David longed, and said, “Oh that someone would give me water to drink from the well of Bethlehem, which is by the gate!” "
+		"value": "David said longingly, “Oh that someone would give me water to drink from the well of Bethlehem, which is by the gate!” "
 	},
 	{
 		"type": "paragraph end"
@@ -7571,14 +7910,14 @@
 		"chapterNumber": 23,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "The three mighty men broke through the army of the Philistines, and drew water out of the well of Bethlehem that was by the gate, and took it and brought it to David; but he would not drink of it, but poured it out to Yahweh.  "
+		"value": "The three mighty men broke through the army of the Philistines, and drew water out of the well of Bethlehem that was by the gate and took it and brought it to David; but he would not drink of it, but poured it out to the LORD.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "He said, “Be it far from me, Yahweh, that I should do this! Isn’t this the blood of the men who risked their lives to go?” Therefore he would not drink it. The three mighty men did these things. "
+		"value": "He said, “Be it far from me, LORD, that I should do this! Isn’t this the blood of the men who risked their lives to go?” Therefore he would not drink it. The three mighty men did these things. "
 	},
 	{
 		"type": "paragraph end"
@@ -7591,14 +7930,20 @@
 		"chapterNumber": 23,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Abishai, the brother of Joab, the son of Zeruiah, was chief of the three. He lifted up his spear against three hundred and killed them, and had a name among the three.  "
+		"value": "Abishai, the brother of Joab, the son of Zeruiah, was chief of the three. He lifted up his spear against three hundred and killed them, and had a name amongst the three.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Wasn’t he most honorable of the three? Therefore he was made their captain. However he wasn’t included as one of the three.  "
+		"value": "Wasn’t he most honourable of the three? Therefore he was made their captain. However he wasn’t included as one of the three. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -7612,21 +7957,27 @@
 		"chapterNumber": 23,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "He killed a huge Egyptian, and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and killed him with his own spear.  "
+		"value": "He killed a huge Egyptian, and the Egyptian had a spear in his hand; but he went down to him with a staff and plucked the spear out of the Egyptian’s hand, and killed him with his own spear.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Benaiah the son of Jehoiada did these things, and had a name among the three mighty men.  "
+		"value": "Benaiah the son of Jehoiada did these things, and had a name amongst the three mighty men.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 23,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "He was more honorable than the thirty, but he didn’t attain to the three. David set him over his guard.  "
+		"value": "He was more honourable than the thirty, but he didn’t attain to the three. David set him over his guard. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -7724,7 +8075,7 @@
 		"chapterNumber": 23,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "Zelek the Ammonite, Naharai the Beerothite, armor bearers to Joab the son of Zeruiah,  "
+		"value": "Zelek the Ammonite, Naharai the Beerothite, armour bearers to Joab the son of Zeruiah,  "
 	},
 	{
 		"type": "paragraph text",
@@ -7751,7 +8102,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Again Yahweh’s anger burned against Israel, and he moved David against them, saying, “Go, count Israel and Judah.”  "
+		"value": "Again the LORD’s anger burnt against Israel, and he moved David against them, saying, “Go, count Israel and Judah.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -7771,7 +8122,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Joab said to the king, “Now may Yahweh your God add to the people, however many they may be, one hundred times; and may the eyes of my lord the king see it. But why does my lord the king delight in this thing?” "
+		"value": "Joab said to the king, “Now may the LORD your God add to the people, however many they may be, one hundred times; and may the eyes of my lord the king see it. But why does my lord the king delight in this thing?” "
 	},
 	{
 		"type": "paragraph end"
@@ -7784,28 +8135,28 @@
 		"chapterNumber": 24,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Notwithstanding, the king’s word prevailed against Joab, and against the captains of the army. Joab and the captains of the army went out from the presence of the king to count the people of Israel.  "
+		"value": "Notwithstanding, the king’s word prevailed against Joab and against the captains of the army. Joab and the captains of the army went out from the presence of the king to count the people of Israel.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "They passed over the Jordan, and encamped in Aroer, on the right side of the city that is in the middle of the valley of Gad, and to Jazer;  "
+		"value": "They passed over the Jordan and encamped in Aroer, on the right side of the city that is in the middle of the valley of Gad, and to Jazer;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "then they came to Gilead, and to the land of Tahtim Hodshi; and they came to Dan Jaan, and around to Sidon,  "
+		"value": "then they came to Gilead and to the land of Tahtim Hodshi; and they came to Dan Jaan and around to Sidon,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "and came to the stronghold of Tyre, and to all the cities of the Hivites, and of the Canaanites; and they went out to the south of Judah, at Beersheba.  "
+		"value": "and came to the stronghold of Tyre, and to all the cities of the Hivites and of the Canaanites; and they went out to the south of Judah, at Beersheba.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7819,14 +8170,20 @@
 		"chapterNumber": 24,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Joab gave up the sum of the counting of the people to the king: and there were in Israel eight hundred thousand valiant men who drew the sword; and the men of Judah were five hundred thousand men.  "
+		"value": "Joab gave up the sum of the counting of the people to the king; and there were in Israel eight hundred thousand valiant men who drew the sword, and the men of Judah were five hundred thousand men. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "David’s heart struck him after he had counted the people. David said to Yahweh, “I have sinned greatly in that which I have done. But now, Yahweh, put away, I beg you, the iniquity of your servant; for I have done very foolishly.” "
+		"value": "David’s heart struck him after he had counted the people. David said to the LORD, “I have sinned greatly in that which I have done. But now, the LORD, put away, I beg you, the iniquity of your servant; for I have done very foolishly.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7839,14 +8196,14 @@
 		"chapterNumber": 24,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "When David rose up in the morning, Yahweh’s word came to the prophet Gad, David’s seer, saying,  "
+		"value": "When David rose up in the morning, the LORD’s word came to the prophet Gad, David’s seer, saying,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "“Go and speak to David, ‘Yahweh says, “I offer you three things. Choose one of them, that I may do it to you.” ’ ” "
+		"value": "“Go and speak to David, ‘The LORD says, “I offer you three things. Choose one of them, that I may do it to you.” ’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -7859,7 +8216,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "So Gad came to David, and told him, and said to him, “Shall seven years of famine come to you in your land? Or will you flee three months before your foes while they pursue you? Or shall there be three days’ pestilence in your land? Now answer, and consider what answer I shall return to him who sent me.” "
+		"value": "So Gad came to David, and told him, saying, “Shall seven years of famine come to you in your land? Or will you flee three months before your foes while they pursue you? Or shall there be three days’ pestilence in your land? Now answer, and consider what answer I shall return to him who sent me.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7872,7 +8229,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "David said to Gad, “I am in distress. Let us fall now into Yahweh’s hand; for his mercies are great. Let me not fall into man’s hand.” "
+		"value": "David said to Gad, “I am in distress. Let us fall now into the LORD’s hand, for his mercies are great. Let me not fall into man’s hand.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7885,14 +8242,14 @@
 		"chapterNumber": 24,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "So Yahweh sent a pestilence on Israel from the morning even to the appointed time; and seventy thousand men died of the people from Dan even to Beersheba.  "
+		"value": "So the LORD sent a pestilence on Israel from the morning even to the appointed time; and seventy thousand men died of the people from Dan even to Beersheba.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "When the angel stretched out his hand toward Jerusalem to destroy it, Yahweh relented of the disaster, and said to the angel who destroyed the people, “It is enough. Now withdraw your hand.” Yahweh’s angel was by the threshing floor of Araunah the Jebusite. "
+		"value": "When the angel stretched out his hand towards Jerusalem to destroy it, the LORD relented of the disaster, and said to the angel who destroyed the people, “It is enough. Now withdraw your hand.” The LORD’s angel was by the threshing floor of Araunah the Jebusite. "
 	},
 	{
 		"type": "paragraph end"
@@ -7905,7 +8262,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "David spoke to Yahweh when he saw the angel who struck the people, and said, “Behold, I have sinned, and I have done perversely; but these sheep, what have they done? Please let your hand be against me, and against my father’s house.” "
+		"value": "David spoke to the LORD when he saw the angel who struck the people, and said, “Behold, I have sinned, and I have done perversely; but these sheep, what have they done? Please let your hand be against me, and against my father’s house.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7918,7 +8275,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Gad came that day to David, and said to him, “Go up, build an altar to Yahweh on the threshing floor of Araunah the Jebusite.” "
+		"value": "Gad came that day to David and said to him, “Go up, build an altar to the LORD on the threshing floor of Araunah the Jebusite.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7931,14 +8288,14 @@
 		"chapterNumber": 24,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "David went up according to the saying of Gad, as Yahweh commanded.  "
+		"value": "David went up according to the saying of Gad, as the LORD commanded.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Araunah looked out, and saw the king and his servants coming on toward him. Then Araunah went out, and bowed himself before the king with his face to the ground.  "
+		"value": "Araunah looked out, and saw the king and his servants coming on towards him. Then Araunah went out and bowed himself before the king with his face to the ground.  "
 	},
 	{
 		"type": "paragraph text",
@@ -7958,7 +8315,7 @@
 		"chapterNumber": 24,
 		"verseNumber": 21,
 		"sectionNumber": 2,
-		"value": "David said, “To buy your threshing floor, to build an altar to Yahweh, that the plague may be stopped from afflicting the people.” "
+		"value": "David said, “To buy your threshing floor, to build an altar to the LORD, that the plague may be stopped from afflicting the people.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7971,14 +8328,14 @@
 		"chapterNumber": 24,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Araunah said to David, “Let my lord the king take and offer up what seems good to him. Behold, the cattle for the burnt offering, and the threshing instruments and the yokes of the oxen for the wood.  "
+		"value": "Araunah said to David, “Let my lord the king take and offer up what seems good to him. Behold, the cattle for the burnt offering, and the threshing sledges and the yokes of the oxen for the wood.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "All this, O king, does Araunah give to the king.” Araunah said to the king, “May Yahweh your God accept you.” "
+		"value": "All this, O king, does Araunah give to the king.” Araunah said to the king, “May the LORD your God accept you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -7991,14 +8348,14 @@
 		"chapterNumber": 24,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "The king said to Araunah, “No; but I will most certainly buy it from you for a price. I will not offer burnt offerings to Yahweh my God which cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver.  "
+		"value": "The king said to Araunah, “No, but I will most certainly buy it from you for a price. I will not offer burnt offerings to the LORD my God which cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 24,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "David built an altar to Yahweh there, and offered burnt offerings and peace offerings. So Yahweh was entreated for the land, and the plague was removed from Israel. "
+		"value": "David built an altar to the LORD there, and offered burnt offerings and peace offerings. So the LORD was entreated for the land, and the plague was removed from Israel. "
 	},
 	{
 		"type": "paragraph end"

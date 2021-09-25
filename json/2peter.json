@@ -7,7 +7,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ:  "
+		"value": "Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of our God and Saviour, Jesus Christ:  "
 	},
 	{
 		"type": "paragraph text",
@@ -42,14 +42,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "and in knowledge, self-control; and in self-control perseverance; and in perseverance godliness;  "
+		"value": "and in knowledge, self-control; and in self-control, perseverance; and in perseverance, godliness;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "and in godliness brotherly affection; and in brotherly affection, love.  "
+		"value": "and in godliness, brotherly affection; and in brotherly affection, love.  "
 	},
 	{
 		"type": "paragraph text",
@@ -77,7 +77,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ. "
+		"value": "For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Saviour, Jesus Christ. "
 	},
 	{
 		"type": "paragraph end"
@@ -90,7 +90,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Therefore I will not be negligent to remind you of these things, though you know them, and are established in the present truth.  "
+		"value": "Therefore I will not be negligent to remind you of these things, though you know them and are established in the present truth.  "
 	},
 	{
 		"type": "paragraph text",
@@ -111,7 +111,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Yes, I will make every effort that you may always be able to remember these things even after my departure.  "
+		"value": "Yes, I will make every effort that you may always be able to remember these things even after my departure. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -125,7 +131,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "For he received from God the Father honor and glory when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.”  "
+		"value": "For he received from God the Father honour and glory when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -145,7 +151,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "We have the more sure word of prophecy; and you do well that you heed it, as to a lamp shining in a dark place, until the day dawns, and the morning star arises in your hearts:  "
+		"value": "We have the more sure word of prophecy; and you do well that you heed it as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts,  "
 	},
 	{
 		"type": "paragraph text",
@@ -159,7 +165,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "For no prophecy ever came by the will of man: but holy men of God spoke, being moved by the Holy Spirit. "
+		"value": "For no prophecy ever came by the will of man, but holy men of God spoke, being moved by the Holy Spirit. "
 	},
 	{
 		"type": "paragraph end"
@@ -172,7 +178,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction.  "
+		"value": "But false prophets also arose amongst the people, as false teachers will also be amongst you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction.  "
 	},
 	{
 		"type": "paragraph text",
@@ -186,28 +192,34 @@
 		"chapterNumber": 2,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber.  "
+		"value": "In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "For if God didn’t spare angels when they sinned, but cast them down to Tartarus, and committed them to pits of darkness to be reserved for judgment;  "
+		"value": "For if God didn’t spare angels when they sinned, but cast them down to Tartarus, and committed them to pits of darkness to be reserved for judgement;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "and didn’t spare the ancient world, but preserved Noah with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly;  "
+		"value": "and didn’t spare the ancient world, but preserved Noah with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, having made them an example to those who would live in an ungodly way;  "
+		"value": "and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, having made them an example to those who would live in an ungodly way,  "
 	},
 	{
 		"type": "paragraph text",
@@ -221,28 +233,28 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "(for that righteous man dwelling among them was tormented in his righteous soul from day to day with seeing and hearing lawless deeds):  "
+		"value": "(for that righteous man dwelling amongst them was tormented in his righteous soul from day to day with seeing and hearing lawless deeds),  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment,  "
+		"value": "then the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgement,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "but chiefly those who walk after the flesh in the lust of defilement and despise authority. Daring, self-willed, they are not afraid to speak evil of dignitaries;  "
+		"value": "but chiefly those who walk after the flesh in the lust of defilement and despise authority. Daring, self-willed, they are not afraid to speak evil of dignitaries,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "whereas angels, though greater in might and power, don’t bring a railing judgment against them before the Lord.  "
+		"value": "whereas angels, though greater in might and power, don’t bring a slanderous judgement against them before the Lord.  "
 	},
 	{
 		"type": "paragraph text",
@@ -256,35 +268,41 @@
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "receiving the wages of unrighteousness; people who count it pleasure to revel in the daytime, spots and defects, reveling in their deceit while they feast with you;  "
+		"value": "receiving the wages of unrighteousness; people who count it pleasure to revel in the daytime, spots and defects, revelling in their deceit while they feast with you;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "having eyes full of adultery, and who can’t cease from sin; enticing unsettled souls; having a heart trained in greed; children of cursing;  "
+		"value": "having eyes full of adultery, and who can’t cease from sin, enticing unsettled souls, having a heart trained in greed, accursed children!  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the wages of wrongdoing;  "
+		"value": "Forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the wages of wrongdoing;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "but he was rebuked for his own disobedience. A mute donkey spoke with a man’s voice and stopped the madness of the prophet.  "
+		"value": "but he was rebuked for his own disobedience. A speechless donkey spoke with a man’s voice and stopped the madness of the prophet. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "These are wells without water, clouds driven by a storm; for whom the blackness of darkness has been reserved forever.  "
+		"value": "These are wells without water, clouds driven by a storm, for whom the blackness of darkness has been reserved forever.  "
 	},
 	{
 		"type": "paragraph text",
@@ -311,7 +329,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "For if, after they have escaped the defilement of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in it and overcome, the last state has become worse for them than the first.  "
+		"value": "For if, after they have escaped the defilement of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled in it and overcome, the last state has become worse for them than the first.  "
 	},
 	{
 		"type": "paragraph text",
@@ -338,14 +356,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you,  "
+		"value": "This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "that you should remember the words which were spoken before by the holy prophets, and the commandment of us, the apostles of the Lord and Savior:  "
+		"value": "that you should remember the words which were spoken before by the holy prophets and the commandment of us, the apostles of the Lord and Saviour,  "
 	},
 	{
 		"type": "paragraph text",
@@ -366,7 +384,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "For this they willfully forget that there were heavens from of old, and an earth formed out of water and amid water by the word of God,  "
+		"value": "For they wilfully forget that there were heavens from of old, and an earth formed out of water and amid water by the word of God,  "
 	},
 	{
 		"type": "paragraph text",
@@ -380,7 +398,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But the heavens that exist now and the earth, by the same word have been stored up for fire, being reserved against the day of judgment and destruction of ungodly men. "
+		"value": "But the heavens that exist now and the earth, by the same word have been stored up for fire, being reserved against the day of judgement and destruction of ungodly men. "
 	},
 	{
 		"type": "paragraph end"
@@ -407,14 +425,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "But the day of the Lord will come as a thief in the night; in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat, and the earth and the works that are in it will be burned up.  "
+		"value": "But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat; and the earth and the works that are in it will be burnt up.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Therefore since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness,  "
+		"value": "Therefore, since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness,  "
 	},
 	{
 		"type": "paragraph text",
@@ -469,7 +487,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen. "
+		"value": "But grow in the grace and knowledge of our Lord and Saviour Jesus Christ. To him be the glory both now and forever. Amen. "
 	},
 	{
 		"type": "paragraph end"

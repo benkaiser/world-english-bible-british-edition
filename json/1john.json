@@ -21,7 +21,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father, and with his Son, Jesus Christ.  "
+		"value": "that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father and with his Son, Jesus Christ.  "
 	},
 	{
 		"type": "paragraph text",
@@ -48,14 +48,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "If we say that we have fellowship with him and walk in the darkness, we lie, and don’t tell the truth.  "
+		"value": "If we say that we have fellowship with him and walk in the darkness, we lie and don’t tell the truth.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ, his Son, cleanses us from all sin.  "
+		"value": "But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son, cleanses us from all sin.  "
 	},
 	{
 		"type": "paragraph text",
@@ -69,7 +69,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.  "
+		"value": "If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness.  "
 	},
 	{
 		"type": "paragraph text",
@@ -89,7 +89,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous.  "
+		"value": "My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counsellor with the Father, Jesus Christ, the righteous.  "
 	},
 	{
 		"type": "paragraph text",
@@ -144,7 +144,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Again, I write a new commandment to you, which is true in him and in you; because the darkness is passing away and the true light already shines.  "
+		"value": "Again, I write a new commandment to you, which is true in him and in you, because the darkness is passing away and the true light already shines.  "
 	},
 	{
 		"type": "paragraph text",
@@ -263,7 +263,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "For all that is in the world, the lust of the flesh, the lust of the eyes, and the pride of life, isn’t the Father’s, but is the world’s.  "
+		"value": "For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—isn’t the Father’s, but is the world’s.  "
 	},
 	{
 		"type": "paragraph text",
@@ -297,7 +297,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "You have an anointing from the Holy One, and you all have knowledge.   "
+		"value": "You have an anointing from the Holy One, and you all have knowledge.  "
 	},
 	{
 		"type": "paragraph text",
@@ -338,7 +338,13 @@
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "This is the promise which he promised us, the eternal life.  "
+		"value": "This is the promise which he promised us, the eternal life. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -352,14 +358,20 @@
 		"chapterNumber": 2,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "As for you, the anointing which you received from him remains in you, and you don’t need for anyone to teach you. But as his anointing teaches you concerning all things, and is true, and is no lie, and even as it taught you, you will remain in him.  "
+		"value": "As for you, the anointing which you received from him remains in you, and you don’t need for anyone to teach you. But as his anointing teaches you concerning all things, and is true, and is no lie, and even as it taught you, you will remain in him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Now, little children, remain in him, that when he appears, we may have boldness, and not be ashamed before him at his coming.  "
+		"value": "Now, little children, remain in him, that when he appears, we may have boldness and not be ashamed before him at his coming.  "
 	},
 	{
 		"type": "paragraph text",
@@ -386,14 +398,20 @@
 		"chapterNumber": 3,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him; for we will see him just as he is.  "
+		"value": "Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him, for we will see him just as he is.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Everyone who has this hope set on him purifies himself, even as he is pure.  "
+		"value": "Everyone who has this hope set on him purifies himself, even as he is pure. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -455,14 +473,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "For this is the message which you heard from the beginning, that we should love one another;  "
+		"value": "For this is the message which you heard from the beginning, that we should love one another—  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "unlike Cain, who was of the evil one, and killed his brother. Why did he kill him? Because his deeds were evil, and his brother’s righteous. "
+		"value": "unlike Cain, who was of the evil one and killed his brother. Why did he kill him? Because his deeds were evil, and his brother’s righteous. "
 	},
 	{
 		"type": "paragraph end"
@@ -509,7 +527,13 @@
 		"chapterNumber": 3,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him?  "
+		"value": "But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him? "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -523,7 +547,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "And by this we know that we are of the truth, and persuade our hearts before him,  "
+		"value": "And by this we know that we are of the truth and persuade our hearts before him,  "
 	},
 	{
 		"type": "paragraph text",
@@ -537,7 +561,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Beloved, if our hearts don’t condemn us, we have boldness toward God;  "
+		"value": "Beloved, if our hearts don’t condemn us, we have boldness towards God;  "
 	},
 	{
 		"type": "paragraph text",
@@ -585,14 +609,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God, and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.  "
+		"value": "and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God; and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world.  "
+		"value": "You are of God, little children, and have overcome them, because greater is he who is in you than he who is in the world.  "
 	},
 	{
 		"type": "paragraph text",
@@ -619,7 +643,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Beloved, let’s love one another, for love is of God; and everyone who loves has been born of God, and knows God.  "
+		"value": "Beloved, let’s love one another, for love is of God; and everyone who loves has been born of God and knows God.  "
 	},
 	{
 		"type": "paragraph text",
@@ -633,7 +657,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him.  "
+		"value": "By this God’s love was revealed in us, that God has sent his only born Son into the world that we might live through him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -674,7 +698,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "We have seen and testify that the Father has sent the Son as the Savior of the world.  "
+		"value": "We have seen and testify that the Father has sent the Son as the Saviour of the world.  "
 	},
 	{
 		"type": "paragraph text",
@@ -695,7 +719,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "In this love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so we are in this world.  "
+		"value": "In this, love has been made perfect amongst us, that we may have boldness in the day of judgement, because as he is, even so we are in this world.  "
 	},
 	{
 		"type": "paragraph text",
@@ -764,7 +788,13 @@
 		"chapterNumber": 5,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?  "
+		"value": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God? "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -806,7 +836,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "The testimony is this, that God gave to us eternal life, and this life is in his Son.  "
+		"value": "The testimony is this: that God gave to us eternal life, and this life is in his Son.  "
 	},
 	{
 		"type": "paragraph text",
@@ -839,7 +869,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "This is the boldness which we have toward him, that if we ask anything according to his will, he listens to us.  "
+		"value": "This is the boldness which we have towards him, that if we ask anything according to his will, he listens to us.  "
 	},
 	{
 		"type": "paragraph text",
@@ -859,14 +889,14 @@
 		"chapterNumber": 5,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "If anyone sees his brother sinning a sin not leading to death, he shall ask, and God will give him life for those who sin not leading to death. There is a sin leading to death. I don’t say that he should make a request concerning this.  "
+		"value": "If anyone sees his brother sinning a sin not leading to death, he shall ask, and God will give him life for those who sin not leading to death. There is sin leading to death. I don’t say that he should make a request concerning this.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 5,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "All unrighteousness is sin, and there is a sin not leading to death. "
+		"value": "All unrighteousness is sin, and there is sin not leading to death. "
 	},
 	{
 		"type": "paragraph end"
@@ -893,7 +923,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "We know that the Son of God has come, and has given us an understanding, that we know him who is true, and we are in him who is true, in his Son Jesus Christ. This is the true God and eternal life. "
+		"value": "We know that the Son of God has come and has given us an understanding, that we know him who is true; and we are in him who is true, in his Son Jesus Christ. This is the true God and eternal life. "
 	},
 	{
 		"type": "paragraph end"

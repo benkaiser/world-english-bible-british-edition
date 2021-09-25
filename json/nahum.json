@@ -14,21 +14,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "Yahweh is a jealous God and avenges. Yahweh avenges and is full of wrath. Yahweh takes vengeance on his adversaries, and he maintains wrath against his enemies.  "
+		"value": "The LORD is a jealous God and avenges. The LORD avenges and is full of wrath. The LORD takes vengeance on his adversaries, and he maintains wrath against his enemies.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Yahweh is slow to anger, and great in power, and will by no means leave the guilty unpunished. Yahweh has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.  "
+		"value": "The LORD is slow to anger, and great in power, and will by no means leave the guilty unpunished. The LORD has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "He rebukes the sea, and makes it dry, and dries up all the rivers. Bashan languishes, and Carmel; and the flower of Lebanon languishes.  "
+		"value": "He rebukes the sea and makes it dry, and dries up all the rivers. Bashan and Carmel languish. The flower of Lebanon languishes.  "
 	},
 	{
 		"type": "paragraph text",
@@ -49,7 +49,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Yahweh is good, a stronghold in the day of trouble; and he knows those who take refuge in him.  "
+		"value": "The LORD is good, a stronghold in the day of trouble; and he knows those who take refuge in him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -63,7 +63,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "What do you plot against Yahweh? He will make a full end. Affliction won’t rise up the second time.  "
+		"value": "What do you plot against the LORD? He will make a full end. Affliction won’t rise up the second time.  "
 	},
 	{
 		"type": "paragraph text",
@@ -77,28 +77,40 @@
 		"chapterNumber": 1,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "There is one gone out of you, who devises evil against Yahweh, who counsels wickedness.  "
+		"value": "One has gone out of you who devises evil against the LORD, who counsels wickedness. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "Yahweh says: “Though they be in full strength, and likewise many, even so they will be cut down, and he shall pass away. Though I have afflicted you, I will afflict you no more.  "
+		"value": "The LORD says: “Though they are in full strength and likewise many, even so they will be cut down and pass away. Though I have afflicted you, I will afflict you no more.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Now I will break his yoke from off you, and will burst your bonds apart.”  "
+		"value": "Now I will break his yoke from off you, and will burst your bonds apart.” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Yahweh has commanded concerning you: “No more descendants will bear your name. Out of the house of your gods, I will cut off the engraved image and the molten image. I will make your grave, for you are vile.” "
+		"value": "The LORD has commanded concerning you: “No more descendants will bear your name. Out of the house of your gods, I will cut off the engraved image and the molten image. I will make your grave, for you are vile.” "
 	},
 	{
 		"type": "paragraph end"
@@ -124,14 +136,26 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily!  "
+		"value": "He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily! "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "For Yahweh restores the excellency of Jacob, as the excellency of Israel; for the destroyers have destroyed them, and ruined their vine branches.  "
+		"value": "For the LORD restores the excellency of Jacob as the excellency of Israel, for the destroyers have destroyed them and ruined their vine branches. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -180,7 +204,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Take the plunder of silver. Take the plunder of gold, for there is no end of the store, the glory of all goodly furniture.  "
+		"value": "Take the plunder of silver. Take the plunder of gold, for there is no end of treasure, an abundance of every precious thing.  "
 	},
 	{
 		"type": "paragraph text",
@@ -194,21 +218,21 @@
 		"chapterNumber": 2,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "Where is the den of the lions, and the feeding place of the young lions, where the lion and the lioness walked, the lion’s cubs, and no one made them afraid?  "
+		"value": "Where is the den of the lions, and the feeding place of the young lions, where the lion and the lioness walked with the lion’s cubs, and no one made them afraid?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "The lion tore in pieces enough for his cubs, and strangled for his lionesses, and filled his caves with the kill, and his dens with prey.  "
+		"value": "The lion tore in pieces enough for his cubs, and strangled prey for his lionesses, and filled his caves with the kill and his dens with prey.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "“Behold, I am against you,” says Yahweh of Armies, “and I will burn her chariots in the smoke, and the sword will devour your young lions; and I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.” "
+		"value": "“Behold, I am against you,” says the LORD of Armies, “and I will burn her chariots in the smoke, and the sword will devour your young lions; and I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.” "
 	},
 	{
 		"type": "paragraph end"
@@ -221,7 +245,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Woe to the bloody city! It is all full of lies and robbery. The prey doesn’t depart.  "
+		"value": "Woe to the bloody city! It is all full of lies and robbery—no end to the prey.  "
 	},
 	{
 		"type": "paragraph text",
@@ -235,7 +259,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "the horseman mounting, and the flashing sword, the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies. They stumble on their bodies,  "
+		"value": "the horseman charging, and the flashing sword, the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies. They stumble on their bodies  "
 	},
 	{
 		"type": "paragraph text",
@@ -249,14 +273,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "“Behold, I am against you,” says Yahweh of Armies, “and I will lift your skirts over your face. I will show the nations your nakedness, and the kingdoms your shame.  "
+		"value": "“Behold, I am against you,” says the LORD of Armies, “and I will lift your skirts over your face. I will show the nations your nakedness, and the kingdoms your shame.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "I will throw abominable filth on you, and make you vile, and will set you a spectacle.  "
+		"value": "I will throw abominable filth on you and make you vile, and will make you a spectacle.  "
 	},
 	{
 		"type": "paragraph text",
@@ -276,7 +300,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Are you better than No-Amon, who was situated among the rivers, who had the waters around her; whose rampart was the sea, and her wall was of the sea?  "
+		"value": "Are you better than No-Amon, who was situated amongst the rivers, who had the waters around her, whose rampart was the sea, and her wall was of the sea?  "
 	},
 	{
 		"type": "paragraph text",
@@ -290,7 +314,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Yet was she carried away. She went into captivity. Her young children also were dashed in pieces at the head of all the streets, and they cast lots for her honorable men, and all her great men were bound in chains.  "
+		"value": "Yet was she carried away. She went into captivity. Her young children also were dashed in pieces at the head of all the streets, and they cast lots for her honourable men, and all her great men were bound in chains.  "
 	},
 	{
 		"type": "paragraph text",
@@ -304,14 +328,20 @@
 		"chapterNumber": 3,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "All your fortresses will be like fig trees with the first-ripe figs: if they are shaken, they fall into the mouth of the eater.  "
+		"value": "All your fortresses will be like fig trees with the first-ripe figs. If they are shaken, they fall into the mouth of the eater.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "Behold, your troops among you are women. The gates of your land are set wide open to your enemies. The fire has devoured your bars.  "
+		"value": "Behold, your troops amongst you are women. The gates of your land are set wide open to your enemies. The fire has devoured your bars. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -332,14 +362,20 @@
 		"chapterNumber": 3,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "You have increased your merchants more than the stars of the skies. The grasshopper strips, and flees away.  "
+		"value": "You have increased your merchants more than the stars of the skies. The grasshopper strips and flees away.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Your guards are like the locusts, and your officials like the swarms of locusts, which settle on the walls on a cold day, but when the sun appears, they flee away, and their place is not known where they are.  "
+		"value": "Your guards are like the locusts, and your officials like the swarms of locusts, which settle on the walls on a cold day, but when the sun appears, they flee away, and their place is not known where they are. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -353,7 +389,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "There is no healing your wound, for your injury is fatal. All who hear the report of you clap their hands over you; for who hasn’t felt your endless cruelty? "
+		"value": "There is no healing your wound, for your injury is fatal. All who hear the report of you clap their hands over you, for who hasn’t felt your endless cruelty? "
 	},
 	{
 		"type": "paragraph end"

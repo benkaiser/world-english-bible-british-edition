@@ -7,7 +7,13 @@
 		"chapterNumber": 1,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "The beginning of the Good News of Jesus Christ, the Son of God.  "
+		"value": "The beginning of the Good News of Jesus Christ, the Son of God. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -83,14 +89,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "John came baptizing in the wilderness and preaching the baptism of repentance for forgiveness of sins.  "
+		"value": "John came baptising in the wilderness and preaching the baptism of repentance for forgiveness of sins.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "All the country of Judea and all those of Jerusalem went out to him. They were baptized by him in the Jordan river, confessing their sins.  "
+		"value": "All the country of Judea and all those of Jerusalem went out to him. They were baptised by him in the Jordan river, confessing their sins.  "
 	},
 	{
 		"type": "paragraph text",
@@ -111,7 +117,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "I baptized you in water, but he will baptize you in the Holy Spirit.” "
+		"value": "I baptised you in water, but he will baptise you in the Holy Spirit.” "
 	},
 	{
 		"type": "paragraph end"
@@ -124,14 +130,14 @@
 		"chapterNumber": 1,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "In those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan.  "
+		"value": "In those days, Jesus came from Nazareth of Galilee, and was baptised by John in the Jordan.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Immediately coming up from the water, he saw the heavens parting, and the Spirit descending on him like a dove.  "
+		"value": "Immediately coming up from the water, he saw the heavens parting and the Spirit descending on him like a dove.  "
 	},
 	{
 		"type": "paragraph text",
@@ -158,7 +164,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "He was there in the wilderness forty days tempted by Satan. He was with the wild animals; and the angels were serving him. "
+		"value": "He was there in the wilderness forty days, tempted by Satan. He was with the wild animals; and the angels were serving him. "
 	},
 	{
 		"type": "paragraph end"
@@ -211,21 +217,33 @@
 		"chapterNumber": 1,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "Immediately they left their nets, and followed him.  "
+		"value": "Immediately they left their nets, and followed him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Going on a little further from there, he saw James the son of Zebedee, and John, his brother, who were also in the boat mending the nets.  "
+		"value": "Going on a little further from there, he saw James the son of Zebedee, and John his brother, who were also in the boat mending the nets.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him.  "
+		"value": "Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -286,7 +304,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "They were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching? For with authority he commands even the unclean spirits, and they obey him!”  "
+		"value": "They were all amazed, so that they questioned amongst themselves, saying, “What is this? A new teaching? For with authority he commands even the unclean spirits, and they obey him!”  "
 	},
 	{
 		"type": "paragraph text",
@@ -320,14 +338,20 @@
 		"chapterNumber": 1,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "He came and took her by the hand, and raised her up. The fever left her immediately, and she served them.  "
+		"value": "He came and took her by the hand and raised her up. The fever left her immediately, and she served them. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "At evening, when the sun had set, they brought to him all who were sick, and those who were possessed by demons.  "
+		"value": "At evening, when the sun had set, they brought to him all who were sick and those who were possessed by demons.  "
 	},
 	{
 		"type": "paragraph text",
@@ -341,7 +365,7 @@
 		"chapterNumber": 1,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "He healed many who were sick with various diseases, and cast out many demons. He didn’t allow the demons to speak, because they knew him. "
+		"value": "He healed many who were sick with various diseases and cast out many demons. He didn’t allow the demons to speak, because they knew him. "
 	},
 	{
 		"type": "paragraph end"
@@ -421,21 +445,21 @@
 		"chapterNumber": 1,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "When he had said this, immediately the leprosy departed from him, and he was made clean.  "
+		"value": "When he had said this, immediately the leprosy departed from him and he was made clean.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 43,
 		"sectionNumber": 1,
-		"value": "He strictly warned him, and immediately sent him out,  "
+		"value": "He strictly warned him and immediately sent him out,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": "and said to him, “See you say nothing to anybody, but go show yourself to the priest, and offer for your cleansing the things which Moses commanded, for a testimony to them.” "
+		"value": "and said to him, “See that you say nothing to anybody, but go show yourself to the priest and offer for your cleansing the things which Moses commanded, for a testimony to them.” "
 	},
 	{
 		"type": "paragraph end"
@@ -461,7 +485,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "When he entered again into Capernaum after some days, it was heard that he was in the house.  "
+		"value": "When he entered again into Capernaum after some days, it was heard that he was at home.  "
 	},
 	{
 		"type": "paragraph text",
@@ -502,7 +526,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "But there were some of the scribes sitting there, and reasoning in their hearts,  "
+		"value": "But there were some of the scribes sitting there and reasoning in their hearts,  "
 	},
 	{
 		"type": "paragraph text",
@@ -556,7 +580,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "He arose, and immediately took up the mat, and went out in front of them all; so that they were all amazed, and glorified God, saying, “We never saw anything like this!” "
+		"value": "He arose, and immediately took up the mat and went out in front of them all, so that they were all amazed and glorified God, saying, “We never saw anything like this!” "
 	},
 	{
 		"type": "paragraph end"
@@ -576,7 +600,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "As he passed by, he saw Levi, the son of Alphaeus, sitting at the tax office, and he said to him, “Follow me.” And he arose and followed him. "
+		"value": "As he passed by, he saw Levi the son of Alphaeus sitting at the tax office. He said to him, “Follow me.” And he arose and followed him. "
 	},
 	{
 		"type": "paragraph end"
@@ -656,7 +680,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": " No one puts new wine into old wineskins, or else the new wine will burst the skins, and the wine pours out, and the skins will be destroyed; but they put new wine into fresh wineskins.” "
+		"value": " No one puts new wine into old wineskins; or else the new wine will burst the skins, and the wine pours out, and the skins will be destroyed; but they put new wine into fresh wineskins.” "
 	},
 	{
 		"type": "paragraph end"
@@ -669,7 +693,7 @@
 		"chapterNumber": 2,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "He was going on the Sabbath day through the grain fields, and his disciples began, as they went, to pluck the ears of grain.  "
+		"value": "He was going on the Sabbath day through the grain fields; and his disciples began, as they went, to pluck the ears of grain.  "
 	},
 	{
 		"type": "paragraph text",
@@ -689,14 +713,20 @@
 		"chapterNumber": 2,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "He said to them, “Did you never read what David did, when he had need, and was hungry—he, and those who were with him?   "
+		"value": "He said to them, “Did you never read what David did when he had need and was hungry—he, and those who were with him?   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 2,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": " How he entered into God’s house at the time of Abiathar the high priest, and ate the show bread, which is not lawful to eat except for the priests, and gave also to those who were with him?”  "
+		"value": " How he entered into God’s house at the time of Abiathar the high priest, and ate the show bread, which is not lawful to eat except for the priests, and gave also to those who were with him?” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -723,7 +753,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "He entered again into the synagogue, and there was a man there who had his hand withered.  "
+		"value": "He entered again into the synagogue, and there was a man there whose hand was withered.  "
 	},
 	{
 		"type": "paragraph text",
@@ -737,14 +767,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "He said to the man who had his hand withered, “Stand up.”  "
+		"value": "He said to the man whose hand was withered, “Stand up.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "He said to them, “Is it lawful on the Sabbath day to do good, or to do harm? To save a life, or to kill?” But they were silent.  "
+		"value": "He said to them, “Is it lawful on the Sabbath day to do good or to do harm? To save a life or to kill?” But they were silent.  "
 	},
 	{
 		"type": "paragraph text",
@@ -771,7 +801,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "Jesus withdrew to the sea with his disciples, and a great multitude followed him from Galilee, from Judea,  "
+		"value": "Jesus withdrew to the sea with his disciples; and a great multitude followed him from Galilee, from Judea,  "
 	},
 	{
 		"type": "paragraph text",
@@ -799,7 +829,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "The unclean spirits, whenever they saw him, fell down before him, and cried, “You are the Son of God!”  "
+		"value": "The unclean spirits, whenever they saw him, fell down before him and cried, “You are the Son of God!”  "
 	},
 	{
 		"type": "paragraph text",
@@ -819,14 +849,14 @@
 		"chapterNumber": 3,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "He went up into the mountain, and called to himself those whom he wanted, and they went to him.  "
+		"value": "He went up into the mountain and called to himself those whom he wanted, and they went to him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "He appointed twelve, that they might be with him, and that he might send them out to preach,  "
+		"value": "He appointed twelve, that they might be with him, and that he might send them out to preach  "
 	},
 	{
 		"type": "paragraph text",
@@ -908,7 +938,7 @@
 		"chapterNumber": 3,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "He summoned them, and said to them in parables, “How can Satan cast out Satan?   "
+		"value": "He summoned them and said to them in parables, “How can Satan cast out Satan?   "
 	},
 	{
 		"type": "paragraph text",
@@ -936,14 +966,20 @@
 		"chapterNumber": 3,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": " But no one can enter into the house of the strong man to plunder unless he first binds the strong man; then he will plunder his house.   "
+		"value": " But no one can enter into the house of the strong man to plunder unless he first binds the strong man; then he will plunder his house.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 3,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": " Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;   "
+		"value": " “Most certainly I tell you, all sins of the descendants of man will be forgiven, including their blasphemies with which they may blaspheme;   "
 	},
 	{
 		"type": "paragraph text",
@@ -1017,7 +1053,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea, and sat down. All the multitude were on the land by the sea.  "
+		"value": "Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea and sat down. All the multitude were on the land by the sea.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1031,14 +1067,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": " “Listen! Behold, the farmer went out to sow,   "
+		"value": " “Listen! Behold, the farmer went out to sow.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": " and as he sowed, some seed fell by the road, and the birds came and devoured it.   "
+		"value": " As he sowed, some seed fell by the road, and the birds came and devoured it.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1059,14 +1095,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": " Others fell among the thorns, and the thorns grew up, and choked it, and it yielded no fruit.   "
+		"value": " Others fell amongst the thorns, and the thorns grew up and choked it, and it yielded no fruit.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": " Others fell into the good ground, and yielded fruit, growing up and increasing. Some produced thirty times, some sixty times, and some one hundred times as much.”  "
+		"value": " Others fell into the good ground and yielded fruit, growing up and increasing. Some produced thirty times, some sixty times, and some one hundred times as much.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1100,7 +1136,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": " that ‘seeing they may see, and not perceive; and hearing they may hear, and not understand; lest perhaps they should turn again, and their sins should be forgiven them.’ ” "
+		"value": " that ‘seeing they may see and not perceive, and hearing they may hear and not understand, lest perhaps they should turn again, and their sins should be forgiven them.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -1127,7 +1163,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": " The ones by the road are the ones where the word is sown; and when they have heard, immediately Satan comes, and takes away the word which has been sown in them.   "
+		"value": " The ones by the road are the ones where the word is sown; and when they have heard, immediately Satan comes and takes away the word which has been sown in them.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1148,7 +1184,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": " Others are those who are sown among the thorns. These are those who have heard the word,   "
+		"value": " Others are those who are sown amongst the thorns. These are those who have heard the word,   "
 	},
 	{
 		"type": "paragraph text",
@@ -1162,7 +1198,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": " Those which were sown on the good ground are those who hear the word, and accept it, and bear fruit, some thirty times, some sixty times, and some one hundred times.” "
+		"value": " Those which were sown on the good ground are those who hear the word, accept it, and bear fruit, some thirty times, some sixty times, and some one hundred times.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1175,14 +1211,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "He said to them, “Is the lamp brought to be put under a basket  or under a bed? Isn’t it put on a stand?   "
+		"value": "He said to them, “Is a lamp brought to be put under a basket  or under a bed? Isn’t it put on a stand?   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": " For there is nothing hidden, except that it should be made known; neither was anything made secret, but that it should come to light.   "
+		"value": " For there is nothing hidden except that it should be made known, neither was anything made secret but that it should come to light.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1202,14 +1238,14 @@
 		"chapterNumber": 4,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "He said to them, “Take heed what you hear. With whatever measure you measure, it will be measured to you, and more will be given to you who hear.   "
+		"value": "He said to them, “Take heed what you hear. With whatever measure you measure, it will be measured to you; and more will be given to you who hear.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 4,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": " For whoever has, to him more will be given, and he who doesn’t have, even that which he has will be taken away from him.” "
+		"value": " For whoever has, to him more will be given; and he who doesn’t have, even that which he has will be taken away from him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1236,7 +1272,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": " For the earth bears fruit: first the blade, then the ear, then the full grain in the ear.   "
+		"value": " For the earth bears fruit by itself: first the blade, then the ear, then the full grain in the ear.   "
 	},
 	{
 		"type": "paragraph text",
@@ -1270,7 +1306,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": " yet when it is sown, grows up, and becomes greater than all the herbs, and puts out great branches, so that the birds of the sky can lodge under its shadow.” "
+		"value": " yet when it is sown, grows up and becomes greater than all the herbs, and puts out great branches, so that the birds of the sky can lodge under its shadow.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1324,7 +1360,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "He himself was in the stern, asleep on the cushion, and they woke him up, and told him, “Teacher, don’t you care that we are dying?” "
+		"value": "He himself was in the stern, asleep on the cushion; and they woke him up and asked him, “Teacher, don’t you care that we are dying?” "
 	},
 	{
 		"type": "paragraph end"
@@ -1337,7 +1373,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "He awoke, and rebuked the wind, and said to the sea, “Peace! Be still!” The wind ceased, and there was a great calm.  "
+		"value": "He awoke and rebuked the wind, and said to the sea, “Peace! Be still!” The wind ceased and there was a great calm.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1357,7 +1393,7 @@
 		"chapterNumber": 4,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "They were greatly afraid, and said to one another, “Who then is this, that even the wind and the sea obey him?” "
+		"value": "They were greatly afraid and said to one another, “Who then is this, that even the wind and the sea obey him?” "
 	},
 	{
 		"type": "paragraph end"
@@ -1486,7 +1522,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Those who fed them fled, and told it in the city and in the country. "
+		"value": "Those who fed the pigs fled, and told it in the city and in the country. "
 	},
 	{
 		"type": "paragraph end"
@@ -1540,7 +1576,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "He didn’t allow him, but said to him, “Go to your house, to your friends, and tell them what great things the Lord has done for you, and how he had mercy on you.” "
+		"value": "He didn’t allow him, but said to him, “Go to your house, to your friends, and tell them what great things the Lord has done for you and how he had mercy on you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1553,7 +1589,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "He went his way, and began to proclaim in Decapolis how Jesus had done great things for him, and everyone marveled. "
+		"value": "He went his way, and began to proclaim in Decapolis how Jesus had done great things for him, and everyone marvelled. "
 	},
 	{
 		"type": "paragraph end"
@@ -1573,7 +1609,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Behold, one of the rulers of the synagogue, Jairus by name, came; and seeing him, he fell at his feet,  "
+		"value": "Behold, one of the rulers of the synagogue, Jairus by name, came; and seeing him, he fell at his feet  "
 	},
 	{
 		"type": "paragraph text",
@@ -1600,7 +1636,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "A certain woman, who had a discharge of blood for twelve years,  "
+		"value": "A certain woman who had a discharge of blood for twelve years,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1614,7 +1650,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "having heard the things concerning Jesus, came up behind him in the crowd, and touched his clothes.  "
+		"value": "having heard the things concerning Jesus, came up behind him in the crowd and touched his clothes.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1641,7 +1677,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "Immediately Jesus, perceiving in himself that the power had gone out from him, turned around in the crowd, and asked, “Who touched my clothes?” "
+		"value": "Immediately Jesus, perceiving in himself that the power had gone out from him, turned around in the crowd and asked, “Who touched my clothes?” "
 	},
 	{
 		"type": "paragraph end"
@@ -1700,7 +1736,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "While he was still speaking, people came from the synagogue ruler’s house saying, “Your daughter is dead. Why bother the Teacher any more?” "
+		"value": "While he was still speaking, people came from the synagogue ruler’s house, saying, “Your daughter is dead. Why bother the Teacher any more?” "
 	},
 	{
 		"type": "paragraph end"
@@ -1720,7 +1756,7 @@
 		"chapterNumber": 5,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "He allowed no one to follow him, except Peter, James, and John the brother of James.  "
+		"value": "He allowed no one to follow him except Peter, James, and John the brother of James.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1795,7 +1831,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "Isn’t this the carpenter, the son of Mary, and brother of James, Joses, Judah, and Simon? Aren’t his sisters here with us?” They were offended at him. "
+		"value": "Isn’t this the carpenter, the son of Mary and brother of James, Joses, Judah, and Simon? Aren’t his sisters here with us?” So they were offended at him. "
 	},
 	{
 		"type": "paragraph end"
@@ -1808,21 +1844,21 @@
 		"chapterNumber": 6,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Jesus said to them, “A prophet is not without honor, except in his own country, and among his own relatives, and in his own house.”  "
+		"value": "Jesus said to them, “A prophet is not without honour, except in his own country, and amongst his own relatives, and in his own house.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "He could do no mighty work there, except that he laid his hands on a few sick people, and healed them.  "
+		"value": "He could do no mighty work there, except that he laid his hands on a few sick people and healed them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "He marveled because of their unbelief. "
+		"value": "He marvelled because of their unbelief. "
 	},
 	{
 		"type": "paragraph end"
@@ -1870,7 +1906,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": " Whoever will not receive you nor hear you, as you depart from there, shake off the dust that is under your feet for a testimony against them. Assuredly, I tell you, it will be more tolerable for Sodom and Gomorrah in the day of judgment than for that city!” "
+		"value": " Whoever will not receive you nor hear you, as you depart from there, shake off the dust that is under your feet for a testimony against them. Assuredly, I tell you, it will be more tolerable for Sodom and Gomorrah in the day of judgement than for that city!” "
 	},
 	{
 		"type": "paragraph end"
@@ -1890,14 +1926,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "They cast out many demons, and anointed many with oil who were sick, and healed them.  "
+		"value": "They cast out many demons, and anointed many with oil who were sick and healed them.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "King Herod heard this, for his name had become known, and he said, “John the Baptizer has risen from the dead, and therefore these powers are at work in him.”  "
+		"value": "King Herod heard this, for his name had become known, and he said, “John the Baptiser has risen from the dead, and therefore these powers are at work in him.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -1918,21 +1954,21 @@
 		"chapterNumber": 6,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "For Herod himself had sent out and arrested John, and bound him in prison for the sake of Herodias, his brother Philip’s wife, for he had married her.  "
+		"value": "For Herod himself had sent out and arrested John and bound him in prison for the sake of Herodias, his brother Philip’s wife, for he had married her.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "For John said to Herod, “It is not lawful for you to have your brother’s wife.”  "
+		"value": "For John had said to Herod, “It is not lawful for you to have your brother’s wife.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "Herodias set herself against him, and desired to kill him, but she couldn’t,  "
+		"value": "Herodias set herself against him and desired to kill him, but she couldn’t,  "
 	},
 	{
 		"type": "paragraph text",
@@ -1952,7 +1988,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Then a convenient day came, that Herod on his birthday made a supper for his nobles, the high officers, and the chief men of Galilee.  "
+		"value": "Then a convenient day came when Herod on his birthday made a supper for his nobles, the high officers, and the chief men of Galilee.  "
 	},
 	{
 		"type": "paragraph text",
@@ -1966,7 +2002,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "He swore to her, “Whatever you shall ask of me, I will give you, up to half of my kingdom.” "
+		"value": "He swore to her, “Whatever you ask of me, I will give you, up to half of my kingdom.” "
 	},
 	{
 		"type": "paragraph end"
@@ -1979,7 +2015,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "She went out, and said to her mother, “What shall I ask?” "
+		"value": "She went out and said to her mother, “What shall I ask?” "
 	},
 	{
 		"type": "paragraph end"
@@ -1992,7 +2028,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 24,
 		"sectionNumber": 2,
-		"value": "She said, “The head of John the Baptizer.” "
+		"value": "She said, “The head of John the Baptiser.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2005,7 +2041,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "She came in immediately with haste to the king, and asked, “I want you to give me right now the head of John the Baptizer on a platter.” "
+		"value": "She came in immediately with haste to the king and requested, “I want you to give me right now the head of John the Baptiser on a platter.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2018,14 +2054,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "The king was exceedingly sorry, but for the sake of his oaths, and of his dinner guests, he didn’t wish to refuse her.  "
+		"value": "The king was exceedingly sorry, but for the sake of his oaths and of his dinner guests, he didn’t wish to refuse her.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "Immediately the king sent out a soldier of his guard, and commanded to bring John’s head, and he went and beheaded him in the prison,  "
+		"value": "Immediately the king sent out a soldier of his guard and commanded to bring John’s head; and he went and beheaded him in the prison,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2045,7 +2081,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "When his disciples heard this, they came and took up his corpse, and laid it in a tomb. "
+		"value": "When his disciples heard this, they came and took up his corpse and laid it in a tomb. "
 	},
 	{
 		"type": "paragraph end"
@@ -2065,7 +2101,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "He said to them, “You come apart into a deserted place, and rest awhile.” For there were many coming and going, and they had no leisure so much as to eat.  "
+		"value": "He said to them, “Come away into a deserted place, and rest awhile.” For there were many coming and going, and they had no leisure so much as to eat.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2079,28 +2115,28 @@
 		"chapterNumber": 6,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "They saw them going, and many recognized him and ran there on foot from all the cities. They arrived before them and came together to him.  "
+		"value": "They saw them going, and many recognised him and ran there on foot from all the cities. They arrived before them and came together to him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "Jesus came out, saw a great multitude, and he had compassion on them, because they were like sheep without a shepherd, and he began to teach them many things.  "
+		"value": "Jesus came out, saw a great multitude, and he had compassion on them because they were like sheep without a shepherd; and he began to teach them many things.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "When it was late in the day, his disciples came to him, and said, “This place is deserted, and it is late in the day.  "
+		"value": "When it was late in the day, his disciples came to him and said, “This place is deserted, and it is late in the day.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "Send them away, that they may go into the surrounding country and villages, and buy themselves bread, for they have nothing to eat.” "
+		"value": "Send them away, that they may go into the surrounding country and villages and buy themselves bread, for they have nothing to eat.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2126,7 +2162,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 37,
 		"sectionNumber": 2,
-		"value": "They asked him, “Shall we go and buy two hundred denarii worth of bread, and give them something to eat?” "
+		"value": "They asked him, “Shall we go and buy two hundred denarii worth of bread and give them something to eat?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2179,14 +2215,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "He took the five loaves and the two fish, and looking up to heaven, he blessed and broke the loaves, and he gave to his disciples to set before them, and he divided the two fish among them all.  "
+		"value": "He took the five loaves and the two fish; and looking up to heaven, he blessed and broke the loaves, and he gave to his disciples to set before them, and he divided the two fish amongst them all.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "They all ate, and were filled.  "
+		"value": "They all ate and were filled.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2213,7 +2249,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 45,
 		"sectionNumber": 1,
-		"value": "Immediately he made his disciples get into the boat, and to go ahead to the other side, to Bethsaida, while he himself sent the multitude away.  "
+		"value": "Immediately he made his disciples get into the boat and go ahead to the other side, to Bethsaida, while he himself sent the multitude away.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2240,7 +2276,7 @@
 		"chapterNumber": 6,
 		"verseNumber": 48,
 		"sectionNumber": 1,
-		"value": "Seeing them distressed in rowing, for the wind was contrary to them, about the fourth watch of the night he came to them, walking on the sea,  and he would have passed by them,  "
+		"value": "Seeing them distressed in rowing, for the wind was contrary to them, about the fourth watch of the night he came to them, walking on the sea;  and he would have passed by them,  "
 	},
 	{
 		"type": "paragraph text",
@@ -2254,14 +2290,14 @@
 		"chapterNumber": 6,
 		"verseNumber": 50,
 		"sectionNumber": 1,
-		"value": "for they all saw him, and were troubled. But he immediately spoke with them, and said to them, “Cheer up! It is I! Don’t be afraid.”  "
+		"value": "for they all saw him and were troubled. But he immediately spoke with them and said to them, “Cheer up! It is I! Don’t be afraid.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 51,
 		"sectionNumber": 1,
-		"value": "He got into the boat with them; and the wind ceased, and they were very amazed among themselves, and marveled;  "
+		"value": "He got into the boat with them; and the wind ceased, and they were very amazed amongst themselves, and marvelled;  "
 	},
 	{
 		"type": "paragraph text",
@@ -2281,28 +2317,28 @@
 		"chapterNumber": 6,
 		"verseNumber": 53,
 		"sectionNumber": 1,
-		"value": "When they had crossed over, they came to land at Gennesaret, and moored to the shore.  "
+		"value": "When they had crossed over, they came to land at Gennesaret and moored to the shore.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 54,
 		"sectionNumber": 1,
-		"value": "When they had come out of the boat, immediately the people recognized him,  "
+		"value": "When they had come out of the boat, immediately the people recognised him,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 55,
 		"sectionNumber": 1,
-		"value": "and ran around that whole region, and began to bring those who were sick, on their mats, to where they heard he was.  "
+		"value": "and ran around that whole region, and began to bring those who were sick on their mats to where they heard he was.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 6,
 		"verseNumber": 56,
 		"sectionNumber": 1,
-		"value": "Wherever he entered, into villages, or into cities, or into the country, they laid the sick in the marketplaces, and begged him that they might just touch the fringe of his garment; and as many as touched him were made well. "
+		"value": "Wherever he entered—into villages, or into cities, or into the country—they laid the sick in the marketplaces and begged him that they might just touch the fringe of his garment; and as many as touched him were made well. "
 	},
 	{
 		"type": "paragraph end"
@@ -2336,7 +2372,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "They don’t eat when they come from the marketplace unless they bathe themselves, and there are many other things, which they have received to hold to: washings of cups, pitchers, bronze vessels, and couches.)  "
+		"value": "They don’t eat when they come from the marketplace unless they bathe themselves, and there are many other things which they have received to hold to: washings of cups, pitchers, bronze vessels, and couches.)  "
 	},
 	{
 		"type": "paragraph text",
@@ -2369,7 +2405,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 6,
 		"sectionNumber": 2,
-		"value": "‘This people honors me with their lips, "
+		"value": "‘This people honours me with their lips, "
 	},
 	{
 		"type": "line break"
@@ -2389,7 +2425,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": " But they worship me in vain, "
+		"value": " They worship me in vain, "
 	},
 	{
 		"type": "line break"
@@ -2429,7 +2465,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": " For Moses said, ‘Honor your father and your mother;’ and, ‘He who speaks evil of father or mother, let him be put to death.’  "
+		"value": " For Moses said, ‘Honour your father and your mother;’ and, ‘He who speaks evil of father or mother, let him be put to death.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -2450,7 +2486,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": " making void the word of God by your tradition, which you have handed down. You do many things like this.” "
+		"value": " making void the word of God by your tradition which you have handed down. You do many things like this.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2463,14 +2499,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "He called all the multitude to himself, and said to them, “Hear me, all of you, and understand.   "
+		"value": "He called all the multitude to himself and said to them, “Hear me, all of you, and understand.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": " There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man.   "
+		"value": " There is nothing from outside of the man that going into him can defile him; but the things which proceed out of the man are those that defile the man.   "
 	},
 	{
 		"type": "paragraph text",
@@ -2532,7 +2568,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": " All these evil things come from within, and defile the man.”  "
+		"value": " All these evil things come from within and defile the man.”  "
 	},
 	{
 		"type": "paragraph end"
@@ -2545,14 +2581,14 @@
 		"chapterNumber": 7,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "From there he arose, and went away into the borders of Tyre and Sidon. He entered into a house, and didn’t want anyone to know it, but he couldn’t escape notice.  "
+		"value": "From there he arose and went away into the borders of Tyre and Sidon. He entered into a house and didn’t want anyone to know it, but he couldn’t escape notice.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 7,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "For a woman, whose little daughter had an unclean spirit, having heard of him, came and fell down at his feet.  "
+		"value": "For a woman whose little daughter had an unclean spirit, having heard of him, came and fell down at his feet.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2618,7 +2654,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Again he departed from the borders of Tyre and Sidon, and came to the sea of Galilee, through the middle of the region of Decapolis.  "
+		"value": "Again he departed from the borders of Tyre and Sidon, and came to the sea of Galilee through the middle of the region of Decapolis.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2632,7 +2668,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "He took him aside from the multitude, privately, and put his fingers into his ears, and he spat, and touched his tongue.  "
+		"value": "He took him aside from the multitude privately and put his fingers into his ears; and he spat and touched his tongue.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2660,7 +2696,7 @@
 		"chapterNumber": 7,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear, and the mute speak!” "
+		"value": "They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear and the mute speak!” "
 	},
 	{
 		"type": "paragraph end"
@@ -2673,14 +2709,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "In those days, when there was a very great multitude, and they had nothing to eat, Jesus called his disciples to himself, and said to them,  "
+		"value": "In those days, when there was a very great multitude, and they had nothing to eat, Jesus called his disciples to himself and said to them,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": " “I have compassion on the multitude, because they have stayed with me now three days, and have nothing to eat.   "
+		"value": " “I have compassion on the multitude, because they have stayed with me now three days and have nothing to eat.   "
 	},
 	{
 		"type": "paragraph text",
@@ -2739,21 +2775,21 @@
 		"chapterNumber": 8,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "He commanded the multitude to sit down on the ground, and he took the seven loaves. Having given thanks, he broke them, and gave them to his disciples to serve, and they served the multitude.  "
+		"value": "He commanded the multitude to sit down on the ground, and he took the seven loaves. Having given thanks, he broke them and gave them to his disciples to serve, and they served the multitude.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "They had a few small fish. Having blessed them, he said to serve these also.  "
+		"value": "They also had a few small fish. Having blessed them, he said to serve these also.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "They ate, and were filled. They took up seven baskets of broken pieces that were left over.  "
+		"value": "They ate and were filled. They took up seven baskets of broken pieces that were left over.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2773,21 +2809,21 @@
 		"chapterNumber": 8,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Immediately he entered into the boat with his disciples, and came into the region of Dalmanutha.  "
+		"value": "Immediately he entered into the boat with his disciples and came into the region of Dalmanutha.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "The Pharisees came out and began to question him, seeking from him a sign from heaven, and testing him.  "
+		"value": "The Pharisees came out and began to question him, seeking from him a sign from heaven and testing him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "He sighed deeply in his spirit, and said, “Why does this generation seek a sign? Most certainly I tell you, no sign will be given to this generation.” "
+		"value": "He sighed deeply in his spirit and said, “Why does this generation seek a sign? Most certainly I tell you, no sign will be given to this generation.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2840,7 +2876,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "Jesus, perceiving it, said to them, “Why do you reason that it’s because you have no bread? Don’t you perceive yet, neither understand? Is your heart still hardened?   "
+		"value": "Jesus, perceiving it, said to them, “Why do you reason that it’s because you have no bread? Don’t you perceive yet or understand? Is your heart still hardened?   "
 	},
 	{
 		"type": "paragraph text",
@@ -2854,7 +2890,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": " When I broke the five loaves among the five thousand, how many baskets full of broken pieces did you take up?” "
+		"value": " When I broke the five loaves amongst the five thousand, how many baskets full of broken pieces did you take up?” "
 	},
 	{
 		"type": "paragraph end"
@@ -2919,7 +2955,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "He came to Bethsaida. They brought a blind man to him, and begged him to touch him.  "
+		"value": "He came to Bethsaida. They brought a blind man to him and begged him to touch him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -2939,7 +2975,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "He looked up, and said, “I see men; for I see them like trees walking.” "
+		"value": "He looked up, and said, “I see men, but I see them like walking trees.” "
 	},
 	{
 		"type": "paragraph end"
@@ -2985,7 +3021,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "They told him, “John the Baptizer, and others say Elijah, but others: one of the prophets.” "
+		"value": "They told him, “John the Baptiser, and others say Elijah, but others, one of the prophets.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3038,14 +3074,14 @@
 		"chapterNumber": 8,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "He spoke to them openly. Peter took him, and began to rebuke him.  "
+		"value": "He spoke to them openly. Peter took him and began to rebuke him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 8,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "But he, turning around, and seeing his disciples, rebuked Peter, and said, “Get behind me, Satan! For you have in mind not the things of God, but the things of men.” "
+		"value": "But he, turning around and seeing his disciples, rebuked Peter, and said, “Get behind me, Satan! For you have in mind not the things of God, but the things of men.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3058,7 +3094,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "He called the multitude to himself with his disciples, and said to them, “Whoever wants to come after me, let him deny himself, and take up his cross, and follow me.   "
+		"value": "He called the multitude to himself with his disciples and said to them, “Whoever wants to come after me, let him deny himself, and take up his cross, and follow me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3072,7 +3108,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": " For what does it profit a man, to gain the whole world, and forfeit his life?   "
+		"value": " For what does it profit a man to gain the whole world and forfeit his life?   "
 	},
 	{
 		"type": "paragraph text",
@@ -3086,7 +3122,7 @@
 		"chapterNumber": 8,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": " For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him, when he comes in his Father’s glory, with the holy angels.” "
+		"value": " For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him when he comes in his Father’s glory with the holy angels.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3272,7 +3308,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "and wherever it seizes him, it throws him down, and he foams at the mouth, and grinds his teeth, and wastes away. I asked your disciples to cast it out, and they weren’t able.” "
+		"value": "and wherever it seizes him, it throws him down; and he foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to cast it out, and they weren’t able.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3298,7 +3334,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "They brought him to him, and when he saw him, immediately the spirit convulsed him, and he fell on the ground, wallowing and foaming at the mouth. "
+		"value": "They brought him to him, and when he saw him, immediately the spirit convulsed him and he fell on the ground, wallowing and foaming at the mouth. "
 	},
 	{
 		"type": "paragraph end"
@@ -3311,7 +3347,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "He asked his father, “How long has it been since this has come to him?” "
+		"value": "He asked his father, “How long has it been since this has been happening to him?” "
 	},
 	{
 		"type": "paragraph end"
@@ -3331,7 +3367,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "Often it has cast him both into the fire and into the water to destroy him. But if you can do anything, have compassion on us, and help us.” "
+		"value": "Often it has cast him both into the fire and into the water to destroy him. But if you can do anything, have compassion on us and help us.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3390,7 +3426,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "But Jesus took him by the hand, and raised him up; and he arose. "
+		"value": "But Jesus took him by the hand and raised him up; and he arose. "
 	},
 	{
 		"type": "paragraph end"
@@ -3403,14 +3439,20 @@
 		"chapterNumber": 9,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "When he had come into the house, his disciples asked him privately, “Why couldn’t we cast it out?”  "
+		"value": "When he had come into the house, his disciples asked him privately, “Why couldn’t we cast it out?” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "He said to them, “This kind can come out by nothing, except by prayer and fasting.” "
+		"value": "He said to them, “This kind can come out by nothing but by prayer and fasting.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3423,14 +3465,14 @@
 		"chapterNumber": 9,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "They went out from there, and passed through Galilee. He didn’t want anyone to know it.  "
+		"value": "They went out from there and passed through Galilee. He didn’t want anyone to know it,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "For he was teaching his disciples, and said to them, “The Son of Man is being handed over to the hands of men, and they will kill him; and when he is killed, on the third day he will rise again.” "
+		"value": "for he was teaching his disciples, and said to them, “The Son of Man is being handed over to the hands of men, and they will kill him; and when he is killed, on the third day he will rise again.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3456,7 +3498,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "He came to Capernaum, and when he was in the house he asked them, “What were you arguing among yourselves on the way?” "
+		"value": "He came to Capernaum, and when he was in the house he asked them, “What were you arguing amongst yourselves on the way?” "
 	},
 	{
 		"type": "paragraph end"
@@ -3482,21 +3524,21 @@
 		"chapterNumber": 9,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "He sat down, and called the twelve; and he said to them, “If any man wants to be first, he shall be last of all, and servant of all.”  "
+		"value": "He sat down and called the twelve; and he said to them, “If any man wants to be first, he shall be last of all, and servant of all.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "He took a little child, and set him in the middle of them. Taking him in his arms, he said to them,  "
+		"value": "He took a little child and set him in the middle of them. Taking him in his arms, he said to them,  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": " “Whoever receives one such little child in my name, receives me, and whoever receives me, doesn’t receive me, but him who sent me.” "
+		"value": " “Whoever receives one such little child in my name receives me; and whoever receives me, doesn’t receive me, but him who sent me.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3522,7 +3564,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "But Jesus said, “Don’t forbid him, for there is no one who will do a mighty work in my name, and be able quickly to speak evil of me.   "
+		"value": "But Jesus said, “Don’t forbid him, for there is no one who will do a mighty work in my name and be able quickly to speak evil of me.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3536,14 +3578,20 @@
 		"chapterNumber": 9,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": " For whoever will give you a cup of water to drink in my name, because you are Christ’s, most certainly I tell you, he will in no way lose his reward.   "
+		"value": " For whoever will give you a cup of water to drink in my name because you are Christ’s, most certainly I tell you, he will in no way lose his reward.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": " Whoever will cause one of these little ones who believe in me to stumble, it would be better for him if he were thrown into the sea with a millstone hung around his neck.   "
+		"value": " “Whoever will cause one of these little ones who believe in me to stumble, it would be better for him if he were thrown into the sea with a millstone hung around his neck.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3578,7 +3626,7 @@
 		"chapterNumber": 9,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": " If your eye causes you to stumble, cast it out. It is better for you to enter into God’s Kingdom with one eye, rather than having two eyes to be cast into the Gehenna of fire,   "
+		"value": " If your eye causes you to stumble, throw it out. It is better for you to enter into God’s Kingdom with one eye, rather than having two eyes to be cast into the Gehenna of fire,   "
 	},
 	{
 		"type": "paragraph text",
@@ -3612,7 +3660,13 @@
 		"chapterNumber": 10,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "He arose from there and came into the borders of Judea and beyond the Jordan. Multitudes came together to him again. As he usually did, he was again teaching them.  "
+		"value": "He arose from there and came into the borders of Judea and beyond the Jordan. Multitudes came together to him again. As he usually did, he was again teaching them. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -3706,14 +3760,14 @@
 		"chapterNumber": 10,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "He said to them, “Whoever divorces his wife, and marries another, commits adultery against her.   "
+		"value": "He said to them, “Whoever divorces his wife and marries another commits adultery against her.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": " If a woman herself divorces her husband, and marries another, she commits adultery.” "
+		"value": " If a woman herself divorces her husband and marries another, she commits adultery.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3733,7 +3787,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "But when Jesus saw it, he was moved with indignation, and said to them, “Allow the little children to come to me! Don’t forbid them, for God’s Kingdom belongs to such as these.   "
+		"value": "But when Jesus saw it, he was moved with indignation and said to them, “Allow the little children to come to me! Don’t forbid them, for God’s Kingdom belongs to such as these.   "
 	},
 	{
 		"type": "paragraph text",
@@ -3747,7 +3801,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "He took them in his arms, and blessed them, laying his hands on them. "
+		"value": "He took them in his arms and blessed them, laying his hands on them. "
 	},
 	{
 		"type": "paragraph end"
@@ -3780,7 +3834,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": " You know the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honor your father and mother.’ ” "
+		"value": " You know the commandments: ‘Do not murder,’ ‘Do not commit adultery,’ ‘Do not steal,’ ‘Do not give false testimony,’ ‘Do not defraud,’ ‘Honour your father and mother.’ ” "
 	},
 	{
 		"type": "paragraph end"
@@ -3806,7 +3860,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "Jesus looking at him loved him, and said to him, “One thing you lack. Go, sell whatever you have, and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.” "
+		"value": "Jesus looking at him loved him, and said to him, “One thing you lack. Go, sell whatever you have and give to the poor, and you will have treasure in heaven; and come, follow me, taking up the cross.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3819,14 +3873,20 @@
 		"chapterNumber": 10,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "But his face fell at that saying, and he went away sorrowful, for he was one who had great possessions.  "
+		"value": "But his face fell at that saying, and he went away sorrowful, for he was one who had great possessions. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": "Jesus looked around, and said to his disciples, “How difficult it is for those who have riches to enter into God’s Kingdom!” "
+		"value": "Jesus looked around and said to his disciples, “How difficult it is for those who have riches to enter into God’s Kingdom!” "
 	},
 	{
 		"type": "paragraph end"
@@ -3885,7 +3945,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "Peter began to tell him, “Behold, we have left all, and have followed you.” "
+		"value": "Peter began to tell him, “Behold, we have left all and have followed you.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3912,7 +3972,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": " But many who are first will be last; and the last first.” "
+		"value": " But many who are first will be last, and the last first.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3978,7 +4038,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": "They said to him, “Grant to us that we may sit, one at your right hand, and one at your left hand, in your glory.” "
+		"value": "They said to him, “Grant to us that we may sit, one at your right hand and one at your left hand, in your glory.” "
 	},
 	{
 		"type": "paragraph end"
@@ -3991,7 +4051,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 38,
 		"sectionNumber": 1,
-		"value": "But Jesus said to them, “You don’t know what you are asking. Are you able to drink the cup that I drink, and to be baptized with the baptism that I am baptized with?” "
+		"value": "But Jesus said to them, “You don’t know what you are asking. Are you able to drink the cup that I drink, and to be baptised with the baptism that I am baptised with?” "
 	},
 	{
 		"type": "paragraph end"
@@ -4017,7 +4077,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 39,
 		"sectionNumber": 2,
-		"value": "Jesus said to them, “You shall indeed drink the cup that I drink, and you shall be baptized with the baptism that I am baptized with;   "
+		"value": "Jesus said to them, “You shall indeed drink the cup that I drink, and you shall be baptised with the baptism that I am baptised with;   "
 	},
 	{
 		"type": "paragraph text",
@@ -4037,7 +4097,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "When the ten heard it, they began to be indignant toward James and John. "
+		"value": "When the ten heard it, they began to be indignant towards James and John. "
 	},
 	{
 		"type": "paragraph end"
@@ -4050,28 +4110,28 @@
 		"chapterNumber": 10,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "Jesus summoned them, and said to them, “You know that they who are recognized as rulers over the nations lord it over them, and their great ones exercise authority over them.   "
+		"value": "Jesus summoned them and said to them, “You know that they who are recognised as rulers over the nations lord it over them, and their great ones exercise authority over them.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 43,
 		"sectionNumber": 1,
-		"value": " But it shall not be so among you, but whoever wants to become great among you shall be your servant.   "
+		"value": " But it shall not be so amongst you, but whoever wants to become great amongst you shall be your servant.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": " Whoever of you wants to become first among you, shall be bondservant of all.   "
+		"value": " Whoever of you wants to become first amongst you shall be bondservant of all.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 45,
 		"sectionNumber": 1,
-		"value": " For the Son of Man also came not to be served, but to serve, and to give his life as a ransom for many.” "
+		"value": " For the Son of Man also came not to be served but to serve, and to give his life as a ransom for many.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4084,14 +4144,14 @@
 		"chapterNumber": 10,
 		"verseNumber": 46,
 		"sectionNumber": 1,
-		"value": "They came to Jericho. As he went out from Jericho, with his disciples and a great multitude, the son of Timaeus, Bartimaeus, a blind beggar, was sitting by the road.  "
+		"value": "They came to Jericho. As he went out from Jericho with his disciples and a great multitude, the son of Timaeus, Bartimaeus, a blind beggar, was sitting by the road.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 10,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": "When he heard that it was Jesus the Nazarene, he began to cry out, and say, “Jesus, you son of David, have mercy on me!”  "
+		"value": "When he heard that it was Jesus the Nazarene, he began to cry out and say, “Jesus, you son of David, have mercy on me!”  "
 	},
 	{
 		"type": "paragraph text",
@@ -4111,7 +4171,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 49,
 		"sectionNumber": 1,
-		"value": "Jesus stood still, and said, “Call him.” "
+		"value": "Jesus stood still and said, “Call him.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4176,7 +4236,7 @@
 		"chapterNumber": 10,
 		"verseNumber": 52,
 		"sectionNumber": 1,
-		"value": "Jesus said to him, “Go your way. Your faith has made you well.”  Immediately he received his sight, and followed Jesus on the way. "
+		"value": "Jesus said to him, “Go your way. Your faith has made you well.”  Immediately he received his sight and followed Jesus on the way. "
 	},
 	{
 		"type": "paragraph end"
@@ -4189,14 +4249,14 @@
 		"chapterNumber": 11,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "When they came near to Jerusalem, to Bethsphage and Bethany, at the Mount of Olives, he sent two of his disciples,  "
+		"value": "When they came near to Jerusalem, to Bethsphage and Bethany, at the Mount of Olives, he sent two of his disciples  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "and said to them, “Go your way into the village that is opposite you. Immediately as you enter into it, you will find a young donkey tied, on which no one has sat. Untie him, and bring him.   "
+		"value": "and said to them, “Go your way into the village that is opposite you. Immediately as you enter into it, you will find a young donkey tied, on which no one has sat. Untie him and bring him.   "
 	},
 	{
 		"type": "paragraph text",
@@ -4243,21 +4303,21 @@
 		"chapterNumber": 11,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "They brought the young donkey to Jesus, and threw their garments on it, and Jesus sat on it.  "
+		"value": "They brought the young donkey to Jesus and threw their garments on it, and Jesus sat on it.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "Many spread their garments on the way, and others were cutting down branches from the trees, and spreading them on the road.  "
+		"value": "Many spread their garments on the way, and others were cutting down branches from the trees and spreading them on the road.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "Those who went in front, and those who followed, cried out, “Hosanna!  Blessed is he who comes in the name of the Lord!  "
+		"value": "Those who went in front and those who followed cried out, “Hosanna! Blessed is he who comes in the name of the Lord!  "
 	},
 	{
 		"type": "paragraph text",
@@ -4317,7 +4377,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "They came to Jerusalem, and Jesus entered into the temple, and began to throw out those who sold and those who bought in the temple, and overthrew the money changers’ tables, and the seats of those who sold the doves.  "
+		"value": "They came to Jerusalem, and Jesus entered into the temple and began to throw out those who sold and those who bought in the temple, and overthrew the money changers’ tables and the seats of those who sold the doves.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4391,7 +4451,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 23,
 		"sectionNumber": 1,
-		"value": " For most certainly I tell you, whoever may tell this mountain, ‘Be taken up and cast into the sea,’ and doesn’t doubt in his heart, but believes that what he says is happening; he shall have whatever he says.   "
+		"value": " For most certainly I tell you, whoever may tell this mountain, ‘Be taken up and cast into the sea,’ and doesn’t doubt in his heart, but believes that what he says is happening, he shall have whatever he says.   "
 	},
 	{
 		"type": "paragraph text",
@@ -4492,7 +4552,7 @@
 		"chapterNumber": 11,
 		"verseNumber": 33,
 		"sectionNumber": 2,
-		"value": "Jesus said to them, “Neither do I tell you by what authority I do these things.” "
+		"value": "Jesus said to them, “Neither will I tell you by what authority I do these things.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4533,7 +4593,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": " Again he sent another; and they killed him; and many others, beating some, and killing some.   "
+		"value": " Again he sent another, and they killed him, and many others, beating some, and killing some.   "
 	},
 	{
 		"type": "paragraph text",
@@ -4547,7 +4607,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": " But those farmers said among themselves, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’   "
+		"value": " But those farmers said amongst themselves, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’   "
 	},
 	{
 		"type": "paragraph text",
@@ -4611,7 +4671,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 11,
 		"sectionNumber": 2,
-		"value": "It is marvelous in our eyes’?” "
+		"value": "It is marvellous in our eyes’?” "
 	},
 	{
 		"type": "line break"
@@ -4627,7 +4687,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "They tried to seize him, but they feared the multitude; for they perceived that he spoke the parable against them. They left him, and went away.  "
+		"value": "They tried to seize him, but they feared the multitude; for they perceived that he spoke the parable against them. They left him and went away.  "
 	},
 	{
 		"type": "paragraph text",
@@ -4726,7 +4786,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 17,
 		"sectionNumber": 2,
-		"value": "They marveled greatly at him. "
+		"value": "They marvelled greatly at him. "
 	},
 	{
 		"type": "paragraph end"
@@ -4746,7 +4806,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "“Teacher, Moses wrote to us, ‘If a man’s brother dies, and leaves a wife behind him, and leaves no children, that his brother should take his wife, and raise up offspring for his brother.’  "
+		"value": "“Teacher, Moses wrote to us, ‘If a man’s brother dies and leaves a wife behind him, and leaves no children, that his brother should take his wife and raise up offspring for his brother.’  "
 	},
 	{
 		"type": "paragraph text",
@@ -4787,21 +4847,21 @@
 		"chapterNumber": 12,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Jesus answered them, “Isn’t this because you are mistaken, not knowing the Scriptures, nor the power of God?   "
+		"value": "Jesus answered them, “Isn’t this because you are mistaken, not knowing the Scriptures nor the power of God?   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": " For when they will rise from the dead, they neither marry, nor are given in marriage, but are like angels in heaven.   "
+		"value": " For when they will rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": " But about the dead, that they are raised; haven’t you read in the book of Moses, about the Bush, how God spoke to him, saying, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?  "
+		"value": " But about the dead, that they are raised, haven’t you read in the book of Moses about the Bush, how God spoke to him, saying, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?  "
 	},
 	{
 		"type": "paragraph text",
@@ -4821,7 +4881,7 @@
 		"chapterNumber": 12,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "One of the scribes came, and heard them questioning together, and knowing that he had answered them well, asked him, “Which commandment is the greatest of all?” "
+		"value": "One of the scribes came and heard them questioning together, and knowing that he had answered them well, asked him, “Which commandment is the greatest of all?” "
 	},
 	{
 		"type": "paragraph end"
@@ -4834,21 +4894,21 @@
 		"chapterNumber": 12,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Jesus answered, “The greatest is, ‘Hear, Israel, the Lord our God, the Lord is one:   "
+		"value": "Jesus answered, “The greatest is: ‘Hear, Israel, the Lord our God, the Lord is one.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": " you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.’ This is the first commandment.   "
+		"value": " You shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": " The second is like this, ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.” "
+		"value": " The second is like this: ‘You shall love your neighbour as yourself.’ There is no other commandment greater than these.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4861,14 +4921,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "The scribe said to him, “Truly, teacher, you have said well that he is one, and there is none other but he,  "
+		"value": "The scribe said to him, “Truly, teacher, you have said well that he is one, and there is none other but he;  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "and to love him with all the heart, and with all the understanding, with all the soul, and with all the strength, and to love his neighbor as himself, is more important than all whole burnt offerings and sacrifices.” "
+		"value": "and to love him with all the heart, with all the understanding, all the soul, and with all the strength, and to love his neighbour as himself, is more important than all whole burnt offerings and sacrifices.” "
 	},
 	{
 		"type": "paragraph end"
@@ -4984,14 +5044,14 @@
 		"chapterNumber": 12,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": " and the best seats in the synagogues, and the best places at feasts:   "
+		"value": " and to get the best seats in the synagogues and the best places at feasts,   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": " those who devour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.” "
+		"value": " those who devour widows’ houses, and for a pretence make long prayers. These will receive greater condemnation.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5004,21 +5064,21 @@
 		"chapterNumber": 12,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "Jesus sat down opposite the treasury, and saw how the multitude cast money into the treasury. Many who were rich cast in much.  "
+		"value": "Jesus sat down opposite the treasury and saw how the multitude cast money into the treasury. Many who were rich cast in much.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": "A poor widow came, and she cast in two small brass coins, which equal a quadrans coin.  "
+		"value": "A poor widow came and she cast in two small brass coins, which equal a quadrans coin.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 12,
 		"verseNumber": 43,
 		"sectionNumber": 1,
-		"value": "He called his disciples to himself, and said to them, “Most certainly I tell you, this poor widow gave more than all those who are giving into the treasury,   "
+		"value": "He called his disciples to himself and said to them, “Most certainly I tell you, this poor widow gave more than all those who are giving into the treasury,   "
 	},
 	{
 		"type": "paragraph text",
@@ -5104,21 +5164,27 @@
 		"chapterNumber": 13,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": " “When you hear of wars and rumors of wars, don’t be troubled. For those must happen, but the end is not yet.   "
+		"value": " “When you hear of wars and rumours of wars, don’t be troubled. For those must happen, but the end is not yet.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": " For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places. There will be famines and troubles. These things are the beginning of birth pains.   "
+		"value": " For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places. There will be famines and troubles. These things are the beginning of birth pains.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": " But watch yourselves, for they will deliver you up to councils. You will be beaten in synagogues. You will stand before rulers and kings for my sake, for a testimony to them.   "
+		"value": " “But watch yourselves, for they will deliver you up to councils. You will be beaten in synagogues. You will stand before rulers and kings for my sake, for a testimony to them.   "
 	},
 	{
 		"type": "paragraph text",
@@ -5132,7 +5198,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": " When they lead you away and deliver you up, don’t be anxious beforehand, or premeditate what you will say, but say whatever will be given you in that hour. For it is not you who speak, but the Holy Spirit. "
+		"value": " When they lead you away and deliver you up, don’t be anxious beforehand or premeditate what you will say, but say whatever will be given you in that hour. For it is not you who speak, but the Holy Spirit. "
 	},
 	{
 		"type": "paragraph end"
@@ -5145,21 +5211,27 @@
 		"chapterNumber": 13,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": " “Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death.   "
+		"value": " “Brother will deliver up brother to death, and the father his child. Children will rise up against parents and cause them to be put to death.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": " You will be hated by all men for my name’s sake, but he who endures to the end will be saved.   "
+		"value": " You will be hated by all men for my name’s sake, but he who endures to the end will be saved.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": " But when you see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not” (let the reader understand), “then let those who are in Judea flee to the mountains,   "
+		"value": " “But when you see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not” (let the reader understand), “then let those who are in Judea flee to the mountains,   "
 	},
 	{
 		"type": "paragraph text",
@@ -5215,7 +5287,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": " For there will arise false christs and false prophets, and will show signs and wonders, that they may lead astray, if possible, even the chosen ones.   "
+		"value": " For false christs and false prophets will arise and will show signs and wonders, that they may lead astray, if possible, even the chosen ones.   "
 	},
 	{
 		"type": "paragraph text",
@@ -5276,7 +5348,7 @@
 		"chapterNumber": 13,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": " “Now from the fig tree, learn this parable. When the branch has now become tender, and produces its leaves, you know that the summer is near;   "
+		"value": " “Now from the fig tree, learn this parable. When the branch has now become tender and produces its leaves, you know that the summer is near;   "
 	},
 	{
 		"type": "paragraph text",
@@ -5297,14 +5369,20 @@
 		"chapterNumber": 13,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": " Heaven and earth will pass away, but my words will not pass away.   "
+		"value": " Heaven and earth will pass away, but my words will not pass away.  "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": " But of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father.   "
+		"value": " “But of that day or that hour no one knows—not even the angels in heaven, nor the Son, but only the Father.   "
 	},
 	{
 		"type": "paragraph text",
@@ -5324,28 +5402,28 @@
 		"chapterNumber": 13,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": " “It is like a man, traveling to another country, having left his house, and given authority to his servants, and to each one his work, and also commanded the doorkeeper to keep watch.   "
+		"value": " “It is like a man travelling to another country, having left his house and given authority to his servants, and to each one his work, and also commanded the doorkeeper to keep watch.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": " Watch therefore, for you don’t know when the lord of the house is coming, whether at evening, or at midnight, or when the rooster crows, or in the morning;   "
+		"value": " Watch therefore, for you don’t know when the lord of the house is coming—whether at evening, or at midnight, or when the rooster crows, or in the morning;   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": " lest coming suddenly he might find you sleeping.   "
+		"value": " lest, coming suddenly, he might find you sleeping.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 13,
 		"verseNumber": 37,
 		"sectionNumber": 1,
-		"value": " What I tell you, I tell all: Watch.” "
+		"value": " What I tell you, I tell all: Watch!” "
 	},
 	{
 		"type": "paragraph end"
@@ -5358,14 +5436,14 @@
 		"chapterNumber": 14,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "It was now two days before the feast of the Passover and the unleavened bread, and the chief priests and the scribes sought how they might seize him by deception, and kill him.  "
+		"value": "It was now two days before the Passover and the Feast of Unleavened Bread, and the chief priests and the scribes sought how they might seize him by deception and kill him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 2,
 		"sectionNumber": 1,
-		"value": "For they said, “Not during the feast, because there might be a riot among the people.” "
+		"value": "For they said, “Not during the feast, because there might be a riot amongst the people.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5378,21 +5456,21 @@
 		"chapterNumber": 14,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "While he was at Bethany, in the house of Simon the leper, as he sat at the table, a woman came having an alabaster jar of ointment of pure nard—very costly. She broke the jar, and poured it over his head.  "
+		"value": "While he was at Bethany, in the house of Simon the leper, as he sat at the table, a woman came having an alabaster jar of ointment of pure nard—very costly. She broke the jar and poured it over his head.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "But there were some who were indignant among themselves, saying, “Why has this ointment been wasted?  "
+		"value": "But there were some who were indignant amongst themselves, saying, “Why has this ointment been wasted?  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "For this might have been sold for more than three hundred denarii,  and given to the poor.” So they grumbled against her. "
+		"value": "For this might have been sold for more than three hundred denarii and given to the poor.” So they grumbled against her. "
 	},
 	{
 		"type": "paragraph end"
@@ -5446,7 +5524,13 @@
 		"chapterNumber": 14,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "They, when they heard it, were glad, and promised to give him money. He sought how he might conveniently deliver him.  "
+		"value": "They, when they heard it, were glad, and promised to give him money. He sought how he might conveniently deliver him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -5466,7 +5550,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "He sent two of his disciples, and said to them, “Go into the city, and there you will meet a man carrying a pitcher of water. Follow him,   "
+		"value": "He sent two of his disciples and said to them, “Go into the city, and there a man carrying a pitcher of water will meet you. Follow him,   "
 	},
 	{
 		"type": "paragraph text",
@@ -5546,7 +5630,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": " For the Son of Man goes, even as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for that man if he had not been born.” "
+		"value": " For the Son of Man goes as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for that man if he had not been born.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5559,7 +5643,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 22,
 		"sectionNumber": 1,
-		"value": "As they were eating, Jesus took bread, and when he had blessed, he broke it, and gave to them, and said, “Take, eat. This is my body.” "
+		"value": "As they were eating, Jesus took bread, and when he had blessed it, he broke it and gave to them, and said, “Take, eat. This is my body.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5586,7 +5670,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": " Most certainly I tell you, I will no more drink of the fruit of the vine, until that day when I drink it anew in God’s Kingdom.”  "
+		"value": " Most certainly I tell you, I will no more drink of the fruit of the vine until that day when I drink it anew in God’s Kingdom.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -5639,7 +5723,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 30,
 		"sectionNumber": 1,
-		"value": "Jesus said to him, “Most certainly I tell you, that you today, even this night, before the rooster crows twice, you will deny me three times.”  "
+		"value": "Jesus said to him, “Most certainly I tell you that you today, even this night, before the rooster crows twice, you will deny me three times.”  "
 	},
 	{
 		"type": "paragraph end"
@@ -5665,7 +5749,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "They came to a place which was named Gethsemane. He said to his disciples, “Sit here, while I pray.”  "
+		"value": "They came to a place which was named Gethsemane. He said to his disciples, “Sit here while I pray.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -5679,7 +5763,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 34,
 		"sectionNumber": 1,
-		"value": "He said to them, “My soul is exceedingly sorrowful, even to death. Stay here, and watch.” "
+		"value": "He said to them, “My soul is exceedingly sorrowful, even to death. Stay here and watch.” "
 	},
 	{
 		"type": "paragraph end"
@@ -5692,7 +5776,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "He went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass away from him.  "
+		"value": "He went forward a little, and fell on the ground, and prayed that if it were possible, the hour might pass away from him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5732,28 +5816,28 @@
 		"chapterNumber": 14,
 		"verseNumber": 39,
 		"sectionNumber": 1,
-		"value": "Again he went away, and prayed, saying the same words.  "
+		"value": "Again he went away and prayed, saying the same words.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "Again he returned, and found them sleeping, for their eyes were very heavy, and they didn’t know what to answer him.  "
+		"value": "Again he returned and found them sleeping, for their eyes were very heavy; and they didn’t know what to answer him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 41,
 		"sectionNumber": 1,
-		"value": "He came the third time, and said to them, “Sleep on now, and take your rest. It is enough. The hour has come. Behold, the Son of Man is betrayed into the hands of sinners.   "
+		"value": "He came the third time and said to them, “Sleep on now, and take your rest. It is enough. The hour has come. Behold, the Son of Man is betrayed into the hands of sinners.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 42,
 		"sectionNumber": 1,
-		"value": " Arise! Let’s get going. Behold: he who betrays me is at hand.”  "
+		"value": " Arise! Let’s get going. Behold, he who betrays me is at hand.”  "
 	},
 	{
 		"type": "paragraph end"
@@ -5780,21 +5864,21 @@
 		"chapterNumber": 14,
 		"verseNumber": 45,
 		"sectionNumber": 1,
-		"value": "When he had come, immediately he came to him, and said, “Rabbi! Rabbi!” and kissed him.  "
+		"value": "When he had come, immediately he came to him and said, “Rabbi! Rabbi!” and kissed him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 46,
 		"sectionNumber": 1,
-		"value": "They laid their hands on him, and seized him.  "
+		"value": "They laid their hands on him and seized him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": "But a certain one of those who stood by drew his sword, and struck the servant of the high priest, and cut off his ear. "
+		"value": "But a certain one of those who stood by drew his sword and struck the servant of the high priest, and cut off his ear. "
 	},
 	{
 		"type": "paragraph end"
@@ -5841,7 +5925,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 52,
 		"sectionNumber": 1,
-		"value": "but he left the linen cloth, and fled from them naked.  "
+		"value": "but he left the linen cloth and fled from them naked.  "
 	},
 	{
 		"type": "paragraph text",
@@ -5882,7 +5966,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 57,
 		"sectionNumber": 1,
-		"value": "Some stood up, and gave false testimony against him, saying,  "
+		"value": "Some stood up and gave false testimony against him, saying,  "
 	},
 	{
 		"type": "paragraph text",
@@ -5942,7 +6026,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 63,
 		"sectionNumber": 1,
-		"value": "The high priest tore his clothes, and said, “What further need have we of witnesses?  "
+		"value": "The high priest tore his clothes and said, “What further need have we of witnesses?  "
 	},
 	{
 		"type": "paragraph text",
@@ -5976,7 +6060,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 67,
 		"sectionNumber": 1,
-		"value": "and seeing Peter warming himself, she looked at him, and said, “You were also with the Nazarene, Jesus!” "
+		"value": "and seeing Peter warming himself, she looked at him and said, “You were also with the Nazarene, Jesus!” "
 	},
 	{
 		"type": "paragraph end"
@@ -5989,7 +6073,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 68,
 		"sectionNumber": 1,
-		"value": "But he denied it, saying, “I neither know, nor understand what you are saying.” He went out on the porch, and the rooster crowed. "
+		"value": "But he denied it, saying, “I neither know nor understand what you are saying.” He went out on the porch, and the rooster crowed. "
 	},
 	{
 		"type": "paragraph end"
@@ -6002,7 +6086,7 @@
 		"chapterNumber": 14,
 		"verseNumber": 69,
 		"sectionNumber": 1,
-		"value": "The maid saw him, and began again to tell those who stood by, “This is one of them.”  "
+		"value": "The maid saw him and began again to tell those who stood by, “This is one of them.”  "
 	},
 	{
 		"type": "paragraph text",
@@ -6016,14 +6100,20 @@
 		"chapterNumber": 14,
 		"verseNumber": 71,
 		"sectionNumber": 1,
-		"value": "But he began to curse, and to swear, “I don’t know this man of whom you speak!”  "
+		"value": "But he began to curse and to swear, “I don’t know this man of whom you speak!” "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 14,
 		"verseNumber": 72,
 		"sectionNumber": 1,
-		"value": "The rooster crowed the second time. Peter remembered the word, how that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept. "
+		"value": "The rooster crowed the second time. Peter remembered the words that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept. "
 	},
 	{
 		"type": "paragraph end"
@@ -6036,7 +6126,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "Immediately in the morning the chief priests, with the elders and scribes, and the whole council, held a consultation, bound Jesus, carried him away, and delivered him up to Pilate.  "
+		"value": "Immediately in the morning the chief priests, with the elders, scribes, and the whole council, held a consultation, bound Jesus, carried him away, and delivered him up to Pilate.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6089,7 +6179,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "But Jesus made no further answer, so that Pilate marveled. "
+		"value": "But Jesus made no further answer, so that Pilate marvelled. "
 	},
 	{
 		"type": "paragraph end"
@@ -6102,7 +6192,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "Now at the feast he used to release to them one prisoner, whom they asked of him.  "
+		"value": "Now at the feast he used to release to them one prisoner, whomever they asked of him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6196,7 +6286,13 @@
 		"chapterNumber": 15,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "Pilate, wishing to please the multitude, released Barabbas to them, and handed over Jesus, when he had flogged him, to be crucified.  "
+		"value": "Pilate, wishing to please the multitude, released Barabbas to them, and handed over Jesus, when he had flogged him, to be crucified. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -6210,7 +6306,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": "They clothed him with purple, and weaving a crown of thorns, they put it on him.  "
+		"value": "They clothed him with purple; and weaving a crown of thorns, they put it on him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6224,21 +6320,27 @@
 		"chapterNumber": 15,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "They struck his head with a reed, and spat on him, and bowing their knees, did homage to him.  "
+		"value": "They struck his head with a reed and spat on him, and bowing their knees, did homage to him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "When they had mocked him, they took the purple off him, and put his own garments on him. They led him out to crucify him.  "
+		"value": "When they had mocked him, they took the purple cloak off him, and put his own garments on him. They led him out to crucify him. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "They compelled one passing by, coming from the country, Simon of Cyrene, the father of Alexander and Rufus, to go with them, that he might bear his cross.  "
+		"value": "They compelled one passing by, coming from the country, Simon of Cyrene, the father of Alexander and Rufus, to go with them that he might bear his cross.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6265,35 +6367,35 @@
 		"chapterNumber": 15,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "Crucifying him, they parted his garments among them, casting lots on them, what each should take.  "
+		"value": "Crucifying him, they parted his garments amongst them, casting lots on them, what each should take.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "It was the third hour,  and they crucified him.  "
+		"value": "It was the third hour when they crucified him.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 26,
 		"sectionNumber": 1,
-		"value": "The superscription of his accusation was written over him, “THE KING OF THE JEWS.”  "
+		"value": "The superscription of his accusation was written over him: “THE KING OF THE JEWS.”  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 27,
 		"sectionNumber": 1,
-		"value": "With him they crucified two robbers; one on his right hand, and one on his left.  "
+		"value": "With him they crucified two robbers, one on his right hand, and one on his left.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 28,
 		"sectionNumber": 1,
-		"value": "The Scripture was fulfilled, which says, “He was counted with transgressors.”  "
+		"value": "The Scripture was fulfilled which says, “He was counted with transgressors.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6306,7 +6408,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 29,
 		"sectionNumber": 1,
-		"value": "Those who passed by blasphemed him, wagging their heads, and saying, “Ha! You who destroy the temple, and build it in three days,  "
+		"value": "Those who passed by blasphemed him, wagging their heads and saying, “Ha! You who destroy the temple and build it in three days,  "
 	},
 	{
 		"type": "paragraph text",
@@ -6326,14 +6428,14 @@
 		"chapterNumber": 15,
 		"verseNumber": 31,
 		"sectionNumber": 1,
-		"value": "Likewise, also the chief priests mocking among themselves with the scribes said, “He saved others. He can’t save himself.  "
+		"value": "Likewise, also the chief priests mocking amongst themselves with the scribes said, “He saved others. He can’t save himself.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 32,
 		"sectionNumber": 1,
-		"value": "Let the Christ, the King of Israel, now come down from the cross, that we may see and believe him.”  Those who were crucified with him also insulted him. "
+		"value": "Let the Christ, the King of Israel, now come down from the cross, that we may see and believe him.” Those who were crucified with him also insulted him. "
 	},
 	{
 		"type": "paragraph end"
@@ -6346,7 +6448,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 33,
 		"sectionNumber": 1,
-		"value": "When the sixth hour  had come, there was darkness over the whole land until the ninth hour.   "
+		"value": "When the sixth hour had come, there was darkness over the whole land until the ninth hour.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6379,7 +6481,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 36,
 		"sectionNumber": 1,
-		"value": "One ran, and filling a sponge full of vinegar, put it on a reed, and gave it to him to drink, saying, “Let him be. Let’s see whether Elijah comes to take him down.” "
+		"value": "One ran, and filling a sponge full of vinegar, put it on a reed and gave it to him to drink, saying, “Let him be. Let’s see whether Elijah comes to take him down.” "
 	},
 	{
 		"type": "paragraph end"
@@ -6419,7 +6521,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 40,
 		"sectionNumber": 1,
-		"value": "There were also women watching from afar, among whom were both Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;  "
+		"value": "There were also women watching from afar, amongst whom were both Mary Magdalene and Mary the mother of James the less and of Joses, and Salome;  "
 	},
 	{
 		"type": "paragraph text",
@@ -6453,7 +6555,7 @@
 		"chapterNumber": 15,
 		"verseNumber": 44,
 		"sectionNumber": 1,
-		"value": "Pilate marveled if he were already dead; and summoning the centurion, he asked him whether he had been dead long.  "
+		"value": "Pilate was surprised to hear that he was already dead; and summoning the centurion, he asked him whether he had been dead long.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6467,14 +6569,14 @@
 		"chapterNumber": 15,
 		"verseNumber": 46,
 		"sectionNumber": 1,
-		"value": "He bought a linen cloth, and taking him down, wound him in the linen cloth, and laid him in a tomb which had been cut out of a rock. He rolled a stone against the door of the tomb.  "
+		"value": "He bought a linen cloth, and taking him down, wound him in the linen cloth and laid him in a tomb which had been cut out of a rock. He rolled a stone against the door of the tomb.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 15,
 		"verseNumber": 47,
 		"sectionNumber": 1,
-		"value": "Mary Magdalene and Mary, the mother of Joses, saw where he was laid. "
+		"value": "Mary Magdalene and Mary the mother of Joses, saw where he was laid. "
 	},
 	{
 		"type": "paragraph end"
@@ -6487,7 +6589,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 1,
 		"sectionNumber": 1,
-		"value": "When the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, bought spices, that they might come and anoint him.  "
+		"value": "When the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome bought spices, that they might come and anoint him.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6501,7 +6603,7 @@
 		"chapterNumber": 16,
 		"verseNumber": 3,
 		"sectionNumber": 1,
-		"value": "They were saying among themselves, “Who will roll away the stone from the door of the tomb for us?”  "
+		"value": "They were saying amongst themselves, “Who will roll away the stone from the door of the tomb for us?”  "
 	},
 	{
 		"type": "paragraph text",
@@ -6521,14 +6623,14 @@
 		"chapterNumber": 16,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": "Entering into the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were amazed.  "
+		"value": "Entering into the tomb, they saw a young man sitting on the right side, dressed in a white robe; and they were amazed.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": "He said to them, “Don’t be amazed. You seek Jesus, the Nazarene, who has been crucified. He has risen. He is not here. Behold, the place where they laid him!  "
+		"value": "He said to them, “Don’t be amazed. You seek Jesus, the Nazarene, who has been crucified. He has risen! He is not here. See the place where they laid him!  "
 	},
 	{
 		"type": "paragraph text",
@@ -6548,7 +6650,13 @@
 		"chapterNumber": 16,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "They went out, and fled from the tomb, for trembling and astonishment had come on them. They said nothing to anyone; for they were afraid.  "
+		"value": "They went out, and fled from the tomb, for trembling and astonishment had come on them. They said nothing to anyone; for they were afraid. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
@@ -6569,14 +6677,20 @@
 		"chapterNumber": 16,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "When they heard that he was alive, and had been seen by her, they disbelieved.  "
+		"value": "When they heard that he was alive and had been seen by her, they disbelieved. "
+	},
+	{
+		"type": "paragraph end"
+	},
+	{
+		"type": "paragraph start"
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": "After these things he was revealed in another form to two of them, as they walked, on their way into the country.  "
+		"value": "After these things he was revealed in another form to two of them as they walked, on their way into the country.  "
 	},
 	{
 		"type": "paragraph text",
@@ -6596,21 +6710,21 @@
 		"chapterNumber": 16,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "Afterward he was revealed to the eleven themselves as they sat at the table, and he rebuked them for their unbelief and hardness of heart, because they didn’t believe those who had seen him after he had risen.  "
+		"value": "Afterward he was revealed to the eleven themselves as they sat at the table; and he rebuked them for their unbelief and hardness of heart, because they didn’t believe those who had seen him after he had risen.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "He said to them, “Go into all the world, and preach the Good News to the whole creation.   "
+		"value": "He said to them, “Go into all the world and preach the Good News to the whole creation.   "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " He who believes and is baptized will be saved; but he who disbelieves will be condemned.   "
+		"value": " He who believes and is baptised will be saved; but he who disbelieves will be condemned.   "
 	},
 	{
 		"type": "paragraph text",
@@ -6637,14 +6751,14 @@
 		"chapterNumber": 16,
 		"verseNumber": 19,
 		"sectionNumber": 1,
-		"value": "So then the Lord, after he had spoken to them, was received up into heaven, and sat down at the right hand of God.  "
+		"value": "So then the Lord, after he had spoken to them, was received up into heaven and sat down at the right hand of God.  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 16,
 		"verseNumber": 20,
 		"sectionNumber": 1,
-		"value": "They went out, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed. Amen. "
+		"value": "They went out and preached everywhere, the Lord working with them and confirming the word by the signs that followed. Amen. "
 	},
 	{
 		"type": "paragraph end"
