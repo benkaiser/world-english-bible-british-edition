@@ -1,3 +1,7 @@
+This project is a fork of [TehShrike/world-english-bible](https://github.com/TehShrike/world-english-bible) but with the underlying data switched to the [British Edition](https://ebible.org/engwebpb/) of the World English Bible. Everything else remains intact.
+
+---
+
 A folder full of JSON files containing a programmatic version of the [World English Bible](http://ebible.org/web/).
 
 Besides the verse text, contains all of the metadata needed to print the text with proper formatting.
