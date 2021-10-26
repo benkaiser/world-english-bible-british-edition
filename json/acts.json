@@ -28,14 +28,44 @@
 		"chapterNumber": 1,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "Being assembled together with them, he commanded them, “Don’t depart from Jerusalem, but wait for the promise of the Father, which you heard from me.   "
+		"value": "Being assembled together with them, he commanded them, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Don’t depart from Jerusalem, but wait for the promise of the Father, which you heard from me. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 5,
 		"sectionNumber": 1,
-		"value": " For John indeed baptised in water, but you will be baptised in the Holy Spirit not many days from now.” "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 5,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "For John indeed baptised in water, but you will be baptised in the Holy Spirit not many days from now.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -61,14 +91,44 @@
 		"chapterNumber": 1,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "He said to them, “It isn’t for you to know times or seasons which the Father has set within his own authority.   "
+		"value": "He said to them, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“It isn’t for you to know times or seasons which the Father has set within his own authority. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 1,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": " But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.” "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 1,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3009,7 +3069,22 @@
 		"chapterNumber": 9,
 		"verseNumber": 4,
 		"sectionNumber": 1,
-		"value": "He fell on the earth, and heard a voice saying to him, “Saul, Saul, why do you persecute me?” "
+		"value": "He fell on the earth, and heard a voice saying to him, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 4,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Saul, Saul, why do you persecute me?”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 4,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3035,14 +3110,59 @@
 		"chapterNumber": 9,
 		"verseNumber": 5,
 		"sectionNumber": 2,
-		"value": "The Lord said, “I am Jesus, whom you are persecuting.  "
+		"value": "The Lord said, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 5,
+		"sectionNumber": 3,
+		"wj": true,
+		"value": "“I am Jesus, whom you are persecuting."
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 5,
+		"sectionNumber": 4,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 6,
 		"sectionNumber": 1,
-		"value": " But rise up and enter into the city, then you will be told what you must do.” "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "But"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 4,
+		"wj": true,
+		"value": "rise up and enter into the city, then you will be told what you must do.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 6,
+		"sectionNumber": 5,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3082,7 +3202,22 @@
 		"chapterNumber": 9,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "Now there was a certain disciple at Damascus named Ananias. The Lord said to him in a vision, “Ananias!” "
+		"value": "Now there was a certain disciple at Damascus named Ananias. The Lord said to him in a vision, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 10,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Ananias!”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3094,7 +3229,7 @@
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 10,
-		"sectionNumber": 2,
+		"sectionNumber": 4,
 		"value": "He said, “Behold, it’s me, Lord.” "
 	},
 	{
@@ -3108,14 +3243,59 @@
 		"chapterNumber": 9,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "The Lord said to him, “Arise and go to the street which is called Straight, and enquire in the house of Judah for one named Saul, a man of Tarsus. For behold, he is praying,   "
+		"value": "The Lord said to him, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Arise and go to the street which is called Straight, and enquire in the house of Judah"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 4,
+		"wj": true,
+		"value": "for one named Saul, a man of Tarsus. For behold, he is praying, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 11,
+		"sectionNumber": 5,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 12,
 		"sectionNumber": 1,
-		"value": " and in a vision he has seen a man named Ananias coming in and laying his hands on him, that he might receive his sight.” "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 12,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "and in a vision he has seen a man named Ananias coming in and laying his hands on him, that he might receive his sight.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 12,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3148,14 +3328,44 @@
 		"chapterNumber": 9,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "But the Lord said to him, “Go your way, for he is my chosen vessel to bear my name before the nations and kings, and the children of Israel.   "
+		"value": "But the Lord said to him, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Go your way, for he is my chosen vessel to bear my name before the nations and kings, and the children of Israel. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 9,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " For I will show him how many things he must suffer for my name’s sake.” "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "For I will show him how many things he must suffer for my name’s sake.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 9,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3521,7 +3731,22 @@
 		"chapterNumber": 10,
 		"verseNumber": 13,
 		"sectionNumber": 1,
-		"value": "A voice came to him, “Rise, Peter, kill and eat!” "
+		"value": "A voice came to him, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 13,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Rise, Peter, kill and eat!”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 13,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -3547,7 +3772,22 @@
 		"chapterNumber": 10,
 		"verseNumber": 15,
 		"sectionNumber": 1,
-		"value": "A voice came to him again the second time, “What God has cleansed, you must not call unclean.”  "
+		"value": "A voice came to him again the second time, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 15,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“What God has cleansed, you must not call unclean.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 10,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3901,7 +4141,22 @@
 		"chapterNumber": 11,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "I also heard a voice saying to me, ‘Rise, Peter, kill and eat!’   "
+		"value": "I also heard a voice saying to me, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘Rise, Peter, kill and eat!’ "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3915,7 +4170,22 @@
 		"chapterNumber": 11,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "But a voice answered me the second time out of heaven, ‘What God has cleansed, don’t you call unclean.’  "
+		"value": "But a voice answered me the second time out of heaven, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 9,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘What God has cleansed, don’t you call unclean.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -3964,7 +4234,22 @@
 		"chapterNumber": 11,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": "I remembered the word of the Lord, how he said, ‘John indeed baptised in water, but you will be baptised in the Holy Spirit.’  "
+		"value": "I remembered the word of the Lord, how he said, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘John indeed baptised in water, but you will be baptised in the Holy Spirit.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -6247,14 +6532,44 @@
 		"chapterNumber": 18,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "The Lord said to Paul in the night by a vision, “Don’t be afraid, but speak and don’t be silent;   "
+		"value": "The Lord said to Paul in the night by a vision, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 9,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Don’t be afraid, but speak and don’t be silent; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 18,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": " for I am with you, and no one will attack you to harm you, for I have many people in this city.” "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 10,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "for I am with you, and no one will attack you to harm you, for I have many people in this city.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 18,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7082,7 +7397,22 @@
 		"chapterNumber": 20,
 		"verseNumber": 35,
 		"sectionNumber": 1,
-		"value": "In all things I gave you an example, that so labouring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, ‘It is more blessed to give than to receive.’” "
+		"value": "In all things I gave you an example, that so labouring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 35,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘It is more blessed to give than to receive.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 20,
+		"verseNumber": 35,
+		"sectionNumber": 3,
+		"value": "” "
 	},
 	{
 		"type": "paragraph end"
@@ -7561,14 +7891,44 @@
 		"chapterNumber": 22,
 		"verseNumber": 7,
 		"sectionNumber": 1,
-		"value": "I fell to the ground and heard a voice saying to me, ‘Saul, Saul, why are you persecuting me?’  "
+		"value": "I fell to the ground and heard a voice saying to me, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 7,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘Saul, Saul, why are you persecuting me?’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 7,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 22,
 		"verseNumber": 8,
 		"sectionNumber": 1,
-		"value": "I answered, ‘Who are you, Lord?’ He said to me, ‘I am Jesus of Nazareth, whom you persecute.’ "
+		"value": "I answered, ‘Who are you, Lord?’ He said to me, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 8,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘I am Jesus of Nazareth, whom you persecute.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 8,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -7588,7 +7948,22 @@
 		"chapterNumber": 22,
 		"verseNumber": 10,
 		"sectionNumber": 1,
-		"value": "I said, ‘What shall I do, Lord?’ The Lord said to me, ‘Arise, and go into Damascus. There you will be told about all things which are appointed for you to do.’  "
+		"value": "I said, ‘What shall I do, Lord?’ The Lord said to me, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 10,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘Arise, and go into Damascus. There you will be told about all things which are appointed for you to do.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 10,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -7656,7 +8031,22 @@
 		"chapterNumber": 22,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "and saw him saying to me, ‘Hurry and get out of Jerusalem quickly, because they will not receive testimony concerning me from you.’  "
+		"value": "and saw him saying to me, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 18,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘Hurry and get out of Jerusalem quickly, because they will not receive testimony concerning me from you.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
@@ -7683,7 +8073,22 @@
 		"chapterNumber": 22,
 		"verseNumber": 21,
 		"sectionNumber": 1,
-		"value": "“He said to me, ‘Depart, for I will send you out far from here to the Gentiles.’” "
+		"value": "“He said to me, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 21,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘Depart, for I will send you out far from here to the Gentiles.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 22,
+		"verseNumber": 21,
+		"sectionNumber": 3,
+		"value": "” "
 	},
 	{
 		"type": "paragraph end"
@@ -7939,7 +8344,22 @@
 		"chapterNumber": 23,
 		"verseNumber": 11,
 		"sectionNumber": 1,
-		"value": "The following night, the Lord stood by him and said, “Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.” "
+		"value": "The following night, the Lord stood by him and said, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
+		"verseNumber": 11,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Cheer up, Paul, for as you have testified about me at Jerusalem, so you must testify also at Rome.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 23,
+		"verseNumber": 11,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8777,7 +9197,22 @@
 		"chapterNumber": 26,
 		"verseNumber": 14,
 		"sectionNumber": 1,
-		"value": "When we had all fallen to the earth, I heard a voice saying to me in the Hebrew language, ‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’ "
+		"value": "When we had all fallen to the earth, I heard a voice saying to me in the Hebrew language, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 14,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 14,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"
@@ -8803,28 +9238,88 @@
 		"chapterNumber": 26,
 		"verseNumber": 15,
 		"sectionNumber": 2,
-		"value": "“He said, ‘I am Jesus, whom you are persecuting.   "
+		"value": "“He said, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 15,
+		"sectionNumber": 3,
+		"wj": true,
+		"value": "‘I am Jesus, whom you are persecuting. "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 15,
+		"sectionNumber": 4,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 16,
 		"sectionNumber": 1,
-		"value": " But arise, and stand on your feet, for I have appeared to you for this purpose: to appoint you a servant and a witness both of the things which you have seen and of the things which I will reveal to you;   "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 16,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "But arise, and stand on your feet, for I have appeared to you for this purpose: to appoint you a servant and a witness both of the things which you have seen and of the things which I will reveal to you; "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 16,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 17,
 		"sectionNumber": 1,
-		"value": " delivering you from the people and from the Gentiles, to whom I send you,   "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 17,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "delivering you from the people and from the Gentiles, to whom I send you, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 17,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 26,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": " to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance amongst those who are sanctified by faith in me.’ "
+		"value": " "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 18,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "to open their eyes, that they may turn from darkness to light and from the power of Satan to God, that they may receive remission of sins and an inheritance amongst those who are sanctified by faith in me.’"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 26,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

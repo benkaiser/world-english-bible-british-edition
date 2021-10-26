@@ -22,6 +22,7 @@ const properKeyOrder = [
 	`chapterNumber`,
 	`verseNumber`,
 	`sectionNumber`,
+	`wj`,
 	`value`,
 ]
 
@@ -276,6 +277,7 @@ function combineContiguousTextChunks(chunks) {
 			&& last.type === chunk.type
 			&& last.verseNumber === chunk.verseNumber
 			&& last.chapterNumber === chunk.chapterNumber
+			&& last.wj === chunk.wj
 		) {
 			last.value += chunk.value
 		} else {

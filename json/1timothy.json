@@ -763,7 +763,22 @@
 		"chapterNumber": 5,
 		"verseNumber": 18,
 		"sectionNumber": 1,
-		"value": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, “The labourer is worthy of his wages.” "
+		"value": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 18,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“The labourer is worthy of his wages.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 5,
+		"verseNumber": 18,
+		"sectionNumber": 3,
+		"value": " "
 	},
 	{
 		"type": "paragraph end"

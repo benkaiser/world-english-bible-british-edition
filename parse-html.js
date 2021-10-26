@@ -161,6 +161,7 @@ const chapterChunks = filesICareAbout.map(fileName => {
 						return {
 							type: textType,
 							value: $(element).text(),
+							wj: true
 						}
 					} else if (element.type === `text`) {
 						return {

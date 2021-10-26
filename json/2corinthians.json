@@ -2030,7 +2030,22 @@
 		"chapterNumber": 12,
 		"verseNumber": 9,
 		"sectionNumber": 1,
-		"value": "He has said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me. "
+		"value": "He has said to me, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 9,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“My grace is sufficient for you, for my power is made perfect in weakness.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 12,
+		"verseNumber": 9,
+		"sectionNumber": 3,
+		"value": " Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me. "
 	},
 	{
 		"type": "paragraph end"

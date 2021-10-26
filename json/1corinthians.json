@@ -2208,14 +2208,44 @@
 		"chapterNumber": 11,
 		"verseNumber": 24,
 		"sectionNumber": 1,
-		"value": "When he had given thanks, he broke it and said, “Take, eat. This is my body, which is broken for you. Do this in memory of me.”  "
+		"value": "When he had given thanks, he broke it and said, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 24,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“Take, eat. This is my body, which is broken for you. Do this in memory of me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 24,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
 		"chapterNumber": 11,
 		"verseNumber": 25,
 		"sectionNumber": 1,
-		"value": "In the same way he also took the cup after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”  "
+		"value": "In the same way he also took the cup after supper, saying, "
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 25,
+		"sectionNumber": 2,
+		"wj": true,
+		"value": "“This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”"
+	},
+	{
+		"type": "paragraph text",
+		"chapterNumber": 11,
+		"verseNumber": 25,
+		"sectionNumber": 3,
+		"value": "  "
 	},
 	{
 		"type": "paragraph text",
